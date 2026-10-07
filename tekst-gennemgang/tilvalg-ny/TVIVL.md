@@ -56,3 +56,13 @@
 7. Udeladt: SelectaDNA's reklametal; den ukildede "UFO er den mest udbredte i Danmark" er fjernet.
 8. Egne beregninger: tal pr. 10.000 indbyggere fra STRAF11 og FOLK1A (3. kvt. 2025); regneeksempler 151 kg, 800 kg nyttelast, montering 1.998 kr., "omkring 6.000 færre", 959,20 kr.
 9. Ny statistik: tyveri fra varebiler pr. politikreds 2021-2023 fra F&P's regneark (bilag til pressemeddelelse 13. februar 2024).
+
+## flaadestyring (B17): braendstofkort-og-ladekort, telematik-data-fra-producenten, koerselsregnskab-skabelon
+1. RETTET Circle K: kortet er gratis (oprettelse, årsafgift, erstatningskort) ifølge prisblad i vilkår fra 1. september 2025, men prisbladet er mærket "pr. 1. august 2017".
+2. Clever One Business Van Premium 1.099 kr./md. er ikke set direkte (JavaScript); passer med mindstepris 2.198 kr. for 2 måneder. Van 999 kr. er set.
+3. IONITY 45 kr./md. og 2,86 kr. pr. kWh står med 4. oktober (kunne ikke tjekkes).
+4. Moms nævnes i én sætning: Clever uden moms, OK, IONITY og Circle K med moms.
+5. BRYDER OPSKRIFTEN: Circle K's korttyper 60-65 har "nej" i figuren, hvor Circle K's tabel har en tom celle. Ret til "ikke nævnt" eller fjern.
+6. Webfleet: mærkerne (Ford, VW, Renault, Peugeot, Citroën, Opel, Fiat) bygger kun på logoer på Webfleets OEM.connect-side. Mercedes-data via IT Supply Chain (fagmedie).
+7. Kia: prislisten siger ikke, om flådesystemer kan hente data fra Kia Connect.
+8. Kørselsregnskab: 20.000 km gælder pr. arbejdsgiver (C.A.4.3.3.3.2, første sætning). "Kørsel i firmaets bil kan ikke godtgøres skattefrit" er udledt. Navne og adresser er Skattestyrelsens egne eksempler.
