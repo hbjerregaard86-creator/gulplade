@@ -61,7 +61,7 @@ module.exports = {
         overskrift: "Svanehals, flange eller aftageligt",
         tekst: [
           `Faste træk findes med svanehals, hvor kuglen sidder på en bøjet hals, og med flange, hvor kuglen er boltet på en plade. VanKompagniet sælger begge udgaver til Expert, Jumpy, ProAce, Vivaro og Scudo til samme pris, 10.995 kr. med 13-polet elsæt og montering. Alle priser på siden er uden moms, undtagen Rameders.`,
-          `Rameder kalder et træk med flange for en anhængerbuk. Kuglen kan skiftes til en flangekugle i en anden højde, og Rameder nævner netop den mulighed som en fordel på varebiler.`
+          `Rameder kalder et træk, hvor kuglen er boltet på som en flangekugle, for en anhængerbuk. Flangekuglen kan skiftes til en i en anden højde, og Rameder anbefaler netop den form til varebiler af den grund.`
         ],
         punkter: [
           `<strong>Flange.</strong> Flangetrækket giver plads til et bagtrin mellem træk og kugle. Du kan læse mere i <a href="/til-varebilen/traek-og-tagudstyr/trinbraet-og-bagtrin/">trinbræt og bagtrin</a>.`,
