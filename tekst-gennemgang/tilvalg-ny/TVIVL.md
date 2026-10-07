@@ -86,3 +86,16 @@
 6. Auktionshusenes egne markedsføringstal (Klaravik 140.000 budgivere, 63.000 auktioner; Retrade over 100.000 virksomheder siden 2007).
 7. Regneeksempel 100.000 → 120.000 → 150.000 kr. ud fra Auktionshusets 20 % salær og 25 % moms (huset viser 1.000 → 1.200 → 1.500).
 8. Fradraget i eksportgodtgørelsen er ikke skrevet ind (refusionssats).
+
+## traek-og-tagudstyr (B13): _emne og alle fem undersider
+- RETTET: Overgangsreglen "Før 01.07.25" gælder biler registreret første gang før datoen (detailforskrifter pkt. 1.01.006), ikke lygter fra før datoen.
+- RETTET: Ayvens kræver nu, at selvmonteret udstyr fjernes, ellers gebyr. Emnesidens punkt om at beholde privat udstyr er rettet.
+1. rhinoproducts.eu blokeret: gamle Rhino-fakta med 4. oktober. VanLadder (120 kg, 30-45 min.) flyttet til trinbræt; PorteTube Pro (60 x 45 mm) til emnesiden.
+2. BEK 157/1977 (gult blink): Retsinformation viser "Valid", men EndDate 2026-06-23. Tjek om den stadig gælder.
+3. "Synsfri" er defineret ud fra BEK 1006/2008 (lastbiler over 3,5 t).
+4. Regneeksempler, der kobler VW's tal med lovens regler: Caddy Cargo 2.0 TDI anhængervægt; kørekort B, kode 96 og BE for ID. Buzz Cargo 340 hk; D-værdi med Brinks 14,00 kN på tænkt bil på 3.000 og 3.200 kg.
+5. Udledt af pkt. 3.02.001: fast trinbræt, sidestativ og sidebars tæller i bredden; træk og trinbræt ikke i længden.
+6. Sidebars står på trinbræt-siden, selvom VanKompagniet kalder dem sidebeskyttelse.
+7. Tagreklameskilte 0,40 m fra forkanten; uklart om varebiler er omfattet af undtagelsen (foranliggende styring og taghøjde mindst 1,80 m).
+8. VW's prislister: "øverste pris ekskl. moms" (fx 7.361 kr.); forholdet til inkl.-prisen (8.494 kr.) er ikke 1,25.
+9. Motorstyrelsen: blanket fra 2018 og hjemmesiden nævner forskellige virksomhedstyper, der må afgive erklæringen. Begge står.

@@ -116,7 +116,7 @@ module.exports = {
       {
         overskrift: "Kodning og elektronik",
         tekst: [
-          `På nyere biler skal elsættet ofte kodes, før alle funktioner virker. Rameder kalder det bekræftelse og skriver, at det som regel kan gøres med en diagnosetester på ethvert værksted. Funktioner som at slå tågebaglygten eller parkeringssensorerne fra, når anhængeren er koblet til, virker først efter kodningen.`,
+          `På nyere biler skal elsættet ofte kodes, før alle funktioner virker. Rameder kalder det bekræftelse og skriver, at det som regel kan gøres med en diagnosetester på ethvert værksted. Funktioner som at slå tågebaglygten eller parkeringssensorerne fra, når anhængeren er koblet til, virker som regel først efter kodningen.`,
           `Et databus-elsæt kobles direkte til bilens elektronik. Så viser bilen selv en fejl på anhængerens lys, og bilens anhængerstabilisering kan tage sig af en anhænger, der slingrer. Med et elsæt uden databus følger der i stedet en kontrollampe for anhængerens blinklys, som skal sidde, hvor føreren kan se den.`,
           `Brink-elsættet til VW T6 viser, hvad det betyder for et konkret træk. Det skal frikobles, og det slår både parkeringssensorer og tågebaglygte fra. Det har konstant strøm på stikben 9 og kan udvides med en ladeledning på stikben 10.`
         ]
@@ -162,7 +162,7 @@ module.exports = {
         tekst: [
           `Brink-trækket til VW T6 har en D-værdi på 14,00 kN, en største trækvægt på 2.800 kg og et største kugletryk på 120 kg. D-værdien er grundlaget for, hvor tung en anhænger trækket er godkendt til.`,
           `Kugletrykket er den vægt, anhængerens trækstang må trykke ned på kuglen med. Rameder kalder det også støttelasten og nævner, at 120 kg er nok til en cykelholder på trækket. Selve trækket vejer 17,30 kg.`,
-          `Rameder skriver også, at den største anhængervægt afhænger af bilens samlede vægt og kan være lavere end trækkets 2.800 kg. Det er derfor, værkstedet regner D-værdien om for den konkrete bil.`
+          `Rameder skriver også, at den største anhængervægt afhænger af bilens samlede vægt og kan være lavere end trækkets 2.800 kg. Næste afsnit viser, hvordan D-værdien regnes om til en vægt for den konkrete bil.`
         ],
         figur: {
           type: "noegletal",
@@ -243,7 +243,7 @@ module.exports = {
         tekst: [
           "Værkstedet angiver den største anhængervægt med og uden bremser. Der bruges den mindste af disse værdier:",
           `Motorstyrelsen definerer tjenestevægten som den køreklare vægt med fuld tank og fører. Et eksempel med Volkswagens tal for Caddy Cargo med 2.0 TDI på 102 hk og manuelt gear viser, hvordan grænserne spiller sammen.`,
-          `Bilen må veje 2.220 kg, og Volkswagen tillader 1.500 kg med bremser og 740 kg uden. Med bremser er Volkswagens 1.500 kg den laveste grænse, fordi loven tillader op til bilens totalvægt. Uden bremser giver halvdelen af den køreklare vægt med fører på 1.535 kg 767,5 kg, men loven stopper ved 750 kg, og Volkswagens 740 kg er lavest.`
+          `Bilens tilladte totalvægt er 2.220 kg, og Volkswagen tillader 1.500 kg med bremser og 740 kg uden. Med bremser er Volkswagens 1.500 kg lavere end lovens grænse, som her er bilens tilladte totalvægt. Uden bremser er halvdelen af den køreklare vægt med fører 767,5 kg, fordi Volkswagen oplyser 1.535 kg. Loven stopper dog ved 750 kg, og Volkswagens 740 kg er lavest.`
         ],
         punkter: [
           "Bilfabrikantens største teknisk tilladte anhængervægt.",
@@ -265,7 +265,7 @@ module.exports = {
         tekst: [
           `Registreringen siger, hvad bilen må trække. Kørekortet siger, hvad føreren må køre med. Med kørekort til kategori B må du trække en anhænger med en tilladt totalvægt på højst 750 kg. En tungere anhænger må du kun trække, hvis bil og anhænger tilsammen har en tilladt totalvægt på højst 3.500 kg.`,
           `Kode 96 på kørekortet hæver grænsen for bil og anhænger tilsammen til 4.250 kg. Den kræver en særlig køreuddannelse og en praktisk prøve. Med kørekort til kategori BE må anhængeren have en tilladt totalvægt på op til 3.500 kg.`,
-          `Et eksempel med ID. Buzz Cargo 340 hk 4Motion: Bilen må veje 3.150 kg og trække 1.800 kg med bremser. Med kategori B kan føreren kun koble en anhænger med en tilladt totalvægt på højst 750 kg til, fordi bil og anhænger ellers kommer over 3.500 kg. Med kode 96 må anhængeren have en tilladt totalvægt på op til 1.100 kg, og først med BE kan bilens 1.800 kg bruges fuldt ud.`
+          `Et eksempel med ID. Buzz Cargo 340 hk 4Motion: Bilens tilladte totalvægt er 3.150 kg, og den må trække 1.800 kg med bremser. Med kategori B kan føreren kun koble en anhænger med en tilladt totalvægt på højst 750 kg til, fordi bil og anhænger ellers kommer over 3.500 kg. Med kode 96 må anhængeren have en tilladt totalvægt på op til 1.100 kg, og først med BE kan bilens 1.800 kg bruges fuldt ud.`
         ],
         figur: {
           type: "soejler",
@@ -275,7 +275,7 @@ module.exports = {
             ["Kategori B med kode 96", 1100, "bil og anhænger højst 4.250 kg"],
             ["Kategori BE", 1800, "her er bilens egen grænse lavest"]
           ],
-          note: `Eksempel med ID. Buzz Cargo 340 hk 4Motion, der må veje 3.150 kg og trække 1.800 kg med bremser. Kilder: <a href="${VW_BUZZ}" rel="noopener">Volkswagen, ID. Buzz Cargo</a> og <a href="${KK}" rel="noopener">bekendtgørelse om kørekort, §§ 14 og 15 (BEK nr. 550 af 19/06/2026)</a>, set den 7. oktober 2026.`
+          note: `Eksempel med ID. Buzz Cargo 340 hk 4Motion med en tilladt totalvægt på 3.150 kg og 1.800 kg anhængervægt med bremser. Kilder: <a href="${VW_BUZZ}" rel="noopener">Volkswagen, ID. Buzz Cargo</a> og <a href="${KK}" rel="noopener">bekendtgørelse om kørekort, §§ 14 og 15 (BEK nr. 550 af 19/06/2026)</a>, set den 7. oktober 2026.`
         }
       },
       {

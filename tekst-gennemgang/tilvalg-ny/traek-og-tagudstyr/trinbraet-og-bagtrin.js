@@ -110,7 +110,7 @@ module.exports = {
         overskrift: "Bæreevne",
         tekst: [
           "Rameder oplyser 136 kg som største belastning for Rhinos 3-delte bagtrappe. For de øvrige trin er bæreevnen ikke oplyst på forhandlernes sider.",
-          `Rameder oplyser både bæreevne og drejevinkel for bagtrappen i sin produktliste, og bagtrappen er tredelt med et skridsikkert trinbræt. VanKompagniet angiver vægten på sine bagtrin, men ikke bæreevnen.`
+          `I Rameders produktliste er bagtrappen det eneste trin med en oplyst bæreevne. VanKompagniet angiver vægten på sine bagtrin, men ikke bæreevnen.`
         ],
         figur: {
           type: "noegletal",
@@ -206,7 +206,7 @@ module.exports = {
       {
         overskrift: "Trin og bilens mål",
         tekst: [
-          `Trinbræt og håndgreb tæller ikke med, når bilens længde måles, og det gør anhængertræk heller ikke, uanset om de er faste eller kan foldes ind. Et bagtrin i trækket gør derfor ikke bilen længere i reglernes forstand. Til sammenligning tæller læssebagsmæk og læsseramper kun ikke med, hvis de højst rager 0,30 m ud og ikke øger bilens lasteevne.`,
+          `Trinbræt og håndgreb tæller ikke med, når bilens længde måles, og det gør anhængertræk heller ikke, uanset om de er faste eller kan foldes ind. Et bagtrin i trækket gør derfor ikke bilen længere i reglernes forstand. Læssebagsmæk og læsseramper tæller derimod med, hvis de rager mere end 0,30 m ud eller øger bilens lasteevne.`,
           `Bredden er anderledes. Bilen må højst være 2,55 m bred målt over de dele, der rager længst ud. Trin, der kan foldes ind, tæller ikke med, men et fast trinbræt på siden gør.`
         ],
         figur: {

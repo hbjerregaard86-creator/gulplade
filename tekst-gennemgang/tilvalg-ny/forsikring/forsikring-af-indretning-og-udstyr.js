@@ -31,7 +31,7 @@ module.exports = {
       {
         overskrift: "Indretningen følger kaskoen",
         tekst: [
-          `Kaskoen dækker bilen og det udstyr, der hører til den. GF dækker fabriksmonteret udstyr og udstyr, som forhandleren har monteret før levering. Noget udstyr er også dækket, selvom det er monteret senere:`,
+          `Kaskoen dækker bilen og det udstyr, der hører til den. GF dækker fabriksmonteret udstyr og udstyr, som forhandleren har monteret før levering. GF nævner fire slags udstyr, der også er dækket, når det er monteret senere.`,
           `For en håndværker betyder det, at reoler og skuffesystemer i varerummet er dækket hos GF, også når et indretningsfirma har sat dem i efter levering. De tæller ikke med i den beløbsgrænse, der gælder for andet eftermonteret udstyr.`
         ],
         punkter: [
@@ -203,7 +203,7 @@ module.exports = {
       {
         overskrift: "Vægt og overlæs",
         tekst: [
-          `Indretning vejer. Reoler, skuffer og gulvplader tager af nyttelasten, og en tung opbygning kan ændre bilens vægt så meget, at selskabet skal have besked. Hvordan nyttelast og totalvægt hænger sammen, står i <a href="/haandbogen/totalvaegt-nyttelast-og-koerekort/">totalvægt, nyttelast og kørekort</a>.`,
+          `Reoler, skuffer og gulvplader tager af nyttelasten, og GF skal have besked, når bilens vægt ændres. Hvordan nyttelast og totalvægt hænger sammen, står i <a href="/haandbogen/totalvaegt-nyttelast-og-koerekort/">totalvægt, nyttelast og kørekort</a>.`,
           `Tryg dækker ikke skader, der skyldes, at varebilen er uforsvarlig eller ulovlig at bruge, fx på grund af overlæs eller manglende syn og godkendelse. GF har en tilsvarende undtagelse for skader, der skyldes, at bilen er ulovlig at bruge på grund af ændringer, fejl eller mangler.`,
           `Kræver en ombygning, at bilen skal synes og godkendes igen, er det en ændring, selskabet skal kende. Reglerne for godkendelse står i <a href="/til-varebilen/ombygning/godkendelse-af-ombygning/">godkendelse af ombygning</a>.`
         ],
@@ -242,7 +242,7 @@ module.exports = {
         overskrift: "Folie og reklame",
         tekst: [
           `Hos GF er dekorationer, folie og speciallakering ikke-fabriksmonteret udstyr og indgår i grænsen på 18.948 kr. (basisår 2023) sammen med det øvrige eftermonterede udstyr. Priser på folie står i <a href="/til-varebilen/folie/">bilreklame og folie</a>.`,
-          `En helfoliering kan alene fylde en stor del af grænsen, og så er der mindre plads til lygter og fælge. Skal en leaset bil have folie, står leasingselskabets regler i <a href="/til-varebilen/folie/folie-paa-leasingbil/">folie på leasingbil</a>.`
+          `Skal en leaset bil have folie, står leasingselskabets regler i <a href="/til-varebilen/folie/folie-paa-leasingbil/">folie på leasingbil</a>.`
         ],
         efter: [
           `Kilde: <a href="${GF}" rel="noopener">GF, punkt 4.1</a>, set den 4. oktober 2026.`
@@ -252,7 +252,7 @@ module.exports = {
         overskrift: "Trækkrog og tagudstyr",
         tekst: [
           `Anhængertrækket er et af de stykker udstyr, GF dækker, selvom det er monteret efter levering. Det tæller derfor ikke med i grænsen for andet eftermonteret udstyr.`,
-          `Traileren bag krogen er en anden sag. Tryg dækker ikke skade på en trailer, der trækkes af varebilen, men sælger en særskilt hængerforsikring. Mere om træk og tagudstyr står i <a href="/til-varebilen/traek-og-tagudstyr/">træk og tagudstyr</a>.`
+          `Traileren bag krogen er en anden sag. Tryg dækker ikke skade på en trailer, der trækkes af varebilen. Mere om træk og tagudstyr står i <a href="/til-varebilen/traek-og-tagudstyr/">træk og tagudstyr</a>.`
         ],
         punkter: [
           `<strong>Anhængertræk.</strong> GF-kaskoen dækker anhængertrækket, også når det er eftermonteret.`,
@@ -268,7 +268,7 @@ module.exports = {
         overskrift: "Mens bilen er hos indretningsfirmaet",
         tekst: [
           `Mens indretningsfirmaet arbejder på bilen, er den som udgangspunkt ikke dækket af virksomhedens kasko for skader, der sker under arbejdet. Både GF og Tryg undtager skader under behandling eller bearbejdning.`,
-          `Undtagelsen har grænser. Brand er dækket hos begge, og det samme er skader under kørsel i forsikringstagerens interesse, fx en prøvetur. Skader, som indretningsfirmaet laver under arbejdet, er et spørgsmål mellem virksomheden og firmaet.`
+          `Undtagelsen har grænser. Brand er dækket hos begge, og det samme er skader under kørsel i forsikringstagerens interesse, fx en prøvetur.`
         ],
         punkter: [
           `<strong>GF.</strong> Kaskoen undtager skader under reparation, behandling og bearbejdning. Brand, skader i selvbetjent vaskehal og kørsel i virksomhedens interesse er dog dækket.`,

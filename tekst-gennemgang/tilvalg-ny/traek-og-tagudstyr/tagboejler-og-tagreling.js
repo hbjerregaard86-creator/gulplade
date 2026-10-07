@@ -44,7 +44,7 @@ module.exports = {
         overskrift: "Tagbøjler, tagreling og tagplatform",
         tekst: [
           `Tagbøjler giver plads til stiger, rør og lange materialer på taget, så varerummet kan bruges til værktøj og andet udstyr. VanKompagniet har over 100 produkter i sin kategori med tagbøjler og tilbehør, fra de enkleste bøjler til stigeholdere, rørholdere og lastestop.`,
-          `Tagbøjlerne er grundlaget for næsten alt andet udstyr på taget. En stigeholder, en rørholder eller en holder til et blink sidder på bøjlerne, så valget af bøjler afgør, hvad der senere kan monteres.`
+          `En stigeholder, en rørholder eller en holder til et blink sidder på bøjlerne. VanKompagniet skriver, at tilbehøret ikke nødvendigvis passer til alle lastholdere, så det skal passe til de bøjler, bilen har.`
         ],
         kort: [
           ["Tagbøjler", "Tværgående bøjler, som lasten spændes fast til."],
@@ -74,7 +74,7 @@ module.exports = {
       {
         overskrift: "Tre serier hos VanKompagniet",
         tekst: [
-          `VanKompagniet sælger tre serier af tagbøjler under navnet VK. VK Basic er den enkleste, VK Standard har en lastebar i aluminium og leveres med fire lastestop, og VK Premium kan foldes. VK Standard findes både i aluminium og som Black Edition. VanKompagniets priser er uden moms.`,
+          `VanKompagniet sælger tre serier af tagbøjler under navnet VK. VK Basic er aerodynamiske bøjler i aluminium, VK Standard har en lastebar i aluminium og leveres med fire lastestop, og VK Premium kan foldes. VK Standard findes både i aluminium og som Black Edition. VanKompagniets priser er uden moms.`,
           `Til Expert, Jumpy, ProAce, Vivaro og Scudo i længde 2 og 3 fås alle tre serier. To bøjler koster fra 1.895 kr. i VK Basic til 7.995 kr. i VK Premium. Med tre bøjler koster VK Basic 2.895 kr. og VK Premium 9.995 kr.`
         ],
         figur: {
@@ -360,6 +360,7 @@ module.exports = {
     ["VK Standard 2 stk. aluminium har lastebar i aluminium og leveres med 4 lastestop; et sæt vejer 10 kg og koster 3.895 kr. ekskl. moms.", VK_STD],
     ["Priser ekskl. moms til Expert/Jumpy/ProAce/Vivaro/Scudo L2/L3: VK Basic 2 stk. 1.895 kr., 3 stk. 2.895 kr.; VK Standard aluminium 2 stk. 3.895 kr., 3 stk. 4.895 kr.; VK Premium foldbar 2 stk. 7.995 kr., 3 stk. 9.995 kr.", VK],
     ["VK Basic 4 stk. til Ford Transit L3/L4 H2/H3 koster 3.895 kr. ekskl. moms; VK Standard 5 stk. Black Edition til Master/Interstar 2024 L2H2 koster 7.895 kr. ekskl. moms.", VK],
+    ["VanKompagniet: tilbehøret er ikke nødvendigvis kompatibelt med alle lastholdere.", VK],
     ["VanKompagniet: antallet af tagbøjler skal vælges ud fra bilen, tagløsningen og det, der skal transporteres; bøjlerne skal ses som et samlet system, hvor lastholdere, fastgørelse og tilbehør skal passe sammen.", VK],
     ["Rameder: en aluskinneprofil har ovalt tværsnit (i sølv), en firkant-lastholderprofil har firkantet tværsnit og er overtrukket med et lag sort plast, og T-not-adaptere er kun egnede til aluskinneprofiler.", RAM_FAG],
     ["VK Premium 2 stk. foldbare tagbøjler til Expert/Jumpy/ProAce/Vivaro/Scudo L2/L3 vejer 8 kg og koster 7.995 kr. ekskl. moms.", VK_PREM],

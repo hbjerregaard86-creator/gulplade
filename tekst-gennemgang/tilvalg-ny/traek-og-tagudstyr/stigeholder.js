@@ -86,7 +86,7 @@ module.exports = {
         overskrift: "Sådan virker en nedfældelig holder",
         tekst: [
           "Rhino SafeStow4 vipper stigen ned fra taget ved hjælp af gasdæmpere, så den kan tages af og sættes på fra jorden. Dæmperne kan stilles i fem positioner efter stigens vægt. To stropper holder stigen fast under kørsel.",
-          `Holderen er hængslet ved tagkanten og fører stigen ned langs bilens side. Gasdæmperne stilles efter stigens vægt, så holderen passer til den stige, der bruges.`
+          `Holderen er hængslet ved tagkanten og fører stigen ned langs bilens side, så den, der tager stigen af, kan stå på jorden ved siden af bilen.`
         ],
         figur: {
           type: "svg",
