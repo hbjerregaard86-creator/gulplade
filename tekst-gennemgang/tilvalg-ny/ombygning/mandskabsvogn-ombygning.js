@@ -53,7 +53,7 @@ module.exports = {
       {
         overskrift: "Biler, der ikke kan godkendes",
         tekst: [
-          `Almindelige last- og varebiler uden den særlige indretning kan ikke godkendes. Det gælder også pick-ups med udvidet førerhus, selvom der er sæder bag forsæderne.`,
+          `Almindelige last- og varebiler uden den særlige indretning kan ikke godkendes. Det gælder også pick-ups med udvidet førerhus.`,
           `Der er også et krav til bilmærket. Godkendelsen er betinget af, at samme fabriksmærke ikke markedsfører en bil med lignende karrosseri som personbil, fx som stationcar. Motorstyrelsens pjece fra september 2024 siger det samme med andre ord, nemlig at mandskabsvognen ikke må markedsføres som en personbil.`,
           `Kravet betyder, at det ikke er nok at se på den enkelte bil. Findes der fra samme mærke en personbil med lignende karrosseri, er betingelsen ikke opfyldt, uanset hvordan kabinen er bygget.`
         ],

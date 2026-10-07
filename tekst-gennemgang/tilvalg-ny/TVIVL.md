@@ -131,3 +131,13 @@
 6. Fortolkninger: "Ford lover altså en bil, mens Toyota lover at prøve" ("bestræber sig"); VW Service 5+ batterikontrol "ikke en måling af kapaciteten".
 7. Regneeksempler: 2 × 400 + 2 × 495 = 1.790 kr. (sæson = halvt år); 15 % af tænkt besøg på 5.000 kr. = 750 kr.
 8. VW "over 700 højvoltsteknikere" (kilden: "hos mange af vores autoriserede værksteder").
+
+## ombygning (B10): mandskabsvogn-ombygning, godkendelse-af-ombygning, ladbil-med-kran
+1. Afgift ved brud på reglerne for mandskabsvogne: Den juridiske vejledning siger "personbiler eller varebiler", Motorstyrelsens pjece "personbiler". Begge citeres.
+2. Klausul ved ejerskifte: Motorstyrelsen siger "ved de fleste klausulerede køretøjer", ikke mandskabsvogne specifikt.
+3. HMF's tal: spec-tabellen har ingen etiketter i HTML; værdierne er parret med ikonernes etiketter i rækkefølge (drejevinkel, sammenfoldet bredde, ekstra brede støtteben). Tjek mod siden.
+4. Læssekran som konstruktiv ændring bygger på placeringen af pkt. 2.8.2.4 i bilag 2 (BEK 1484/2025).
+5. "varianter" i bilag 2 gengivet som "udgave".
+6. Beslutningstræet: "kan kræve godkendelseserklæring før syn" er en opsummering; kravet gælder kun visse ændringer.
+7. Leaset bil: "Det gælder også, om kabinen skal tages ud igen, når bilen afleveres" er generelt (kontrakten afgør).
+8. Renault Master Chassis L3, 1.621 kg, står med 4. oktober (ikke genkontrolleret).
