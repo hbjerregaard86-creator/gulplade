@@ -149,7 +149,7 @@ module.exports = {
         figur: {
           type: "trin",
           trin: [
-            ["Ring til vejhjælpen", "Ford, Toyota og Volkswagen har vejhjælp døgnet rundt hele året."],
+            ["Ring til vejhjælpen", "Ford, Toyota og Volkswagen rykker ud døgnet rundt."],
             ["Hjælp på stedet", "Toyota Vejhjælp reparerer på stedet, når det kan lade sig gøre og er billigere end bugsering."],
             ["Bugsering", "Bilen bliver kørt til et autoriseret værksted. Ford Assistance kører til et valgfrit Ford-værksted inden for 50 km."],
             ["Lånebil eller hotel", "Kan bilen ikke repareres samme dag, får du lejebil, hotel eller hjælp til at komme videre efter ordningens regler."],

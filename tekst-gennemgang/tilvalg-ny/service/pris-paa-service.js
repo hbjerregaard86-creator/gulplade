@@ -44,7 +44,7 @@ module.exports = {
         tekst: [
           `Mærkeværkstederne har faste priser på de almindelige eftersyn, mens større service og reparationer bliver prissat efter tilbud. Ejner Hessel har autoriserede værksteder til blandt andet Ford, Renault og Mercedes-Benz og slår priserne op på sin hjemmeside.`,
           `+4-servicen er Hessels faste pris på service til biler, der er fire år eller ældre. På en Renault koster den 1.795 kr. med benzin eller diesel og 1.395 kr. på en elbil. Hos Ford gælder tilbuddet personbiler på fire år eller mere.`,
-          `Bremseservice for og bag koster 995 kr. på Mercedes-Benz og Renault, og en airconditionservice på Mercedes-Benz koster 995 kr. uden kølemiddel. Hjulskifte koster 400 kr., og opbevaring af et sæt hjul koster 495 kr. pr. sæson. Alle priser er fra den 7. oktober 2026.`
+          `Bremseservice for og bag koster 995 kr. på Mercedes-Benz og Renault, og en airconditionservice på Mercedes-Benz koster 995 kr. uden kølemiddel. Hjulskifte koster 400 kr., og opbevaring af et sæt hjul koster 495 kr. pr. sæson. Priserne er set på Hessels hjemmeside den 7. oktober 2026.`
         ],
         tabel: {
           kolonner: ["Ydelse", "Gælder", "Pris"],
@@ -324,7 +324,7 @@ module.exports = {
     spoergsmaal: [
       "Nummerplade, model, og om bilen kører på diesel, benzin eller strøm.",
       "Kilometerstand i dag og ved sidste service.",
-      "Om bilen har automatgear, firehjulstræk og start/stop.",
+      "Om bilen har automatgear, firehjulstræk og start-stop.",
       "Om bilen kører med fuld last eller anhænger.",
       "Om der er en service- eller leasingaftale.",
       "Om du vil kontaktes med en pris, før tillægs- eller ekstraarbejde går i gang.",

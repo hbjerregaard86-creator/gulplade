@@ -121,3 +121,13 @@
 7. GF's betingelser fra januar 2023, basisår 2023.
 8. Codan og Alm. Brand kræver JavaScript; gamle fakta med 4. oktober.
 9. "EU/EØS" rettet til "EU og EØS" (regel 7); "Ikke oplyst" i vejhjælpstabellen erstattet af kolonnen "Til".
+
+## service (B06): erstatningsbil, service-paa-elvarebil, pris-paa-service
+1. Blokeret: mercedes-benz.dk, dinitrol.dk; Arval først 403. Gamle fakta med 4. oktober.
+2. Hessel oplyser ikke moms; siden siger det i stedet for "Alle priser er uden moms".
+3. Rettet regelbrud i gammel tekst: "drivlinje" → "gearkasse, aksler og manchetter"; farveordet "GRÅ" i undervognstegningen fjernet.
+4. Toyota Vejhjælp er generel, ikke for varebiler. Transport efter 5 arbejdsdage gengivet ordret.
+5. Tryg: lånebil 100 km pr. døgn (afsnit 11.3); selvrisikoforsikring på lånebilen placeret under Nulselvrisiko (5.4) ud fra PDF'ens opsætning.
+6. Fortolkninger: "Ford lover altså en bil, mens Toyota lover at prøve" ("bestræber sig"); VW Service 5+ batterikontrol "ikke en måling af kapaciteten".
+7. Regneeksempler: 2 × 400 + 2 × 495 = 1.790 kr. (sæson = halvt år); 15 % af tænkt besøg på 5.000 kr. = 750 kr.
+8. VW "over 700 højvoltsteknikere" (kilden: "hos mange af vores autoriserede værksteder").
