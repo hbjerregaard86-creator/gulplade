@@ -172,3 +172,13 @@
 5. "Lade frit hos alle ladepartnere" gælder Clever One Business; uklart om Van.
 6. AFIR (betalingskort på lynladere) ikke med (eur-lex blokeret, ingen dansk myndighedskilde fundet).
 7. Udledt: "en offentlig lynlader skal have det stik, elvarebilerne bruger" (Sikkerhedsstyrelsen om BEK 57); "Firmaet betaler strømmen" ved firmaets adresse i tegningen er generelt.
+
+## ombygning (B09): _emne, bagsmaeklift, lad-og-tipper, koelebil
+1. Ayvens' gebyrer (2.500 og 1.500 kr.) står nu også på emnesiden; guiden ikke genåbnet (4. oktober).
+2. Lad og tipper: "ikke mekanisk drevet" ud for fast lad under Hovedeftersyn er udledt af § 40, stk. 3.
+3. Emnesiden: "Kranførercertifikat over 8 tm" udledt af Arbejdstilsynets regel om kraner til og med 8 tm.
+4. Bagsmæklift: søjler for Bär Falt BC 1000 og BC 2000 som 1.000 og 2.000 kg bygger på gammel side og modelnavne.
+5. Kølebil: ATP-mærket med "FRC" og 06-2032 er et eksempel.
+6. "SKAT" beholdt som i Fødevarestyrelsens tekst.
+7. Regneeksempel Master L3 1.621 kg − Bär-lift 160 kg = 1.461 kg parrer to kilder (som på den gamle side).
+8. Skråstreg i enheden W/m²·°C er ladet stå.

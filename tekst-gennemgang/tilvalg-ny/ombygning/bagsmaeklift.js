@@ -36,7 +36,7 @@ module.exports = {
         overskrift: "Det gør liften",
         tekst: [
           `En bagsmæklift løfter gods fra jorden op i højde med varerummets gulv. Paller, rullebure, tønder og tunge maskiner kan køres ind på pladen i stedet for at blive løftet med hænderne.`,
-          `BFA-portalen, som branchefællesskabet for arbejdsmiljø i transport står bag, beskriver liften som et hjælpemiddel mod belastende løft, træk og skub. Den kan forebygge problemer i ryggen og overbelastning af skuldre, arme og ben. Fordi liften sidder fast på bilen, er den der altid, når den skal bruges.`,
+          `BFA-portalen, som Branchefællesskabet for Arbejdsmiljø for transport og service står bag, beskriver liften som et hjælpemiddel mod belastende løft, træk og skub. Den kan forebygge problemer i ryggen og overbelastning af skuldre, arme og ben. Fordi liften sidder fast på bilen, er den der altid, når den skal bruges.`,
           `Liften kan monteres på en kassevogn, en ladvogn eller en trailer. Ifølge BFA-portalen findes der også lifte til sidedøren eller siden af bilen, og pladen kan være af stål eller aluminium.`,
           `I køreposition står liftpladen lodret bag bilen. Ved læsning sænkes den til jorden, godset køres ind på pladen, og liften løfter det op i gulvhøjde.`
         ],
@@ -225,7 +225,7 @@ module.exports = {
           `<strong>Skilte.</strong> Skilte og mærkning med data, betjening og risici holdes synlige og tydelige (§ 28, stk. 2).`
         ],
         efter: [
-          `Journalkravet i § 72 gælder mekanisk drevne hjælpemidler til løft af frithængende byrder, fx når de bruges på skiftende opstillingssteder. En bagsmæklift løfter godset på en plade og ikke hængende i en krog.`
+          `Journalkravet i § 72 gælder mekanisk drevne hjælpemidler til løft af frithængende byrder, fx når de bruges på skiftende opstillingssteder.`
         ]
       },
       {
