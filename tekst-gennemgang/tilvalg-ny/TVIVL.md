@@ -182,3 +182,13 @@
 6. "SKAT" beholdt som i Fødevarestyrelsens tekst.
 7. Regneeksempel Master L3 1.621 kg − Bär-lift 160 kg = 1.461 kg parrer to kilder (som på den gamle side).
 8. Skråstreg i enheden W/m²·°C er ladet stå.
+
+## folie (B12): solfilm-paa-ruder, refleks-og-konturmarkering, magnetskilte, bilreklame-design-og-filer
+1. Spejle på N1: pkt. 10.03.024 siger "udvendigt førerspejl af kategori I"; siden skriver kun "et udvendigt førerspejl i hver side" som den gamle side.
+2. CPH Wraps pris for solfilm på "2 forsideruder" udeladt (reglerne forbyder film der).
+3. Solfilm.dk og KBH Solfilm: priserne gælder personbiler (står på siden). Hulfolie forklaret af Colourgraphics (britisk forhandler).
+4. LaserTryk.dk skriver forkerte "SKAT's krav" (10 cm bogstaver over 3,5 t); kun § 85 (BEK 663/2025) brugt.
+5. Reflekterende reklame: 6.13.010 tillader lavt reflekterende reklame; 6.13.001 stk. 7-8 kræver fuld kontur. Gammel fortolkning beholdt (reklamen inden for konturen).
+6. Vistaprints syv standardstørrelser står med 4. oktober (indlæses dynamisk); 90 x 60 cm bekræftet i dag.
+7. Prisfiguren på design-siden: VanKompagniets pris for navn og CVR nævner ikke montering; de andre er med oplæg og montering (står i noten).
+8. § 85 beskrevet som "registreret til udelukkende erhvervsmæssig brug" med link til håndbogens side om gule plader.

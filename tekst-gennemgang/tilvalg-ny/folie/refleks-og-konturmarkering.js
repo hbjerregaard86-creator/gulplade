@@ -339,7 +339,7 @@ module.exports = {
           type: "tidslinje",
           punkter: [
             ["Før 1. juli 2025", "Forbuddet mod konturafmærkning på personbiler M1 til 3.500 kg og påhængsvogne O1 gælder ikke køretøjer fra før denne dato."],
-            ["1. juli 2025", "Bekendtgørelsen om afmærkning af vejarbejder træder i kraft. Lastbiler over 7.500 kg fra denne dato skal have konturafmærkning, og trekantede reflekser på brede påhængskøretøjer skal sidde mindst 0,60 m fra hinanden."],
+            ["1. juli 2025", "Bekendtgørelsen om afmærkning af vejarbejder træder i kraft. Lastbiler over 7.500 kg fra denne dato skal have konturafmærkning, når de er bredere end 2,10 m eller længere end 6,00 m, og trekantede reflekser på brede påhængskøretøjer skal sidde mindst 0,60 m fra hinanden."],
             ["1. januar 2028", "Fristen udløber for afmærkningsflader efter de gamle regler på tavlevogne, der er købt før 1. januar 2016."]
           ],
           note: `Kilder: <a href="${BEK}" rel="noopener">detailforskrifterne pkt. 6.05.003 og 6.13</a> og <a href="${VEJ}" rel="noopener">BEK nr. 393 af 14/04/2025, § 98 og § 99</a>, set den 7. oktober 2026.`

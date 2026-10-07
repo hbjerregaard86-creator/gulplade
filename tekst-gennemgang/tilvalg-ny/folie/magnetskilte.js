@@ -265,7 +265,7 @@ module.exports = {
       {
         overskrift: "Hvornår et magnetskilt passer",
         tekst: [
-          `Et magnetskilt passer til et budskab, der skal kunne flyttes, fjernes eller sættes på efter behov. Det kan fx være en bil, der også bruges privat om aftenen, eller en kampagne i en kort periode.`,
+          `Et magnetskilt passer til et budskab, der skal kunne flyttes, fjernes eller sættes på efter behov. Det kan fx være en kampagne i en kort periode eller et skilt, der skal flyttes mellem flere biler.`,
           `LaserTryk.dk foreslår bilstreamers eller figurskåret folie, hvis løsningen skal være mere permanent. Den figurskårne folie kan have komplekse former og være op til tre meter, og den tåler bilvask. Montagegruppens kampagnefolie koster fra 195 kr. pr. m².`,
           `Trykfilen til et magnetskilt laves på samme måde som til folie. Se <a href="/til-varebilen/folie/bilreklame-design-og-filer/">design og trykfiler</a>.`
         ]
