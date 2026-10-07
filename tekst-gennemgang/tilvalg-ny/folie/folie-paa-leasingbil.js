@@ -95,6 +95,14 @@ module.exports = {
         }
       },
       {
+        overskrift: "Folien og leasingperioden",
+        tekst: [
+          `Folien skal sidde, så længe bilen er leaset, og derefter af igen. Producenterne angiver 8 år for 3M 2080 og 10 år for farvet Supreme Wrapping Film fra Avery Dennison på lodrette flader, mens metallic og perlemor fra Avery Dennison har 5 år.`,
+          `Montagegruppen skriver, at bilfolie generelt holder 3–7 år eller længere, afhængigt af kvalitet og vedligeholdelse. Kampagnefolie er beregnet til kortere tid og koster fra 195 kr. pr. m² hos Montagegruppen, mens 7-års folie med laminat koster fra 260 kr. pr. m².`,
+          `Avery Dennison skriver, at limen på Supreme Wrapping Film kan fjernes igen i hele produktets levetid. Det har betydning på en leasingbil, fordi folien skal af igen, når bilen afleveres.`
+        ]
+      },
+      {
         overskrift: "Hvem gennemgår bilen",
         tekst: [
           `Ayvens og NF Fleet lader FDM gennemgå bilen og lave en tilstandsrapport. Jyske Fleet henviser til Autorolas skadeguide. Drivalia lader en uvildig samarbejdspartner gennemgå bilen og beregner skader i FORSI, forsikringsselskabernes fælles prisliste.`,
@@ -114,7 +122,8 @@ module.exports = {
       {
         overskrift: "Gennemgangen hos FDM",
         tekst: [
-          `Hos Ayvens gennemgår FDM bilen i et testcenter på det tidspunkt, der er booket. Brugeren eller en repræsentant fra virksomheden kan være med, eller bilen kan afleveres uden fremmøde ved drop off. Anmærkningerne kvitteres online, og virksomhedens kontaktperson får en elektronisk afleveringsrapport.`
+          `Hos Ayvens gennemgår FDM bilen i et testcenter på det tidspunkt, der er booket. Brugeren eller en repræsentant fra virksomheden kan være med, eller bilen kan afleveres uden fremmøde ved drop off. Anmærkningerne kvitteres online, og virksomhedens kontaktperson får en elektronisk afleveringsrapport.`,
+          `Ayvens anbefaler at booke en aflevering med gennemgang, så du selv ser anmærkningerne, og en aflevering tager ca. 30 minutter. Bilen skal retur senest på kontraktens udløbsdato. Falder datoen på en weekend eller helligdag, eller er der ingen ledige tider, skal bilen afleveres tidligere, og folien skal være fjernet inden da.`
         ],
         figur: {
           type: "trin",
@@ -235,7 +244,8 @@ module.exports = {
         overskrift: "Et eksempel med ti varebiler",
         tekst: [
           `Her er et eksempel med Ayvens’ og NF Fleets gebyrer. En virksomhed afleverer ti varebiler med et stort logo, og leasingselskabet fjerner folien. Det koster 10 × 1.800 kr. = 18.000 kr.`,
-          `Afleveres tre af bilerne også uvaskede, kommer 3 × 750 kr. = 2.250 kr. oveni, i alt 20.250 kr. Med fuld dekoration på alle ti biler ville afmonteringen alene koste 10 × 3.500 kr. = 35.000 kr.`
+          `Afleveres tre af bilerne også uvaskede, kommer 3 × 750 kr. = 2.250 kr. oveni, i alt 20.250 kr. Med fuld dekoration på alle ti biler ville afmonteringen alene koste 10 × 3.500 kr. = 35.000 kr.`,
+          `Skal NF Fleet have flere biler retur på én gang, kan tiden bestilles hos FDM på telefon 70 13 30 40.`
         ]
       }
     ],
@@ -282,6 +292,11 @@ module.exports = {
     ["Nordania gennemgår bilen både udvendig og indvendig.", NORD],
     ["Ayvens' huskeliste: ekstraudstyr, fx aftageligt træk inkl. nøgle, tagbøjler og indretning, skal afleveres med bilen.", AYV],
     ["Nordania: anmeldes skaden til kaskoforsikringen, kan forsikringsselskabet efterfølgende eventuelt opkræve selvrisiko.", NORD],
+    ["Ayvens anbefaler at booke aflevering med gennemgang; en aflevering tager ca. 30 minutter; bilen skal retur senest på kontraktudløbsdatoen, og falder den på weekend eller helligdag eller er der ingen ledige tider, skal bilen retur tidligere.", AYV],
+    ["NF Fleet: skal flere biler afleveres på én gang, kan der bestilles tid hos FDM på tlf. 70 13 30 40.", NF],
+    ["3M angiver 8 år for 2080 og Avery Dennison 10 år for farver og 5 år for metallic og perlemor i Supreme Wrapping Film (lodret flade).", AVERY],
+    ["Montagegruppen: bilfolie kan generelt holde 3-7 år eller længere afhængigt af kvalitet og vedligeholdelse; kampagnefolie fra 195 kr. og 7 års folie med laminat fra 260 kr. (pr. m², ekskl. moms).", MONT],
+    ["Avery Dennison: Supreme Wrapping Film har lang tids aftagelighed (long term removability) i hele produktets levetid.", AVERY],
     ["Regneeksempel med Ayvens' og NF Fleets gebyrer: 10 × 1.800 kr. (logo, stor) = 18.000 kr.; 3 × 750 kr. (manglende vask og støvsugning) = 2.250 kr.; i alt 20.250 kr.; 10 × 3.500 kr. (logo, fuld) = 35.000 kr.", AYV]
   ]
 };

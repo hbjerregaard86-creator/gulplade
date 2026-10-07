@@ -141,3 +141,14 @@
 6. Beslutningstræet: "kan kræve godkendelseserklæring før syn" er en opsummering; kravet gælder kun visse ændringer.
 7. Leaset bil: "Det gælder også, om kabinen skal tages ud igen, når bilen afleveres" er generelt (kontrakten afgør).
 8. Renault Master Chassis L3, 1.621 kg, står med 4. oktober (ikke genkontrolleret).
+
+## folie (B11): _emne, bilreklame-paa-varebil, helfoliering-af-varebil, folie-paa-leasingbil
+- RETTET: Averys holdbarhed gælder mellemeuropæisk klima (ikke nordeuropæisk som 3M).
+- RETTET: Trykwerks pakke 3 = logo og tekst bagpå, tekst på sidedøre, logo på kølerhjelm. Tekst foran kun i pakke 2.
+1. Kolonnen "montering" fjernet fra tabellerne ("Ikke angivet"-celler); montering kun i teksten, hvor kilden nævner den.
+2. Tint N' Wrap 25.000 kr. uden momsoplysning (står i manchetten).
+3. Fradrag: kun LL § 8, stk. 1, ubestemt kreds af kunder og konkret vurdering (JV C.C.2.2.2.5.3).
+4. Viskilter: priserne gælder ikke ("dagspris"); gamle tal beholdt med forbehold.
+5. Udledte sætninger: "Fjernes folien før afleveringen, falder afmonteringsgebyret bort"; "Får en hvid bil mørk folie, skal en mørk CVR-tekst skiftes ud"; "Gebyrlisterne beskriver ikke, hvor stort et lille, mellem eller stort logo er".
+6. Regneeksempler: CPH Wrap 24.495 og 25.495 kr.; helfoliering plus fjernelse 19.495 kr.; ti biler 18.000, 20.250 og 35.000 kr.; fem biler med stort logo 9.000 kr.
+7. Ingen kilde til, om helfoliering kræver leasingselskabets godkendelse (står som spørgsmål).
