@@ -235,7 +235,7 @@ module.exports = {
       {
         overskrift: "Det følger med abonnementet",
         tekst: [
-          `Abonnementet er det, der holder trackeren i gang. Begge forhandlere skriver, hvad der sker, når abonnementet stopper, og det betyder noget, hvis bilen skifter hænder, eller trackeren skal flyttes til en ny bil.`
+          `Abonnementet er det, der holder trackeren i gang. DEFA og SmartVan skriver, hvad der sker, når abonnementet stopper, og det betyder noget, hvis bilen skifter hænder, eller trackeren skal flyttes til en ny bil.`
         ],
         punkter: [
           `<strong>Finder Link.</strong> Besked i appen, hvis bilen flyttes, startes eller brydes op. Bilen kan findes via GPS, og koordinaterne kan gives til politi og forsikring.`,
@@ -276,7 +276,7 @@ module.exports = {
         tekst: [
           `SmartVan skriver, at mange forsikrings- og leasingselskaber kræver en satellitsikring i biler, som har en høj værdi eller er særligt udsat for tyveri. Hos Tryg står kravet i policen, og betingelserne beskriver, hvad der så gælder.`,
           `Trackeren skal være fastmonteret senest 8 dage efter, at policen er udstedt. En autoriseret montør skal montere den og udstede en installationserklæring, som virksomheden skal gemme. Enheden skal have backup-strøm til mindst 12 timer og være tilsluttet en døgnbemandet kontrolcentral, når tyveriet sker.`,
-          `Bliver bilen stjålet, skal virksomheden straks gøre noget aktivt for at finde den. Er kravet ikke overholdt, kan Tryg nedsætte erstatningen eller kræve den betalt tilbage. Kaskoens øvrige regler står i <a href="/til-varebilen/forsikring/kaskoforsikring-varebil/">kaskoforsikring til varebil</a>.`
+          `Bliver bilen stjålet, skal virksomheden straks gøre noget aktivt for at finde den. Er kravet ikke overholdt, kan erstatningen blive nedsat eller falde bort, og Tryg kan kræve udbetalt erstatning betalt tilbage. Kaskoens øvrige regler står i <a href="/til-varebilen/forsikring/kaskoforsikring-varebil/">kaskoforsikring til varebil</a>.`
         ],
         figur: {
           type: "noegletal",
@@ -333,7 +333,7 @@ module.exports = {
       {
         overskrift: "Røgkanon",
         tekst: [
-          `En røgkanon fylder varerummet med røg, når alarmen går, så tyven ikke kan se noget. AutoLock sælger en røgkanon til 797,50 kr. og 2 patroner til 896,25 kr.`,
+          `En røgkanon fylder varerummet med røg ved indbrud. AutoLock sælger en røgkanon til 797,50 kr. og 2 patroner til 896,25 kr.`,
           `Patronerne købes for sig. Kilder: <a href="${AL1}" rel="noopener">AutoLock</a> og <a href="${AL2}" rel="noopener">AutoLock side 2</a>, set den 7. oktober 2026.`
         ]
       },

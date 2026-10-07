@@ -39,7 +39,7 @@ module.exports = {
       {
         overskrift: "Fire typer",
         tekst: [
-          `En armeret kasse er det sidste lag i sikringen af varerummet. Den holder ikke tyven ude af bilen, men den gør det sværere at tage værktøjet med, når døren først er åbnet. En kasse, der er boltet fast, kan ikke løftes ud samlet.`,
+          `En armeret kasse er et af lagene i sikringen af varerummet. Den holder ikke tyven ude af bilen, men den gør det sværere at tage værktøjet med, når døren først er åbnet. En kasse, der er boltet fast, kan ikke løftes ud samlet.`,
           `Kasserne findes i fire hovedtyper, der passer til forskellige slags værktøj og forskellige varerum.`
         ],
         kort: [
@@ -52,7 +52,7 @@ module.exports = {
       {
         overskrift: "Det skal en armeret kasse kunne",
         tekst: [
-          `Låsen er det første, tyven går efter. SmartVans kasser har integrerede låse, så der ikke er en hængelås at klippe, og låsene er boringssikre. AutoLock skriver om Armorgard TrekDror, at skuffen er bygget med bukkede og svejsede samlinger uden synlige bolte eller popnitter, så der ikke er svage monteringspunkter, hvor kassen kan angribes.`,
+          `SmartVans kasser har integrerede låse, så tyven ikke blot kan klippe en hængelås, og låsene er boringssikre. AutoLock skriver om Armorgard TrekDror, at skuffen er bygget med bukkede og svejsede samlinger uden synlige bolte eller popnitter, så der ikke er svage monteringspunkter, hvor kassen kan angribes.`,
           `De praktiske detaljer betyder også noget i hverdagen. SmartVans kasser har et låsehængsel, der holder låget oppe, en gummipakning, så låget ikke rasler under kørslen, og forborede huller i bunden til fastmontering. Der er et håndtag i hver ende, så kassen også kan bruges uden for bilen. SmartVan skriver, at kassen holder til udendørs brug, men at den ikke er vandtæt.`
         ],
         figur: {
@@ -64,8 +64,8 @@ module.exports = {
       {
         overskrift: "Priser hos AutoLock",
         tekst: [
-          `Alle priser på siden er uden moms. Det er sådan, SmartVan skriver dem, og AutoLock viser både prisen med og uden moms. Priserne er uden montering og uden beslag.`,
-          `Prisen stiger med størrelsen. En OxBox koster fra 4.086,21 kr., og BarroBox, der er beregnet til maskiner og større værktøj, koster 13.148,16 kr. StrimmerSafe Vault er en kasse til langskaftet værktøj, som fx en buskrydder.`
+          `Alle priser på siden er uden moms. Det er sådan, SmartVan skriver dem, og AutoLock viser begge priser. Priserne er uden montering og uden beslag.`,
+          `Prisen stiger med størrelsen. En OxBox koster fra 4.086,21 kr., og BarroBox, der er beregnet til maskiner og større værktøj, koster 13.148,16 kr. StrimmerSafe Vault er en kasse til langskaftet værktøj.`
         ],
         tabel: {
           kolonner: ["Produkt", "Type", "Pris"],
@@ -170,7 +170,7 @@ module.exports = {
         overskrift: "Kasse eller skuffe",
         tekst: [
           `En kasse med låg åbnes oppefra, og en skuffe trækkes ud mod døren. SmartVans kasser har et håndtag i hver ende, så de kan bruges uden for bilen. TrekDror-skuffen står fladt på gulvet, og flere skuffer kan stables oven på hinanden.`,
-          `Skuffen trækkes ud mod bagdørene, mens låget på en kasse skal kunne åbnes opad. Sikre værktøjskasser kan ofte flyttes med til næste bil.`
+          `Sikre værktøjskasser kan ofte flyttes med til næste bil. AutoLock sælger fastgørelsesbeslag og stabelbeslag til TrekDror for sig.`
         ],
         figur: {
           type: "svg",

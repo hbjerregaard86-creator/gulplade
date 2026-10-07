@@ -155,7 +155,7 @@ module.exports = {
         overskrift: "Regionerne siden 2019",
         tekst: [
           `Alle fem regioner har færre anmeldelser i 2025 end i 2019. Region Hovedstaden faldt til 5.819 i 2021, steg til 8.730 i 2024 og landede på 6.733 i 2025. Region Midtjylland havde 2.493 anmeldelser i 2025, det laveste tal for regionen i perioden.`,
-          `Region Sjælland toppede i 2022 med 2.179 og er faldet hvert år siden. Region Syddanmark og Region Nordjylland har ligget mere stabilt de seneste år.`
+          `Region Sjælland toppede i 2022 med 2.179 og er faldet hvert år siden. Region Syddanmark har ligget på omkring 1.900 de to seneste år, mens Region Nordjylland faldt fra 687 til 510.`
         ],
         tabel: {
           kolonner: ["Region", "2019", "2021", "2023", "2024", "2025"],
@@ -247,7 +247,7 @@ module.exports = {
         overskrift: "Varebiler for sig",
         tekst: [
           `Rigspolitiet har opgjort tyverier fra varebiler for sig. Ifølge fagbladet Installatør var der 3.618 i 2025. Det er 903 færre end året før og et fald på ca. 20 procent. Rigspolitiets tal og Danmarks Statistiks kategori er to forskellige opgørelser.`,
-          `TEKNIQ, der organiserer installationsvirksomheder, skrev samtidig, at hver fjerde af deres medlemsvirksomheder havde oplevet tyveri fra varebiler inden for det seneste år. TEKNIQ peger også på, at tyverierne især rammer virksomheder i hovedstadsområdet, mens Nordjylland er mindre udsat.`,
+          `Erhvervsorganisationen TEKNIQ skrev samtidig, at hver fjerde af deres medlemsvirksomheder havde oplevet tyveri fra varebiler inden for det seneste år. TEKNIQ peger også på, at tyverierne især rammer virksomheder i hovedstadsområdet, mens Nordjylland er mindre udsat.`,
           `Topdanmark fik selv 554 anmeldelser om indbrud i varebiler i 2024. Ifølge F&amp;P løber tyvene med ca. 70.000 kr. pr. indbrud, skriver Topdanmark.`
         ],
         figur: {
@@ -329,7 +329,7 @@ module.exports = {
       {
         overskrift: "Sikring efter risiko",
         tekst: [
-          `Hvor og hvordan bilen holder, påvirker risikoen. Topdanmark foreslår at parkere et oplyst sted, op ad en husmur eller et hegn, så der er svært at komme til varerummet, og at bruge en garage, når det er muligt. F&amp;P råder til at undgå øde, mørke steder uden trafik og til at sørge for, at man ikke kan kigge ind i varerummet.`,
+          `Hvor og hvordan bilen holder, påvirker risikoen. Topdanmark foreslår at parkere et oplyst sted, op ad en husmur eller et hegn, så det er svært at komme til varerummet, og at bruge en garage, når det er muligt. F&amp;P råder til at undgå øde, mørke steder uden trafik og til at sørge for, at man ikke kan kigge ind i varerummet.`,
           `Du kan læse om låse, alarm og opbevaring i <a href="/til-varebilen/varerumssikring/ekstra-laas-til-varebil/">ekstra lås til varebil</a>, <a href="/til-varebilen/varerumssikring/alarm-og-gps-tracker/">alarm og GPS-tracker</a> og <a href="/til-varebilen/varerumssikring/sikker-opbevaring/">sikker opbevaring</a>. Forsikringens krav står i <a href="/til-varebilen/forsikring/vaerktoejsforsikring/">værktøjsforsikring</a>.`,
           `Kilder: <a href="${TDFOREBYG}" rel="noopener">Topdanmark: Forebyg indbrud i varebilen</a> og <a href="${FP24}" rel="noopener">F&amp;P, 13. februar 2024</a>, set den 7. oktober 2026.`
         ]

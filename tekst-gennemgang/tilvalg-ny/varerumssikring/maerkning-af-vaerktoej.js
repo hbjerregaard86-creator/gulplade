@@ -36,7 +36,7 @@ module.exports = {
       {
         overskrift: "Tre metoder",
         tekst: [
-          `Værktøj kan mærkes på tre måder, og de supplerer hinanden. DNA-mærkningen kan ikke ses med det blotte øje, men den beviser, hvem værktøjet tilhører. Synlige mærker viser tyven, at tingene er mærket, og listen over serienumre gør det muligt at beskrive præcis, hvad der er stjålet.`
+          `Værktøj kan mærkes på tre måder, og de supplerer hinanden. DNA-mærkningen er nærmest usynlig for det blotte øje, men den beviser, hvem værktøjet tilhører. Synlige mærker viser tyven, at tingene er mærket, og listen over serienumre gør det muligt at beskrive præcis, hvad der er stjålet.`
         ],
         kort: [
           ["DNA-mærkning", "Usynlig væske med en unik kode, UV-sporstof og mikrodots. Koden registreres i en database."],
@@ -126,7 +126,7 @@ module.exports = {
       {
         overskrift: "DNA-kit og priser",
         tekst: [
-          `Unisecure sælger SelectaDNA i kit efter antallet af mærkninger. Priserne er uden moms. Varebilskittene indeholder også mærkater til bilerne, mens virksomhedskittene til samme pris har det samme antal mærkninger. Kittet er en engangsudgift, og der er intet abonnement.`
+          `Unisecure sælger SelectaDNA i kit efter antallet af mærkninger. Priserne er uden moms. Varebilskittene indeholder også mærkater til bilerne, og Unisecure sælger virksomhedskit med samme antal mærkninger til de samme priser. Kittet er en engangsudgift, og der er intet abonnement.`
         ],
         tabel: {
           kolonner: ["Kit", "Dækker", "Pris"],
@@ -311,7 +311,7 @@ module.exports = {
         overskrift: "DNA-kit via forsikringen",
         tekst: [
           `Trygs varebilforsikring Super indeholder et DNA-kit til mærkning af værktøj og udstyr. Tryg skriver samtidig, at du skal have en transportforsikring for at få dækket værktøj, der bliver stjålet fra varebilen.`,
-          `Producenterne bruger også registreringen. Festool giver ifølge Installatør tre års garanti på værktøj, der er registreret, så det lettere kan finde tilbage til ejeren efter et tyveri. Kilder: <a href="${TRYGH}" rel="noopener">Tryg: Forsikringer til håndværkere</a> og <a href="${INST25}" rel="noopener">Installatør, 13. februar 2025</a>, set den 7. oktober 2026.`
+          `Værktøjsproducenten Festool giver ifølge Installatør tre års garanti på værktøj, der er registreret, så det lettere kan finde tilbage til ejeren efter et tyveri. Kilder: <a href="${TRYGH}" rel="noopener">Tryg: Forsikringer til håndværkere</a> og <a href="${INST25}" rel="noopener">Installatør, 13. februar 2025</a>, set den 7. oktober 2026.`
         ]
       }
     ],

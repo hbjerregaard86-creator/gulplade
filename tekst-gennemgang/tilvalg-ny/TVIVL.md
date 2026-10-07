@@ -45,3 +45,14 @@
 8. Batteriskade alene: gengiver GF's og Trygs ordlyd uden at konkludere.
 9. DFIM "50.000 uforsikrede ved lovens vedtagelse i januar 2019" (loven er vedtaget 15. maj 2018). Skrevet "omkring 50.000 i januar 2019".
 10. Falcks "Omlæsning af gods": pris uklar (116 eller 123 kr.); gammel formulering uden pris.
+
+## varerumssikring (B08): _emne og alle fem undersider
+1. Alle priser nu uden moms. AutoLock: firmaets egne priser uden moms fra i dag (RETTET). TrekDrors vejledende pris findes kun med moms og har en note.
+2. Fejl i den gamle emneside rettet: Locks4Vans' lås er en hooklock, L4V Statement Lock en manuel udvendig lås; smæklås "fra 2.070 kr." passede ikke med Bawer Armo 1.243,75 kr. med moms.
+3. Blokeret: sikringsguiden.dk, DEFA, Armorgard, datatilsynet.dk (403), politi.dk. Gamle fakta står med 4. oktober eller 27. september.
+4. INDBRUDSTAL UENS: varerumssikring bruger 4.521 (Rigspolitiet via Installatør, 3.618 + 903). Forsikringssiderne (B01) bruger Topdanmarks 4.540. Skal ensrettes.
+5. Trygs UFO-priser (3.497 kr. monteret på adresse, 2.797 kr. på værksted) står som Trygs egne, ikke som SmartVans "2 låse" til 3.793 kr.
+6. Andenhånd: Det Kriminalpræventive Råds tal (250.000 køber hælervarer, 80 procent sælges i Danmark) fra Installatør. Unisecures "70-80 procent umærket" som firmaets påstand.
+7. Udeladt: SelectaDNA's reklametal; den ukildede "UFO er den mest udbredte i Danmark" er fjernet.
+8. Egne beregninger: tal pr. 10.000 indbyggere fra STRAF11 og FOLK1A (3. kvt. 2025); regneeksempler 151 kg, 800 kg nyttelast, montering 1.998 kr., "omkring 6.000 færre", 959,20 kr.
+9. Ny statistik: tyveri fra varebiler pr. politikreds 2021-2023 fra F&P's regneark (bilag til pressemeddelelse 13. februar 2024).

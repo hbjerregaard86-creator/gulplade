@@ -163,7 +163,7 @@ module.exports = {
       {
         overskrift: "Priser hos AutoLock",
         tekst: [
-          `Alle priser på siden er uden moms. Det er sådan, SmartVan, CargoSikring og HERKULES skriver dem, og AutoLock viser både prisen med og uden moms. Montering kommer oveni, medmindre andet står.`,
+          `Alle priser på siden er uden moms. Det er sådan, SmartVan, CargoSikring og HERKULES skriver dem, og AutoLock viser begge priser. Montering kommer oveni, medmindre andet står.`,
           `Priserne går fra 950 kr. for Dakens manuelle udvendige lås til 3.495 kr. for L4V Statement Lock. GateLock GVS-P er nedsat til 997,50 kr. fra 1.995 kr. i oktober 2026.`
         ],
         tabel: {
