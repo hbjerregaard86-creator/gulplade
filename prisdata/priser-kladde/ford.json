@@ -1,0 +1,6985 @@
+{
+ "priser": {
+  "ford-transit-custom": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/transit-custom/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Custom van diesel (08-07-2026)",
+   "prisliste_dato": "2026-07-08",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2027.00 ved registrering i 2026. Priserne er læst efter placering (pdfplumber, ord grupperet på linje) og tjekket mod momsbeløbene. Totalvægten 3.225 kg og hjultrækket er fra Fords specifikationsløsblad; listen skriver kun \"320\". Listen oplyser ikke højden. MS-RT er ikke med i listen.",
+   "udgaver": [
+    {
+     "navn": "320 L1 Trend 2.0 EcoBlue 136 hk 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 281995
+    },
+    {
+     "navn": "320 L1 Trail 2.0 EcoBlue 136 hk 6-trins manuel",
+     "niveau": "Trail",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 301995
+    },
+    {
+     "navn": "320 L1 Trend 2.0 EcoBlue 136 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 294995
+    },
+    {
+     "navn": "320 L1 Trend 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 300995
+    },
+    {
+     "navn": "320 L1 Limited 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 310995
+    },
+    {
+     "navn": "320 L1 Sport 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 318995
+    },
+    {
+     "navn": "320 L1 Trend 2.0 EcoBlue AWD 170 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 313995
+    },
+    {
+     "navn": "320 L1 Sport 2.0 EcoBlue AWD 170 hk 8-trins automatgear",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 332995
+    },
+    {
+     "navn": "320 L2 Trend 2.0 EcoBlue 136 hk 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 286995
+    },
+    {
+     "navn": "320 L2 Trail 2.0 EcoBlue 136 hk 6-trins manuel",
+     "niveau": "Trail",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 306995
+    },
+    {
+     "navn": "320 L2 Trend 2.0 EcoBlue 136 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 299995
+    },
+    {
+     "navn": "320 L2 Trend 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 305995
+    },
+    {
+     "navn": "320 L2 Limited 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 315995
+    },
+    {
+     "navn": "320 L2 Sport 2.0 EcoBlue 170 hk 8-trins automatgear",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 323995
+    },
+    {
+     "navn": "320 L2 Trend 2.0 EcoBlue AWD 170 hk 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 318995
+    },
+    {
+     "navn": "320 L2 Sport 2.0 EcoBlue AWD 170 hk 8-trins automatgear",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 170,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 337995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" alufælge, Sparkle Silver, med 215/65 R16 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 3995,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3995,
+      "Trail": "nej",
+      "Limited": "std",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2XCH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" alufælge, Carbonised Grey, med 215/60 R17 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 5995,
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2YDV",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "19\" alufælge, Matte Black, med 235/50 R19 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": 6995
+     },
+     "post": null,
+     "kode": "D2VCA",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "12V-stik i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 270,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_12v_varerum",
+     "kode": "J3FAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "400 W udtag på førersædekonsollen",
+     "gruppe": "varerum",
+     "pris_kr": 2215,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAJ",
+     "tilbehoer": false,
+     "note": "Universalstik, ikke Schuko. Fås ikke sammen med VIS 2.0."
+    },
+    {
+     "navn": "Aircondition med 2 zoner og automatisk regulering",
+     "gruppe": "komfort",
+     "pris_kr": 2395,
+     "gaelder": "Trend, Trail, Limited",
+     "niveau_priser": {
+      "Trend": 2395,
+      "Trail": 2395,
+      "Limited": 2395,
+      "Sport": "std"
+     },
+     "post": "aircondition",
+     "kode": "AC--G",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Thatcham-alarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2660,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 3550,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, svingbart",
+     "gruppe": "traek",
+     "pris_kr": 5760,
+     "gaelder": "Trail, Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": 5760,
+      "Limited": 5760,
+      "Sport": 5760
+     },
+     "post": "anhaengertraek",
+     "kode": "C1MAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "B&O audio med 6 højttalere",
+     "gruppe": "komfort",
+     "pris_kr": 4430,
+     "gaelder": "Trail, Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": 4430,
+      "Limited": 4430,
+      "Sport": 4430
+     },
+     "post": null,
+     "kode": "IDBAZ",
+     "tilbehoer": false,
+     "note": "Lastlugen i adskillelsen forsvinder. Fås ikke sammen med enkelt passagersæde."
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B3AAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Manuel DPF-regenerering",
+     "gruppe": "andet",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6YAB",
+     "tilbehoer": false,
+     "note": "Føreren kan selv starte rensning af partikelfilteret."
+    },
+    {
+     "navn": "Heavy duty-batterier (2 x H8 AGM, 95 Ah)",
+     "gruppe": "andet",
+     "pris_kr": 2215,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTAAZ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-forlygter",
+     "gruppe": "ydre",
+     "pris_kr": 0,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 0,
+      "Trail": "std",
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "led_forlygter",
+     "kode": "JBBA7",
+     "tilbehoer": false,
+     "note": "Står til 0 kr. på Trend og er standard på de øvrige niveauer."
+    },
+    {
+     "navn": "LED-lys i varerum (5 spots)",
+     "gruppe": "varerum",
+     "pris_kr": 445,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 445,
+      "Trail": "std",
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "varerumslys_led",
+     "kode": "JCMAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Matrix LED-forlygter med blændfrit fjernlys og LED-baglygter",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 8770,
+      "Trail": 6995,
+      "Limited": 6995,
+      "Sport": 6995
+     },
+     "post": "led_forlygter",
+     "kode": "JBBA8",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med elektriske skydedøre."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Magnetic, Moondust Silver, Agate Black og Chrome Blue. Artisan Red og Digital Aqua Blue fås kun til nogle niveauer."
+    },
+    {
+     "navn": "Navigation",
+     "gruppe": "komfort",
+     "pris_kr": 3545,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "navigation",
+     "kode": "HKCAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Nøglefri adgang",
+     "gruppe": "komfort",
+     "pris_kr": 1775,
+     "gaelder": "Trend, Trail",
+     "niveau_priser": {
+      "Trend": 1775,
+      "Trail": 1775,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "noeglefri",
+     "kode": "CBGAL",
+     "tilbehoer": false,
+     "note": "Nøglefri start er standard."
+    },
+    {
+     "navn": "Opvarmet rat",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "GTBAB",
+     "tilbehoer": false,
+     "note": "Med Sensico-kunstlæderrat på Trend."
+    },
+    {
+     "navn": "Plastbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 1330,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 1330,
+      "Trail": "nej",
+      "Limited": 1330,
+      "Sport": "std"
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med 400 W udtag."
+    },
+    {
+     "navn": "Ruder i bagdøre eller bagklap",
+     "gruppe": "ydre",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Med varme i bagruderne og bakspejl."
+    },
+    {
+     "navn": "Sidebeklædning i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 800,
+     "gaelder": "Trend, Trail, Limited",
+     "niveau_priser": {
+      "Trend": 800,
+      "Trail": 800,
+      "Limited": 800,
+      "Sport": "std"
+     },
+     "post": "beklaedning_varerum",
+     "kode": "BBAAU",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i højre side, elektrisk betjent",
+     "gruppe": "varerum",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 6650,
+      "Trail": 6650,
+      "Limited": 4875,
+      "Sport": 3100
+     },
+     "post": "skydedoer_hoejre",
+     "kode": "A4LAD",
+     "tilbehoer": false,
+     "note": "Med nøglefri adgang på Trend."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedøre i begge sider, elektrisk betjente",
+     "gruppe": "varerum",
+     "pris_kr": 15955,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 15955,
+      "Sport": 15955
+     },
+     "post": "skydedoer_venstre",
+     "kode": "A4LAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Stor midterkonsol",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B5WAB",
+     "tilbehoer": false,
+     "note": "Kun sammen med en sædepakke med enkelt passagersæde."
+    },
+    {
+     "navn": "Tagbøjler, integrerede",
+     "gruppe": "ydre",
+     "pris_kr": 3545,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": "BLYA2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængslet bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerum, 12 mm med smudsafvisende overflade",
+     "gruppe": "varerum",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 5320,
+      "Trail": 3990,
+      "Limited": 5320,
+      "Sport": 3990
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIBG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Trådløs opladning af mobiltelefon",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "Trend, Trail, Limited",
+     "niveau_priser": {
+      "Trend": 890,
+      "Trail": 890,
+      "Limited": 890,
+      "Sport": "std"
+     },
+     "post": null,
+     "kode": "IEXAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "SVO-farve (uni)",
+     "gruppe": "ydre",
+     "pris_kr": 7090,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 7090,
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Specialfarve via Ford SVO. Spørg forhandleren om farverne."
+    },
+    {
+     "navn": "Smart Fuse Box med heavy duty-batterier",
+     "gruppe": "andet",
+     "pris_kr": 5760,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JZXAD",
+     "tilbehoer": false,
+     "note": "Opbyggerboks til stort strømforbrug, fx køl, vejhjælp eller servicevogn."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 6",
+     "pris_kr": 13740,
+     "gaelder": "alle",
+     "indhold": [
+      "Intelligent adaptiv fartpilot",
+      "Rat i Sensico kunstlæder (Trend)",
+      "Lane Change Warning & Aid",
+      "Reverse Brake Assist",
+      "BLIS med Cross Traffic Alert",
+      "El-foldbare sidespejle (Trend)",
+      "360 graders kamera"
+     ],
+     "niveau_priser": null,
+     "kode": "DBCAJ",
+     "note": null
+    },
+    {
+     "navn": "Mobile Office Pack",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "indhold": [
+      "Vipbart rat, der kan vippes til næsten vandret position",
+      "Rat i Sensico kunstlæder (Trend)"
+     ],
+     "niveau_priser": null,
+     "kode": "AGJAC",
+     "note": "Fås ikke sammen med varme i rattet."
+    },
+    {
+     "navn": "Sædepakke 4",
+     "pris_kr": 7535,
+     "gaelder": "Limited",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags",
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 7535,
+      "Sport": "nej"
+     },
+     "kode": "BVFAE",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 6",
+     "pris_kr": 1330,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": 1330,
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAG",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 7",
+     "pris_kr": 4430,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 4430,
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAH",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 12",
+     "pris_kr": 5760,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 5760,
+      "Sport": "nej"
+     },
+     "kode": "BVFAN",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 13",
+     "pris_kr": 445,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 445,
+      "Sport": "nej"
+     },
+     "kode": "BVFAP",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 16A",
+     "pris_kr": 5230,
+     "gaelder": "Trend",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5230,
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBK",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 17A",
+     "pris_kr": 5850,
+     "gaelder": "Trend",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5850,
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBF",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 19",
+     "pris_kr": 620,
+     "gaelder": "Sport",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": "nej",
+      "Sport": 620
+     },
+     "kode": "BVFAV",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 27",
+     "pris_kr": 5940,
+     "gaelder": "Trail",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": 5940,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFA4",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 47",
+     "pris_kr": 5320,
+     "gaelder": "Limited",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Trail": "nej",
+      "Limited": 5320,
+      "Sport": "nej"
+     },
+     "kode": "BVFBQ",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/transit-custom/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/transit-custom/",
+     "navn": "Fords specifikationsløsblad for Transit Custom Trend diesel (modelår 2026.50, opdateret 03/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-transit-custom-phev": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/custom-van-phev/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Custom van Plug-In Hybrid (PHEV) (08-07-2026)",
+   "prisliste_dato": "2026-07-08",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2027.00 ved registrering i 2026. Batteriet er 11,8 kWh og lader med 3,5 kW (0-100 % på 4 t 15 min). Totalvægt 3.225 kg og forhjulstræk er fra specifikationsløsbladet. Trail fås ikke som PHEV.",
+   "udgaver": [
+    {
+     "navn": "320 L1 Trend 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 338995
+    },
+    {
+     "navn": "320 L1 Limited 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 348995
+    },
+    {
+     "navn": "320 L1 Sport 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 358995
+    },
+    {
+     "navn": "320 L2 Trend 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 343995
+    },
+    {
+     "navn": "320 L2 Limited 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 353995
+    },
+    {
+     "navn": "320 L2 Sport 2.5 PHEV 233 hk CVT automatgear",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "plugin",
+     "motor": "2.5 PHEV",
+     "hk": 233,
+     "kw": null,
+     "batteri_kwh": 11.8,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 363995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" alufælge, Sparkle Silver, med 215/65 R16 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 3995,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3995,
+      "Limited": "std",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2XCH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" alufælge, Carbonised Grey, med 215/60 R17 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5995,
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2YDV",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "19\" alufælge, Matte Black, med 235/50 R19 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": "nej",
+      "Sport": 6995
+     },
+     "post": null,
+     "kode": "D2VCA",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "12V-stik i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 270,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_12v_varerum",
+     "kode": "J3FAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "400 W udtag på førersædekonsollen",
+     "gruppe": "varerum",
+     "pris_kr": 2215,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAJ",
+     "tilbehoer": false,
+     "note": "Universalstik, ikke Schuko. Fås ikke sammen med VIS 2.0."
+    },
+    {
+     "navn": "Aircondition med 2 zoner og automatisk regulering",
+     "gruppe": "komfort",
+     "pris_kr": 2395,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 2395,
+      "Limited": 2395,
+      "Sport": "std"
+     },
+     "post": "aircondition",
+     "kode": "AC--G",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 3550,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, svingbart",
+     "gruppe": "traek",
+     "pris_kr": 5760,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5760,
+      "Sport": 5760
+     },
+     "post": "anhaengertraek",
+     "kode": "C1MAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2660,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Thatcham-alarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "B&O audio med 6 højttalere",
+     "gruppe": "komfort",
+     "pris_kr": 4430,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 4430,
+      "Sport": 4430
+     },
+     "post": null,
+     "kode": "IDBAZ",
+     "tilbehoer": false,
+     "note": "Lastlugen i adskillelsen forsvinder. Fås ikke sammen med enkelt passagersæde."
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B3AAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ladekabel, 10 m (mode 3, 16 A)",
+     "gruppe": "el",
+     "pris_kr": 445,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAK",
+     "tilbehoer": false,
+     "note": "Et ladekabel på 5 m er standard."
+    },
+    {
+     "navn": "LED-forlygter",
+     "gruppe": "ydre",
+     "pris_kr": 0,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 0,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "led_forlygter",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Står til 0 kr. på Trend og er standard på Limited og Sport."
+    },
+    {
+     "navn": "LED-lys i varerum (5 spots)",
+     "gruppe": "varerum",
+     "pris_kr": 445,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 445,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "varerumslys_led",
+     "kode": "JCMAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Matrix LED-forlygter med blændfrit fjernlys og LED-baglygter",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 8770,
+      "Limited": 6995,
+      "Sport": 6995
+     },
+     "post": "led_forlygter",
+     "kode": "JBBA8",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med elektriske skydedøre."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Magnetic, Moondust Silver, Agate Black og Chrome Blue. Artisan Red og Digital Aqua Blue fås kun til nogle niveauer."
+    },
+    {
+     "navn": "Navigation",
+     "gruppe": "komfort",
+     "pris_kr": 3545,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "navigation",
+     "kode": "HKCAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Nøglefri adgang",
+     "gruppe": "komfort",
+     "pris_kr": 1775,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 1775,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "noeglefri",
+     "kode": "CBGAL",
+     "tilbehoer": false,
+     "note": "Nøglefri start er standard."
+    },
+    {
+     "navn": "Opvarmet rat",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "GTBAB",
+     "tilbehoer": false,
+     "note": "Med Sensico-kunstlæderrat på Trend."
+    },
+    {
+     "navn": "Plastbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 1330,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": 1330,
+      "Sport": "std"
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "ProPower Onboard",
+     "gruppe": "varerum",
+     "pris_kr": 8420,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAL",
+     "tilbehoer": false,
+     "note": "To 230V-udtag i varerummet og ét på førersædekonsollen, i alt 2.300 W."
+    },
+    {
+     "navn": "Ruder i bagdøre eller bagklap",
+     "gruppe": "ydre",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Med varme i bagruderne og bakspejl."
+    },
+    {
+     "navn": "Sidebeklædning i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 800,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 800,
+      "Limited": 800,
+      "Sport": "std"
+     },
+     "post": "beklaedning_varerum",
+     "kode": "BBAAU",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i højre side, elektrisk betjent",
+     "gruppe": "varerum",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 6650,
+      "Limited": 4875,
+      "Sport": 3100
+     },
+     "post": "skydedoer_hoejre",
+     "kode": "A4LAD",
+     "tilbehoer": false,
+     "note": "Med nøglefri adgang på Trend."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedøre i begge sider, elektrisk betjente",
+     "gruppe": "varerum",
+     "pris_kr": 15955,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 15955,
+      "Sport": 15955
+     },
+     "post": "skydedoer_venstre",
+     "kode": "A4LAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Stor midterkonsol",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B5WAB",
+     "tilbehoer": false,
+     "note": "Kun sammen med en sædepakke med enkelt passagersæde."
+    },
+    {
+     "navn": "Tagbøjler, integrerede",
+     "gruppe": "ydre",
+     "pris_kr": 3545,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": "BLYA2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængslet bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerum, 12 mm med smudsafvisende overflade",
+     "gruppe": "varerum",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 5320,
+      "Limited": 5320,
+      "Sport": 3990
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIBG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Trådløs opladning af mobiltelefon",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 890,
+      "Limited": 890,
+      "Sport": "std"
+     },
+     "post": null,
+     "kode": "IEXAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med 400 W udtag."
+    },
+    {
+     "navn": "SVO-farve (uni)",
+     "gruppe": "ydre",
+     "pris_kr": 7090,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 7090,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Specialfarve via Ford SVO. Spørg forhandleren om farverne."
+    },
+    {
+     "navn": "Smart Fuse Box med heavy duty-batterier",
+     "gruppe": "andet",
+     "pris_kr": 5760,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JZXAD",
+     "tilbehoer": false,
+     "note": "Opbyggerboks til stort strømforbrug, fx køl, vejhjælp eller servicevogn."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 6",
+     "pris_kr": 13740,
+     "gaelder": "alle",
+     "indhold": [
+      "Intelligent adaptiv fartpilot",
+      "Rat i Sensico kunstlæder (Trend)",
+      "Lane Change Warning & Aid",
+      "Reverse Brake Assist",
+      "BLIS med Cross Traffic Alert",
+      "El-foldbare sidespejle (Trend)",
+      "360 graders kamera"
+     ],
+     "niveau_priser": null,
+     "kode": "DBCAJ",
+     "note": null
+    },
+    {
+     "navn": "Mobile Office Pack",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "indhold": [
+      "Vipbart rat, der kan vippes til næsten vandret position",
+      "Rat i Sensico kunstlæder (Trend)"
+     ],
+     "niveau_priser": null,
+     "kode": "AGJAC",
+     "note": "Fås ikke sammen med varme i rattet."
+    },
+    {
+     "navn": "Sædepakke 4",
+     "pris_kr": 7535,
+     "gaelder": "Limited",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags",
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 7535,
+      "Sport": "nej"
+     },
+     "kode": "BVFAE",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 6",
+     "pris_kr": 1330,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAG",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 7",
+     "pris_kr": 4430,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 4430,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAH",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 12",
+     "pris_kr": 5760,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5760,
+      "Sport": "nej"
+     },
+     "kode": "BVFAN",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 13",
+     "pris_kr": 445,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 445,
+      "Sport": "nej"
+     },
+     "kode": "BVFAP",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 16A",
+     "pris_kr": 5230,
+     "gaelder": "Trend",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5230,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBK",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 17A",
+     "pris_kr": 5850,
+     "gaelder": "Trend",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5850,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBF",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 19",
+     "pris_kr": 620,
+     "gaelder": "Sport",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": "nej",
+      "Sport": 620
+     },
+     "kode": "BVFAV",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 47",
+     "pris_kr": 5320,
+     "gaelder": "Limited",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5320,
+      "Sport": "nej"
+     },
+     "kode": "BVFBQ",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/custom-van-phev/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/transit-custom-phev/",
+     "navn": "Fords specifikationsløsblad for Transit Custom Trend PHEV (modelår 2027.00, opdateret 08/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-e-transit-custom": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/e-transit-custom-van/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for E-Transit Custom van (07-07-2026)",
+   "prisliste_dato": "2026-07-07",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2027.00 ved registrering i 2026. Batteriet er 71 kWh (effektivt), AC-lader 11 kW og DC 125 kW. L1 hedder 320 og L2 hedder 340 i listen. Udgaverne uden AWD har baghjulstræk ifølge løsbladet. Løsbladet oplyser totalvægt 3.225 / 3.350 kg uden at knytte tallene til 320 og 340, så totalvægten står som ukendt.",
+   "udgaver": [
+    {
+     "navn": "320 L1 Trend 136 hk 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 314995
+    },
+    {
+     "navn": "320 L1 Trend 218 hk 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 324995
+    },
+    {
+     "navn": "320 L1 Trend 218 hk AWD 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 344995
+    },
+    {
+     "navn": "320 L1 Limited 136 hk 71 kWh",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "320 L1 Limited 218 hk 71 kWh",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 339995
+    },
+    {
+     "navn": "320 L1 Sport 218 hk 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 349995
+    },
+    {
+     "navn": "320 L1 Sport 286 hk 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 355995
+    },
+    {
+     "navn": "320 L1 Sport 286 hk AWD 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 375995
+    },
+    {
+     "navn": "340 L2 Trend 136 hk 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 319995
+    },
+    {
+     "navn": "340 L2 Trend 218 hk 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "340 L2 Trend 218 hk AWD 71 kWh",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 349995
+    },
+    {
+     "navn": "340 L2 Limited 136 hk 71 kWh",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 334995
+    },
+    {
+     "navn": "340 L2 Limited 218 hk 71 kWh",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 344995
+    },
+    {
+     "navn": "340 L2 Sport 218 hk 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 354995
+    },
+    {
+     "navn": "340 L2 Sport 286 hk 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 360995
+    },
+    {
+     "navn": "340 L2 Sport 286 hk AWD 71 kWh",
+     "niveau": "Sport",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": null,
+     "batteri_kwh": 71,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 380995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" alufælge, Sparkle Silver, med 215/65 R16 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 3995,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3995,
+      "Limited": "std",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2XCH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" alufælge, Carbonised Grey, med 215/60 R17 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5995,
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": "D2YDV",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "19\" alufælge, Matte Black, med 235/50 R19 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": "nej",
+      "Sport": 6995
+     },
+     "post": null,
+     "kode": "D2VCA",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "12V-stik i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 270,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_12v_varerum",
+     "kode": "J3FAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "400 W udtag på førersædekonsollen",
+     "gruppe": "varerum",
+     "pris_kr": 2215,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAJ",
+     "tilbehoer": false,
+     "note": "Universalstik, ikke Schuko. Fås ikke sammen med VIS 2.0."
+    },
+    {
+     "navn": "Aircondition med 2 zoner og automatisk regulering",
+     "gruppe": "komfort",
+     "pris_kr": 2395,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 2395,
+      "Limited": 2395,
+      "Sport": "std"
+     },
+     "post": "aircondition",
+     "kode": "AC--G",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Thatcham-alarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2660,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 3550,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, svingbart",
+     "gruppe": "traek",
+     "pris_kr": 5760,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5760,
+      "Sport": 5760
+     },
+     "post": "anhaengertraek",
+     "kode": "C1MAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "B&O audio med 6 højttalere",
+     "gruppe": "komfort",
+     "pris_kr": 4430,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 4430,
+      "Sport": 4430
+     },
+     "post": null,
+     "kode": "IDBAZ",
+     "tilbehoer": false,
+     "note": "Lastlugen i adskillelsen forsvinder. Fås ikke sammen med enkelt passagersæde."
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B3AAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ladekabel, 5 m (mode 3, 16 A)",
+     "gruppe": "el",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAG",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Ladekabel, 10 m (mode 3, 16 A)",
+     "gruppe": "el",
+     "pris_kr": 1775,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i varerum (5 spots)",
+     "gruppe": "varerum",
+     "pris_kr": 445,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 445,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "varerumslys_led",
+     "kode": "JCMAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Matrix LED-forlygter med blændfrit fjernlys",
+     "gruppe": "ydre",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "led_forlygter",
+     "kode": "JBBA8",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med elektriske skydedøre."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Magnetic, Moondust Silver, Agate Black og Chrome Blue. Artisan Red og Digital Aqua Blue fås kun til nogle niveauer."
+    },
+    {
+     "navn": "Nøglefri adgang",
+     "gruppe": "komfort",
+     "pris_kr": 1775,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 1775,
+      "Limited": "std",
+      "Sport": "std"
+     },
+     "post": "noeglefri",
+     "kode": "CBGAL",
+     "tilbehoer": false,
+     "note": "Nøglefri start er standard."
+    },
+    {
+     "navn": "Opvarmet rat",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "GTBAB",
+     "tilbehoer": false,
+     "note": "Med Sensico-kunstlæderrat på Trend."
+    },
+    {
+     "navn": "Plastbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 1330,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": 1330,
+      "Sport": "std"
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "ProPower Onboard",
+     "gruppe": "varerum",
+     "pris_kr": 8420,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAL",
+     "tilbehoer": false,
+     "note": "To 230V-udtag i varerummet og ét på førersædekonsollen, i alt 2.300 W."
+    },
+    {
+     "navn": "Ruder i bagdøre eller bagklap",
+     "gruppe": "ydre",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Med varme i bagruderne og bakspejl."
+    },
+    {
+     "navn": "Sidebeklædning i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 800,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 800,
+      "Limited": 800,
+      "Sport": "std"
+     },
+     "post": "beklaedning_varerum",
+     "kode": "BBAAU",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i højre side, elektrisk betjent",
+     "gruppe": "varerum",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 6650,
+      "Limited": 4875,
+      "Sport": 3100
+     },
+     "post": "skydedoer_hoejre",
+     "kode": "A4LAD",
+     "tilbehoer": false,
+     "note": "Med nøglefri adgang på Trend."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4430,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedøre i begge sider, elektrisk betjente",
+     "gruppe": "varerum",
+     "pris_kr": 15955,
+     "gaelder": "Limited, Sport",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 15955,
+      "Sport": 15955
+     },
+     "post": "skydedoer_venstre",
+     "kode": "A4LAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Stor midterkonsol",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "B5WAB",
+     "tilbehoer": false,
+     "note": "Kun sammen med en sædepakke med enkelt passagersæde."
+    },
+    {
+     "navn": "Tagbøjler, integrerede",
+     "gruppe": "ydre",
+     "pris_kr": 3545,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": "BLYA2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængslet bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 890,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerum, 12 mm med smudsafvisende overflade",
+     "gruppe": "varerum",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 5320,
+      "Limited": 5320,
+      "Sport": 3990
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIBG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Trådløs opladning af mobiltelefon",
+     "gruppe": "komfort",
+     "pris_kr": 890,
+     "gaelder": "Trend, Limited",
+     "niveau_priser": {
+      "Trend": 890,
+      "Limited": 890,
+      "Sport": "std"
+     },
+     "post": null,
+     "kode": "IEXAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 3100,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med 400 W udtag."
+    },
+    {
+     "navn": "SVO-farve (uni)",
+     "gruppe": "ydre",
+     "pris_kr": 7090,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 7090,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Specialfarve via Ford SVO. Spørg forhandleren om farverne."
+    },
+    {
+     "navn": "Smart Fuse Box med heavy duty-batterier",
+     "gruppe": "andet",
+     "pris_kr": 5760,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JZXAD",
+     "tilbehoer": false,
+     "note": "Opbyggerboks til stort strømforbrug, fx køl, vejhjælp eller servicevogn."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 6",
+     "pris_kr": 14180,
+     "gaelder": "alle",
+     "indhold": [
+      "Intelligent adaptiv fartpilot med Stop & Go",
+      "Rat i Sensico kunstlæder (Trend)",
+      "Lane Change Warning & Aid",
+      "Reverse Brake Assist",
+      "BLIS med Cross Traffic Alert",
+      "El-foldbare sidespejle (Trend)",
+      "Navigation",
+      "360 graders kamera"
+     ],
+     "niveau_priser": null,
+     "kode": "DBCAJ",
+     "note": null
+    },
+    {
+     "navn": "Mobile Office Pack",
+     "pris_kr": 6995,
+     "gaelder": "alle",
+     "indhold": [
+      "Vipbart rat, der kan vippes til næsten vandret position",
+      "Rat i Sensico kunstlæder (Trend)"
+     ],
+     "niveau_priser": null,
+     "kode": "AGJAC",
+     "note": "Fås ikke sammen med varme i rattet."
+    },
+    {
+     "navn": "Sædepakke 4",
+     "pris_kr": 7535,
+     "gaelder": "Limited",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags",
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 7535,
+      "Sport": "nej"
+     },
+     "kode": "BVFAE",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 6",
+     "pris_kr": 1330,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAG",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 7",
+     "pris_kr": 4430,
+     "gaelder": "Trend",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 4430,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFAH",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 12",
+     "pris_kr": 5760,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5760,
+      "Sport": "nej"
+     },
+     "kode": "BVFAN",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 13",
+     "pris_kr": 445,
+     "gaelder": "Limited",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 445,
+      "Sport": "nej"
+     },
+     "kode": "BVFAP",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 16A",
+     "pris_kr": 5230,
+     "gaelder": "Trend",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5230,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBK",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 17A",
+     "pris_kr": 5850,
+     "gaelder": "Trend",
+     "indhold": [
+      "AGR-førersæde, 6-vejs manuelt justerbart med 4-vejs justerbar lændestøtte",
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": 5850,
+      "Limited": "nej",
+      "Sport": "nej"
+     },
+     "kode": "BVFBF",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 19",
+     "pris_kr": 620,
+     "gaelder": "Sport",
+     "indhold": [
+      "Enkelt passagersæde med armlæn"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": "nej",
+      "Sport": 620
+     },
+     "kode": "BVFAV",
+     "note": "Lastlugen i varerumsadskillelsen bortfalder ved enkelt passagersæde."
+    },
+    {
+     "navn": "Sædepakke 47",
+     "pris_kr": 5320,
+     "gaelder": "Limited",
+     "indhold": [
+      "Side- og gardinairbags"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5320,
+      "Sport": "nej"
+     },
+     "kode": "BVFBQ",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/e-transit-custom-van/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/e-transit-custom/",
+     "navn": "Fords specifikationsløsblad for E-Transit Custom van Trend (modelår 2026.50, opdateret 01/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-transit-courier": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/transit-courier/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Courier Van (10-03-2026)",
+   "prisliste_dato": "2026-03-10",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 3980,
+   "levering_i_listen": true,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Listens bilpriser er inkl. levering på 3.980 kr.; her er leveringen trukket fra (fx 199.995 - 3.980 = 196.015). Tilvalgspriserne er uden levering. Listen gælder modelår 2026.75, så længe lager haves, og ved registrering i 2026. Totalvægt for benzinudgaverne er fra specifikationsløsbladet (1.910 og 1.940 kg); dieselens står som 1.955-1.965 kg og er derfor sat til ukendt. Listen oplyser ikke hjultræk.",
+   "udgaver": [
+    {
+     "navn": "Trend 1.0 EcoBoost 100 hk benzin 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 1910,
+     "drivmiddel": "benzin",
+     "motor": "1.0 EcoBoost",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 196015
+    },
+    {
+     "navn": "Limited 1.0 EcoBoost 125 hk benzin 7-trins automatgear",
+     "niveau": "Limited",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 1940,
+     "drivmiddel": "benzin",
+     "motor": "1.0 EcoBoost",
+     "hk": 125,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 226015
+    },
+    {
+     "navn": "Trend 1.5 EcoBlue 100 hk diesel 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 EcoBlue",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 216015
+    },
+    {
+     "navn": "Limited 1.5 EcoBlue 100 hk diesel 6-trins manuel",
+     "niveau": "Limited",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 EcoBlue",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 226015
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Thatcham-alarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 2160,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 5040,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2880,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 2880,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "D5PAS",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med alufælge."
+    },
+    {
+     "navn": "Bund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": "BDIAU",
+     "tilbehoer": false,
+     "note": "Listen oplyser ikke typen."
+    },
+    {
+     "navn": "Fartbegrænser, 120 km/t",
+     "gruppe": "andet",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "DCFAE",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Forhøjet lasteevne",
+     "gruppe": "andet",
+     "pris_kr": 2880,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "AA7AP",
+     "tilbehoer": false,
+     "note": "Ca. 160-170 kg mere lasteevne, fordi totalvægten hæves."
+    },
+    {
+     "navn": "Fuldautomatisk klimaanlæg",
+     "gruppe": "komfort",
+     "pris_kr": 2450,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 2450,
+      "Limited": "std"
+     },
+     "post": "aircondition",
+     "kode": "AC--C",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Lastluge i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 5765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skillevaeg",
+     "kode": "AGWAD",
+     "tilbehoer": false,
+     "note": "Varerumsadskillelse med lastluge og passagersæde med foldefunktion."
+    },
+    {
+     "navn": "LED-kørelys",
+     "gruppe": "ydre",
+     "pris_kr": 2160,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JBBAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "varerumslys_led",
+     "kode": "JCMAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 2595,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skillevaeg",
+     "kode": "A6AA4",
+     "tilbehoer": false,
+     "note": "Kun sammen med lastlugen."
+    },
+    {
+     "navn": "Ruder i bagdøre",
+     "gruppe": "ydre",
+     "pris_kr": 1730,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Opvarmede og med visker."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5040,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "ABFCA",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 7200,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Solar Silver, Agate Black, Fantastic Red, Digital Aqua Blue og Bursting Green."
+    },
+    {
+     "navn": "Unilak Cactus Gray",
+     "gruppe": "ydre",
+     "pris_kr": 7200,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Frozen White er uden pristillæg."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke",
+     "pris_kr": 11525,
+     "gaelder": "alle",
+     "indhold": [
+      "Navigation",
+      "Adaptiv fartpilot med Lane Centering og Stop & Go (kun automatgear)",
+      "Adaptiv fartpilot (manuelt gear)",
+      "BLIS med Cross Traffic Alert",
+      "Pre-Collision Assist 2.2",
+      "P-sensorer for (Trend)",
+      "Bakkamera (Trend)",
+      "El-foldbare sidespejle i bilens farve"
+     ],
+     "niveau_priser": {
+      "Trend": 14404,
+      "Limited": 11525
+     },
+     "kode": "DBCAD",
+     "note": "Fås ikke sammen med Parkeringspakken."
+    },
+    {
+     "navn": "Parkeringspakke",
+     "pris_kr": 2880,
+     "gaelder": "Trend",
+     "indhold": [
+      "P-sensorer for",
+      "Bakkamera"
+     ],
+     "niveau_priser": {
+      "Trend": 2880,
+      "Limited": "std"
+     },
+     "kode": "DBCAC",
+     "note": "Fås ikke sammen med Førerassistancepakken."
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/transit-courier/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/transit-courier/",
+     "navn": "Fords specifikationsløsblad for Transit Courier (modelår 2026.75, opdateret 04/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-e-transit-courier": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/e-transit-courier-van/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for E-Transit Courier van (07-08-2026)",
+   "prisliste_dato": "2026-08-07",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 3980,
+   "levering_i_listen": true,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Listens bilpriser er inkl. levering på 3.980 kr.; her er leveringen trukket fra (235.155 - 3.980 = 231.175 og 242.155 - 3.980 = 238.175). Listen gælder nye fabriksordrer af modelår 2026.75 ved registrering i 2026. Batteri 46 kWh (effektivt), AC 11 kW, DC 100 kW. Totalvægt 2.250 kg og forhjulstræk er fra specifikationsløsbladet.",
+   "udgaver": [
+    {
+     "navn": "Trend 136 hk 46 kWh",
+     "niveau": "Trend",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 46,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 231175
+    },
+    {
+     "navn": "Limited 136 hk 46 kWh",
+     "niveau": "Limited",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 46,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 238175
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Thatcham-alarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 2160,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 5040,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": "BDIAU",
+     "tilbehoer": false,
+     "note": "Listen oplyser ikke typen."
+    },
+    {
+     "navn": "Fartbegrænser, 120 km/t",
+     "gruppe": "andet",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "DCFAE",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ladekabel, 5 m (mode 3, type 2)",
+     "gruppe": "el",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAG",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Lastluge i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 5765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skillevaeg",
+     "kode": "AGWAD",
+     "tilbehoer": false,
+     "note": "Varerumsadskillelse med lastluge og passagersæde med foldefunktion."
+    },
+    {
+     "navn": "LED-kørelys",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": "std"
+     },
+     "post": null,
+     "kode": "JBBAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 720,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "varerumslys_led",
+     "kode": "JCMAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "ABFCA",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "400 W udtag (230V) i frontkonsollen",
+     "gruppe": "varerum",
+     "pris_kr": 3495,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "HUKAJ",
+     "tilbehoer": false,
+     "note": "Universalstik, ikke Schuko."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Solar Silver, Agate Black, Fantastic Red, Digital Aqua Blue og Bursting Green."
+    },
+    {
+     "navn": "Unilak Cactus Gray",
+     "gruppe": "ydre",
+     "pris_kr": 5765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Frozen White er uden pristillæg."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke",
+     "pris_kr": 11525,
+     "gaelder": "alle",
+     "indhold": [
+      "Navigation",
+      "Adaptiv fartpilot med Lane Centering og Stop & Go",
+      "BLIS med Cross Traffic Alert",
+      "Pre-Collision Assist 2.2",
+      "El-foldbare sidespejle"
+     ],
+     "niveau_priser": {
+      "Trend": 14400,
+      "Limited": 11525
+     },
+     "kode": "DBCAD",
+     "note": "Fås ikke sammen med Parkeringspakken, som er standard."
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/e-transit-courier-van/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/e-transit-courier/",
+     "navn": "Fords specifikationsløsblad for E-Transit Courier (modelår 2026.75, opdateret 04/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-transit-connect": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/transit-connect/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Connect diesel (26-02-2026)",
+   "prisliste_dato": "2026-02-26",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2026.50 ved registrering i 2026. Gear er fra prislisten; løsbladet har fejl (overskriften siger Transit Custom, og 102 hk står med automatgear). Forhjulstræk på udgaverne uden AWD er fra løsbladet. Totalvægten står som ukendt, fordi løsbladet ikke stemmer med listen. Listen oplyser ikke højden.",
+   "udgaver": [
+    {
+     "navn": "L1 Trend 2.0 EcoBlue 122 hk 7-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 287473
+    },
+    {
+     "navn": "L1 Limited 2.0 EcoBlue 122 hk 7-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 305212
+    },
+    {
+     "navn": "L1 Trend 2.0 EcoBlue AWD 122 hk 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "firhjul",
+     "pris_kr": 298562
+    },
+    {
+     "navn": "L2 Trend 2.0 EcoBlue 102 hk 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 102,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 276416
+    },
+    {
+     "navn": "L2 Trend 2.0 EcoBlue 122 hk 7-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 298239
+    },
+    {
+     "navn": "L2 Limited 2.0 EcoBlue 122 hk 7-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 315681
+    },
+    {
+     "navn": "L2 Trend 2.0 EcoBlue AWD 122 hk 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "firhjul",
+     "pris_kr": 309328
+    },
+    {
+     "navn": "L2 Limited 2.0 EcoBlue AWD 122 hk 6-trins manuel",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.0 EcoBlue",
+     "hk": 122,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "firhjul",
+     "pris_kr": 327068
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2880,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAS",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, aftageligt",
+     "gruppe": "traek",
+     "pris_kr": 5763,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, aftageligt (linje med Førerassistancepakke 8P)",
+     "gruppe": "traek",
+     "pris_kr": 4321,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 4321
+     },
+     "post": "anhaengertraek",
+     "kode": "C1MAL",
+     "tilbehoer": false,
+     "note": "Listen skriver \"Inkluderer: Førerassistancepakke 8P\" ved denne linje, men ikke om prisen er et tillæg til pakken."
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 4321,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakkamera",
+     "gruppe": "parkering",
+     "pris_kr": 2880,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 2880,
+      "Limited": "std"
+     },
+     "post": "bakkamera",
+     "kode": "J3KAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul (stålfælg)",
+     "gruppe": "ydre",
+     "pris_kr": 2162,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "D17AD",
+     "tilbehoer": false,
+     "note": "Fås ikke til AWD."
+    },
+    {
+     "navn": "Ruder i bagdøre, sidehængslede",
+     "gruppe": "ydre",
+     "pris_kr": 2162,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "A6KAB",
+     "tilbehoer": false,
+     "note": "Med visker og vasker."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5763,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side med rude",
+     "gruppe": "varerum",
+     "pris_kr": 10082,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "AGJAG",
+     "tilbehoer": false,
+     "note": "Med siderude i højre side."
+    },
+    {
+     "navn": "Tophængslet bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 2162,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAC",
+     "tilbehoer": false,
+     "note": "Med rude, visker og vasker."
+    },
+    {
+     "navn": "Træbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 3601,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3601,
+      "Limited": "nej"
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIBD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 4321,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 7202,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ink Black, Midnight Blue, Frost Silver, Graphite Grey, Maple Red, Dusky Silver og Boundless Blue."
+    },
+    {
+     "navn": "Sensico-sæder, sorte med grå syninger",
+     "gruppe": "komfort",
+     "pris_kr": 3601,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 3601
+     },
+     "post": null,
+     "kode": "3KDM5",
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 5P",
+     "pris_kr": 5763,
+     "gaelder": "Limited",
+     "indhold": [
+      "Intelligent adaptiv fartpilot (IACC) med Lane Centring og Driver State Assist"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5763
+     },
+     "kode": "DBCAH",
+     "note": null
+    },
+    {
+     "navn": "Førerassistancepakke 8P",
+     "pris_kr": 7921,
+     "gaelder": "Limited",
+     "indhold": [
+      "Intelligent adaptiv fartpilot (IACC) med Lane Centring og Driver State Assist",
+      "Lane Change Assist",
+      "Anhængertræk, fast",
+      "Pro Trailer Backup Assist"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 7921
+     },
+     "kode": "DBCAL",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 15",
+     "pris_kr": 5763,
+     "gaelder": "alle",
+     "indhold": [
+      "AGR-førersæde med varme og lændestøtte (2-vejs elektrisk justerbart)",
+      "Opvarmet passagersæde med lændestøtte"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAR",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/transit-connect/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/transit-connect-diesel/",
+     "navn": "Fords specifikationsløsblad for Transit Connect diesel (modelår 2026.50, opdateret 05/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-transit-connect-phev": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/transit-connect-phev/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Connect PHEV (26-02-2026)",
+   "prisliste_dato": "2026-02-26",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2026.50 ved registrering i 2026. Batteriet er 19,6 kWh og lader med 11 kW (0-100 % på 2 t 30 min). Forhjulstræk er fra løsbladet. Løsbladet er fra modelår 2026.00 (totalvægt L1 2.400 kg og L2 2.500 kg); totalvægten står derfor som ukendt.",
+   "udgaver": [
+    {
+     "navn": "L1 Trend 1.5 EcoBoost PHEV 150 hk 6-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "plugin",
+     "motor": "1.5 EcoBoost PHEV",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": 19.6,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 268929
+    },
+    {
+     "navn": "L1 Limited 1.5 EcoBoost PHEV 150 hk 6-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "plugin",
+     "motor": "1.5 EcoBoost PHEV",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": 19.6,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 284225
+    },
+    {
+     "navn": "L2 Trend 1.5 EcoBoost PHEV 150 hk 6-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "plugin",
+     "motor": "1.5 EcoBoost PHEV",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": 19.6,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 278052
+    },
+    {
+     "navn": "L2 Limited 1.5 EcoBoost PHEV 150 hk 6-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "plugin",
+     "motor": "1.5 EcoBoost PHEV",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": 19.6,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 293550
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk (all weather)",
+     "gruppe": "ydre",
+     "pris_kr": 2880,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAS",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 4321,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1MAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakkamera",
+     "gruppe": "parkering",
+     "pris_kr": 2880,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 2880,
+      "Limited": "std"
+     },
+     "post": "bakkamera",
+     "kode": "J3KAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre, sidehængslede",
+     "gruppe": "ydre",
+     "pris_kr": 2162,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "A6KAB",
+     "tilbehoer": false,
+     "note": "Med visker og vasker."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5763,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side med rude",
+     "gruppe": "varerum",
+     "pris_kr": 10082,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "AGJAG",
+     "tilbehoer": false,
+     "note": "Med siderude i højre side."
+    },
+    {
+     "navn": "Tophængslet bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 2162,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAC",
+     "tilbehoer": false,
+     "note": "Med rude, visker og vasker."
+    },
+    {
+     "navn": "Træbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 3601,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3601,
+      "Limited": "nej"
+     },
+     "post": "gulv_varerum",
+     "kode": "BDIBD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 4321,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 7202,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ink Black, Midnight Blue, Frost Silver, Graphite Grey, Maple Red, Dusky Silver og Boundless Blue."
+    },
+    {
+     "navn": "Sensico-sæder, sorte med grå syninger",
+     "gruppe": "komfort",
+     "pris_kr": 3601,
+     "gaelder": "Limited",
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 3601
+     },
+     "post": null,
+     "kode": "3KDM5",
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 5P",
+     "pris_kr": 5763,
+     "gaelder": "Limited",
+     "indhold": [
+      "Intelligent adaptiv fartpilot (IACC) med Lane Centring og Driver State Assist"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 5763
+     },
+     "kode": "DBCAH",
+     "note": null
+    },
+    {
+     "navn": "Førerassistancepakke 8P",
+     "pris_kr": 7921,
+     "gaelder": "Limited",
+     "indhold": [
+      "Intelligent adaptiv fartpilot (IACC) med Lane Centring og Driver State Assist",
+      "Lane Change Assist",
+      "Anhængertræk, fast",
+      "Pro Trailer Backup Assist"
+     ],
+     "niveau_priser": {
+      "Trend": "nej",
+      "Limited": 7921
+     },
+     "kode": "DBCAL",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 15",
+     "pris_kr": 5763,
+     "gaelder": "alle",
+     "indhold": [
+      "AGR-førersæde med varme og lændestøtte (2-vejs elektrisk justerbart)",
+      "Opvarmet passagersæde med lændestøtte"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAR",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/transit-connect-phev/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/transit-connect/",
+     "navn": "Fords specifikationsløsblad for Transit Connect PHEV (modelår 2026.00, opdateret 08/2025)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-transit": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/transit/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Transit Van (01-10-2026)",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2027.00 ved registrering i 2026 og erstatter listen af 07-07-2026. Totalvægten 3.500 kg følger Fords betegnelse 350. HDT-udgaverne har ifølge listen forbrug, CO2 og afgift, der afhænger af opbygningen. Højt tag (H3) til L2 og L3 er et tilvalg. Specifikationsløsbladet er under opdatering. Listen har to trykfejl: Smart Fuse Box (se tilvalget) og momsprisen på helårsdæk på Limited.",
+   "udgaver": [
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 130 hk FWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 275353
+    },
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 130 hk FWD 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 289140
+    },
+    {
+     "navn": "350 L2H2 Limited 2.0 TDCi 130 hk FWD 8-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 298331
+    },
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 165 hk FWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 281787
+    },
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 165 hk AWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "firhjul",
+     "pris_kr": 337391
+    },
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 165 hk FWD 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 295573
+    },
+    {
+     "navn": "350 L2H2 Limited 2.0 TDCi 165 hk FWD 8-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 304764
+    },
+    {
+     "navn": "350 L2H2 Trend 2.0 TDCi 165 hk FWD 8-trins automatgear (HDT)",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 295573
+    },
+    {
+     "navn": "350 L2H2 Limited 2.0 TDCi 165 hk FWD 8-trins automatgear (HDT)",
+     "niveau": "Limited",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 304764
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 130 hk FWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 279029
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 130 hk FWD 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 292815
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 165 hk FWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 285464
+    },
+    {
+     "navn": "350 L3H2 Limited 2.0 TDCi 165 hk FWD 6-trins manuel",
+     "niveau": "Limited",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 294655
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 165 hk AWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "firhjul",
+     "pris_kr": 341067
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 165 hk FWD 8-trins automatgear",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 299251
+    },
+    {
+     "navn": "350 L3H2 Limited 2.0 TDCi 165 hk FWD 8-trins automatgear",
+     "niveau": "Limited",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 308440
+    },
+    {
+     "navn": "350 L3H2 Limited 2.0 TDCi 165 hk FWD 8-trins automatgear (HDT)",
+     "niveau": "Limited",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 308440
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 165 hk RWD 6-trins manuel",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 290059
+    },
+    {
+     "navn": "350 L3H2 Trend 2.0 TDCi 165 hk RWD 10-trins automatgear (HDT)",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 304764
+    },
+    {
+     "navn": "350 L4H3 Trend 2.0 TDCi 165 hk RWD 10-trins automatgear (HDT)",
+     "niveau": "Trend",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDCi",
+     "hk": 165,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 308440
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" alufælge med 235/65 R16 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 3546,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 3546,
+      "Limited": "std"
+     },
+     "post": null,
+     "kode": "D2XD7",
+     "tilbehoer": false,
+     "note": "Fås ikke til dobbelte baghjul."
+    },
+    {
+     "navn": "12V-stik i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 266,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_12v_varerum",
+     "kode": "J3FAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra fjernbetjeningsnøgle (nr. 2)",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 444,
+      "Limited": "std"
+     },
+     "post": null,
+     "kode": "CBFAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra nøgle (nr. 3)",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CATAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "400 W inverter",
+     "gruppe": "varerum",
+     "pris_kr": 2659,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "J3EAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Accelerationskontrol",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "C7JAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Passagerairbag",
+     "gruppe": "andet",
+     "pris_kr": 886,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CPHAB",
+     "tilbehoer": false,
+     "note": "Med selealarm for føreren og mulighed for at slå airbaggen fra."
+    },
+    {
+     "navn": "Helårsdæk (all weather), Goodyear",
+     "gruppe": "ydre",
+     "pris_kr": 3988,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAG",
+     "tilbehoer": false,
+     "note": "Fås ikke til dobbelte baghjul."
+    },
+    {
+     "navn": "Helårsdæk (all weather), Continental",
+     "gruppe": "ydre",
+     "pris_kr": 3988,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAK",
+     "tilbehoer": false,
+     "note": "Fås ikke til dobbelte baghjul."
+    },
+    {
+     "navn": "Anhængertræk med trailer-slingerkontrol",
+     "gruppe": "traek",
+     "pris_kr": 3546,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1DAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med 236 graders åbning",
+     "gruppe": "varerum",
+     "pris_kr": 1772,
+     "gaelder": "alle; kun L3",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAE",
+     "tilbehoer": false,
+     "note": "Kun til L3."
+    },
+    {
+     "navn": "Bakalarm",
+     "gruppe": "parkering",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HLDAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakspejl, dag/nat",
+     "gruppe": "komfort",
+     "pris_kr": 621,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BSBAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Digitalt bakspejl",
+     "gruppe": "komfort",
+     "pris_kr": 5761,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BSBA3",
+     "tilbehoer": false,
+     "note": "Ruder bag bestilles for sig."
+    },
+    {
+     "navn": "Batterier, 2 x H8 AGM (95 Ah)",
+     "gruppe": "andet",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTAAZ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Beskyttelsesgitter til bagruder",
+     "gruppe": "varerum",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BPDAB",
+     "tilbehoer": false,
+     "note": "Fås ikke til L4."
+    },
+    {
+     "navn": "Bund og sider i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "beklaedning_varerum",
+     "kode": "BDMAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Brændstoftank på 95 liter",
+     "gruppe": "andet",
+     "pris_kr": 1330,
+     "gaelder": "Trend; kun L3 og L4 med baghjulstræk",
+     "niveau_priser": {
+      "Trend": 1330,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "GBAAC",
+     "tilbehoer": false,
+     "note": "Kun til L3 og L4 med baghjulstræk. 70 liter er standard."
+    },
+    {
+     "navn": "Digital fartskriver",
+     "gruppe": "andet",
+     "pris_kr": 6204,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HDKAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Dobbelte baghjul",
+     "gruppe": "ydre",
+     "pris_kr": 10636,
+     "gaelder": "Trend; kun L4 med baghjulstræk",
+     "niveau_priser": {
+      "Trend": 10636,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "J4VAC",
+     "tilbehoer": false,
+     "note": "Kun til L4 med baghjulstræk. Giver manuel parkeringsbremse."
+    },
+    {
+     "navn": "Dækreparationssæt",
+     "gruppe": "ydre",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "AHTAB",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Drejeforlygter (halogen)",
+     "gruppe": "ydre",
+     "pris_kr": 444,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 444,
+      "Limited": "std"
+     },
+     "post": null,
+     "kode": "JBDAR",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Foraksel til 2.000 kg",
+     "gruppe": "andet",
+     "pris_kr": 1596,
+     "gaelder": "alle; kun L2 og L3 med forhjulstræk",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "DYEBK",
+     "tilbehoer": false,
+     "note": "Kun til L2 og L3 med forhjulstræk."
+    },
+    {
+     "navn": "Førstehjælpskasse",
+     "gruppe": "andet",
+     "pris_kr": 222,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "AHQAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Hastighedsbegrænser, 120 km/t",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "DCFAE",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Hastighedsbegrænser, 90 km/t",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "DCFAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "HID xenon-forlygter",
+     "gruppe": "ydre",
+     "pris_kr": 4432,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 4432,
+      "Limited": "std"
+     },
+     "post": null,
+     "kode": "JBBAC",
+     "tilbehoer": false,
+     "note": "Med drejeforlygter."
+    },
+    {
+     "navn": "Højt tag (H3)",
+     "gruppe": "ydre",
+     "pris_kr": 7534,
+     "gaelder": "alle; L2 og L3",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A1FAC",
+     "tilbehoer": false,
+     "note": "Gør L2 og L3 til H3. Standard på L4."
+    },
+    {
+     "navn": "LED-lys i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "varerumslys_led",
+     "kode": "JCMAD",
+     "tilbehoer": false,
+     "note": "Med LED-lys i kabinen."
+    },
+    {
+     "navn": "Ledningsnet til fartskriver",
+     "gruppe": "andet",
+     "pris_kr": 2305,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HDKAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Magnetic, Blue, Agate Black og Moondust Silver koster det samme."
+    },
+    {
+     "navn": "Unilak Grey Matter (premium)",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 5318,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "PN4EG",
+     "tilbehoer": false,
+     "note": "Frozen White og Blazer Blue er uden pristillæg, Race Red kun på Trend."
+    },
+    {
+     "navn": "Nøglefri start",
+     "gruppe": "komfort",
+     "pris_kr": 1772,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 1772,
+      "Limited": "std"
+     },
+     "post": "noeglefri",
+     "kode": "CBGAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Nøglefri start og adgang",
+     "gruppe": "komfort",
+     "pris_kr": 3546,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 5318,
+      "Limited": 3546
+     },
+     "post": "noeglefri",
+     "kode": "CBGAL",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med skydedør i venstre side."
+    },
+    {
+     "navn": "Reservehjul",
+     "gruppe": "ydre",
+     "pris_kr": 1772,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "D17AD",
+     "tilbehoer": false,
+     "note": "Fås ikke til dobbelte baghjul."
+    },
+    {
+     "navn": "Ruder bag",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Visker og vasker bag bestilles for sig (1.330 kr.)."
+    },
+    {
+     "navn": "Stænklapper for",
+     "gruppe": "ydre",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A3EAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Surringskroge (10 stk.)",
+     "gruppe": "varerum",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A9JAE",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Trinbræt i siden, elektrisk",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "Trend; kun L3 med baghjulstræk",
+     "niveau_priser": {
+      "Trend": 5318,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "BPLA5",
+     "tilbehoer": false,
+     "note": "Kun til L3 med baghjulstræk."
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 2926,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Uden plastbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": "AG5AB",
+     "tilbehoer": false,
+     "note": "Fravalg til 0 kr."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med nøglefri adgang."
+    },
+    {
+     "navn": "Visker og vasker bag",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CFEAD",
+     "tilbehoer": false,
+     "note": "Kun sammen med ruder bag."
+    },
+    {
+     "navn": "Motoromdrejningskontrol",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 444,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": "DCNAB",
+     "tilbehoer": false,
+     "note": "Fås ikke med 10-trins automatgear."
+    },
+    {
+     "navn": "Manuel DPF-regenerering",
+     "gruppe": "andet",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Føreren kan selv starte rensning af partikelfilteret."
+    },
+    {
+     "navn": "Elsæt til anhængertræk (ledningsnet)",
+     "gruppe": "traek",
+     "pris_kr": 1152,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1DAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i kabinen",
+     "gruppe": "komfort",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JCFAL",
+     "tilbehoer": false,
+     "note": "Kun til L2."
+    },
+    {
+     "navn": "Magnetiske bagudvendte døre",
+     "gruppe": "varerum",
+     "pris_kr": 1772,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAP",
+     "tilbehoer": false,
+     "note": "Kun til L2 og L3."
+    },
+    {
+     "navn": "Smart Fuse Box",
+     "gruppe": "andet",
+     "pris_kr": 7977,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Trend": 7977,
+      "Limited": 9971
+     },
+     "post": null,
+     "kode": "JZXAD",
+     "tilbehoer": false,
+     "note": "Listen skriver 7.977 kr. på Trend og 9.971 kr. på Limited uden moms, men 9.971 kr. med moms på begge. 9.971 kr. på Limited er sandsynligvis en trykfejl."
+    },
+    {
+     "navn": "SVO-farve (uni)",
+     "gruppe": "ydre",
+     "pris_kr": 7090,
+     "gaelder": "Trend",
+     "niveau_priser": {
+      "Trend": 7090,
+      "Limited": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Specialfarve via Ford SVO. Giver ændret udvendigt udstyr på Trend."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 6",
+     "pris_kr": 26589,
+     "gaelder": "Trend",
+     "indhold": [
+      "Nødbremse med fodgængergenkendelse",
+      "Adaptiv fartpilot (manuelt gear) eller adaptiv fartpilot med Stop & Go (automatgear)",
+      "Lane Change Warning & Aid (med Lane Centering på automatgear)",
+      "Skiltegenkendelse",
+      "El-justerbare, opvarmede og el-foldbare sidespejle",
+      "BLIS med trailerdækning",
+      "Reverse Brake Assist",
+      "360 graders kamera",
+      "P-sensorer for, bag og i siderne"
+     ],
+     "niveau_priser": {
+      "Trend": 26589,
+      "Limited": "std"
+     },
+     "kode": "DBCBA",
+     "note": null
+    },
+    {
+     "navn": "Delivery Assist Package",
+     "pris_kr": 4432,
+     "gaelder": "alle; kun automatgear",
+     "indhold": [
+      "Hjælpelukning af skydedør",
+      "Uden lille trinbræt i siden",
+      "Nøglefri start og adgang"
+     ],
+     "niveau_priser": null,
+     "kode": "AAEAZ",
+     "note": "Kun til automatgear."
+    },
+    {
+     "navn": "Sædepakke 2",
+     "pris_kr": 6204,
+     "gaelder": "alle",
+     "indhold": [
+      "Enkelt passagersæde",
+      "10-vejs elektrisk justerbart førersæde med lændestøtte, armlæn og varme",
+      "Fører- og passagerairbag"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAC",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 3",
+     "pris_kr": 7534,
+     "gaelder": "alle",
+     "indhold": [
+      "10-vejs elektrisk justerbart og opvarmet førersæde med lændestøtte og armlæn",
+      "Dobbelt passagersæde, 2-vejs manuelt justerbart, med varme på yderste plads"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFBA",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 7",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "indhold": [
+      "Enkelt passagersæde, 4-vejs justerbart, med lændestøtte, armlæn og varme",
+      "Fører- og passagerairbag"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAH",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/transit/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-e-transit": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/e-transit/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for E-Transit Van (01-10-2026)",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder nye fabriksordrer af modelår 2027.00 ved registrering i 2026 og erstatter listen af 07-07-2026, med markant lavere priser. Listen har kun Trend med to kolonner: 350 (3.500 kg) og 425 (4.250 kg, 0 kg anhængervægt). Batteri 68 eller 96 kWh (effektivt); 96 kWh lader med 180 kW DC. Baghjulstræk og 3.500/4.250 kg er fra løsbladet og listens nedvejningskit. 269 hk-udgaven er ikke længere med.",
+   "udgaver": [
+    {
+     "navn": "350 L2H2 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 280000
+    },
+    {
+     "navn": "425 L2H2 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 295000
+    },
+    {
+     "navn": "350 L3H2 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 290000
+    },
+    {
+     "navn": "350 L3H2 Trend 184 hk 96 kWh",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 96,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 305000
+    },
+    {
+     "navn": "425 L3H2 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 305000
+    },
+    {
+     "navn": "425 L3H2 Trend 184 hk 96 kWh",
+     "niveau": "Trend",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 96,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 320000
+    },
+    {
+     "navn": "350 L4H3 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 300000
+    },
+    {
+     "navn": "425 L4H3 Trend 184 hk 68 kWh",
+     "niveau": "Trend",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 68,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 315000
+    },
+    {
+     "navn": "425 L4H3 Trend 184 hk 96 kWh",
+     "niveau": "Trend",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 96,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 330000
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" alufælge med 235/65 R16 dæk",
+     "gruppe": "ydre",
+     "pris_kr": 3546,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D2XD7",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "12V-stik i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 266,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_12v_varerum",
+     "kode": "J3FAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra fjernbetjeningsnøgle (nr. 2)",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CBFAJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra nøgle (nr. 3)",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CATAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "22 kW AC-lader",
+     "gruppe": "el",
+     "pris_kr": 10636,
+     "gaelder": "alle; kun 96 kWh",
+     "niveau_priser": null,
+     "post": "lader_22kw",
+     "kode": "HVEAC",
+     "tilbehoer": false,
+     "note": "Kun til 96 kWh-batteriet. 11 kW er standard."
+    },
+    {
+     "navn": "400 W inverter",
+     "gruppe": "varerum",
+     "pris_kr": 2659,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "J3EAC",
+     "tilbehoer": false,
+     "note": "Skal bestilles med forstærket batteri på 350-udgaverne."
+    },
+    {
+     "navn": "Accelerationskontrol",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "C7JAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather), Goodyear",
+     "gruppe": "ydre",
+     "pris_kr": 3988,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk (all weather), Continental",
+     "gruppe": "ydre",
+     "pris_kr": 3988,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D5PAK",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Passagerairbag",
+     "gruppe": "andet",
+     "pris_kr": 886,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CPHAB",
+     "tilbehoer": false,
+     "note": "Med selealarm for føreren og mulighed for at slå airbaggen fra."
+    },
+    {
+     "navn": "Anhængertræk med trailer-slingerkontrol",
+     "gruppe": "traek",
+     "pris_kr": 3546,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 3546,
+      "Trend 425 (4.250 kg)": "nej"
+     },
+     "post": "anhaengertraek",
+     "kode": "C1DAB",
+     "tilbehoer": false,
+     "note": "Fås kun til 350-udgaverne."
+    },
+    {
+     "navn": "Bagdøre med 236 graders åbning",
+     "gruppe": "varerum",
+     "pris_kr": 1772,
+     "gaelder": "alle; kun L3",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAE",
+     "tilbehoer": false,
+     "note": "Kun til L3."
+    },
+    {
+     "navn": "Bakalarm",
+     "gruppe": "parkering",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HLDAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakspejl, dag/nat",
+     "gruppe": "komfort",
+     "pris_kr": 621,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BSBAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Digitalt bakspejl",
+     "gruppe": "komfort",
+     "pris_kr": 5761,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BSBA3",
+     "tilbehoer": false,
+     "note": "Ruder bag bestilles for sig."
+    },
+    {
+     "navn": "Batterier, 2 x H7 AGM (80 Ah)",
+     "gruppe": "andet",
+     "pris_kr": 1330,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 1330,
+      "Trend 425 (4.250 kg)": "std"
+     },
+     "post": null,
+     "kode": "HTAAC",
+     "tilbehoer": false,
+     "note": "Standard på 425-udgaverne. Kræves til ProPower Onboard."
+    },
+    {
+     "navn": "Batterier, 2 x H8 AGM (95 Ah)",
+     "gruppe": "andet",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTAAZ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Beskyttelsesgitter til bagruder",
+     "gruppe": "varerum",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "BPDAB",
+     "tilbehoer": false,
+     "note": "Fås ikke til L4."
+    },
+    {
+     "navn": "Bund og sider i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "beklaedning_varerum",
+     "kode": "BDMAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Digital fartskriver",
+     "gruppe": "andet",
+     "pris_kr": 6204,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 6204,
+      "Trend 425 (4.250 kg)": "std"
+     },
+     "post": null,
+     "kode": "HDKAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Drejeforlygter (halogen)",
+     "gruppe": "ydre",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JBDAR",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Dækreparationssæt",
+     "gruppe": "ydre",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "AHTAB",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Førstehjælpskasse",
+     "gruppe": "andet",
+     "pris_kr": 222,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "AHQAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "HID xenon-forlygter",
+     "gruppe": "ydre",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JBBAC",
+     "tilbehoer": false,
+     "note": "Med drejeforlygter."
+    },
+    {
+     "navn": "Hastighedsbegrænser, 120 km/t",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 444,
+      "Trend 425 (4.250 kg)": "nej"
+     },
+     "post": null,
+     "kode": "DCFAE",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Hastighedsbegrænser, 90 km/t",
+     "gruppe": "andet",
+     "pris_kr": 444,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 444,
+      "Trend 425 (4.250 kg)": "std"
+     },
+     "post": null,
+     "kode": "DCFAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højt tag (H3)",
+     "gruppe": "ydre",
+     "pris_kr": 7534,
+     "gaelder": "alle; L2 og L3",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A1FAC",
+     "tilbehoer": false,
+     "note": "Gør L2 og L3 til H3. Standard på L4."
+    },
+    {
+     "navn": "Ladekabel, mode 2 (nødkabel)",
+     "gruppe": "el",
+     "pris_kr": 1242,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ladekabel, mode 3, 6 m, 32 A",
+     "gruppe": "el",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAG",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Ladekabel, mode 3, 12,5 m, 32 A",
+     "gruppe": "el",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "varerumslys_led",
+     "kode": "JCMAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ledningsnet til fartskriver",
+     "gruppe": "andet",
+     "pris_kr": 2305,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HDKAF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Nedvejningskit fra 4.250 til 4.075 kg totalvægt",
+     "gruppe": "andet",
+     "pris_kr": 0,
+     "gaelder": "Trend 425 (4.250 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": "nej",
+      "Trend 425 (4.250 kg)": 0
+     },
+     "post": null,
+     "kode": "AA7AC",
+     "tilbehoer": false,
+     "note": "Står til 0 kr."
+    },
+    {
+     "navn": "Nøglefri start og adgang",
+     "gruppe": "komfort",
+     "pris_kr": 3546,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "noeglefri",
+     "kode": "CBGAL",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med skydedør i venstre side."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Magnetic, Blue, Agate Black og Moondust Silver."
+    },
+    {
+     "navn": "Unilak Grey Matter (premium)",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Frozen White, Blazer Blue og Race Red er uden pristillæg."
+    },
+    {
+     "navn": "Perimeteralarm med dobbeltlås",
+     "gruppe": "ydre",
+     "pris_kr": 1152,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "HNAAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "ProPower Onboard",
+     "gruppe": "varerum",
+     "pris_kr": 10636,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": "J3EAJ",
+     "tilbehoer": false,
+     "note": "Kræver batterier 2 x H7 AGM."
+    },
+    {
+     "navn": "Reservehjul",
+     "gruppe": "ydre",
+     "pris_kr": 1772,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "D17AD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder bag",
+     "gruppe": "ydre",
+     "pris_kr": 886,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "B3HAC",
+     "tilbehoer": false,
+     "note": "Visker og vasker bag bestilles for sig (1.330 kr.)."
+    },
+    {
+     "navn": "Stænklapper for",
+     "gruppe": "ydre",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A3EAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "VIS 2.0 (Ford Pro Vehicle Integration System)",
+     "gruppe": "andet",
+     "pris_kr": 2926,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JRSAB",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Uden plastbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": "AG5AB",
+     "tilbehoer": false,
+     "note": "Fravalg til 0 kr."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4432,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "A4LAC",
+     "tilbehoer": false,
+     "note": "Fås ikke sammen med nøglefri adgang."
+    },
+    {
+     "navn": "Visker og vasker bag",
+     "gruppe": "ydre",
+     "pris_kr": 1330,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CFEAD",
+     "tilbehoer": false,
+     "note": "Kun sammen med ruder bag."
+    },
+    {
+     "navn": "Elsæt til anhængertræk (ledningsnet)",
+     "gruppe": "traek",
+     "pris_kr": 1152,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 1152,
+      "Trend 425 (4.250 kg)": "nej"
+     },
+     "post": "anhaengertraek",
+     "kode": "C1DAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-lys i kabinen",
+     "gruppe": "komfort",
+     "pris_kr": 444,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JCFAL",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Smart Fuse Box",
+     "gruppe": "andet",
+     "pris_kr": 7977,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JZXAD",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Magnetiske bagudvendte døre",
+     "gruppe": "varerum",
+     "pris_kr": 1772,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A6KAP",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "SVO-farve (uni)",
+     "gruppe": "ydre",
+     "pris_kr": 5318,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Specialfarve via Ford SVO. Giver ændret udvendigt udstyr."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Førerassistancepakke 6",
+     "pris_kr": 26589,
+     "gaelder": "Trend 350 (3.500 kg)",
+     "indhold": [
+      "Nødbremse med fodgængergenkendelse",
+      "Adaptiv fartpilot med Stop & Go",
+      "Lane Change Warning & Aid med Lane Centering",
+      "Skiltegenkendelse",
+      "El-justerbare, opvarmede og el-foldbare sidespejle",
+      "BLIS med trailerdækning",
+      "Reverse Brake Assist",
+      "360 graders kamera",
+      "P-sensorer for, bag og i siderne"
+     ],
+     "niveau_priser": {
+      "Trend 350 (3.500 kg)": 26589,
+      "Trend 425 (4.250 kg)": "std"
+     },
+     "kode": "DBCBA",
+     "note": null
+    },
+    {
+     "navn": "Delivery Assist Package",
+     "pris_kr": 3546,
+     "gaelder": "alle",
+     "indhold": [
+      "Hjælpelukning af skydedør",
+      "Uden lille trinbræt i siden",
+      "Nøglefri start og adgang"
+     ],
+     "niveau_priser": null,
+     "kode": "AAEAZ",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 2",
+     "pris_kr": 6204,
+     "gaelder": "alle",
+     "indhold": [
+      "Enkelt passagersæde",
+      "10-vejs elektrisk justerbart førersæde med lændestøtte, armlæn og varme",
+      "Fører- og passagerairbag"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAC",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 3",
+     "pris_kr": 7534,
+     "gaelder": "alle",
+     "indhold": [
+      "10-vejs elektrisk justerbart og opvarmet førersæde med lændestøtte og armlæn",
+      "Dobbelt passagersæde med varme på yderste plads",
+      "6 airbags"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFBA",
+     "note": null
+    },
+    {
+     "navn": "Sædepakke 7",
+     "pris_kr": 2216,
+     "gaelder": "alle",
+     "indhold": [
+      "Enkelt passagersæde, 4-vejs justerbart, med lændestøtte, armlæn og varme",
+      "Fører- og passagerairbag"
+     ],
+     "niveau_priser": null,
+     "kode": "BVFAH",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/e-transit/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/e-transit/",
+     "navn": "Fords specifikationsløsblad for E-Transit Van (modelår 2025.50, opdateret 03/2025)",
+     "dato": "2026-10-05"
+    }
+   ]
+  },
+  "ford-ranger": {
+   "kilde_url": "https://katalog.ford.dk/prislister/varebiler/ranger/",
+   "kilde_navn": "Fords vejledende prisliste og udstyrsliste for Ranger van (Double Cab, over 3.000 kg) (25-09-2026)",
+   "prisliste_dato": "2026-09-25",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Alle priser er uden moms og inkl. registreringsafgift. Levering koster 4.620 kr. og er ikke med i priserne. Listen gælder modelår 2027.00 ved registrering i 2026. Ranger-listen har diesel og plugin-hybrid. Raptor har sin egen liste (kilder_ekstra) og er taget med som pickup-udgave af Ranger; dens tilvalg har gaelder \"Raptor\". Dieselens totalvægt står som 3.300-3.350 kg i listen og er derfor sat til ukendt. Listen oplyser ikke plugin-hybridens batteri. Platinum har Wildtraks standardudstyr undtagen off-road-pakken.",
+   "udgaver": [
+    {
+     "navn": "Double Cab Wildtrak 3.0 V6 EcoBlue 240 hk diesel e-4WD 10-trins automatgear",
+     "niveau": "Wildtrak",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 EcoBlue",
+     "hk": 240,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 421995
+    },
+    {
+     "navn": "Double Cab Platinum 3.0 V6 EcoBlue 240 hk diesel e-4WD 10-trins automatgear",
+     "niveau": "Platinum",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 EcoBlue",
+     "hk": 240,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 436995
+    },
+    {
+     "navn": "Double Cab Wildtrak 2.3 EcoBoost PHEV 281 hk e-4WD 10-trins automatgear",
+     "niveau": "Wildtrak",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "plugin",
+     "motor": "2.3 EcoBoost PHEV",
+     "hk": 281,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 419995
+    },
+    {
+     "navn": "Double Cab Platinum 2.3 EcoBoost PHEV 281 hk e-4WD 10-trins automatgear",
+     "niveau": "Platinum",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "plugin",
+     "motor": "2.3 EcoBoost PHEV",
+     "hk": 281,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 434995
+    },
+    {
+     "navn": "Raptor 3.0 V6 EcoBoost twin-turbo 292 hk benzin e-4WD 10-trins automatgear",
+     "niveau": "Raptor",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3130,
+     "drivmiddel": "benzin",
+     "motor": "3.0 V6 EcoBoost",
+     "hk": 292,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 496910
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "All terrain-dæk til dieselen (ikke vintergodkendt i Danmark)",
+     "gruppe": "ydre",
+     "pris_kr": 2660,
+     "gaelder": "Wildtrak diesel",
+     "niveau_priser": {
+      "Wildtrak": 2660,
+      "Platinum": "nej"
+     },
+     "post": null,
+     "kode": "J4YBQ",
+     "tilbehoer": false,
+     "note": "Kun til 18\" standardfælge."
+    },
+    {
+     "navn": "All terrain-dæk til plugin-hybriden (ikke vintergodkendt i Danmark)",
+     "gruppe": "ydre",
+     "pris_kr": 3495,
+     "gaelder": "Wildtrak og Platinum, plugin-hybrid",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "J4YB4",
+     "tilbehoer": false,
+     "note": "Kun til 18\" standardfælge. Kode J4YB4 på Wildtrak og J4YBS på Platinum."
+    },
+    {
+     "navn": "20\" alufælge",
+     "gruppe": "ydre",
+     "pris_kr": 8385,
+     "gaelder": "Wildtrak diesel",
+     "niveau_priser": {
+      "Wildtrak": 8385,
+      "Platinum": "nej"
+     },
+     "post": null,
+     "kode": "J4YAW",
+     "tilbehoer": false,
+     "note": "Fås ikke til plugin-hybriden."
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 6995,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "C1CAH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "BlueCruise-forberedelse",
+     "gruppe": "assistent",
+     "pris_kr": 1000,
+     "gaelder": "Wildtrak",
+     "niveau_priser": {
+      "Wildtrak": 1000,
+      "Platinum": "std"
+     },
+     "post": null,
+     "kode": "DBCBD",
+     "tilbehoer": false,
+     "note": "Kræver anhængertræk på Wildtrak. 90 dages prøveperiode følger med."
+    },
+    {
+     "navn": "BlueCruise (håndfri kørsel på motorvej)",
+     "gruppe": "assistent",
+     "pris_kr": 7980,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "JADAB",
+     "tilbehoer": false,
+     "note": "Engangsbetaling, der gælder i 7 år. Kræver BlueCruise-forberedelse på Wildtrak."
+    },
+    {
+     "navn": "Elektrisk ladrulledækken med ladindsats",
+     "gruppe": "varerum",
+     "pris_kr": 15070,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "CHBAP",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Flexible Rack System",
+     "gruppe": "varerum",
+     "pris_kr": 15030,
+     "gaelder": "Wildtrak",
+     "niveau_priser": {
+      "Wildtrak": 15030,
+      "Platinum": "nej"
+     },
+     "post": null,
+     "kode": "A9IAX",
+     "tilbehoer": false,
+     "note": "Længdeforskydelig sportsbøjle på ladet og tværgående tagbøjler."
+    },
+    {
+     "navn": "Ladekabel, 8 m",
+     "gruppe": "el",
+     "pris_kr": 0,
+     "gaelder": "Wildtrak og Platinum, plugin-hybrid",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "HTSAK",
+     "tilbehoer": false,
+     "note": "Kun til plugin-hybriden. Erstatter standardkablet. Står til 0 kr."
+    },
+    {
+     "navn": "Ladindsats",
+     "gruppe": "varerum",
+     "pris_kr": 2995,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ADQAG",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Manuelt ladrulledækken",
+     "gruppe": "varerum",
+     "pris_kr": 14180,
+     "gaelder": "Wildtrak diesel",
+     "niveau_priser": {
+      "Wildtrak": 14180,
+      "Platinum": "nej"
+     },
+     "post": null,
+     "kode": "CHBAN",
+     "tilbehoer": false,
+     "note": "Fås ikke til plugin-hybriden."
+    },
+    {
+     "navn": "Metallak og specialfarver",
+     "gruppe": "ydre",
+     "pris_kr": 5320,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Agate Black, Carbonized Gray, Iconic Silver, Ignite Orange (kun Wildtrak), Lucid Red og Acacia Green (kun Platinum)."
+    },
+    {
+     "navn": "Programmerbar motor- og kabinevarmer",
+     "gruppe": "komfort",
+     "pris_kr": 14180,
+     "gaelder": "Wildtrak og Platinum, diesel",
+     "niveau_priser": null,
+     "post": "parkeringsvarmer",
+     "kode": "GZAAF",
+     "tilbehoer": false,
+     "note": "Fås ikke til plugin-hybriden."
+    },
+    {
+     "navn": "ProPower Onboard 6,9 kW",
+     "gruppe": "varerum",
+     "pris_kr": 15510,
+     "gaelder": "Wildtrak plugin-hybrid",
+     "niveau_priser": {
+      "Wildtrak": 15510,
+      "Platinum": "nej"
+     },
+     "post": "stik_230v",
+     "kode": "ADQAJ",
+     "tilbehoer": false,
+     "note": "To strømudtag på ladet og ét i kabinen samt ladindsats. Kun til plugin-hybriden."
+    },
+    {
+     "navn": "Undervognsbeskyttelse (voksbehandling)",
+     "gruppe": "andet",
+     "pris_kr": 3545,
+     "gaelder": "Wildtrak og Platinum",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A2YAC",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Raptor-striber",
+     "gruppe": "ydre",
+     "pris_kr": 3100,
+     "gaelder": "Raptor",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "A5GC2",
+     "tilbehoer": false,
+     "note": "På motorhjelm, ladsider og bagklap."
+    },
+    {
+     "navn": "Metallak og specialfarver",
+     "gruppe": "ydre",
+     "pris_kr": 5320,
+     "gaelder": "Raptor",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Desert Island Blue, Code Orange, Command Grey, Meteor Grey og Shadow Black."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Off-road pakke",
+     "pris_kr": 3545,
+     "gaelder": "Platinum",
+     "indhold": [
+      "Differentialespærre bag",
+      "Skjold under motor og brændstoftank"
+     ],
+     "niveau_priser": {
+      "Wildtrak": "std",
+      "Platinum": 3545
+     },
+     "kode": "AALB0",
+     "note": null
+    },
+    {
+     "navn": "Raptor Pack",
+     "pris_kr": 18615,
+     "gaelder": "Raptor",
+     "indhold": [
+      "Elektrisk ladrulledækken",
+      "Styrtbøjle på ladet"
+     ],
+     "niveau_priser": null,
+     "kode": "AAXAH",
+     "note": null
+    }
+   ],
+   "kilder_ekstra": [
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/ranger/GetPDF.ashx",
+     "navn": "PDF-udgaven af samme prisliste (iPaper)",
+     "dato": "2026-10-05"
+    },
+    {
+     "url": "https://katalog.ford.dk/prislister/varebiler/ranger-raptor/",
+     "navn": "Fords vejledende prisliste og udstyrsliste for Ranger Raptor van (25-09-2026)",
+     "dato": "2026-10-05",
+     "note": "Kilde til Raptor-udgaven og dens tilvalg."
+    },
+    {
+     "url": "https://katalog.ford.dk/specifikationer/ranger/",
+     "navn": "Fords specifikationsløsblad for Ranger Wildtrak V6 EcoBlue diesel (modelår 2026.50, opdateret 04/2026)",
+     "dato": "2026-10-05"
+    }
+   ]
+  }
+ },
+ "udstyr_patch": {
+  "ford-transit-custom": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 36"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 46"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 52"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "std",
+     "note": "Sidebeklædning"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik, ikke Schuko)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik, ikke Schuko)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik, ikke Schuko)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik, ikke Schuko)"
+    }
+   ]
+  },
+  "ford-transit-custom-phev": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 46"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 52"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "std",
+     "note": "Sidebeklædning"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "Lader med 3,5 kW"
+    },
+    {
+     "s": "nej",
+     "note": "Lader med 3,5 kW"
+    },
+    {
+     "s": "nej",
+     "note": "Lader med 3,5 kW"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "ford-e-transit-custom": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5995
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3545,
+     "note": "Integrerede tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Thatcham-alarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 46"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 52"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "pakke",
+     "pris": 14180,
+     "pakke": "Førerassistancepakke 6"
+    },
+    {
+     "s": "pakke",
+     "pris": 14180,
+     "pakke": "Førerassistancepakke 6"
+    },
+    {
+     "s": "pakke",
+     "pris": 14180,
+     "pakke": "Førerassistancepakke 6"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 800,
+     "note": "Sidebeklædning"
+    },
+    {
+     "s": "std",
+     "note": "Sidebeklædning"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2215,
+     "note": "400 W udtag på førersædekonsollen (universalstik). ProPower Onboard med to 230V-udtag i varerummet og ét i kabinen koster 8.420 kr."
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "AC-lader op til 11 kW"
+    },
+    {
+     "s": "nej",
+     "note": "AC-lader op til 11 kW"
+    },
+    {
+     "s": "nej",
+     "note": "AC-lader op til 11 kW"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ]
+  },
+  "ford-transit-courier": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7200
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7200
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 2160,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2160,
+     "note": "Thatcham-alarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "pakke",
+     "pris": 14404,
+     "pakke": "Førerassistancepakke"
+    },
+    {
+     "s": "pakke",
+     "pris": 11525,
+     "pakke": "Førerassistancepakke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "ford-e-transit-courier": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5765
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5765
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 2160,
+     "note": "Thatcham-alarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2160,
+     "note": "Thatcham-alarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "pakke",
+     "pris": 14400,
+     "pakke": "Førerassistancepakke"
+    },
+    {
+     "s": "pakke",
+     "pris": 11525,
+     "pakke": "Førerassistancepakke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 3495,
+     "note": "400 W udtag i frontkonsollen (universalstik, ikke Schuko)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3495,
+     "note": "400 W udtag i frontkonsollen (universalstik, ikke Schuko)"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "AC-lader op til 11 kW"
+    },
+    {
+     "s": "nej",
+     "note": "AC-lader op til 11 kW"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "ford-transit-connect": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7202
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7202
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 2162,
+     "note": "Stålfælg. Fås ikke til AWD"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2162,
+     "note": "Stålfælg. Fås ikke til AWD"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "nej",
+     "note": "Enkelt passagersæde er standard, og listen har intet dobbelt"
+    },
+    {
+     "s": "nej",
+     "note": "Enkelt passagersæde er standard, og listen har intet dobbelt"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Digitalt instrumentbord med \"Navigation Integration\" er standard, men listen siger ikke, om der er indbygget navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner kun 12V-udtag"
+    },
+    {
+     "s": "ukendt",
+     "note": "Listen nævner kun 12V-udtag"
+    }
+   ]
+  },
+  "ford-transit-connect-phev": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7202
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7202
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i PHEV-listen. Dieselen har reservehjul til 2.162 kr."
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i PHEV-listen. Dieselen har reservehjul til 2.162 kr."
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "nej",
+     "note": "Enkelt passagersæde er standard, og listen har intet dobbelt"
+    },
+    {
+     "s": "nej",
+     "note": "Enkelt passagersæde er standard, og listen har intet dobbelt"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Digitalt instrumentbord med \"Navigation Integration\" er standard, men listen siger ikke, om der er indbygget navigation"
+    },
+    {
+     "s": "ukendt",
+     "note": "Digitalt instrumentbord med \"Navigation Integration\" er standard, men listen siger ikke, om der er indbygget navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner kun 12V-udtag"
+    },
+    {
+     "s": "ukendt",
+     "note": "Listen nævner kun 12V-udtag"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "Lader med 11 kW"
+    },
+    {
+     "s": "nej",
+     "note": "Lader med 11 kW"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "ford-transit": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5318
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5318
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1772,
+     "note": "Fås ikke til dobbelte baghjul"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1772,
+     "note": "Fås ikke til dobbelte baghjul"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "std",
+     "note": "Perimeteralarm"
+    },
+    {
+     "s": "std",
+     "note": "Perimeteralarm"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "SYNC4 med 12\" skærm er standard, men listen nævner ikke navigation"
+    },
+    {
+     "s": "ukendt",
+     "note": "SYNC4 med 12\" skærm er standard, men listen nævner ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 4432,
+     "note": "Bund og sider i varerum"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4432,
+     "note": "Bund og sider i varerum"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 2659,
+     "note": "400 W inverter"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2659,
+     "note": "400 W inverter"
+    }
+   ],
+   "bagdoere_rude": [
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Ruder bag. Visker og vasker bag koster 1.330 kr. ekstra"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1330,
+     "note": "Ruder bag. Visker og vasker bag koster 1.330 kr. ekstra"
+    }
+   ]
+  },
+  "ford-e-transit": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5318
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5318
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1772
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1772
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1152,
+     "note": "Perimeteralarm med dobbeltlås"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1152,
+     "note": "Perimeteralarm med dobbeltlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    },
+    {
+     "s": "std",
+     "note": "Sædepakke 8A"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "SYNC4 med 12\" skærm er standard, men listen nævner ikke navigation"
+    },
+    {
+     "s": "ukendt",
+     "note": "SYNC4 med 12\" skærm er standard, men listen nævner ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 4432,
+     "note": "Bund og sider i varerum"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4432,
+     "note": "Bund og sider i varerum"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 2659,
+     "note": "400 W inverter. ProPower Onboard koster 10.636 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 2659,
+     "note": "400 W inverter. ProPower Onboard koster 10.636 kr."
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "tilvalg",
+     "pris": 10636,
+     "note": "Kun til 96 kWh-batteriet. 11 kW er standard"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 10636,
+     "note": "Kun til 96 kWh-batteriet. 11 kW er standard"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "ford-ranger": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5320,
+     "note": "Metallak og specialfarver"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5320,
+     "note": "Metallak og specialfarver"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "std",
+     "note": "Tagrælinger"
+    },
+    {
+     "s": "std",
+     "note": "Tagrælinger (Platinum har Wildtraks standardudstyr undtagen off-road-pakken)"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "std",
+     "note": "Thatcham-alarm"
+    },
+    {
+     "s": "std",
+     "note": "Thatcham-alarm (Platinum har Wildtraks standardudstyr undtagen off-road-pakken)"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "nej",
+     "note": "Double Cab med to forsæder"
+    },
+    {
+     "s": "nej",
+     "note": "Double Cab med to forsæder"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "SYNC4 med navigation og 12\" skærm"
+    },
+    {
+     "s": "std",
+     "note": "SYNC4 med navigation og 12\" skærm"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "nej",
+     "note": "Pickup med åbent lad, intet varerum"
+    },
+    {
+     "s": "nej",
+     "note": "Pickup med åbent lad, intet varerum"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 15510,
+     "note": "ProPower Onboard 6,9 kW med to udtag på ladet og ét i kabinen. Kun plugin-hybriden"
+    },
+    {
+     "s": "nej",
+     "note": "ProPower Onboard fås ikke til Platinum"
+    }
+   ]
+  }
+ },
+ "udstyr_nye_modeller": {},
+ "afvigelser": [
+  "ford-transit-custom: nypris.note i varebiler.json skriver \"Trail koster 294.995 kr., Limited 300.995 kr. og Sport 313.995 kr.\". De tal er Trend-priser for andre motorer. Listen af 08-07-2026 siger: Trail fra 301.995 kr., Limited fra 310.995 kr. og Sport fra 318.995 kr. (samme som niveauer i udstyr.json). Selve nyprisen 281.995 kr. passer.",
+  "ford-transit-courier: nypris.ekskl_moms_kr er 199.995 kr., som er listeprisen inkl. levering (3.980 kr.). Uden levering er prisen 196.015 kr. E-Transit Courier har allerede fået leveringen trukket fra (231.175 kr.), så de to Courier-modeller er ikke opgjort ens. udstyr.json niveauer.fra_pris for begge Courier-modeller (199.995/229.995 og 235.155/242.155) er også inkl. levering.",
+  "ford-transit: udstyr.json bygger på listen af 07-07-2026 (modelår 2026.50). Den nye liste af 01-10-2026 (modelår 2027.00) har andre priser: Trend fra 275.353 kr. (før 270.759) og Limited fra 294.655 kr. (før 290.059). 290.059 kr. er nu prisen på Trend L3H2 165 hk RWD manuel. nypris (289.140 kr. for Trend L2H2 130 hk automat) passer med den nye liste. Ruder bag (1.330 kr.) står nu i listen, så bagdoere_rude er udfyldt i udstyr_patch.",
+  "ford-e-transit: udstyr.json bygger på listen af 07-07-2026. Den nye liste af 01-10-2026 har meget lavere priser: Trend 350 fra 280.000 kr. (før 338.491) og Trend 425 fra 295.000 kr. (før 344.913). Det stemmer med nypris (280.000 kr.). Batteriet er nu 68 eller 96 kWh (løsbladet fra 2025 siger 68/89 kWh).",
+  "ford-e-transit: bagdoere_rude-noten i udstyr.json siger \"Inkl. varme i bagruder. Visker/vasker 2.216 kr.\". Den nye liste skriver ikke noget om varme, og visker/vasker bag koster 1.330 kr. Prisen på ruderne (886 kr.) passer stadig. Feltet er ikke rettet.",
+  "ford-e-transit: noeglefri står som \"std\" i udstyr.json (fra løsbladet). Den nye liste har ingen linje for nøglefri start, kun \"Nøglefri start og adgang\" til 3.546 kr. og i Delivery Assist Package. Feltet er ikke rettet.",
+  "ford-transit: Listen af 01-10-2026 har trykfejl. Smart Fuse Box står til 7.977 kr. på Trend og 9.971 kr. på Limited uden moms, men 9.971 kr. med moms på begge; helårsdæk på Limited står til 3.988 kr. uden moms og 3.985 kr. med moms; koden A6KAE står ved både 236 og 253 graders bagdøre. Tallene er gengivet som i listen.",
+  "ford-transit-custom, -phev og ford-e-transit-custom: Totalvægten er 3.225 kg ifølge Fords løsblade, selv om listen skriver \"320\". Spec-eksemplets 3.200 kg passer ikke.",
+  "ford-ranger: Ranger Raptor har sin egen liste (katalog.ford.dk/prislister/varebiler/ranger-raptor/, 25-09-2026, 496.910 kr.). Den er taget med som udgave under ford-ranger (pickup over 3.000 kg, benzin). Fjern den, hvis Raptor ikke skal med. Kataloget /ranger-phev/ er kun en brochure uden priser (modelår 2025.75).",
+  "ford-ranger: udstyr.json siger, at tilbuddet gælder Wildtrak 2.0 EcoBlue 205 hk. Den nuværende liste har kun 3.0 V6 EcoBlue (240 hk) og 2.3 PHEV (281 hk). nypris (421.995 kr.) passer.",
+  "ford-transit-connect: Specifikationsløsbladet for dieselen har fejl (overskriften siger Transit Custom, og 102 hk og AWD står med automatgear). Gear er taget fra prislisten.",
+  "ford-transit-connect: \"Anhængertræk, aftageligt\" står to gange: 5.763 kr. på begge niveauer og 4.321 kr. på Limited med teksten \"Inkluderer: Førerassistancepakke 8P\". Listen siger ikke, om de 4.321 kr. er et tillæg til pakken. Begge linjer er med som tilvalg.",
+  "Ford har også en liste for Transit City (21-09-2026, el, van L1H1 fra 209.995 kr. og L2H2 fra 219.995 kr. uden moms). Den har ingen model-id i varebiler.json.",
+  "Kontrol af nypris: alle ti modeller passer med de nye lister (ford-transit-courier dog kun inkl. levering, se ovenfor)."
+ ]
+}

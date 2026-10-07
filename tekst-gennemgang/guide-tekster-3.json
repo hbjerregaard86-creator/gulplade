@@ -1,0 +1,122 @@
+[
+ {
+  "slug": "varebil-med-lav-udbetaling",
+  "h1": "Varebil uden udbetaling eller med lav udbetaling",
+  "title": "Varebil uden udbetaling? %n% leasingtilbud",
+  "desc": "Tilbud på varebiler uden udbetaling eller med højst 40.000 kr. i førstegangsydelse, fra %fra% kr./md. uden moms. Se den reelle pris, og få tilbud gratis.",
+  "intro": "Her er %n% tilbud på varebiler uden udbetaling eller med en førstegangsydelse på højst 40.000 kr. En lav udbetaling gør månedsydelsen højere, og derfor viser kolonnen Inkl. udbetaling, hvad hvert tilbud reelt koster om måneden.",
+  "svar": "Lavest udbetaling lige nu:"
+ },
+ {
+  "slug": "finansiel-eller-operationel-leasing",
+  "h1": "Finansiel eller operationel leasing af varebil",
+  "title": "Finansiel eller operationel leasing? %n% tilbud",
+  "desc": "Se forskellen på finansiel og operationel leasing af varebil, regnet på %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Ved operationel leasing afleverer du bilen, og leasingselskabet bærer risikoen for, hvad den er værd. Her kan du se begge typer side om side og vælge den, der passer til virksomheden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "varebil-med-service-inkluderet",
+  "h1": "Varebil med service inkluderet i leasingydelsen",
+  "title": "Varebil med service inkluderet: %n% tilbud",
+  "desc": "%n% leasingtilbud på varebiler, hvor service og reparation er med i ydelsen, fra %fra% kr./md. uden moms. Kend udgiften på forhånd, og få tilbud gratis.",
+  "intro": "Her er %n% tilbud, hvor forhandleren eller leasingselskabet skriver, at service og reparation er med i månedsydelsen. Så kender du udgiften til værkstedet på forhånd. Sammenlign den samlede pris, og få et tilbud gratis.",
+  "svar": "Billigst med service:"
+ },
+ {
+  "slug": "varebil-med-kort-loebetid",
+  "h1": "Varebil med kort løbetid",
+  "title": "Varebil på kort leasing: 36 eller 48 måneder",
+  "desc": "%n% leasingtilbud på varebiler med 36 eller 48 måneders løbetid i stedet for de sædvanlige 60, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "De fleste leasingaftaler på varebiler løber i 60 måneder. Her er %n% tilbud på 36 eller 48 måneder, så du kan skifte bil tidligere, hvis virksomheden vokser eller opgaverne ændrer sig. Ydelsen er som regel højere, fordi bilen afdrages over kortere tid.",
+  "svar": "Billigst på kort løbetid:"
+ },
+ {
+  "slug": "operationel-leasing-elvarebil",
+  "h1": "Operationel leasing af elvarebil",
+  "title": "Operationel leasing af elvarebil: %n% tilbud",
+  "desc": "Lease en elvarebil, og aflever den efter løbetiden uden at hæfte for restværdien. %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du elvarebilen, når aftalen udløber, og leasingselskabet bærer risikoen for, hvad den er værd. Her er %n% tilbud sorteret efter den reelle pris, hvor udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigste elvarebil lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-elvarebil",
+  "h1": "Finansiel leasing af elvarebil",
+  "title": "Finansiel leasing af elvarebil fra %fra% kr.",
+  "desc": "Se ydelse, udbetaling og restværdi på elvarebiler med finansiel leasing. %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen til det beløb. Her er %n% tilbud på elvarebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigste elvarebil lige nu:"
+ },
+ {
+  "slug": "operationel-leasing-lille-varebil",
+  "h1": "Operationel leasing af lille varebil",
+  "title": "Operationel leasing af lille varebil i %aar%",
+  "desc": "Små varebiler på operationel leasing, hvor du afleverer bilen efter løbetiden og ikke hæfter for restværdien. %n% tilbud fra %fra% kr./md. uden moms.",
+  "intro": "Her er %n% tilbud på små varebiler, hvor du afleverer bilen, når aftalen udløber. Leasingselskabet bærer risikoen for, hvad den er værd. Det billigste tilbud står øverst, og udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigste lille varebil:"
+ },
+ {
+  "slug": "finansiel-leasing-lille-varebil",
+  "h1": "Finansiel leasing af lille varebil",
+  "title": "Finansiel leasing af lille varebil: %n% tilbud",
+  "desc": "%n% finansielle leasingtilbud på små varebiler fra %fra% kr./md. uden moms, med ydelse, udbetaling og restværdi side om side. Få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen. Her er %n% tilbud på små varebiler, hvor du kan se ydelse, udbetaling og restværdi for hvert tilbud.",
+  "svar": "Billigste lille varebil:"
+ },
+ {
+  "slug": "operationel-leasing-mellemstor-varebil",
+  "h1": "Operationel leasing af mellemstor varebil",
+  "title": "Mellemstor varebil: operationel leasing %aar%",
+  "desc": "Mellemstore varebiler på operationel leasing, hvor du afleverer bilen efter løbetiden. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du den mellemstore varebil, når aftalen udløber, og du hæfter ikke for restværdien. Her er %n% tilbud sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-mellemstor-varebil",
+  "h1": "Finansiel leasing af mellemstor varebil",
+  "title": "Finansiel leasing af mellemstor varebil %aar%",
+  "desc": "%n% finansielle leasingtilbud på mellemstore varebiler fra %fra% kr./md. uden moms. Se ydelse, udbetaling og restværdi, og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Her er %n% tilbud på mellemstore varebiler med ydelse, udbetaling og restværdi side om side. Det billigste tilbud står øverst, og udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "operationel-leasing-stor-varebil",
+  "h1": "Operationel leasing af stor varebil",
+  "title": "Operationel leasing af stor varebil: %n% tilbud",
+  "desc": "Store varebiler på operationel leasing, hvor du afleverer bilen, når aftalen udløber. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du den store varebil, når aftalen udløber, og leasingselskabet bærer risikoen for, hvad den er værd. Her er %n% tilbud sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigste store varebil:"
+ },
+ {
+  "slug": "finansiel-leasing-stor-varebil",
+  "h1": "Finansiel leasing af stor varebil",
+  "title": "Finansiel leasing af stor varebil fra %fra% kr.",
+  "desc": "Se ydelse, udbetaling og restværdi på %n% finansielle leasingtilbud på store varebiler, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen til det beløb. Her er %n% tilbud på store varebiler, og du kan sammenligne restværdien lige så let som ydelsen.",
+  "svar": "Billigste store varebil:"
+ },
+ {
+  "slug": "operationel-leasing-varebil",
+  "h1": "Operationel leasing af varebil",
+  "title": "Operationel leasing af varebil: %n% tilbud",
+  "desc": "Operationel leasing af varebil uden restværdi, så du afleverer bilen, når aftalen udløber. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du bilen, når aftalen udløber, og der er ingen restværdi at hæfte for. Her er %n% tilbud på varebiler i alle størrelser. Se ydelsen og hvad der følger med i hvert tilbud, og få et tilbud gratis.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-varebil",
+  "h1": "Finansiel leasing af varebil",
+  "title": "Finansiel leasing af varebil fra %fra% kr./md.",
+  "desc": "%n% finansielle leasingtilbud på varebiler med ydelse, udbetaling, restværdi og løbetid side om side, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Du eller en køber, du anviser, overtager bilen til det beløb, og er den mindre værd, betaler du forskellen. Her er %n% tilbud, hvor du kan sammenligne restværdi og ydelse.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "erhvervsbil-leasing",
+  "h1": "Erhvervsbil leasing: varebil, kassevogn, ladbil og pickup",
+  "title": "Erhvervsbil leasing: %n% modeller fra %fra% kr.",
+  "desc": "Den billigste leasingpris på %n% varebiler, kassevogne, ladbiler og pickupper på gule plader, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Her står hver erhvervsbil på gule plader én gang med det billigste tilbud, vi har på den. Det gælder varebiler, kassevogne, ladbiler og pickupper. Klik på en model for at se alle tilbud, målene og udstyret.",
+  "svar": "Billigste erhvervsbil lige nu:"
+ }
+]

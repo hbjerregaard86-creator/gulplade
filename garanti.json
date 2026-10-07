@@ -1,0 +1,3109 @@
+{
+  "_om": "Garanti pr. model, hentet fra producentens eller importørens danske prislister og garantisider. Varebiler har ofte anden garanti end personbiler fra samme mærke, så tallene gælder erhvervskøretøjet. Står der ingen kilometergrænse, er kilometerne ubegrænsede. Forlænget garanti er den, der følger med bilen på bestemte vilkår (typisk service på autoriseret værksted) — ikke en forsikring, man køber.",
+  "sidst_opdateret": "2026-09-28",
+  "modeller": {
+    "renault-trafic": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti for varebiler med forbrændingsmotor: Trafic 3 år/100.000 km (hvad der kommer først). Personbiler har kun 2 år. Kræver service efter Renaults anvisninger; service/reparation på ikke-autoriseret værksted er en undtagelse i vilkårene. Gennemtæringsgarantien kræver løbende (gratis) karrosseriinspektion på autoriseret Renault-værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye varebiler leveret af RN Danmark via autoriseret dansk forhandler, købt og leveret fra 24. maj 2025 og indregistreret i Danmark. Samme vilkår som fabriksgarantien (service efter Renaults anvisninger, udbedring på autoriseret Renault-værksted). Ophører ved eksport.",
+        "pris": null,
+        "note": "Renault Extended: forlænger fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Garantigiver er Fragus Group Danmark, ikke Renault. Vejhjælp (Renault Assistance) indgår ikke. Renault Extended PLUS (op til 7 år) gælder kun elbiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance følger fabriksgarantien og ophører med den (dvs. 3 år for varebilen); ikke en del af Renault Extended. Dækker kun nedbrud relateret til fabriksgarantien. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser (hjemtransport, hotel, lejebil); hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "Garantidokumenter: 'Renault Fabriksgaranti' (varebiler med forbrændingsmotor), version 2-24.05.2025, side 1 pkt. 2 skema (fabrik/gennemtæring/lak) og side 2 'Renault Assistance' version 1-24.05.2025. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "'Renault Extended' vilkår (1 side): elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet. Dokumentet er mærket 'Version 1, gældende fra 24. maj 2024', men teksten siger køb og levering fra 24. maj 2025."
+        },
+        {
+          "url": "https://www.renault.dk/kob/kampagner/trafic",
+          "dato": "2026-09-28",
+          "note": "Trafic-prisliste side 1 ('5 år Renault Extended Garanti', indregistrering inden 30. sep. 2026) og kampagnesiden: 5 år/150.000 km = fabriksgaranti fra Renault SAS + garanti fra Fragus Danmark."
+        }
+      ],
+      "_mangler": null
+    },
+    "renault-kangoo": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti for varebiler med forbrændingsmotor: Kangoo 3 år/100.000 km (hvad der kommer først). Personbiler har kun 2 år. Kræver service efter Renaults anvisninger; service/reparation på ikke-autoriseret værksted er en undtagelse i vilkårene. Gennemtæringsgarantien kræver løbende (gratis) karrosseriinspektion på autoriseret Renault-værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye varebiler leveret af RN Danmark via autoriseret dansk forhandler, købt og leveret fra 24. maj 2025 og indregistreret i Danmark. Samme vilkår som fabriksgarantien (service efter Renaults anvisninger, udbedring på autoriseret Renault-værksted). Ophører ved eksport.",
+        "pris": null,
+        "note": "Renault Extended: forlænger fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Garantigiver er Fragus Group Danmark, ikke Renault. Vejhjælp (Renault Assistance) indgår ikke. Renault Extended PLUS (op til 7 år) gælder kun elbiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance følger fabriksgarantien og ophører med den (dvs. 3 år for varebilen); ikke en del af Renault Extended. Dækker kun nedbrud relateret til fabriksgarantien. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser (hjemtransport, hotel, lejebil); hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "Garantidokumenter: 'Renault Fabriksgaranti' (varebiler med forbrændingsmotor), version 2-24.05.2025, side 1 pkt. 2 skema (fabrik/gennemtæring/lak) og side 2 'Renault Assistance' version 1-24.05.2025. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "'Renault Extended' vilkår (1 side): elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet. Dokumentet er mærket 'Version 1, gældende fra 24. maj 2024', men teksten siger køb og levering fra 24. maj 2025."
+        },
+        {
+          "url": "https://www.renault.dk/kob/garanti",
+          "dato": "2026-09-28",
+          "note": "Kangoo-prisliste side 1: '5 år Renault Extended Garanti' for biler købt og indregistreret fra 24. maj 2025, op til 5 år/150.000 km. renault.dk/kob/garanti bekræfter Fragus som udbyder."
+        }
+      ],
+      "_mangler": null
+    },
+    "renault-master": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti for varebiler med forbrændingsmotor: Master 3 år/100.000 km (hvad der kommer først). Personbiler har kun 2 år. Kræver service efter Renaults anvisninger; service/reparation på ikke-autoriseret værksted er en undtagelse i vilkårene. Gennemtæringsgarantien kræver løbende (gratis) karrosseriinspektion på autoriseret Renault-værksted. NB: Master har kun 6 års gennemtæringsgaranti mod 12 år for Trafic/Kangoo."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye varebiler leveret af RN Danmark via autoriseret dansk forhandler, købt og leveret fra 24. maj 2025 og indregistreret i Danmark. Samme vilkår som fabriksgarantien (service efter Renaults anvisninger, udbedring på autoriseret Renault-værksted). Ophører ved eksport.",
+        "pris": null,
+        "note": "Renault Extended: forlænger fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Garantigiver er Fragus Group Danmark, ikke Renault. Vejhjælp (Renault Assistance) indgår ikke. Renault Extended PLUS (op til 7 år) gælder kun elbiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance følger fabriksgarantien og ophører med den (dvs. 3 år for varebilen); ikke en del af Renault Extended. Dækker kun nedbrud relateret til fabriksgarantien. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser (hjemtransport, hotel, lejebil); hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "Garantidokumenter: 'Renault Fabriksgaranti' (varebiler med forbrændingsmotor), version 2-24.05.2025, side 1 pkt. 2 skema (fabrik/gennemtæring/lak) og side 2 'Renault Assistance' version 1-24.05.2025. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "'Renault Extended' vilkår (1 side): elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet. Dokumentet er mærket 'Version 1, gældende fra 24. maj 2024', men teksten siger køb og levering fra 24. maj 2025."
+        },
+        {
+          "url": "https://www.renault.dk/kob/garanti",
+          "dato": "2026-09-28",
+          "note": "Master-prisliste side 1: '5 år Renault Extended Garanti' (samme tekst som Trafic/Kangoo)."
+        }
+      ],
+      "_mangler": null
+    },
+    "renault-master-chassis": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti for varebiler med forbrændingsmotor: Master 3 år/100.000 km (hvad der kommer først). Personbiler har kun 2 år. Kræver service efter Renaults anvisninger; service/reparation på ikke-autoriseret værksted er en undtagelse i vilkårene. Gennemtæringsgarantien kræver løbende (gratis) karrosseriinspektion på autoriseret Renault-værksted. NB: Master har kun 6 års gennemtæringsgaranti mod 12 år for Trafic/Kangoo. Master Chassis er ikke nævnt særskilt i skemaet; rækken 'Master' er brugt. Påbygning (lad/kasse) fra tredjepart er ikke dækket af Renaults garanti."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye varebiler leveret af RN Danmark via autoriseret dansk forhandler, købt og leveret fra 24. maj 2025 og indregistreret i Danmark. Samme vilkår som fabriksgarantien (service efter Renaults anvisninger, udbedring på autoriseret Renault-værksted). Ophører ved eksport.",
+        "pris": null,
+        "note": "Renault Extended: forlænger fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Garantigiver er Fragus Group Danmark, ikke Renault. Vejhjælp (Renault Assistance) indgår ikke. Renault Extended PLUS (op til 7 år) gælder kun elbiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance følger fabriksgarantien og ophører med den (dvs. 3 år for varebilen); ikke en del af Renault Extended. Dækker kun nedbrud relateret til fabriksgarantien. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser (hjemtransport, hotel, lejebil); hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "Garantidokumenter: 'Renault Fabriksgaranti' (varebiler med forbrændingsmotor), version 2-24.05.2025, side 1 pkt. 2 skema (fabrik/gennemtæring/lak) og side 2 'Renault Assistance' version 1-24.05.2025. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "'Renault Extended' vilkår (1 side): elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet. Dokumentet er mærket 'Version 1, gældende fra 24. maj 2024', men teksten siger køb og levering fra 24. maj 2025."
+        },
+        {
+          "url": "https://www.renault.dk/kob/garanti",
+          "dato": "2026-09-28",
+          "note": "Extended-teksten står på side 1 i Master-prislisterne (Hedin-mappen har egen prisliste-master-chassis.pdf)."
+        }
+      ],
+      "_mangler": null
+    },
+    "kia-pv5-cargo": {
+      "fabrik": {
+        "aar": 7,
+        "km": 150000,
+        "note": "Kia 7 års garanti, hvad der kommer først; følger bilen ved ejerskifte. Betinget af rettidig service efter serviceplanen (PV5: hver 24. måned/30.000 km) uden tolerance for overskridelse. Dækker ikke almindeligt slid (dæk, bremsebelægninger)."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Højspændingsbatteriet: min. 70 % af oprindelig kapacitet (SOH, målt med Kias udstyr). NB: Kias generelle FAQ nævner 7 år/150.000 km for batterier; PV5-prislisten og PV5-siden på kia.com siger 8 år/160.000 km."
+      },
+      "gennemtaering": {
+        "aar": 3,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://api.kiaonline.dk/dokumenter/pv5-cargo-l2h1-priser.pdf",
+        "dato": "2026-09-28",
+        "note": "Kia PV5 Cargo L2H1 prisliste (modelår 2027, levering 2026), side 2, boksen 'Garantier': garanti 7 år/150.000 km, batterigaranti 8 år/160.000 km, lakgaranti 2 år/ubegrænset km, gennemtæringsgaranti 3 år/ubegrænset km, serviceinterval 24 mdr./30.000 km. Samme boks i L1H1-prislisten (pv5-cargo-l1h1-priser.pdf) side 2."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.kia.com/dk/pbv/modeller/pv5-cargo/",
+          "dato": "2026-09-28",
+          "note": "Fodnote: EV-batterigarantien sikrer mindst 70 % af den oprindelige kapacitet i 8 år/160.000 km."
+        },
+        {
+          "url": "https://www.kia.com/dk/service/7-aars-garanti/",
+          "dato": "2026-09-28",
+          "note": "Kia 7 år/150.000 km; batteri min. 70 % SOH."
+        },
+        {
+          "url": "https://kiaimportdk.zendesk.com/hc/da/articles/5590711293340",
+          "dato": "2026-09-28",
+          "note": "Kia Danmark kundecenter: ingen tolerance for overskridelse af serviceinterval (opdateret 26-09-2026)."
+        }
+      ],
+      "_mangler": "Vejhjælp: Kia Danmark oplyser ingen vejhjælp på kia.com/dk eller i kundecenteret. Den ser ud til ikke at være inkluderet, men det er ikke bekræftet. NB: PV5 har kortere lak- (2 år) og gennemtæringsgaranti (3 år) end Kias personbiler (5/12 år)."
+    },
+    "iveco-daily": {
+      "fabrik": {
+        "aar": 3,
+        "km": 200000,
+        "note": "Iveco nybilsgaranti for dieselversionen af Daily: 3 år eller 200.000 km, hvad der kommer først; dækker ikke sliddele. Oplyst i fodnoten på Iveco Danmarks (Hedin Nordic Trucks) kampagnesider for Daily."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://iveco.dk/shopping-varktojer/kampagner/my26-daily-12m3-proline",
+        "dato": "2026-09-28",
+        "note": "Kampagneside 'MY26 Daily 12m3 Proline', fodnote: 'Nybilsgaranti i 3 år eller op til 200.000 km, alt efter hvad der kommer først (dækker ikke sliddele)'. Samme tekst på Daily 12m3 Forza og 9m3 kassebil."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner/iveco-daily-kassebil-12m3---forza-",
+          "dato": "2026-09-28",
+          "note": "Samme garantifodnote og 3XL-Life-tilbud."
+        },
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner/my24-iveco-daily-9m3-kassebil",
+          "dato": "2026-09-28",
+          "note": "Samme garantifodnote."
+        },
+        {
+          "url": "https://iveco.dk/services/oppetid",
+          "dato": "2026-09-28",
+          "note": "'Udvidet garanti': modulbaseret tilkøb (Drivlinje, Drivlinje plus, komplette reparationselementer); med den udvidede garanti er der ret til vejhjælp 24 timer i døgnet. 'Assistance Non-Stop': 24/7, gratis tlf. +45 32524999, app/telematik. Pris og varighed er ikke oplyst."
+        },
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner",
+          "dato": "2026-09-28",
+          "note": "3XL-Life: service- og reparationsaftale (ikke garanti), kan tilkøbes til nye Daily 3,5 t; på kampagnebiler fra 99 kr./md. ekskl. moms med min. løbetid 36 mdr. (tilbud til 30-10-2026 eller 60 aftaler). Dækker planlagt vedligehold og reparation af de fleste vitale drivline-, chassis-, bremse-, el- og elektronikkomponenter."
+        }
+      ],
+      "_mangler": "Iveco Danmark oplyser hverken lak- eller gennemtæringsgaranti, og det er uklart, om Assistance Non-Stop (vejhjælp) er gratis i nybilsgarantiperioden — Iveco skriver kun, at der er ret til vejhjælp med udvidet garanti. Faktabladene (feb. 2026) har ingen garantital; nybilsgarantien står kun i kampagnefodnoterne.",
+      "forlaenget_note": "Udvidet garanti og serviceaftalen 3XL-Life følger ikke med bilen — de er tilkøb (3XL-kampagnen fra 99 kr./md.)."
+    },
+    "iveco-daily-ladbil": {
+      "fabrik": {
+        "aar": 3,
+        "km": 200000,
+        "note": "Iveco nybilsgaranti for dieselversionen af Daily: 3 år eller 200.000 km, hvad der kommer først; dækker ikke sliddele. Oplyst i fodnoten på Iveco Danmarks (Hedin Nordic Trucks) kampagnesider for Daily. Om ladopbygningen har samme garanti, er ikke oplyst."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://iveco.dk/shopping-varktojer/kampagner/iveco-daily-chassis-ladbil---fast-lane",
+        "dato": "2026-09-28",
+        "note": "Kampagneside 'Daily Chassis m. lad | Fastlane', fodnote: 'Nybilsgaranti i 3 år eller op til 200.000 km, alt efter hvad der kommer først (dækker ikke sliddele)'. Samme tekst på Daily Chassis ladbil Proline og Box/Lift Proline."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner/iveco-daily-chassis-ladbil---proline",
+          "dato": "2026-09-28",
+          "note": "Samme garantifodnote."
+        },
+        {
+          "url": "https://iveco.dk/services/oppetid",
+          "dato": "2026-09-28",
+          "note": "'Udvidet garanti': modulbaseret tilkøb (Drivlinje, Drivlinje plus, komplette reparationselementer); med den udvidede garanti er der ret til vejhjælp 24 timer i døgnet. 'Assistance Non-Stop': 24/7, gratis tlf. +45 32524999, app/telematik. Pris og varighed er ikke oplyst."
+        },
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner",
+          "dato": "2026-09-28",
+          "note": "3XL-Life: service- og reparationsaftale (ikke garanti), kan tilkøbes til nye Daily 3,5 t; på kampagnebiler fra 99 kr./md. ekskl. moms med min. løbetid 36 mdr. (tilbud til 30-10-2026 eller 60 aftaler). Dækker planlagt vedligehold og reparation af de fleste vitale drivline-, chassis-, bremse-, el- og elektronikkomponenter."
+        }
+      ],
+      "_mangler": "Iveco Danmark oplyser hverken lak- eller gennemtæringsgaranti, og det er uklart, om Assistance Non-Stop (vejhjælp) er gratis i nybilsgarantiperioden — Iveco skriver kun, at der er ret til vejhjælp med udvidet garanti. Faktabladene (feb. 2026) har ingen garantital; nybilsgarantien står kun i kampagnefodnoterne.",
+      "forlaenget_note": "Udvidet garanti og serviceaftalen 3XL-Life følger ikke med bilen — de er tilkøb (3XL-kampagnen fra 99 kr./md.)."
+    },
+    "vw-caddy": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "Caddy Cargo er nævnt i garantibestemmelserne. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2)"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/nyttig-viden/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Danmarks garantiside, afsnit 'Garanti på din Volkswagen Erhvervsbil' (links til begge PDF'er)"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "volkswagen-transporter": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "Transporter Kassevogn er nævnt i garantibestemmelserne. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2)"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/nyttig-viden/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Danmarks garantiside, afsnit 'Garanti på din Volkswagen Erhvervsbil' (links til begge PDF'er)"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "vw-id-buzz-cargo": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "ID. Buzz Cargo er nævnt i garantibestemmelserne. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Højvoltsbatteri 8 år/160.000 km. Nettoenergiindhold garanteret mindst 78 % ved 3 år/60.000 km, 74 % ved 5 år/100.000 km og 70 % ved 8 år/160.000 km (KAT100042 pkt. C.2)."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2)"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/nyttig-viden/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Danmarks garantiside, afsnit 'Garanti på din Volkswagen Erhvervsbil' (links til begge PDF'er)"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "vw-crafter": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "Crafter er nævnt i garantibestemmelserne. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2)"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/nyttig-viden/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Danmarks garantiside, afsnit 'Garanti på din Volkswagen Erhvervsbil' (links til begge PDF'er)"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "vw-amarok": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "Amarok er nævnt i garantibestemmelserne. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2)"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/nyttig-viden/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Danmarks garantiside, afsnit 'Garanti på din Volkswagen Erhvervsbil' (links til begge PDF'er)"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "man-tge": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "MAN's normale 2-årige garanti på materiale- og fabrikationsfejl. Km-grænse for de 2 år er ikke oplyst.",
+        "km_ukendt": true
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "MAN forlænger med 3 år eller til 150.000 km (hvad der kommer først), når den 2-årige garanti udløber. Kun TGE solgt af MAN Danmark A/S gennem autoriserede forhandlere/filialer i DK. Kan ikke kombineres med service- og reparationsaftaler. Større km-behov kan tilpasses mod merpris.",
+        "pris": null,
+        "note": "Står i MAN TGE-prislisten MY2026 (gældende pr. 01.08.2026). Kampagnesiden på man-scandinavia.com nævner bestilling efter 1/4-2025 og registrering inden 31/12-2025; prislisten fra august 2026 viser fortsat 5 år/150.000 km. Dækker ikke slid, gennemtæring, lak, ekstraudstyr eller opbygning."
+      },
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://www.man.eu/content/dam/man/countries/doc/denmark/van-4/man-prisliste.pdf/_jcr_content/renditions/original./man-prisliste.pdf",
+        "dato": "2026-09-28",
+        "note": "MAN TGE Prisliste modelår 2026, gældende pr. 01.08.2026, s. 1 ('Få 5 års garanti på din MAN TGE')"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.man-scandinavia.com/5-ars-garanti/",
+          "dato": "2026-09-28",
+          "note": "MAN/Semler Truck & Bus: vilkår for 5 års garanti (undtagelser, ikke med serviceaftaler, km-tilpasning mod merpris)"
+        },
+        {
+          "url": "https://www.man.eu/dk/da/varebil/man-tge/modeloversigt/man-tge-modeloversigt.html",
+          "dato": "2026-09-28",
+          "note": "'5 års garanti / 150.000 km på alle nye MAN TGE varebiler'"
+        }
+      ],
+      "_mangler": "MAN oplyser ingen lak- eller gennemtæringsgaranti for TGE (5-års-garantien undtager dem udtrykkeligt). Vejhjælp: MAN Mobile24 findes (24/7 i Europa), men det er ikke oplyst, om eller hvor længe den er gratis på en ny TGE."
+    },
+    "mercedes-sprinter": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/content/dam/denmark/vans/pricelists/2026/servicecare/02_2026/41178_MBVans_ServiceCare_onepager_A4_Diesel_2026.pdf",
+          "dato": "2026-09-28",
+          "note": "ServiceCare-onepager diesel 2026: Extended Warranty er tilkøb (36/48/60 mdr.; 150/200/250.000 km), engangspris ekskl. moms"
+        }
+      ],
+      "_mangler": "Mercedes-Benz Vans' danske sider oplyser ingen lak- eller gennemtæringsgaranti for Sprinter."
+    },
+    "mercedes-vito": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/content/dam/denmark/vans/pricelists/2026/servicecare/02_2026/41178_MBVans_ServiceCare_onepager_A4_Diesel_2026.pdf",
+          "dato": "2026-09-28",
+          "note": "ServiceCare-onepager diesel 2026: Extended Warranty er tilkøb (36/48/60 mdr.; 150/200/250.000 km), engangspris ekskl. moms"
+        }
+      ],
+      "_mangler": "Mercedes-Benz Vans' danske sider oplyser ingen lak- eller gennemtæringsgaranti for Vito."
+    },
+    "ford-transit-custom": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år.",
+        "km_ukendt": true
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "2 års fabriksgaranti + 3 års Ford Protect New op til 150.000 km fra 1. reg. (hvad der kommer først). Transit Custom diesel/PHEV indregistreret fra 14. juli 2026 og solgt af NCG Motor Company via autoriseret Ford-forhandler. Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.",
+        "pris": null,
+        "note": "Følger med uden ekstra omkostning. Dækker ikke sliddele, trim/karrosseri, lak, servicedele og 12-voltsbatteri."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år) og Ford Protect"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/transit-custom/",
+          "dato": "2026-09-28",
+          "note": "Transit Custom-prisliste: '5 års garanti/op til 150.000 km … 2 års fabriksgaranti efterfulgt af 3 års Ford Protect'"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-transit-courier": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år. Benzin-Courier er ikke omfattet af 2+3 års Ford Protect (kun el-varebiler som E-Transit Courier samt Transit Custom diesel/PHEV).",
+        "km_ukendt": true
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år) og Ford Protect"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-ranger": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år. Ranger (pickup, diesel) er ikke omfattet af 2+3 års Ford Protect; øvrige Ford varebiler har fortsat 2 års fabriksgaranti.",
+        "km_ukendt": true
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år) og Ford Protect"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        }
+      ],
+      "_mangler": null
+    },
+    "citroen-berlingo": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning. Elversionen har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Berlingo, ekskl. moms. Billigste: 1 år/50.000 km = 1.200 kr.; eksempel fra Citroën: Jumpy 3 år/100.000 km = 5.700 kr., 5 år/200.000 km = 10.800 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Modsat Peugeot følger forlængelsen IKKE automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. FLEX dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Citroën Assistance de første 2 år (garantirelateret nedbrud, starthjælp m.m.). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.citroen.dk/service-og-tilbehoer/garanti/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Citroën.dk 'Citroën garantier - varebiler' (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste Extended Warranty Premium Varebil FLEX (PDF via GetPDF.ashx), priser ekskl. moms pr. model/år/km"
+        },
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil Flex"
+        },
+        {
+          "url": "http://brochurer.citroen.dk/eftermarked/garanti/garantibetingelser/",
+          "dato": "2026-09-28",
+          "note": "Citroën Garantibetingelser V.2022-10-24/V.2022-01-31, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/citroen-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Citroën Assistance 2 år + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: batterigaranti elbiler 8 år/160.000 km/min. 70 %"
+        }
+      ],
+      "_mangler": null
+    },
+    "citroen-jumpy": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning. Elversionen har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Jumpy, ekskl. moms. Billigste: 1 år/50.000 km = 1.200 kr.; eksempel fra Citroën: Jumpy 3 år/100.000 km = 5.700 kr., 5 år/200.000 km = 10.800 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Modsat Peugeot følger forlængelsen IKKE automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. FLEX dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Citroën Assistance de første 2 år (garantirelateret nedbrud, starthjælp m.m.). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.citroen.dk/service-og-tilbehoer/garanti/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Citroën.dk 'Citroën garantier - varebiler' (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste Extended Warranty Premium Varebil FLEX (PDF via GetPDF.ashx), priser ekskl. moms pr. model/år/km"
+        },
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil Flex"
+        },
+        {
+          "url": "http://brochurer.citroen.dk/eftermarked/garanti/garantibetingelser/",
+          "dato": "2026-09-28",
+          "note": "Citroën Garantibetingelser V.2022-10-24/V.2022-01-31, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/citroen-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Citroën Assistance 2 år + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: batterigaranti elbiler 8 år/160.000 km/min. 70 %"
+        }
+      ],
+      "_mangler": null
+    },
+    "citroen-jumper": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning. Elversionen har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Jumper, ekskl. moms. Billigste: 1 år/50.000 km = 1.800 kr.; 3 år/100.000 km = 8.600 kr. Jumper er dyrere end Berlingo/Jumpy. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Modsat Peugeot følger forlængelsen IKKE automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. FLEX dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Citroën Assistance de første 2 år (garantirelateret nedbrud, starthjælp m.m.). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.citroen.dk/service-og-tilbehoer/garanti/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Citroën.dk 'Citroën garantier - varebiler' (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste Extended Warranty Premium Varebil FLEX (PDF via GetPDF.ashx), priser ekskl. moms pr. model/år/km"
+        },
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil Flex"
+        },
+        {
+          "url": "http://brochurer.citroen.dk/eftermarked/garanti/garantibetingelser/",
+          "dato": "2026-09-28",
+          "note": "Citroën Garantibetingelser V.2022-10-24/V.2022-01-31, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/citroen-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Citroën Assistance 2 år + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: batterigaranti elbiler 8 år/160.000 km/min. 70 %"
+        }
+      ],
+      "_mangler": null
+    },
+    "peugeot-partner": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram). Elversionerne (e-Partner/e-Expert/e-Boxer) har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger automatisk med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere og udleveret efter 5. maj 2025. Service skal være udført efter Peugeots forskrifter; bilen skal forblive indregistreret i Danmark. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km (hvad der kommer først). Gratis ved køb af ny varebil; kan tilkøbes til eksisterende varebiler under 18 måneder. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Varebil-specifik: Peugeots personbiler har i stedet 2 år + serviceaktiveret Peugeot Care (kun fuldelektriske personbiler, op til 8 år/160.000 km) — Peugeot Care gælder ikke varebiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler, første gang 2 år efter levering. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. Extended Warranty dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder (garantirelateret driftsstop, ulykke, defekte nøgler, tør for strøm). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet (Danmark + E65 til Ystad)."
+      },
+      "kilde": {
+        "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Peugeot.dk 'Peugeots garantier på varebiler' (Extended Warranty Premium Varebil). Samme 5 år/200.000 km-fodnote står i prislisterne for Boxer (opd. 29.09.2026) og Expert (opd. 13.03.2026)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/betingelser-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil, Peugeot, maj 2025 (PDF via GetPDF.ashx)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti elbiler: 8 år/160.000 km, min. 70 % kapacitet (gælder elversionerne)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/prisliste-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Priser for tilkøb til eksisterende varebiler (loyalitetspris 7.400 kr. ekskl. moms, e-Expert 11.200 kr.)"
+        }
+      ],
+      "_mangler": null
+    },
+    "peugeot-expert": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram). Elversionerne (e-Partner/e-Expert/e-Boxer) har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger automatisk med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere og udleveret efter 5. maj 2025. Service skal være udført efter Peugeots forskrifter; bilen skal forblive indregistreret i Danmark. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km (hvad der kommer først). Gratis ved køb af ny varebil; kan tilkøbes til eksisterende varebiler under 18 måneder. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Varebil-specifik: Peugeots personbiler har i stedet 2 år + serviceaktiveret Peugeot Care (kun fuldelektriske personbiler, op til 8 år/160.000 km) — Peugeot Care gælder ikke varebiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler, første gang 2 år efter levering. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. Extended Warranty dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder (garantirelateret driftsstop, ulykke, defekte nøgler, tør for strøm). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet (Danmark + E65 til Ystad)."
+      },
+      "kilde": {
+        "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Peugeot.dk 'Peugeots garantier på varebiler' (Extended Warranty Premium Varebil). Samme 5 år/200.000 km-fodnote står i prislisterne for Boxer (opd. 29.09.2026) og Expert (opd. 13.03.2026)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/betingelser-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil, Peugeot, maj 2025 (PDF via GetPDF.ashx)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti elbiler: 8 år/160.000 km, min. 70 % kapacitet (gælder elversionerne)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/prisliste-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Priser for tilkøb til eksisterende varebiler (loyalitetspris 7.400 kr. ekskl. moms, e-Expert 11.200 kr.)"
+        }
+      ],
+      "_mangler": null
+    },
+    "peugeot-boxer": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram). Elversionerne (e-Partner/e-Expert/e-Boxer) har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger automatisk med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere og udleveret efter 5. maj 2025. Service skal være udført efter Peugeots forskrifter; bilen skal forblive indregistreret i Danmark. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km (hvad der kommer først). Gratis ved køb af ny varebil; kan tilkøbes til eksisterende varebiler under 18 måneder. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Varebil-specifik: Peugeots personbiler har i stedet 2 år + serviceaktiveret Peugeot Care (kun fuldelektriske personbiler, op til 8 år/160.000 km) — Peugeot Care gælder ikke varebiler."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler (12 år for personbiler). Kræver karrosserikontrol hvert 2. år for varebiler, første gang 2 år efter levering. Karrosseriombygninger og lad på varebiler er ikke omfattet."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti under hele den 2-årige fabriksgarantiperiode. Extended Warranty dækker ikke lak og karrosseri."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder (garantirelateret driftsstop, ulykke, defekte nøgler, tør for strøm). Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet (Danmark + E65 til Ystad)."
+      },
+      "kilde": {
+        "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Peugeot.dk 'Peugeots garantier på varebiler' (Extended Warranty Premium Varebil). Samme 5 år/200.000 km-fodnote står i prislisterne for Boxer (opd. 29.09.2026) og Expert (opd. 13.03.2026)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/betingelser-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser for Extended Warranty Premium Varebil, Peugeot, maj 2025 (PDF via GetPDF.ashx)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti elbiler: 8 år/160.000 km, min. 70 % kapacitet (gælder elversionerne)"
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/exteneded-warranty-premium/prisliste-extended-warranty-premium-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Priser for tilkøb til eksisterende varebiler (loyalitetspris 7.400 kr. ekskl. moms, e-Expert 11.200 kr.)"
+        }
+      ],
+      "_mangler": null
+    },
+    "opel-combo": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning. Elversionen har samme garanti plus batterigaranti 8 år/160.000 km/70 % — ikke relevant for dieselmodellen her."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Opel-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Combo, ekskl. moms. Eksempel fra Opel: Vivaro 3 år/100.000 km = 5.700 kr., 5 år/200.000 km = 10.800 kr.; Combo har samme pristrappe som Vivaro i prislisten. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Modsat Peugeot følger forlængelsen IKKE automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Opel Assistance de første 24 måneder. Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Opel.dk 'Opels garantier - varebiler' (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx); tekstlaget er forskudt — 6 år/200.000 km = 11.700 kr. for Combo aflæst entydigt"
+        },
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser, Opel, maj 2025"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/fabriksgarantier.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: 2-årigt garantiprogram, lakgaranti (uden varighed), batterigaranti elbiler 8 år/160.000 km/70 %"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/opel-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Opel Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": "Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF. Søstermærkerne Peugeot/Citroën har 2 år lak og 5 år gennemtæring på varebiler, men det er ikke skrevet ind for Opel."
+    },
+    "toyota-proace": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler. Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "8 år/160.000 km mod at kapaciteten falder under 70 %; desuden 5 år/100.000 km fabriksgaranti mod 'fejl på batteriet'. Toyotas EV-helbredstjek-forlængelse op til 10 år/1 mio. km har 'særlige regler for Proace' — Toyota Professional-siden nævner kun 8 år/160.000 km for varebilerne."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyotas-drivlinjer/batterigaranti-tryghed",
+          "dato": "2026-09-28",
+          "note": "Batteritryghed: 5 år/100.000 km fejl, 8 år/160.000 km 70 %; 'særlige regler gælder for Proace'"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace1/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    },
+    "toyota-proace-city": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler. Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder. Serviceintervallet for denne model er ikke oplyst på toyota.dk (se instruktionsbogen)."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "8 år/160.000 km mod at kapaciteten falder under 70 %; desuden 5 år/100.000 km fabriksgaranti mod 'fejl på batteriet'. Toyotas EV-helbredstjek-forlængelse op til 10 år/1 mio. km har 'særlige regler for Proace' — Toyota Professional-siden nævner kun 8 år/160.000 km for varebilerne."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyotas-drivlinjer/batterigaranti-tryghed",
+          "dato": "2026-09-28",
+          "note": "Batteritryghed: 5 år/100.000 km fejl, 8 år/160.000 km 70 %; 'særlige regler gælder for Proace'"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace-city-van-prisliste/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Serviceinterval (og dermed Relax-periode pr. service) er ikke oplyst for denne model. Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    },
+    "toyota-proace-max": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler. Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder. Serviceintervallet for denne model er ikke oplyst på toyota.dk (se instruktionsbogen)."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "8 år/160.000 km mod at kapaciteten falder under 70 %; desuden 5 år/100.000 km fabriksgaranti mod 'fejl på batteriet'. Toyotas EV-helbredstjek-forlængelse op til 10 år/1 mio. km har 'særlige regler for Proace' — Toyota Professional-siden nævner kun 8 år/160.000 km for varebilerne."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyotas-drivlinjer/batterigaranti-tryghed",
+          "dato": "2026-09-28",
+          "note": "Batteritryghed: 5 år/100.000 km fejl, 8 år/160.000 km 70 %; 'særlige regler gælder for Proace'"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Prislister/proace-max/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Serviceinterval (og dermed Relax-periode pr. service) er ikke oplyst for denne model. Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    },
+    "toyota-proace-diesel": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional). Toyotas varebilsprisliste for Proace skriver „afhængig af model/variant op til 2 år/50.000 km“ pr. service — tallene er ikke ens på tværs af Toyotas egne kilder."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace1/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    },
+    "toyota-proace-max-diesel": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler. Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder. Serviceintervallet for denne model er ikke oplyst på toyota.dk (se instruktionsbogen)."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Prislister/proace-max/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Serviceinterval (og dermed Relax-periode pr. service) er ikke oplyst for denne model. Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    },
+    "vw-e-transporter": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.). Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først). Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025. Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.",
+        "pris": null,
+        "note": "e-Transporter Kassevogn er nævnt ved navn i garantibestemmelserne og i fodnoten på e-Transporter-modelsiden. Følger med uden beregning. Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Højvoltsbatteri 8 år/160.000 km. Nettoenergiindhold garanteret mindst 78 % ved 3 år/60.000 km, 74 % ved 5 år/100.000 km og 70 % ved 8 år/160.000 km (KAT100042 pkt. C.1–C.2)."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": null,
+        "note": "Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted. Ingen fast årsgrænse oplyst."
+      },
+      "kilde": {
+        "url": "https://ww4.volkswagen.dk/media/gtln4whg/garanti_vwe_820002_sep26_web.pdf",
+        "dato": "2026-09-28",
+        "note": "Garantibestemmelser – Semlers samlede 5 års garanti (erhvervsbiler), KAT820002, september 2026, s. 1 (pkt. 1.1, 2.1, 4.1, 5.2). e-Transporter Kassevogn står i modellisten."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ww4.volkswagen.dk/media/hcdf4g1k/garanti_vwe_100042_sep26_web.pdf",
+          "dato": "2026-09-28",
+          "note": "Garantibestemmelser Erhvervsbiler fra modelår 2020 (Caddy, Transporter, Crafter, Amarok m.fl.), KAT100042, sept. 2026: A. 2-årig nybilsgaranti, B. 3 års lak / 12 års gennemtæring, C. højvoltsbatteri (BEV og PHEV) 8 år/160.000 km og nettobatteriindholdsgaranti"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/erhvervsbiler/e-transporter.html",
+          "dato": "2026-09-28",
+          "note": "e-Transporter-modelsiden: 'samlet 5 års garanti/150.000 km' med e-Transporter Kassevogn nævnt i fodnoten"
+        },
+        {
+          "url": "https://www.volkswagen.dk/da/vaerksted/autoriseret-vaerksted/vejhjaelp-og-assistance-ved-ulykke.html",
+          "dato": "2026-09-28",
+          "note": "Volkswagen Vejhjælp – dækning frem til næste serviceeftersyn"
+        }
+      ],
+      "_mangler": null
+    },
+    "iveco-daily-boks": {
+      "fabrik": {
+        "aar": 3,
+        "km": 200000,
+        "note": "Iveco nybilsgaranti for dieselversionen af Daily: 3 år eller 200.000 km, hvad der kommer først; dækker ikke sliddele. Oplyst i fodnoten på kampagnesiden. Om boks/lift-opbygningen (Brdr. Plagborg) har samme garanti, er ikke oplyst."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://iveco.dk/shopping-varktojer/kampagner/iveco-daily-chassis-box-lift---proline",
+        "dato": "2026-09-28",
+        "note": "Kampagneside 'IVECO Daily m. boks/lift-opbygning | Proline', fodnote: 'Nybilsgaranti i 3 år eller op til 200.000 km, alt efter hvad der kommer først (dækker ikke sliddele)'. Sidens metabeskrivelse nævner desuden '5 års IVECO ON fjernsupport og softwareopdatering' (ikke en garanti)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://iveco.dk/services/oppetid",
+          "dato": "2026-09-28",
+          "note": "'Udvidet garanti': modulbaseret tilkøb (Drivlinje, Drivlinje plus, komplette reparationselementer); med den udvidede garanti er der ret til vejhjælp 24 timer i døgnet. 'Assistance Non-Stop': 24/7. Pris og varighed er ikke oplyst."
+        },
+        {
+          "url": "https://iveco.dk/shopping-varktojer/kampagner/iveco-daily-chassis-box-lift---proline",
+          "dato": "2026-09-28",
+          "note": "3XL-Life: serviceaftale (ikke garanti) til Hedin Nordic Trucks' Daily-kampagnebiler på 3,5 t med dieselmotor, min. løbetid 36 mdr., tilbud til 30-10-2026 eller 60 aftaler."
+        }
+      ],
+      "_mangler": "Iveco Danmark oplyser hverken lak- eller gennemtæringsgaranti, og det er uklart, om Assistance Non-Stop (vejhjælp, fremhævet på kampagnesiden) er gratis i nybilsgarantiperioden. Garanti på boks og lift er ikke oplyst.",
+      "forlaenget_note": "Udvidet garanti og serviceaftalen 3XL-Life følger ikke med bilen — de er tilkøb."
+    },
+    "farizon-sv": {
+      "fabrik": {
+        "aar": 5,
+        "km": 200000,
+        "note": "Fabriksgaranti 5 år eller 200.000 km; dækker materiale- og produktionsfejl på originale komponenter. Rettidig service på autoriseret Farizon-værksted bevarer garantien."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 200000,
+        "soh_pct": null,
+        "note": "Højvoltbatteriet dækket 8 år/200.000 km mod fejl i materiale eller fremstilling, plus en kapacitetsgaranti, hvis procentgrænse ikke oplyses."
+      },
+      "gennemtaering": {
+        "aar": 10,
+        "km": null
+      },
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://farizon.dk/service/",
+        "dato": "2026-09-28",
+        "note": "Farizon Danmarks side 'Garanti og vedligeholdelse' (farizon.dk/service): 5 års fabriksgaranti op til 200.000 km, 8 års batterigaranti op til 200.000 km med kapacitetsgaranti, 10 års karrosserigaranti mod rustgennemtæring uden km-begrænsning (nævnt for Farizon SV). Serviceinterval 30.000 km/12 mdr. Samme garantital i prislisten ('Priser og fakta', september 2026) s. 1."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://docs.farizon.dk/priser-og-specifikationer/sv/priser-og-specifikationer-sv/",
+          "dato": "2026-09-28",
+          "note": "Prislisten, side 1: Garanti 5 år/200.000 km, batterigaranti 8 år/200.000 km."
+        }
+      ],
+      "_mangler": "Lakgaranti, vejhjælp og batteriets kapacitetsgrænse (SOH) oplyser Farizon ikke."
+    },
+    "farizon-v7e": {
+      "fabrik": {
+        "aar": 5,
+        "km": 200000,
+        "note": "Fabriksgaranti 5 år eller 200.000 km; dækker materiale- og produktionsfejl på originale komponenter. Rettidig service på autoriseret Farizon-værksted bevarer garantien."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 200000,
+        "soh_pct": null,
+        "note": "Højvoltbatteriet dækket 8 år/200.000 km mod fejl i materiale eller fremstilling, plus en kapacitetsgaranti, hvis procentgrænse ikke oplyses."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": null,
+      "kilde": {
+        "url": "https://farizon.dk/service/",
+        "dato": "2026-09-28",
+        "note": "Farizon Danmarks side 'Garanti og vedligeholdelse' (farizon.dk/service): 5 års fabriksgaranti op til 200.000 km, 8 års batterigaranti op til 200.000 km med kapacitetsgaranti. Serviceinterval 40.000 km/24 mdr., reduktionsgearolie skiftes efter 6 mdr. Samme garantital i prislisten ('Priser og fakta', september 2026) s. 1."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://docs.farizon.dk/priser-og-specifikationer/v7e/Priser-og-specifikationer-v7e/",
+          "dato": "2026-09-28",
+          "note": "Prislisten, side 1: Garanti 5 år/200.000 km, batterigaranti 8 år/200.000 km."
+        }
+      ],
+      "_mangler": "Gennemtæringsgaranti (Farizon nævner 10 år kun for SV), lakgaranti, vejhjælp og batteriets kapacitetsgrænse (SOH) oplyser Farizon ikke for V7E."
+    },
+    "opel-movano": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Opel-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Movano/Movano Electric, ekskl. moms. Samme prisblok gælder Movano og Movano Electric; 3 år/100.000 km koster 8.600 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Følger ikke automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Opel Assistance de første 24 måneder. Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Opel.dk „Opels garantier - varebiler“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx) med priser ekskl. moms for Combo/Combo Electric, Vivaro/Vivaro Electric og Movano/Movano Electric; tekstlaget er forskudt, maksimumprisen (6 år/200.000 km) står sidst i hver blok"
+        },
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser, Opel, maj 2025"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/fabriksgarantier.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: 2-årigt garantiprogram, lakgaranti (uden varighed), batterigaranti elbiler 8 år/160.000 km/70 %"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/opel-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Opel Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": "Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF."
+    },
+    "opel-movano-electric": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Opel-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Movano/Movano Electric, ekskl. moms. Samme prisblok gælder Movano og Movano Electric; 3 år/100.000 km koster 8.600 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Følger ikke automatisk med."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Batterigaranti for Opels elbiler: 8 år eller 160.000 km, mindst 70 % kapacitet (opel.dk, øvrige garantier)."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Opel Assistance de første 24 måneder. Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Opel.dk „Opels garantier - varebiler“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx) med priser ekskl. moms for Combo/Combo Electric, Vivaro/Vivaro Electric og Movano/Movano Electric; tekstlaget er forskudt, maksimumprisen (6 år/200.000 km) står sidst i hver blok"
+        },
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser, Opel, maj 2025"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/fabriksgarantier.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: 2-årigt garantiprogram, lakgaranti (uden varighed), batterigaranti elbiler 8 år/160.000 km/70 %"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/opel-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Opel Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": "Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF."
+    },
+    "opel-vivaro": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Opel-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Vivaro/Vivaro Electric, ekskl. moms. Opels eget eksempel: Vivaro 3 år/100.000 km = 5.700 kr., 5 år/200.000 km = 10.800 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Følger ikke automatisk med."
+      },
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Opel Assistance de første 24 måneder. Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Opel.dk „Opels garantier - varebiler“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx) med priser ekskl. moms for Combo/Combo Electric, Vivaro/Vivaro Electric og Movano/Movano Electric; tekstlaget er forskudt, maksimumprisen (6 år/200.000 km) står sidst i hver blok"
+        },
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser, Opel, maj 2025"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/fabriksgarantier.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: 2-årigt garantiprogram, lakgaranti (uden varighed), batterigaranti elbiler 8 år/160.000 km/70 %"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/opel-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Opel Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": "Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF."
+    },
+    "opel-combo-electric": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Opel-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler og udrykningskøretøjer.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt, alt efter hvad der kommer først. Pris = maksimal dækning (6 ekstra år/200.000 km) for Combo/Combo Electric, ekskl. moms. Samme pristrappe som Vivaro; 3 år/100.000 km koster 5.700 kr. Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. Følger ikke automatisk med."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Batterigaranti for Opels elbiler: 8 år eller 160.000 km, mindst 70 % kapacitet (opel.dk, øvrige garantier)."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Opel Assistance de første 24 måneder. Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet."
+      },
+      "kilde": {
+        "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Opel.dk „Opels garantier - varebiler“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx) med priser ekskl. moms for Combo/Combo Electric, Vivaro/Vivaro Electric og Movano/Movano Electric; tekstlaget er forskudt, maksimumprisen (6 år/200.000 km) står sidst i hver blok"
+        },
+        {
+          "url": "https://pdf.opel.dk/eftermarked/extended-warranty-premium/betingelser-extended-warranty-premium-flex-varebiler/",
+          "dato": "2026-09-28",
+          "note": "Generelle betingelser, Opel, maj 2025"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/fabriksgarantier.html",
+          "dato": "2026-09-28",
+          "note": "Øvrige garantier: 2-årigt garantiprogram, lakgaranti (uden varighed), batterigaranti elbiler 8 år/160.000 km/70 %"
+        },
+        {
+          "url": "https://www.opel.dk/service-og-tilbehoer/garanti-forsikring/opel-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Opel Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": "Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF."
+    },
+    "fiat-ducato": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "2-årig paneuropæisk nyvognsgaranti. Fiat oplyser ingen kilometergrænse på varebilssiden."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et tilkøb ved køb hos autoriseret Fiat Professional-forhandler; 1-6 års ekstra dækning og 50.000-200.000 km vælges og aktiveres automatisk efter de 2 års nyvognsgaranti. Service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler, udrykningskøretøjer og motorsport.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt. Pris = 6 ekstra år/200.000 km for Ducato/Ducato Electric, ekskl. moms (billigste: 1 år/50.000 km = 1.800 kr.; 3 år/100.000 km = 8.600 kr.). Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri. UENIGHED: varebilssiden siger at allerede købte biler kan få garantien, hvis de ikke er ældre end 1.1.2026; prislisten siger indregistreret efter 01.01.2025."
+      },
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "„Assistance: Dækker nedbrud på biler under det 2-årige garantiprogram“ — fra fiat.dk's generelle garantiside (Øvrige garantier). Varebilssiden nævner kun, at FLEX ikke omfatter vejhjælp."
+      },
+      "kilde": {
+        "url": "https://www.fiat.dk/professional/service/garanti-varebiler",
+        "dato": "2026-09-28",
+        "note": "Fiat.dk „Fiat Professional garantier“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ipaper.wismo.dk/fiat-pro/garanti/fiat-pro-prisliste-extended-warranty-premium/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx), blokken DUCATO / DUCATO ELECTRIC, aflæst efter placering"
+        },
+        {
+          "url": "https://ipaper.wismo.dk/fiat-pro/garanti/fiat-pro-betingelser-extended-warranty-premium-flex/",
+          "dato": "2026-09-28",
+          "note": "Betingelser for Extended Warranty Premium Varebil Flex"
+        },
+        {
+          "url": "https://www.fiat.dk/din-fiat/garanti-extended-warranty-premium",
+          "dato": "2026-09-28",
+          "note": "Fiats generelle garantiside: 2-årigt garantiprogram, Assistance, lakgaranti og garanti mod gennemtæring (begge uden varighed)"
+        }
+      ],
+      "_mangler": "Fiat nævner en lakgaranti og en garanti mod gennemtæring, men ingen varighed, og ingen kilometergrænse for nyvognsgarantien. Garanti- og servicehæftet er ikke offentliggjort."
+    },
+    "renault-master-e-tech": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti E-Tech: elbiler har 2 år med ubegrænset km, men Master, Trafic og Kangoo E-Tech har 3 år/100.000 km (hvad der kommer først). Gælder også den elektriske drivlinje. Kræver service efter Renaults anvisninger på autoriseret værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye biler købt og indregistreret i Danmark fra 24. maj 2025, på samme vilkår som fabriksgarantien. Garantigiver er Fragus Group Danmark.",
+        "pris": null,
+        "note": "Renault Extended: fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Renault Extended PLUS er et tilkøb for elbiler (også vareelbiler), som forlænger med 12 eller 24 måneder til i alt 6 eller 7 år og 200.000 km, maks. 75.000 kr. inkl. moms pr. reparation; prisen er ikke oplyst."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: ubegrænset km de første 2 år, derefter 8 år/160.000 km. Master E-TECH garanteres mindst 70 % af den oprindelige kapacitet. Prislisten skriver også batterigaranti 8 år/160.000 km."
+      },
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance gælder sideløbende med fabriksgarantien (3 år for E-Tech-varebilerne) og dækker nedbrud relateret til den. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser; hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "\"Renault Fabriksgaranti E-Tech\", version 2-24.05.2025, pkt. 2 Varighed: fabrik 3 år/100.000 km for Master/Trafic/Kangoo, drivbatteri 8 år/160.000 km med 70 % kapacitet for Kangoo og Master E-TECH, gennemtæring 6 år for Trafic, Kangoo og Master E-TECH (12 år for øvrige), lak 3 år; Renault Assistance side 3. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti-e-tech.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended: elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended-plus.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended PLUS, version 1 af 1. oktober 2025: tilkøb for elbiler, 6 eller 7 år i alt og 200.000 km."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/transportvehiclesrenaultdksite/cardocuments/prisliste-master-e-tech-electric.pdf",
+          "dato": "2026-09-28",
+          "note": "Prislistens side 1: \"5 år Renault Extended Garanti\" (5 år/150.000 km) for biler købt og indregistreret fra 24. maj 2025."
+        }
+      ],
+      "_mangler": "Prisen på Renault Extended PLUS er ikke oplyst. NB: E-Tech-varebilerne har kun 6 års gennemtæringsgaranti mod 12 år for Trafic og Kangoo diesel."
+    },
+    "renault-kangoo-e-tech": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti E-Tech: elbiler har 2 år med ubegrænset km, men Master, Trafic og Kangoo E-Tech har 3 år/100.000 km (hvad der kommer først). Gælder også den elektriske drivlinje. Kræver service efter Renaults anvisninger på autoriseret værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye biler købt og indregistreret i Danmark fra 24. maj 2025, på samme vilkår som fabriksgarantien. Garantigiver er Fragus Group Danmark.",
+        "pris": null,
+        "note": "Renault Extended: fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Renault Extended PLUS er et tilkøb for elbiler (også vareelbiler), som forlænger med 12 eller 24 måneder til i alt 6 eller 7 år og 200.000 km, maks. 75.000 kr. inkl. moms pr. reparation; prisen er ikke oplyst."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: ubegrænset km de første 2 år, derefter 8 år/160.000 km. Kangoo E-TECH garanteres mindst 70 % af den oprindelige kapacitet; prislisten side 5 bekræfter 8 år/160.000 km."
+      },
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance gælder sideløbende med fabriksgarantien (3 år for E-Tech-varebilerne) og dækker nedbrud relateret til den. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser; hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "\"Renault Fabriksgaranti E-Tech\", version 2-24.05.2025, pkt. 2 Varighed: fabrik 3 år/100.000 km for Master/Trafic/Kangoo, drivbatteri 8 år/160.000 km med 70 % kapacitet for Kangoo og Master E-TECH, gennemtæring 6 år for Trafic, Kangoo og Master E-TECH (12 år for øvrige), lak 3 år; Renault Assistance side 3. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti-e-tech.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended: elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended-plus.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended PLUS, version 1 af 1. oktober 2025: tilkøb for elbiler, 6 eller 7 år i alt og 200.000 km."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/transportvehiclesrenaultdksite/cardocuments/prisliste-kangoo-e-tech-electric.pdf",
+          "dato": "2026-09-28",
+          "note": "Prislistens side 1: \"5 år Renault Extended Garanti\" (5 år/150.000 km) for biler købt og indregistreret fra 24. maj 2025."
+        }
+      ],
+      "_mangler": "Prisen på Renault Extended PLUS er ikke oplyst. NB: E-Tech-varebilerne har kun 6 års gennemtæringsgaranti mod 12 år for Trafic og Kangoo diesel."
+    },
+    "nissan-interstar": {
+      "fabrik": {
+        "aar": 5,
+        "km": 160000,
+        "note": "Nissan nybilsgaranti for varebiler, hvad der kommer først. Personbiler har 3 år/100.000 km."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "km_ukendt": true
+      },
+      "lak": {
+        "aar": 5,
+        "km": null,
+        "km_ukendt": true
+      },
+      "vejhjaelp": {
+        "aar": 5,
+        "note": "Prislisten siger vejhjælp 5 år. Nissans garantiside viser Nissan Assistance 3 år under varebiler; prislisten er brugt. Assistance forlænges uden beregning til næste service, når bilen serviceres på autoriseret Nissan-værksted."
+      },
+      "kilde": {
+        "url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/dk/brochures/cpls/Interstar_Diesel.pdf",
+        "dato": "2026-09-28",
+        "note": "Nissan Danmarks prisliste, DK-28C-2163 af 11/03/2026, side 7, boksen \"Nissan garantier\": nybilsgaranti 5 år/160.000 km, lakgaranti 5 år, garanti mod gennemtæring 12 år, vejhjælp 5 år. Serviceinterval 2 år/40.000 km."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.nissan.dk/ejerskab/nissan-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Varebiler inkluderer 5 års fabriksgaranti eller 160.000 km; Nissan Assistance angivet til 3 år. Udvidet tryghed kan købes, men prislisten (Nissan_udvidet_tryghed.pdf) har kun personbiler."
+        }
+      ],
+      "_mangler": "Km-grænse for lak- og gennemtæringsgaranti er ikke oplyst. Nissan har ingen pris på forlænget garanti (Udvidet tryghed) for varebilerne. Vejhjælpens længde er uenig mellem prisliste (5 år) og garantiside (3 år)."
+    },
+    "nissan-primastar": {
+      "fabrik": {
+        "aar": 5,
+        "km": 160000,
+        "note": "Nissan nybilsgaranti for varebiler, hvad der kommer først. Personbiler har 3 år/100.000 km."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "km_ukendt": true
+      },
+      "lak": {
+        "aar": 5,
+        "km": null,
+        "km_ukendt": true
+      },
+      "vejhjaelp": {
+        "aar": 5,
+        "note": "Prislisten siger vejhjælp 5 år. Nissans garantiside viser Nissan Assistance 3 år under varebiler; prislisten er brugt. Assistance forlænges uden beregning til næste service, når bilen serviceres på autoriseret Nissan-værksted."
+      },
+      "kilde": {
+        "url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/dk/brochures/cpls/PRIMASTAR_Kundeprisliste.pdf",
+        "dato": "2026-09-28",
+        "note": "Nissan Danmarks prisliste, DK-17C-2188 af 01.08.2026, side 6 (serviceinterval 24 mdr./30.000 km), boksen \"Nissan garantier\": nybilsgaranti 5 år/160.000 km, lakgaranti 5 år, garanti mod gennemtæring 12 år, vejhjælp 5 år."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.nissan.dk/ejerskab/nissan-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Varebiler inkluderer 5 års fabriksgaranti eller 160.000 km; Nissan Assistance angivet til 3 år. Udvidet tryghed kan købes, men prislisten (Nissan_udvidet_tryghed.pdf) har kun personbiler."
+        }
+      ],
+      "_mangler": "Km-grænse for lak- og gennemtæringsgaranti er ikke oplyst. Nissan har ingen pris på forlænget garanti (Udvidet tryghed) for varebilerne. Vejhjælpens længde er uenig mellem prisliste (5 år) og garantiside (3 år)."
+    },
+    "peugeot-e-partner": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram)."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere efter 05.05.2025. Service efter Peugeots forskrifter.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km. Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteri (det har egen batterigaranti)."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: 8 år eller 160.000 km, min. 70 % kapacitet (peugeot.dk, batterigaranti for elbiler)."
+      },
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler. Kræver karrosserikontrol hvert 2. år for varebiler."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti i den 2-årige fabriksgarantiperiode."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder; derefter serviceaktiveret vejhjælp."
+      },
+      "kilde": {
+        "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-partner-priser-og-specifikationer/",
+        "dato": "2026-09-28",
+        "note": "E-Partner-prislistens fodnote: „5 år el. 200.000 km fabriksgaranti … 2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil“. Øvrige vilkår som i garanti.json for peugeot-partner (peugeot.dk, garantier på varebiler)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot.dk „Peugeots garantier på varebiler“ (Extended Warranty Premium Varebil)."
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti for elbiler: „8 år eller 160.000 km med en minimumskapacitet på 70%“ (læst 28-09-2026)."
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": null
+    },
+    "peugeot-e-expert": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram)."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere efter 05.05.2025. Service efter Peugeots forskrifter.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km. Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteri (det har egen batterigaranti)."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: 8 år eller 160.000 km, min. 70 % kapacitet (peugeot.dk, batterigaranti for elbiler)."
+      },
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler. Kræver karrosserikontrol hvert 2. år for varebiler."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti i den 2-årige fabriksgarantiperiode."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder; derefter serviceaktiveret vejhjælp."
+      },
+      "kilde": {
+        "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-expert-priser-specifikationerpdf/",
+        "dato": "2026-09-28",
+        "note": "E-Expert-prislistens fodnote: „5 år el. 200.000 km fabriksgaranti … 2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil“. Øvrige vilkår som i garanti.json for peugeot-partner (peugeot.dk, garantier på varebiler)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot.dk „Peugeots garantier på varebiler“ (Extended Warranty Premium Varebil)."
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti for elbiler: „8 år eller 160.000 km med en minimumskapacitet på 70%“ (læst 28-09-2026)."
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": null
+    },
+    "peugeot-e-boxer": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram)."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil følger med nye Peugeot-varebiler (el og diesel) solgt via Peugeot Danmarks autoriserede forhandlere efter 05.05.2025. Service efter Peugeots forskrifter.",
+        "pris": null,
+        "note": "2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil = samlet 5 år eller 200.000 km. Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteri (det har egen batterigaranti)."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: 8 år eller 160.000 km, min. 70 % kapacitet (peugeot.dk, batterigaranti for elbiler)."
+      },
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler. Kræver karrosserikontrol hvert 2. år for varebiler."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti i den 2-årige fabriksgarantiperiode."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Peugeot Assistance de første 24 måneder; derefter serviceaktiveret vejhjælp."
+      },
+      "kilde": {
+        "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-boxer-priser-og-specifikationer/",
+        "dato": "2026-09-28",
+        "note": "E-Boxer-prislistens fodnote: „5 år el. 200.000 km fabriksgaranti … 2 års nyvognsgaranti + 3 års Extended Warranty Premium Varebil“. Øvrige vilkår som i garanti.json for peugeot-partner (peugeot.dk, garantier på varebiler)."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/garanti/varebiler.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot.dk „Peugeots garantier på varebiler“ (Extended Warranty Premium Varebil)."
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/batteri-garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti for elbiler: „8 år eller 160.000 km med en minimumskapacitet på 70%“ (læst 28-09-2026)."
+        },
+        {
+          "url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/Diverse/garantiprogram/",
+          "dato": "2026-09-28",
+          "note": "Peugeot Garantiprogram V.2022-10-24, s. 1-2: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.peugeot.dk/service-og-tilbehoer/garanti-forsikring/assistance.html",
+          "dato": "2026-09-28",
+          "note": "Peugeot Assistance 24 mdr. + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": null
+    },
+    "citroen-e-jumpy": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler; 1-6 ekstra år og 50.000-200.000 km vælges. Service efter fabrikkens forskrifter; bilen skal være indregistreret efter 01.01.2025.",
+        "pris": 11700,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt. Pris = maksimal dækning (6 ekstra år/200.000 km), ekskl. moms. Billigste: 1 år/50.000 km = 1.200 kr.; 3 år/100.000 km = 5.700 kr. (tabellen „JUMPY / ë-JUMPY“). Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteri."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: 8 år eller 160.000 km, min. 70 % kapacitet (citroen.dk, øvrige garantier)."
+      },
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler. Kræver karrosserikontrol hvert 2. år for varebiler."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti i den 2-årige fabriksgarantiperiode."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Citroën Assistance de første 2 år; derefter serviceaktiveret vejhjælp."
+      },
+      "kilde": {
+        "url": "https://www.citroen.dk/service-og-tilbehoer/garanti/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Citroën.dk „Citroën garantier - varebiler“ (Extended Warranty Premium Varebil FLEX). ë-Jumper-siden bekræfter: „kan tegnes op til samlet 8 år eller 200.000 km“, „De 8 år består af 2 års standard fabriksgaranti …“."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti for elbiler: „8 år eller 160.000 km med en minimumskapacitet på 70%“ (læst 28-09-2026)."
+        },
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste Extended Warranty Premium Varebil FLEX (PDF via GetPDF.ashx), priser ekskl. moms pr. model/år/km; fælles tabeller for Jumpy/ë-Jumpy og Jumper/ë-Jumper."
+        },
+        {
+          "url": "http://brochurer.citroen.dk/eftermarked/garanti/garantibetingelser/",
+          "dato": "2026-09-28",
+          "note": "Citroën Garantibetingelser: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/citroen-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Citroën Assistance 2 år + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": null
+    },
+    "citroen-e-jumper": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler; 1-6 ekstra år og 50.000-200.000 km vælges. Service efter fabrikkens forskrifter; bilen skal være indregistreret efter 01.01.2025.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt. Pris = maksimal dækning (6 ekstra år/200.000 km), ekskl. moms. Billigste: 1 år/50.000 km = 1.800 kr.; 3 år/100.000 km = 8.600 kr. (tabellen „JUMPER / ë-JUMPER“). Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteri."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: 8 år eller 160.000 km, min. 70 % kapacitet (citroen.dk, øvrige garantier)."
+      },
+      "gennemtaering": {
+        "aar": 5,
+        "km": null,
+        "note": "5 år for varebiler. Kræver karrosserikontrol hvert 2. år for varebiler."
+      },
+      "lak": {
+        "aar": 2,
+        "km": null,
+        "note": "Lakgaranti i den 2-årige fabriksgarantiperiode."
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Citroën Assistance de første 2 år; derefter serviceaktiveret vejhjælp."
+      },
+      "kilde": {
+        "url": "https://www.citroen.dk/service-og-tilbehoer/garanti/garanti-varebiler.html",
+        "dato": "2026-09-28",
+        "note": "Citroën.dk „Citroën garantier - varebiler“ (Extended Warranty Premium Varebil FLEX). ë-Jumper-siden bekræfter: „kan tegnes op til samlet 8 år eller 200.000 km“, „De 8 år består af 2 års standard fabriksgaranti …“."
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/garanti.html",
+          "dato": "2026-09-28",
+          "note": "Batterigaranti for elbiler: „8 år eller 160.000 km med en minimumskapacitet på 70%“ (læst 28-09-2026)."
+        },
+        {
+          "url": "https://brochurer.citroen.dk/eftermarked/garanti/extended-warranty-premium/prisliste-extended-warranty-premium-flex-varebil/",
+          "dato": "2026-09-28",
+          "note": "Prisliste Extended Warranty Premium Varebil FLEX (PDF via GetPDF.ashx), priser ekskl. moms pr. model/år/km; fælles tabeller for Jumpy/ë-Jumpy og Jumper/ë-Jumper."
+        },
+        {
+          "url": "http://brochurer.citroen.dk/eftermarked/garanti/garantibetingelser/",
+          "dato": "2026-09-28",
+          "note": "Citroën Garantibetingelser: 2 år uden km-begrænsning, lakgaranti 2 år, gennemtæring 5 år for varebiler"
+        },
+        {
+          "url": "https://www.citroen.dk/service-og-tilbehoer/citroen-assistance.html",
+          "dato": "2026-09-28",
+          "note": "Citroën Assistance 2 år + serviceaktiveret vejhjælp"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-transit-connect": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år. Transit Connect er ikke omfattet af 2+3 års Ford Protect New, som kun gælder el-varebilerne, Transit City og Transit Custom diesel/PHEV."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-transit-connect-phev": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år. Transit Connect PHEV er ikke omfattet af 2+3 års Ford Protect New, som kun gælder el-varebilerne, Transit City og Transit Custom diesel/PHEV."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-transit": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år. Transit (diesel) er ikke omfattet af 2+3 års Ford Protect New, som kun gælder el-varebilerne, Transit City og Transit Custom diesel/PHEV."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        }
+      ],
+      "_mangler": null
+    },
+    "ford-e-transit": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "2 års fabriksgaranti + 3 års Ford Protect New op til 150.000 km fra 1. indregistrering (hvad der kommer først). Gælder el-varebiler solgt af NCG Motor Company via autoriseret Ford-forhandler og indregistreret fra 13-03-2025. Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.",
+        "pris": null,
+        "note": "Følger med uden ekstra omkostning. Dækker ikke sliddele, lak/karrosseri, vejhjælp og højvoltsbatteriet (som har sin egen garanti). Fords specifikationsløsblad for modellen skriver 'yderligere 3 års dækning eller op til 100.000 km'; ford.dk og den nyere prisliste siger 150.000 km, som vi fører."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Særskilt HV-batterigaranti i 8 år eller op til 160.000 km, hvad der kommer først. Dækker 'ved væsentlig reduktion af batteriets kapacitet'; Ford oplyser ikke en procentgrænse på siden."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: 5 år/150.000 km for elektriske varebiler med 1. indregistrering fra 13-03-2025"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/e-transit/",
+          "dato": "2026-09-28",
+          "note": "E-Transit er nævnt blandt modellerne med 2+3 års garanti på ford.dk/min-bil/garanti/varebiler; prislisten af 07-07-2026 har ingen garantiboks"
+        },
+        {
+          "url": "https://katalog.ford.dk/specifikationer/e-transit/",
+          "dato": "2026-09-28",
+          "note": "Specifikationsløsbladets garantiboks: 2 års fabriksgaranti forlænget med 3 år 'eller op til 100.000 km' (ældre tal end ford.dk og prislisten)"
+        }
+      ],
+      "_mangler": "Ford oplyser ikke, hvor stor kapacitetsnedgang batterigarantien dækker (SoH-procent)."
+    },
+    "ford-e-transit-custom": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "2 års fabriksgaranti + 3 års Ford Protect New op til 150.000 km fra 1. indregistrering (hvad der kommer først). Gælder el-varebiler solgt af NCG Motor Company via autoriseret Ford-forhandler og indregistreret fra 13-03-2025. Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.",
+        "pris": null,
+        "note": "Følger med uden ekstra omkostning. Dækker ikke sliddele, lak/karrosseri, vejhjælp og højvoltsbatteriet (som har sin egen garanti). Fords specifikationsløsblad for modellen skriver 'yderligere 3 års dækning eller op til 100.000 km'; ford.dk og den nyere prisliste siger 150.000 km, som vi fører."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Særskilt HV-batterigaranti i 8 år eller op til 160.000 km, hvad der kommer først. Dækker 'ved væsentlig reduktion af batteriets kapacitet'; Ford oplyser ikke en procentgrænse på siden."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: 5 år/150.000 km for elektriske varebiler med 1. indregistrering fra 13-03-2025"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/e-transit-custom-van/",
+          "dato": "2026-09-28",
+          "note": "Prislisten af 07-07-2026: '5 års garanti/op til 150.000 km … 2 års fabriksgaranti efterfulgt af 3 års Ford Protect'"
+        },
+        {
+          "url": "https://katalog.ford.dk/specifikationer/e-transit-custom/",
+          "dato": "2026-09-28",
+          "note": "Specifikationsløsbladets garantiboks: 2 års fabriksgaranti forlænget med 3 år 'eller op til 100.000 km' (ældre tal end ford.dk og prislisten)"
+        }
+      ],
+      "_mangler": "Ford oplyser ikke, hvor stor kapacitetsnedgang batterigarantien dækker (SoH-procent)."
+    },
+    "ford-e-transit-courier": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "2 års fabriksgaranti + 3 års Ford Protect New op til 150.000 km fra 1. indregistrering (hvad der kommer først). Gælder el-varebiler solgt af NCG Motor Company via autoriseret Ford-forhandler og indregistreret fra 13-03-2025. Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.",
+        "pris": null,
+        "note": "Følger med uden ekstra omkostning. Dækker ikke sliddele, lak/karrosseri, vejhjælp og højvoltsbatteriet (som har sin egen garanti). Fords specifikationsløsblad for modellen skriver 'yderligere 3 års dækning eller op til 100.000 km'; ford.dk og den nyere prisliste siger 150.000 km, som vi fører."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Særskilt HV-batterigaranti i 8 år eller op til 160.000 km, hvad der kommer først. Dækker 'ved væsentlig reduktion af batteriets kapacitet'; Ford oplyser ikke en procentgrænse på siden."
+      },
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år), Ford Protect New og højvoltsbatteri"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: 5 år/150.000 km for elektriske varebiler med 1. indregistrering fra 13-03-2025"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/e-transit-courier-van/",
+          "dato": "2026-09-28",
+          "note": "Prislisten af 07-08-2026: '5 års garanti/op til 150.000 km … 2 års fabriksgaranti efterfulgt af 3 års Ford Protect'"
+        },
+        {
+          "url": "https://katalog.ford.dk/specifikationer/e-transit-courier/",
+          "dato": "2026-09-28",
+          "note": "Specifikationsløsbladets garantiboks: 2 års fabriksgaranti forlænget med 3 år 'eller op til 100.000 km' (ældre tal end ford.dk og prislisten)"
+        }
+      ],
+      "_mangler": "Ford oplyser ikke, hvor stor kapacitetsnedgang batterigarantien dækker (SoH-procent)."
+    },
+    "mercedes-citan": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": null,
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/content/dam/denmark/vans/pricelists/2026/servicecare/02_2026/41178_MBVans_ServiceCare_onepager_A4_Diesel_2026.pdf",
+          "dato": "2026-09-28",
+          "note": "ServiceCare-onepager diesel 2026: Extended Warranty er tilkøb (36/48/60 mdr.; 150/200/250.000 km), engangspris ekskl. moms"
+        }
+      ],
+      "_mangler": "Mercedes-Benz Vans' danske sider oplyser ingen lak- eller gennemtæringsgaranti for Citan."
+    },
+    "mercedes-ecitan": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Battericertifikat: højvoltsbatteriet dækkes i alt 8 år fra udlevering eller 160.000 km. Gælder hvis batteriets maksimale kapacitet er under 70 % af startkapaciteten (eCitan-modelsiden)."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/vans/technology/e-mobility/opladning.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz Vans Danmark, spørgsmål og svar: „Battericertifikatet gælder i totalt 8 år, dvs. yderligere 6 år udover den almindelige to-årige garanti, eller til bilen har kørt 160.000 km“, for nye elektriske varebiler fra autoriseret forhandler."
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/vans/models/ecitan/panel-van/overview.html",
+          "dato": "2026-09-28",
+          "note": "eCitan-modelsiden: battericertifikat 8 år/160.000 km ved under 70 % af startkapaciteten"
+        }
+      ],
+      "_mangler": "Mercedes-Benz Vans' danske sider oplyser ingen lak- eller gennemtæringsgaranti for eCitan."
+    },
+    "mercedes-esprinter": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Battericertifikat: højvoltsbatteriet dækkes i alt 8 år fra udlevering eller 160.000 km. Kapacitetsgrænsen er ikke oplyst for eSprinter; for eCitan skriver Mercedes 70 %."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/vans/technology/e-mobility/opladning.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz Vans Danmark, spørgsmål og svar: „Battericertifikatet gælder i totalt 8 år, dvs. yderligere 6 år udover den almindelige to-årige garanti, eller til bilen har kørt 160.000 km“, for nye elektriske varebiler fra autoriseret forhandler."
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/service-care.html",
+          "dato": "2026-09-28",
+          "note": "ServiceCare: „det allerede integrerede battericertifikat (8 år/160.000 km) til din eSprinter“; eComplete+ udvider til 8 år/300.000 km mod betaling"
+        }
+      ],
+      "_mangler": "Kapacitetsgrænsen (SOH) i battericertifikatet for eSprinter, og lak- og gennemtæringsgaranti oplyses ikke."
+    },
+    "mercedes-evito": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning. ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.)."
+      },
+      "forlaenget": null,
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Battericertifikat: højvoltsbatteriet dækkes i alt 8 år fra udlevering eller 160.000 km. Kapacitetsgrænsen er ikke oplyst for eVito; for eCitan skriver Mercedes 70 %."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted."
+      },
+      "kilde": {
+        "url": "https://www.mercedes-benz.dk/vans/services/warranty.html",
+        "dato": "2026-09-28",
+        "note": "Mercedes-Benz Vans Danmark: 'Nybilsgaranti til din Mercedes-Benz varebil'"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.mercedes-benz.dk/vans/services/mobilovan.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz MobiloVan – hvornår den gælder, op til 30 år"
+        },
+        {
+          "url": "https://www.mercedes-benz.dk/vans/technology/e-mobility/opladning.html",
+          "dato": "2026-09-28",
+          "note": "Mercedes-Benz Vans Danmark, spørgsmål og svar: „Battericertifikatet gælder i totalt 8 år, dvs. yderligere 6 år udover den almindelige to-årige garanti, eller til bilen har kørt 160.000 km“, for nye elektriske varebiler fra autoriseret forhandler."
+        }
+      ],
+      "_mangler": "Kapacitetsgrænsen (SOH) i battericertifikatet for eVito, og lak- og gennemtæringsgaranti oplyses ikke."
+    },
+    "fiat-e-ducato": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "km_ukendt": true,
+        "note": "2-årig paneuropæisk nyvognsgaranti. Fiat oplyser ingen kilometergrænse på varebilssiden."
+      },
+      "forlaenget": {
+        "aar": 8,
+        "km": 200000,
+        "vilkaar": "Extended Warranty Premium Varebil FLEX er et tilkøb ved køb hos autoriseret Fiat Professional-forhandler; 1-6 års ekstra dækning og 50.000-200.000 km vælges og aktiveres automatisk efter de 2 års nyvognsgaranti. Service efter fabrikkens forskrifter er en betingelse. Garantien gælder ikke for taxaer, køreskolebiler, ombyggede biler, udrykningskøretøjer og motorsport.",
+        "pris": 17600,
+        "note": "Den kan højst vare 8 år eller 200.000 km i alt. Pris = 6 ekstra år/200.000 km for Ducato/Ducato Electric, ekskl. moms (billigste: 1 år/50.000 km = 1.800 kr.; 3 år/100.000 km = 8.600 kr.). Dækker ikke lak/karrosseri, vejhjælp eller højvoltsbatteriet (det har sin egen garanti på 8 år/160.000 km). UENIGHED: varebilssiden siger at allerede købte biler kan få garantien, hvis de ikke er ældre end 1.1.2026; prislisten siger indregistreret efter 01.01.2025."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": null,
+        "note": "Fiats varebilsside (FAQ 'Er der ikke allerede 8 års garanti på en elvarebil?'): drivbatteriet er dækket af 8 års garanti eller op til 160.000 km, alt efter hvad der kommer først. Garanteret restkapacitet oplyses ikke."
+      },
+      "gennemtaering": null,
+      "lak": null,
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "„Assistance: Dækker nedbrud på biler under det 2-årige garantiprogram“ — fra fiat.dk's generelle garantiside (Øvrige garantier). Varebilssiden nævner kun, at FLEX ikke omfatter vejhjælp."
+      },
+      "kilde": {
+        "url": "https://www.fiat.dk/professional/service/garanti-varebiler",
+        "dato": "2026-09-28",
+        "note": "Fiat.dk „Fiat Professional garantier“ (Extended Warranty Premium Varebil FLEX) inkl. FAQ"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://ipaper.wismo.dk/fiat-pro/garanti/fiat-pro-prisliste-extended-warranty-premium/",
+          "dato": "2026-09-28",
+          "note": "Prisliste FLEX (PDF via GetPDF.ashx), blokken DUCATO / DUCATO ELECTRIC, aflæst efter placering"
+        },
+        {
+          "url": "https://ipaper.wismo.dk/fiat-pro/garanti/fiat-pro-betingelser-extended-warranty-premium-flex/",
+          "dato": "2026-09-28",
+          "note": "Betingelser for Extended Warranty Premium Varebil Flex"
+        },
+        {
+          "url": "https://www.fiat.dk/din-fiat/garanti-extended-warranty-premium",
+          "dato": "2026-09-28",
+          "note": "Fiats generelle garantiside: 2-årigt garantiprogram, Assistance, lakgaranti og garanti mod gennemtæring (begge uden varighed)"
+        }
+      ],
+      "_mangler": "Fiat nævner en lakgaranti og en garanti mod gennemtæring, men ingen varighed, ingen kilometergrænse for nyvognsgarantien og ingen garanteret batterikapacitet (SOH)."
+    },
+    "renault-trafic-e-tech": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti E-Tech: elbiler har 2 år med ubegrænset km, men Master, Trafic og Kangoo E-Tech har 3 år/100.000 km (hvad der kommer først). Gælder også den elektriske drivlinje. Kræver service efter Renaults anvisninger på autoriseret værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye biler købt og indregistreret i Danmark fra 24. maj 2025, på samme vilkår som fabriksgarantien. Garantigiver er Fragus Group Danmark.",
+        "pris": null,
+        "note": "Renault Extended: fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Renault Extended PLUS er et tilkøb for elbiler (også vareelbiler), som forlænger med 12 eller 24 måneder til i alt 6 eller 7 år og 200.000 km, maks. 75.000 kr. inkl. moms pr. reparation; prisen er ikke oplyst."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: ubegrænset km de første 2 år, derefter 8 år/160.000 km. Trafic E-TECH garanteres mindst 70 % af den oprindelige kapacitet. Trafic E-Tech-prislisten skriver også 8 år/160.000 km og mindst 70 % SOH."
+      },
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance gælder sideløbende med fabriksgarantien (3 år for E-Tech-varebilerne) og dækker nedbrud relateret til den. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser; hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "\"Renault Fabriksgaranti E-Tech\", version 2-24.05.2025, pkt. 2 Varighed: fabrik 3 år/100.000 km for Master/Trafic/Kangoo, drivbatteri 8 år/160.000 km med 70 % kapacitet for Kangoo og Master E-TECH, gennemtæring 6 år for Trafic, Kangoo og Master E-TECH (12 år for øvrige), lak 3 år; Renault Assistance side 3. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti-e-tech.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended: elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended-plus.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended PLUS, version 1 af 1. oktober 2025: tilkøb for elbiler, 6 eller 7 år i alt og 200.000 km."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/transportvehiclesrenaultdksite/cardocuments/prisliste-trafic-e-tech-electric.pdf",
+          "dato": "2026-09-28",
+          "note": "Trafic E-Tech-prislisten (1. januar–31. marts 2026), side 1: '5 år Renault Extended Garanti'; side 5: fabriksgaranti 3 år, batteri 8 år/160.000 km og mindst 70 % SOH."
+        }
+      ],
+      "_mangler": "Prisen på Renault Extended PLUS er ikke oplyst. NB: E-Tech-varebilerne har kun 6 års gennemtæringsgaranti."
+    },
+    "renault-master-e-tech-chassis": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "Renault Fabriksgaranti E-Tech: elbiler har 2 år med ubegrænset km, men Master, Trafic og Kangoo E-Tech har 3 år/100.000 km (hvad der kommer først). Gælder også den elektriske drivlinje. Kræver service efter Renaults anvisninger på autoriseret værksted."
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "Følger med fabriksnye biler købt og indregistreret i Danmark fra 24. maj 2025, på samme vilkår som fabriksgarantien. Garantigiver er Fragus Group Danmark.",
+        "pris": null,
+        "note": "Renault Extended: fra fabriksgarantiens udløb til i alt 5 år/150.000 km. Renault Extended PLUS er et tilkøb for elbiler (også vareelbiler), som forlænger med 12 eller 24 måneder til i alt 6 eller 7 år og 200.000 km, maks. 75.000 kr. inkl. moms pr. reparation; prisen er ikke oplyst."
+      },
+      "batteri": {
+        "aar": 8,
+        "km": 160000,
+        "soh_pct": 70,
+        "note": "Drivbatteriet: ubegrænset km de første 2 år, derefter 8 år/160.000 km. Master E-TECH garanteres mindst 70 % af den oprindelige kapacitet. Prislisten skriver også batterigaranti 8 år/160.000 km."
+      },
+      "gennemtaering": {
+        "aar": 6,
+        "km": null
+      },
+      "lak": {
+        "aar": 3,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 3,
+        "note": "Renault Assistance gælder sideløbende med fabriksgarantien (3 år for E-Tech-varebilerne) og dækker nedbrud relateret til den. Er bilen registreret til korttidsleje/leasing, bortfalder de ekstra ydelser; hjælp på stedet og bugsering består."
+      },
+      "kilde": {
+        "url": "https://www.renault.dk/ejer/garanti",
+        "dato": "2026-09-28",
+        "note": "\"Renault Fabriksgaranti E-Tech\", version 2-24.05.2025, pkt. 2 Varighed: fabrik 3 år/100.000 km for Master/Trafic/Kangoo, drivbatteri 8 år/160.000 km med 70 % kapacitet for Kangoo og Master E-TECH, gennemtæring 6 år for Trafic, Kangoo og Master E-TECH (12 år for øvrige), lak 3 år; Renault Assistance side 3. PDF: https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-fabriksgaranti-e-tech.pdf"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended: elbiler og varebiler, i alt 5 år/150.000 km, garantigiver Fragus Group Danmark, Renault Assistance ikke inkluderet."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/renaultdksite/pdf/garanti/renault-garanti-extended-plus.pdf",
+          "dato": "2026-09-28",
+          "note": "Renault Extended PLUS, version 1 af 1. oktober 2025: tilkøb for elbiler, 6 eller 7 år i alt og 200.000 km."
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/project/hedin/distribution-cars/transportvehiclesrenaultdksite/cardocuments/prisliste-master-chassis-e-tech-electric.pdf",
+          "dato": "2026-09-28",
+          "note": "Master Chassis E-Tech-prislisten (1. juli–30. september 2026), side 1: '5 år Renault Extended Garanti' (5 år/150.000 km) for biler købt og indregistreret fra 24. maj 2025."
+        }
+      ],
+      "_mangler": "Prisen på Renault Extended PLUS er ikke oplyst. NB: E-Tech-varebilerne har kun 6 års gennemtæringsgaranti."
+    },
+    "ford-transit-custom-phev": {
+      "fabrik": {
+        "aar": 2,
+        "km": null,
+        "note": "Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering). Ford oplyser ingen km-grænse for de 2 år.",
+        "km_ukendt": true
+      },
+      "forlaenget": {
+        "aar": 5,
+        "km": 150000,
+        "vilkaar": "2 års fabriksgaranti + 3 års Ford Protect New op til 150.000 km fra 1. reg. (hvad der kommer først). Transit Custom diesel/PHEV indregistreret fra 14. juli 2026 og solgt af NCG Motor Company via autoriseret Ford-forhandler. Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.",
+        "pris": null,
+        "note": "Følger med uden ekstra omkostning. Dækker ikke sliddele, trim/karrosseri, lak, servicedele og 12-voltsbatteri."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null
+      },
+      "lak": {
+        "aar": 2,
+        "km": null
+      },
+      "vejhjaelp": {
+        "aar": 2,
+        "note": "Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted."
+      },
+      "kilde": {
+        "url": "https://www.ford.dk/min-bil/garanti/varebiler",
+        "dato": "2026-09-28",
+        "note": "Ford Danmark: 'Garanti på nye Ford varebiler' – FAQ om fabriksgaranti, lak (2 år), gennemtæring (12 år) og Ford Protect"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.ford.dk/min-bil/garanti",
+          "dato": "2026-09-28",
+          "note": "Fords garantioversigt: Ford Assistance op til 24 mdr.; 5 år/150.000 km for varebiler gælder kun el-varebiler og Transit Custom diesel/PHEV"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/transit-custom/",
+          "dato": "2026-09-28",
+          "note": "Transit Custom-prisliste: '5 års garanti/op til 150.000 km … 2 års fabriksgaranti efterfulgt af 3 års Ford Protect'"
+        },
+        {
+          "url": "https://katalog.ford.dk/prislister/varebiler/custom-van-phev/",
+          "dato": "2026-09-28",
+          "note": "PHEV-prislisten 08-07-2026 side 1: '5 års garanti/op til 150.000 km … 2 års fabriksgaranti efterfulgt af 3 års Ford Protect'; Ford Protect dækker ikke højspændingsbatteriet"
+        }
+      ],
+      "_mangler": "Garanti på PHEV-udgavens højvoltsbatteri er ikke oplyst: Fords garantiside nævner 8 år/160.000 km kun for elektriske varebiler, og Ford Protect dækker ikke højspændingsbatteriet."
+    },
+    "toyota-proace-city-diesel": {
+      "fabrik": {
+        "aar": 3,
+        "km": 100000,
+        "note": "3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år. Samme for Toyotas erhvervsbiler som for personbiler."
+      },
+      "forlaenget": {
+        "aar": 10,
+        "km": 185000,
+        "vilkaar": "Toyota Relax: serviceaktiveret, gratis. Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km. Ombyggede biler (lokalt/eksternt) er ikke omfattet.",
+        "pris": null,
+        "note": "Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler. Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder. Serviceintervallet for denne model er ikke oplyst på toyota.dk (se instruktionsbogen)."
+      },
+      "batteri": null,
+      "gennemtaering": {
+        "aar": 12,
+        "km": null,
+        "note": "Fra Toyotas generelle garantiside ('Toyota-garantien omfatter'). Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler."
+      },
+      "lak": {
+        "aar": 3,
+        "km": null,
+        "note": "3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden."
+      },
+      "vejhjaelp": {
+        "aar": 1,
+        "note": "1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek)."
+      },
+      "kilde": {
+        "url": "https://www.toyota.dk/erhvervsbiler/professional/toyota-relax",
+        "dato": "2026-09-28",
+        "note": "Toyota Professional 'Tryghed med Toyota' (erhvervsbiler): fabriksgaranti, Relax med Proace-interval, batteritryghed for varebiler"
+      },
+      "kilder_ekstra": [
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti",
+          "dato": "2026-09-28",
+          "note": "Toyota Garanti: 3 år/100.000 km, 3 år lak/overfladerust, 12 år gennemtæring"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-garanti/relax-betingelser",
+          "dato": "2026-09-28",
+          "note": "Relax vilkår pkt. 2.1.3-2.1.4: dækningsperiode varierer med køretøj; op til 10 år/185.000 km"
+        },
+        {
+          "url": "https://www.toyota.dk/toyota-ejere/om-toyota-service/derfor-toyota-service/toyota-vejhjaelp",
+          "dato": "2026-09-28",
+          "note": "Toyota Vejhjælp: 1 år ved køb, forlænges ved service"
+        },
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace-city-van-prisliste/",
+          "dato": "2026-09-28",
+          "note": "Toyota varebilsprisliste (sept. 2026), afsnit 'Omfattende garanti': 3 års fabriksgaranti + op til 2 år/50.000 km pr. service til 10 år/185.000 km"
+        }
+      ],
+      "_mangler": "Serviceinterval (og dermed Relax-periode pr. service) er ikke oplyst for denne model. Lak- og gennemtæringsgaranti er kun bekræftet på Toyotas generelle garantiside, ikke specifikt for varebilerne."
+    }
+  }
+}

@@ -1,0 +1,316 @@
+[
+ {
+  "slug": "billigste-varebil",
+  "gruppe": "pris",
+  "h1": "Billig gulpladebil: de billigste varevogne i leasing",
+  "title": "Billig gulpladebil: billigste varevogn fra 1.495 kr./md.",
+  "desc": "Billig gulpladebil eller ny varevogn? 121 erhvervstilbud sorteret efter pris, fra 1.495 kr./md. ekskl. moms — med udbetalingen fordelt over løbetiden.",
+  "kort": "Alle tilbud sorteret efter hvad de koster om måneden, når udbetalingen er regnet med.",
+  "svar": "Billigste gulpladebil lige nu:",
+  "intro": "Den annoncerede månedsydelse er ikke prisen. To tilbud til 3.000 kr. om måneden koster vidt forskelligt, hvis det ene kræver 35.000 kr. i udbetaling og det andet 60.000. Derfor sorterer vi efter månedsydelsen plus udbetalingen fordelt over tilbuddets egen løbetid.",
+  "kriterium": "månedsydelsen plus udbetalingen fordelt over tilbuddets egen løbetid. Lavest først.",
+  "antal": 121,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "el-varebil",
+  "gruppe": "el",
+  "h1": "Leasing af elvarebil til erhverv",
+  "title": "Elvarebil leasing — billigste først, med rækkevidde",
+  "desc": "Sammenlign leasing af elvarebiler til erhverv. Rækkevidde, batteri og halvårlig grøn ejerafgift ved siden af prisen.",
+  "kort": "Elvarebiler med rækkevidde, batteristørrelse og grøn ejerafgift.",
+  "svar": "Billigste elvarebil lige nu:",
+  "intro": "En elvarebil har lav grøn ejerafgift og typisk færre driftsomkostninger, men rækkevidden afgør om den passer til din kørsel. Vi viser rækkevidden efter WLTP, som den står hos producenten — den reelle rækkevidde er lavere om vinteren og med last.",
+  "kriterium": "samlet pris pr. måned blandt de elektriske modeller. Lavest først.",
+  "antal": 39,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Renault Kangoo E-Tech: 2.532 kr./md.",
+   "Toyota Proace City Electric: 2.910 kr./md."
+  ]
+ },
+ {
+  "slug": "ladbil",
+  "gruppe": "last",
+  "h1": "Ladbil leasing: ladvogne og chassis med opbygning",
+  "title": "Ladbil leasing — ladvogn og chassis fra 2.976 kr./md.",
+  "desc": "Ladbil leasing til erhverv: sammenlign ladbiler, ladvogne og chassis med opbygning. Nyttelast og ladmål ved siden af prisen, med kilde og dato.",
+  "kort": "Ladbiler og chassis med lad eller kasse, sorteret efter pris med udbetalingen regnet med.",
+  "svar": "Billigste ladbil lige nu:",
+  "intro": "En ladbil er et chassis, hvor en opbygger har sat et lad eller en kasse på. Det betyder, at nyttelast og ladmål afhænger af opbygningen — ikke kun af bilen. Vi viser producentens tal for den opbygning, tilbuddet gælder, og sorterer efter månedsydelsen plus udbetalingen fordelt over løbetiden.",
+  "kriterium": "månedsydelsen plus udbetalingen fordelt over tilbuddets egen løbetid, blandt ladbiler og chassis med opbygning. Lavest først.",
+  "antal": 4,
+  "enhed": "tilbud",
+  "fra_kr_md": 2976,
+  "top3": [
+   "Renault Master Chassis: 3.809 kr./md.",
+   "Renault Master E-Tech Chassis: 4.120 kr./md.",
+   "Iveco Daily Ladbil: 5.028 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-med-traek",
+  "gruppe": "last",
+  "h1": "Varebil med trækkraft",
+  "title": "Varebil med trækkraft — anhængervægt og pris",
+  "desc": "Sammenlign varebiler efter hvor meget de må trække. Anhængervægt med bremser, nyttelast og pris ekskl. moms.",
+  "kort": "Modeller der må trække mindst 2.000 kg med bremset anhænger.",
+  "intro": "Skal der en trailer, en maskine eller en båd bag i, er trækvægten det tal, der afgør valget. Her er modellerne, der må trække mindst 2.000 kg med bremset anhænger, sorteret efter trækvægt. Husk at vogntogsvægten også sætter en grænse: bil og anhænger må tilsammen ikke overstige den.",
+  "kriterium": "største tilladte anhængervægt med bremser. Højest først.",
+  "antal": 70,
+  "enhed": "tilbud",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Iveco Daily: 3.500 kg",
+   "Ford Ranger: 3.500 kg",
+   "Iveco Daily Ladbil: 3.500 kg"
+  ]
+ },
+ {
+  "slug": "varebil-med-hoej-nyttelast",
+  "gruppe": "last",
+  "h1": "Varebil med høj nyttelast",
+  "title": "Varebil med høj nyttelast — se hvad du må laste",
+  "desc": "Sammenlign varebiler efter nyttelast. Se hvilke modeller der må laste mindst 1.000 kg, med pris ekskl. moms.",
+  "kort": "Modeller der må laste mindst 1.000 kg.",
+  "intro": "Nyttelasten er det, du må lægge i bilen — fører, passagerer, værktøj og last tilsammen. Den er ikke det samme som totalvægten, og den er det tal, der oftest overskrides i praksis. Her er modellerne, der må laste mindst 1.000 kg.",
+  "kriterium": "oplyst nyttelast. Højest først.",
+  "antal": 52,
+  "enhed": "tilbud",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Renault Master Chassis: 1.552 kg",
+   "Nissan Interstar: 1.372 kg",
+   "Renault Master E-Tech Chassis: 1.303 kg"
+  ]
+ },
+ {
+  "slug": "varebil-under-3500-kr",
+  "gruppe": "pris",
+  "h1": "Varebil til under 3.500 kr. om måneden",
+  "title": "Varebil under 3.500 kr. om måneden",
+  "desc": "Se hvilke varebiler der kan leases for under 3.500 kr. om måneden inklusive udbetaling. Priser ekskl. moms med kilde og dato.",
+  "kort": "Tilbud der holder sig under 3.500 kr., når udbetalingen er regnet med.",
+  "intro": "Har du et loft for, hvad bilen må koste om måneden, er det den samlede ydelse der tæller — ikke den annoncerede. Her er tilbuddene, der holder sig under 3.500 kr., når udbetalingen er fordelt over løbetiden. Beløbet er ekskl. moms, som en virksomhed løfter.",
+  "kriterium": "samlet pris pr. måned under 3.500 kr. Lavest først.",
+  "antal": 40,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "elvarebil-med-traek",
+  "gruppe": "el",
+  "h1": "Elvarebil med træk",
+  "title": "Elvarebil med træk — anhængervægt og pris fra 1.699 kr./md.",
+  "desc": "Hvilken elvarebil trækker mest? Elvarebilerne sorteret efter producentens anhængervægt, med pris inkl. udbetaling. Priser ekskl. moms.",
+  "kort": "Elvarebiler sorteret efter anhængervægt — fra 750 kg til over 2 tons.",
+  "intro": "Anhængervægten er der, elvarebilerne adskiller sig mest: fra 750 kg til over 2 tons. Her er elvarebilerne sorteret efter producentens oplyste anhængervægt med bremser, tungest først. Hver model står én gang, med sit billigste tilbud.",
+  "kriterium": "producentens anhængervægt med bremser for elvarebiler. Tungest først, ét tilbud pr. model.",
+  "antal": 19,
+  "enhed": "modeller",
+  "fra_kr_md": 1699,
+  "top3": [
+   "Renault Master E-Tech: 2.500 kg",
+   "Renault Master E-Tech Chassis: 2.500 kg",
+   "Toyota Proace Max Electric: 2.400 kg"
+  ]
+ },
+ {
+  "slug": "varebil-4x4",
+  "gruppe": "last",
+  "h1": "Varebil 4x4 leasing",
+  "title": "Varebil 4x4 leasing — firehjulstræk til erhverv",
+  "desc": "Leasing af varebil med 4x4 til erhverv: kassevogne og pickupper med firehjulstræk, også elektrisk. Pris inkl. udbetaling og anhængervægt, med kilde.",
+  "kort": "Varebiler og pickupper med firehjulstræk, sorteret efter pris inkl. udbetaling.",
+  "intro": "Firehjulstræk på en varebil hedder noget forskelligt fra mærke til mærke: 4x4, 4WD, AWD, 4MOTION eller 4MATIC. Her er de tilbud, hvor forhandleren eller leasingselskabet selv skriver, at bilen har firehjulstræk — både pickupper og kassevogne, diesel og el — sorteret efter månedsydelsen plus udbetalingen fordelt over løbetiden.",
+  "kriterium": "tilbud, hvor bilen har firehjulstræk ifølge forhandleren eller leasingselskabet. Samlet månedspris inkl. udbetaling, lavest først.",
+  "antal": 3,
+  "enhed": "tilbud",
+  "fra_kr_md": 3995,
+  "top3": [
+   "Volkswagen ID. Buzz Cargo: 4.978 kr./md.",
+   "Ford Ranger: 4.995 kr./md.",
+   "Volkswagen Amarok: 6.278 kr./md."
+  ]
+ },
+ {
+  "slug": "pickup-leasing",
+  "gruppe": "last",
+  "h1": "Pickup leasing til erhverv",
+  "title": "Pickup leasing til erhverv — priser og trækvægt",
+  "desc": "Erhvervsleasing af pickup: sammenlign pickupper på gule plader efter samlet månedspris inkl. udbetaling, med anhængervægt og kilde. Priser ekskl. moms.",
+  "kort": "Pickupper på gule plader, sorteret efter pris med udbetalingen regnet med.",
+  "intro": "En pickup kan køre på gule plader som en varebil, hvis den er indrettet til godstransport. Den vælges typisk for trækket og firehjulstrækket, ikke for lastrummet. Her er de pickupper, vi har aktuelle erhvervstilbud på, sorteret efter månedsydelsen plus udbetalingen fordelt over løbetiden.",
+  "kriterium": "pickupper på gule plader. Samlet månedspris inkl. udbetaling, lavest først.",
+  "antal": 2,
+  "enhed": "tilbud",
+  "fra_kr_md": 3995,
+  "top3": [
+   "Ford Ranger: 4.995 kr./md.",
+   "Volkswagen Amarok: 6.278 kr./md."
+  ]
+ },
+ {
+  "slug": "bedste-varevogn-til-prisen",
+  "gruppe": "pris",
+  "h1": "Bedste varevogn til prisen",
+  "title": "Bedste varevogn til prisen — mest lastrum pr. krone",
+  "desc": "Hvilken varevogn giver mest for pengene? Vi har regnet månedsprisen inkl. udbetaling om til kr. pr. m³ lastrum. Ét tilbud pr. model, priser ekskl. moms.",
+  "kort": "Mest lastrum for pengene: månedspris pr. m³, inkl. udbetaling.",
+  "intro": "Den billigste varevogn er sjældent den, der giver mest for pengene. Her har vi delt den samlede månedspris — ydelsen plus udbetalingen fordelt over løbetiden — med producentens oplyste lastrum i m³. Jo lavere tal, jo mere lastrum får du pr. krone. Hver model står én gang, med sit bedste tilbud.",
+  "kriterium": "samlet månedspris inkl. udbetaling divideret med producentens lastrum i m³. Lavest først, ét tilbud pr. model.",
+  "antal": 56,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Opel Movano (diesel): 260 kr. pr. m³",
+   "Toyota Proace Max Electric: 271 kr. pr. m³",
+   "Fiat Ducato: 298 kr. pr. m³"
+  ]
+ },
+ {
+  "slug": "hvad-koster-en-varebil",
+  "gruppe": "pris",
+  "h1": "Hvad koster en ny varebil?",
+  "title": "Hvad koster en ny varebil? Priser ekskl. moms",
+  "desc": "Se hvad en ny varebil koster ifølge producenternes egne prislister, ekskl. moms, og hvad den samme bil koster i erhvervsleasing. Kilde og dato på hvert tal.",
+  "kort": "Vejledende nypriser fra producenternes egne prislister, ved siden af leasingydelsen.",
+  "intro": "En leasingydelse siger ikke meget alene. Det gør den først, når du kan se, hvad bilen er værd. Her er den vejledende nypris på hver model — producentens egen pris til forhandleren, ekskl. moms — med leasingydelsen ved siden af, så de to tal kan læses sammen.",
+  "kriterium": "producentens vejledende nypris ekskl. moms. Lavest først.",
+  "antal": 59,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Toyota Proace City Electric: 172.890 kr.",
+   "Citroën Berlingo: 177.990 kr.",
+   "Renault Kangoo E-Tech: 181.000 kr."
+  ]
+ },
+ {
+  "slug": "varebil-med-lav-ejerafgift",
+  "gruppe": "pris",
+  "h1": "Varebil med lav grøn ejerafgift",
+  "title": "Varebil med lav ejerafgift — grøn ejerafgift pr. halvår",
+  "desc": "Se hvilke varebiler der har den laveste grønne ejerafgift pr. halvår, og hvad de koster i erhvervsleasing. Afgiften for hver model med kilde.",
+  "kort": "Modellerne sorteret efter den halvårlige grønne ejerafgift — med leasingprisen ved siden af.",
+  "svar": "Billigste model med den laveste ejerafgift:",
+  "intro": "Den grønne ejerafgift betales hvert halve år, så længe bilen er indregistreret, og den står sjældent i leasingtilbuddet. Forskellen mellem modellerne er stor, fordi afgiften følger bilens CO₂-udledning. Her er modellerne sorteret efter afgiften, og ved samme afgift efter den billigste samlede leasingpris.",
+  "kriterium": "grøn ejerafgift pr. halvår for den udgave af bilen, som målene på modelsiden gælder for. Lavest først; ved samme afgift den laveste samlede leasingpris.",
+  "antal": 58,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 460 kr./halvår",
+   "Renault Kangoo E-Tech: 460 kr./halvår",
+   "Toyota Proace City Electric: 460 kr./halvår"
+  ]
+ },
+ {
+  "slug": "varebil-med-lavt-braendstofforbrug",
+  "gruppe": "pris",
+  "h1": "Varebil med lavt brændstofforbrug",
+  "title": "Varebil med lavt brændstofforbrug — km/l efter WLTP",
+  "desc": "Hvilken varebil kører længst på literen? Diesel- og benzinvarebiler sorteret efter producentens WLTP-forbrug, med leasingpris og kilde.",
+  "kort": "Diesel- og benzinvarebilerne sorteret efter km/l efter WLTP — med leasingprisen ved siden af.",
+  "svar": "Længst på literen:",
+  "intro": "Brændstoffet er en af de største udgifter på en varebil, og det står aldrig i leasingtilbuddet. Her er diesel- og benzinmodellerne sorteret efter producentens forbrugstal efter WLTP. Forskellen mellem en lille og en stor varebil er næsten det dobbelte — regn den med, før du vælger størrelse.",
+  "kriterium": "producentens forbrug efter WLTP, blandet kørsel. Længst på literen først.",
+  "antal": 35,
+  "enhed": "modeller",
+  "fra_kr_md": 1701,
+  "top3": [
+   "Mercedes-Benz Citan: 19,6 km/l",
+   "Renault Kangoo: 19,6 km/l",
+   "Toyota Proace City (diesel): 19,2 km/l"
+  ]
+ },
+ {
+  "slug": "elvarebil-med-lang-raekkevidde",
+  "gruppe": "el",
+  "h1": "Elvarebil med lang rækkevidde",
+  "title": "Elvarebil med lang rækkevidde — WLTP og pris",
+  "desc": "Hvilken elvarebil kører længst på en opladning? Elvarebilerne sorteret efter producentens WLTP-rækkevidde, med leasingpris og kilde.",
+  "kort": "Elvarebilerne sorteret efter WLTP-rækkevidde — med batteri og leasingpris.",
+  "svar": "Længste rækkevidde:",
+  "intro": "Rækkevidden afgør, om en elvarebil passer til din kørsel. Her er elvarebilerne sorteret efter producentens rækkevidde efter WLTP. Tallet gælder den batteristørrelse, specifikationerne på modelsiden er taget på — flere modeller fås med både et lille og et stort batteri.",
+  "kriterium": "producentens rækkevidde efter WLTP. Længst først.",
+  "antal": 25,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Kia PV5 Cargo: 416 km",
+   "Renault Master E-Tech: 408 km",
+   "Toyota Proace Max Electric: 378 km"
+  ]
+ },
+ {
+  "slug": "elvarebil-med-stort-lastrum",
+  "gruppe": "el",
+  "h1": "Elvarebil med stort lastrum",
+  "title": "Elvarebil med stort lastrum — m³, nyttelast og pris",
+  "desc": "Hvilken elvarebil har det største lastrum? Elvarebilerne sorteret efter producentens volumen i m³, med nyttelast, rækkevidde og leasingpris.",
+  "kort": "Elvarebilerne sorteret efter lastrummets volumen — med nyttelast og leasingpris.",
+  "svar": "Største lastrum:",
+  "intro": "Batteriet tager ikke plads fra varerummet i de fleste elvarebiler, men det tager vægt fra nyttelasten. Her er elvarebilerne sorteret efter lastrummets volumen ifølge producenten, og nyttelasten står ved siden af — et stort lastrum, man ikke må fylde, er ikke meget værd.",
+  "kriterium": "lastrummets volumen ifølge producenten. Størst først.",
+  "antal": 24,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Toyota Proace Max Electric: 13 m³",
+   "Fiat E-Ducato: 13 m³",
+   "Peugeot e-Boxer: 13 m³"
+  ]
+ },
+ {
+  "slug": "elvarebil-med-hurtig-opladning",
+  "gruppe": "el",
+  "h1": "Elvarebil med hurtig opladning",
+  "title": "Elvarebil med hurtig opladning — kW og ladetid",
+  "desc": "Hvilken elvarebil lader hurtigst? Elvarebilerne sorteret efter producentens maksimale DC-ladeeffekt i kW, med ladetid og leasingpris ekskl. moms.",
+  "kort": "Elvarebilerne sorteret efter maksimal DC-ladeeffekt — med ladetid og leasingpris.",
+  "svar": "Højeste ladeeffekt:",
+  "intro": "På en lynlader afgør bilens maksimale DC-effekt, hvor hurtigt batteriet fyldes. Her er elvarebilerne sorteret efter den effekt, producenten oplyser. Ladetiden står ved siden af, men producenterne måler den over forskellige intervaller, fx 10–80 % eller 0–80 %, så intervallet står ved tallet.",
+  "kriterium": "producentens maksimale DC-ladeeffekt. Højest først, én pr. model.",
+  "antal": 25,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Volkswagen ID. Buzz Cargo: 165 kW",
+   "Kia PV5 Cargo: 150 kW",
+   "Toyota Proace Max Electric: 150 kW"
+  ]
+ },
+ {
+  "slug": "elvarebil-med-v2l",
+  "gruppe": "el",
+  "h1": "Elvarebil med strøm til værktøj (V2L)",
+  "title": "Elvarebil med V2L — strøm til værktøj, fra 2.295 kr./md.",
+  "desc": "Hvilke elvarebiler kan levere strøm til værktøj? Elvarebiler, hvor producenten oplyser V2L (vehicle-to-load), sorteret efter leasingpris ekskl. moms.",
+  "kort": "Elvarebiler, hvor producenten oplyser V2L — strøm fra bilens batteri til værktøj og udstyr.",
+  "svar": "Billigste elvarebil med V2L:",
+  "intro": "Med V2L (vehicle-to-load) leverer bilens batteri strøm til værktøj, kompressor eller lys, hvor der ikke er en stikkontakt. Her er de elvarebiler, hvor producentens prisliste eller specifikation nævner V2L, sorteret efter den reelle pris. Effekten står ved modellen, hvor producenten oplyser den.",
+  "kriterium": "samlet pris pr. måned blandt elvarebiler, hvor producenten oplyser V2L. Lavest først, én pr. model.",
+  "antal": 8,
+  "enhed": "modeller",
+  "fra_kr_md": 2295,
+  "top3": [
+   "Toyota Proace City Electric: 2.910 kr./md.",
+   "Kia PV5 Cargo: 3.290 kr./md.",
+   "Farizon SV: 3.813 kr./md."
+  ]
+ }
+]

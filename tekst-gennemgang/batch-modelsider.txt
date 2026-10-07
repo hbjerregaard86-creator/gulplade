@@ -1,0 +1,1191 @@
+1. [115 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Billig gulpladebil: de billigste varevogne i leasing
+   Eksempel: Billig gulpladebil: de billigste varevogne i leasing
+
+2. [115 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel eller operationel leasing af varebil
+   Eksempel: Finansiel eller operationel leasing af varebil
+
+3. [115 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Erhvervsbil leasing: varebil, kassevogn, ladbil og pickup
+   Eksempel: Erhvervsbil leasing: varebil, kassevogn, ladbil og pickup
+
+4. [112 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Hvad koster en ny varebil?
+   Eksempel: Hvad koster en ny varebil?
+
+5. [111 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Lang varebil: længste lastrum
+   Eksempel: Lang varebil: længste lastrum
+
+6. [111 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil med lav grøn ejerafgift
+   Eksempel: Varebil med lav grøn ejerafgift
+
+7. [110 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Bedste varevogn til prisen
+   Eksempel: Bedste varevogn til prisen
+
+8. [109 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Kassevogn leasing — sammenlign kassebiler til erhverv
+   Eksempel: Kassevogn leasing — sammenlign kassebiler til erhverv
+
+9. [108 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Største varebil på almindeligt kørekort
+   Eksempel: Største varebil på almindeligt kørekort
+
+10. [76 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Priserne er indsamlet fra udbydernes egne prislister og annoncer på de datoer der står i tabellen.
+   Eksempel: Priserne er indsamlet fra udbydernes egne prislister og annoncer på de datoer der står i tabellen.
+
+11. [76 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: De er vejledende og gælder de vilkår der er oplyst ved hvert tilbud.
+   Eksempel: De er vejledende og gælder de vilkår der er oplyst ved hvert tilbud.
+
+12. [69 sider, fx /bedste-tilbud/]
+   Skabelon: Siden er ikke skatte-, revisions- eller juridisk rådgivning.
+   Eksempel: Siden er ikke skatte-, revisions- eller juridisk rådgivning.
+
+13. [63 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: Et tilbud på # måneder omregnet til # er ikke et tilbud, nogen udbyder giver — det ville være et tal, vi havde opfundet.
+   Eksempel: Et tilbud på 60 måneder omregnet til 36 er ikke et tilbud, nogen udbyder giver — det ville være et tal, vi havde opfundet.
+
+14. [63 sider, fx /saadan-tjener-vi-penge/]
+   Skabelon: Moms-, afgifts- og skatteforhold afhænger af din virksomheds konkrete forhold.
+   Eksempel: Moms-, afgifts- og skatteforhold afhænger af din virksomheds konkrete forhold.
+
+15. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # kr./md. # kr. i alt over # mdr.
+   Eksempel: 2.495 kr./md. 149.700 kr. i alt over 60 mdr.
+
+16. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Vi henter tilbud fra flere forhandlere på samme bil
+   Eksempel: Vi henter tilbud fra flere forhandlere på samme bil
+
+17. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Vi læser dem igennem og siger, hvad der mangler
+   Eksempel: Vi læser dem igennem og siger, hvad der mangler
+
+18. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Gratis for dig — du binder dig ikke
+   Eksempel: Gratis for dig — du binder dig ikke
+
+19. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Målene gælder den variant der står øverst i tabellen og er hentet fra producentens eller forhandlerens egen specifikation , læst #-#-#.
+   Eksempel: Målene gælder den variant der står øverst i tabellen og er hentet fra producentens eller forhandlerens egen specifikation , læst 2026-09-22.
+
+20. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Modellen kvalificerer til # af vores guider.
+   Eksempel: Modellen kvalificerer til 20 af vores guider.
+
+21. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hver liste har sit kriterium skrevet ovenover, så du kan se hvad rækkefølgen bygger på.
+   Eksempel: Hver liste har sit kriterium skrevet ovenover, så du kan se hvad rækkefølgen bygger på.
+
+22. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Tre ting, der afgør mere end månedsprisen: hvad du må køre i bilen, hvad ydelsen ikke dækker, og hvilke tal der ikke står i annoncen.
+   Eksempel: Tre ting, der afgør mere end månedsprisen: hvad du må køre i bilen, hvad ydelsen ikke dækker, og hvilke tal der ikke står i annoncen.
+
+23. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Har du et tilbud fra en anden udbyder, så regn det om i leasingberegneren .
+   Eksempel: Har du et tilbud fra en anden udbyder, så regn det om i leasingberegneren .
+
+24. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Løbetid, kilometer og hvad der er inkluderet, står ved hvert tilbud.
+   Eksempel: Løbetid, kilometer og hvad der er inkluderet, står ved hvert tilbud.
+
+25. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Ved operationel leasing afleveres bilen; ved finansiel leasing skal restværdien indfries.
+   Eksempel: Ved operationel leasing afleveres bilen; ved finansiel leasing skal restværdien indfries.
+
+26. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Detaljerne står under Garanti.
+   Eksempel: Detaljerne står under Garanti.
+
+27. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Månedsprisen inkl. udbetaling er vores egen sammenstilling af to tal udbyderen har oplyst — månedsydelsen og førstegangsydelsen fordelt over løbetiden.
+   Eksempel: Månedsprisen inkl. udbetaling er vores egen sammenstilling af to tal udbyderen har oplyst — månedsydelsen og førstegangsydelsen fordelt over løbetiden.
+
+28. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Vi indregner ikke skønnede omkostninger for service, dæk, forsikring, ejerafgift eller vejhjælp, heller ikke hvor udbyderen undlader at oplyse om dem; de beløb afhænger af din virksomhed, og vi vil ikke lade et gæt afgøre, hvilket tilbud der ser billigst ud.
+   Eksempel: Vi indregner ikke skønnede omkostninger for service, dæk, forsikring, ejerafgift eller vejhjælp, heller ikke hvor udbyderen undlader at oplyse om dem; de beløb afhænger af din virksomhed, og vi vil ikke lade et gæt afgøre, hvilket tilbud der ser billigst ud.
+
+29. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Tallet dækker heller ikke brændstof eller strøm, kørsel ud over det aftalte antal kilometer, gebyrer uden for førstegangsydelsen, eller moms.
+   Eksempel: Tallet dækker heller ikke brændstof eller strøm, kørsel ud over det aftalte antal kilometer, gebyrer uden for førstegangsydelsen, eller moms.
+
+30. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Vi viser kun tilbud, der er aktuelle hos udbyderen, og vi omregner derfor ikke løbetid og kilometertal til fælles vilkår.
+   Eksempel: Vi viser kun tilbud, der er aktuelle hos udbyderen, og vi omregner derfor ikke løbetid og kilometertal til fælles vilkår.
+
+31. [62 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Løbetid, kilometertal og leasingtype står derfor ved hvert tilbud, og de skal læses med: en lang løbetid fordeler udbetalingen over flere måneder og giver et lavere månedstal, uden at aftalen er billigere.
+   Eksempel: Løbetid, kilometertal og leasingtype står derfor ved hvert tilbud, og de skal læses med: en lang løbetid fordeler udbetalingen over flere måneder og giver et lavere månedstal, uden at aftalen er billigere.
+
+32. [61 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Konkurrenterne i samme klasse, billigste først.
+   Eksempel: Konkurrenterne i samme klasse, billigste først.
+
+33. [61 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Den tilladte totalvægt er # kg, og kategori B dækker op til # kg.
+   Eksempel: Den tilladte totalvægt er 2.040 kg, og kategori B dækker op til 3.500 kg.
+
+34. [59 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Den udvendige højde er målt uden tagantenne eller tilbehør.
+   Eksempel: Den udvendige højde er målt uden tagantenne eller tilbehør.
+
+35. [59 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Danske parkeringskældre ligger typisk mellem # og # m, så tallet afgør om bilen kan køre ind.
+   Eksempel: Danske parkeringskældre ligger typisk mellem 1,90 og 2,10 m, så tallet afgør om bilen kan køre ind.
+
+36. [59 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Tagbøjler, antenne og lastholdere lægger oveni.
+   Eksempel: Tagbøjler, antenne og lastholdere lægger oveni.
+
+37. [59 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Den enkelte forhandler fastsætter selv sin pris og sine rabatter, så den pris du får tilbudt kan være en anden.
+   Eksempel: Den enkelte forhandler fastsætter selv sin pris og sine rabatter, så den pris du får tilbudt kan være en anden.
+
+38. [59 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Pris er det billigste aktuelle tilbud med udbetalingen fordelt — ‹bil› koster fra # kr./md.
+   Eksempel: Pris er det billigste aktuelle tilbud med udbetalingen fordelt — Berlingo koster fra 2.495 kr./md.
+
+39. [57 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Fører, passagerer og ekstraudstyr tæller med i nyttelasten.
+   Eksempel: Fører, passagerer og ekstraudstyr tæller med i nyttelasten.
+
+40. [56 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Længde, bredde og højde står under Mål og vægt.
+   Eksempel: Længde, bredde og højde står under Mål og vægt.
+
+41. [55 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # kg med bremset anhænger ifølge producenten.
+   Eksempel: 1.350 kg med bremset anhænger ifølge producenten.
+
+42. [55 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Uden bremser er grænsen typisk # kg.
+   Eksempel: Uden bremser er grænsen typisk 750 kg.
+
+43. [53 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Det billigste tilbud, vi har samlet (opdateret #. september #), er # kr. om måneden ekskl. moms.
+   Eksempel: Det billigste tilbud, vi har samlet (opdateret 28. september 2026), er 2.908 kr. om måneden ekskl. moms.
+
+44. [51 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Se, hvad reoler og skuffer vejer og koster →
+   Eksempel: Se, hvad reoler og skuffer vejer og koster →
+
+45. [50 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Målene du skal tjekke, før du skriver under
+   Eksempel: Målene du skal tjekke, før du skriver under
+
+46. [49 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Indretning til ‹bil› Lastrummet er # mm langt og # mm mellem hjulkasserne.
+   Eksempel: Indretning til Berlingo Lastrummet er 1.817 mm langt og 1.229 mm mellem hjulkasserne.
+
+47. [45 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Finansiel leasing # tilbud
+   Eksempel: Finansiel leasing 2 tilbud
+
+48. [45 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Der er aftalt en restværdi, som du hæfter for, når aftalen udløber.
+   Eksempel: Der er aftalt en restværdi, som du hæfter for, når aftalen udløber.
+
+49. [45 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Nyttelasten er # kg ifølge producenten, med en tilladt totalvægt på # kg.
+   Eksempel: Nyttelasten er 572 kg ifølge producenten, med en tilladt totalvægt på 2.040 kg.
+
+50. [42 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Her står de side om side med det billigste aktuelle tilbud og producentens tal.
+   Eksempel: Her står de side om side med det billigste aktuelle tilbud og producentens tal.
+
+51. [42 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Strøm og brændstof er ikke med i tallene.
+   Eksempel: Strøm og brændstof er ikke med i tallene.
+
+52. [42 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Regn diesel mod el ud for jeres kørsel — de to modeller er valgt på forhånd.
+   Eksempel: Regn diesel mod el ud for jeres kørsel — de to modeller er valgt på forhånd.
+
+53. [42 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: De to står side om side på siden, og elberegneren regner forskellen ud med strøm, brændstof og ejerafgift.
+   Eksempel: De to står side om side på siden, og elberegneren regner forskellen ud med strøm, brændstof og ejerafgift.
+
+54. [40 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Operationel leasing # tilbud
+   Eksempel: Operationel leasing 1 tilbud
+
+55. [40 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Du lejer bilen og afleverer den efter løbetiden.
+   Eksempel: Du lejer bilen og afleverer den efter løbetiden.
+
+56. [40 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Ingen restværdi at hæfte for.
+   Eksempel: Ingen restværdi at hæfte for.
+
+57. [37 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Med udbetalingen fordelt over løbetiden er det billigste # kr. om måneden hos ‹udbyder›, og det dyreste # kr. hos ‹udbyder›.
+   Eksempel: Med udbetalingen fordelt over løbetiden er det billigste 2.495 kr. om måneden hos Citroën, og det dyreste 2.974 kr. hos Kassebil.dk.
+
+58. [33 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: Elvarebil i praksis: afgiften, rækkevidden og lasten
+   Eksempel: Elvarebil i praksis: afgiften, rækkevidden og lasten
+
+59. [33 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: finansiel Restværdi # kr.
+   Eksempel: finansiel Restværdi 42.246 kr.
+
+60. [33 sider, fx /varebiler/farizon/sv/]
+   Skabelon: ‹bil› leasing til erhverv
+   Eksempel: Farizon SV leasing til erhverv
+
+61. [33 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Vil du have et bedre tilbud på ‹bil› ?
+   Eksempel: Vil du have et bedre tilbud på Farizon SV?
+
+62. [33 sider, fx /varebiler/farizon/sv/]
+   Skabelon: ‹bil› står på disse lister
+   Eksempel: Farizon SV står på disse lister
+
+63. [33 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Kan man lease en ‹bil› operationelt eller finansielt?
+   Eksempel: Kan man lease en Farizon SV operationelt eller finansielt?
+
+64. [33 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvor lang garanti er der på en ‹bil› ?
+   Eksempel: Hvor lang garanti er der på en Farizon SV?
+
+65. [32 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvor meget kan en ‹bil› trække?
+   Eksempel: Hvor meget kan en Farizon SV trække?
+
+66. [32 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Kan en ‹bil› køres på almindeligt kørekort?
+   Eksempel: Kan en Farizon SV køres på almindeligt kørekort?
+
+67. [32 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: # år / # km (# år + forlænget på vilkår) ifølge mærkets egne garantivilkår.
+   Eksempel: 5 år / 150.000 km (2 år + forlænget på vilkår) ifølge mærkets egne garantivilkår.
+
+68. [31 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Bilerne sælges af en forhandler, vi samarbejder med, og vi kan få betaling for at formidle kontakten.
+   Eksempel: Bilerne sælges af en forhandler, vi samarbejder med, og vi kan få betaling for at formidle kontakten.
+
+69. [31 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvor meget må en ‹bil› laste?
+   Eksempel: Hvor meget må en Farizon SV laste?
+
+70. [30 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: Sammenlign ‹bil› med
+   Eksempel: Sammenlign Fiat Ducato med
+
+71. [29 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Udbyderen oplyser, at service og reparation er inkluderet, og at dæk, forsikring og grøn ejerafgift ikke er.
+   Eksempel: Udbyderen oplyser, at service og reparation er inkluderet, og at dæk, forsikring og grøn ejerafgift ikke er.
+
+72. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: ‹udbyder› ‹bil› leasing til erhverv
+   Eksempel: Citroën Berlingo leasing til erhverv
+
+73. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Den har # m³ lastrum, # kg nyttelast og # kg trækvægt.
+   Eksempel: Den har 3,3 m³ lastrum, 572 kg nyttelast og 1.350 kg trækvægt.
+
+74. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Vil du have et bedre tilbud på ‹udbyder› ‹bil› ?
+   Eksempel: Vil du have et bedre tilbud på Citroën Berlingo?
+
+75. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: ‹udbyder› ‹bil› står på disse lister
+   Eksempel: Citroën Berlingo står på disse lister
+
+76. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Kan man lease en ‹udbyder› ‹bil› operationelt eller finansielt?
+   Eksempel: Kan man lease en Citroën Berlingo operationelt eller finansielt?
+
+77. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hvor stort er lastrummet i en ‹udbyder› ‹bil› ?
+   Eksempel: Hvor stort er lastrummet i en Citroën Berlingo?
+
+78. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hvor lang garanti er der på en ‹udbyder› ‹bil› ?
+   Eksempel: Hvor lang garanti er der på en Citroën Berlingo?
+
+79. [28 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Kan en ‹udbyder› ‹bil› køres på almindeligt kørekort?
+   Eksempel: Kan en Citroën Berlingo køres på almindeligt kørekort?
+
+80. [28 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvad koster det at lease en ‹bil› ?
+   Eksempel: Hvad koster det at lease en Farizon SV?
+
+81. [27 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Sammenlign ‹udbyder› ‹bil› med
+   Eksempel: Sammenlign Citroën Berlingo med
+
+82. [27 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvor stort er lastrummet i en ‹bil› ?
+   Eksempel: Hvor stort er lastrummet i en Farizon SV?
+
+83. [27 sider, fx /varebiler/fiat/e-ducato/]
+   Skabelon: Spørgsmål om ‹bil› 
+   Eksempel: Spørgsmål om Fiat E-Ducato
+
+84. [26 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Spørgsmål om ‹udbyder› ‹bil› 
+   Eksempel: Spørgsmål om Citroën Berlingo
+
+85. [26 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # m³ ifølge producenten, med plads til # europaller.
+   Eksempel: 3,3 m³ ifølge producenten, med plads til 2 europaller.
+
+86. [26 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Ja: ‹udbyder› ‹bil› , fra # kr./md. med udbetalingen fordelt, hos ‹udbyder›.
+   Eksempel: Ja: Citroën Jumper, fra 3.178 kr./md. med udbetalingen fordelt, hos Citroën.
+
+87. [25 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hvor meget må en ‹udbyder› ‹bil› laste?
+   Eksempel: Hvor meget må en Citroën Berlingo laste?
+
+88. [25 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Med udbetalingen fordelt over løbetiden er det billigste # kr. om måneden hos ‹udbyder›.
+   Eksempel: Med udbetalingen fordelt over løbetiden er det billigste 4.128 kr. om måneden hos Citroën.
+
+89. [25 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: # km efter WLTP ifølge producenten.
+   Eksempel: 378 km efter WLTP ifølge producenten.
+
+90. [25 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Om vinteren og med last er rækkevidden lavere.
+   Eksempel: Om vinteren og med last er rækkevidden lavere.
+
+91. [25 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: # m³ ifølge producenten.
+   Eksempel: 9,5 m³ ifølge producenten.
+
+92. [24 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst Ikke nævnt i prislisten
+   Eksempel: Ikke oplyst Ikke nævnt i prislisten
+
+93. [24 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Af de # tilbud er # operationelt og # finansielle.
+   Eksempel: Af de 1 tilbud er 1 operationelt og 0 finansielle.
+
+94. [23 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Den har # m³ lastrum, # kg nyttelast og # km rækkevidde efter WLTP.
+   Eksempel: Den har 13 m³ lastrum, 635 kg nyttelast og 378 km rækkevidde efter WLTP.
+
+95. [22 sider, fx /bedste-tilbud/stor-varebil/]
+   Skabelon: Totalvægt, nyttelast og kørekort
+   Eksempel: Totalvægt, nyttelast og kørekort
+
+96. [22 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hvad koster det at lease en ‹udbyder› ‹bil› ?
+   Eksempel: Hvad koster det at lease en Citroën Berlingo?
+
+97. [22 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Hvor meget kan en ‹udbyder› ‹bil› trække?
+   Eksempel: Hvor meget kan en Citroën Berlingo trække?
+
+98. [22 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Erhvervsleasing · Stor kassevogn
+   Eksempel: Erhvervsleasing · Stor kassevogn
+
+99. [21 sider, fx /bedste-tilbud/erhvervsbil-leasing/]
+   Skabelon: Moms på varebil: hvornår får du fuldt fradrag?
+   Eksempel: Moms på varebil: hvornår får du fuldt fradrag?
+
+100. [21 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: De er derfor ikke inkluderet, men udbyderen forholder sig til dem.
+   Eksempel: De er derfor ikke inkluderet, men udbyderen forholder sig til dem.
+
+101. [20 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: Kilometergrænsen: alle siger #, ingen siger hvad den næste koster
+   Eksempel: Kilometergrænsen: alle siger 15.000, ingen siger hvad den næste koster
+
+102. [20 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Findes også med dieselmotor
+   Eksempel: Findes også med dieselmotor
+
+103. [19 sider, fx /sammenlign/]
+   Skabelon: ‹udbyder› ‹bil› vs.
+   Eksempel: Toyota Proace (diesel) vs.
+
+104. [19 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: finansiel* Restværdi # kr.
+   Eksempel: finansiel* Restværdi 61.600 kr.
+
+105. [19 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: En brugt bil har ingen førstegangsydelse og ingen bindingsperiode — til gengæld står du selv med værditabet.
+   Eksempel: En brugt bil har ingen førstegangsydelse og ingen bindingsperiode — til gengæld står du selv med værditabet.
+
+106. [19 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Her står den billigste målt på samlet pris pr. md.
+   Eksempel: Her står den billigste målt på samlet pris pr. md.
+
+107. [18 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: Halvdelen af nye varebiler er nu elektriske
+   Eksempel: Halvdelen af nye varebiler er nu elektriske
+
+108. [18 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Erhvervsleasing · Pizzabil
+   Eksempel: Erhvervsleasing · Pizzabil
+
+109. [18 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: Se de brugte ‹bil› Alle brugte varebiler
+   Eksempel: Se de brugte Fiat Ducato Alle brugte varebiler
+
+110. [16 sider, fx /bedste-tilbud/finansiel-eller-operationel-leasing/]
+   Skabelon: Fri bil på gule plader: hvornår bliver medarbejderen beskattet?
+   Eksempel: Fri bil på gule plader: hvornår bliver medarbejderen beskattet?
+
+111. [16 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # år, ubegrænset km ifølge mærkets egne garantivilkår.
+   Eksempel: 2 år, ubegrænset km ifølge mærkets egne garantivilkår.
+
+112. [16 sider, fx /varebiler/citroen/e-jumpy/]
+   Skabelon: Erhvervsleasing · Mellemstor kassevogn
+   Eksempel: Erhvervsleasing · Mellemstor kassevogn
+
+113. [16 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: Ja: ‹bil› , fra # kr./md. med udbetalingen fordelt, hos ‹udbyder›.
+   Eksempel: Ja: Fiat E-Ducato, fra 3.928 kr./md. med udbetalingen fordelt, hos Fiat Professional.
+
+114. [15 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Specialindretning: når reolerne afgør, om du må køre hjem
+   Eksempel: Specialindretning: når reolerne afgør, om du må køre hjem
+
+115. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Alle priser ekskl. moms, med kilde og indsamlingsdato på hvert tal.
+   Eksempel: Alle priser ekskl. moms, med kilde og indsamlingsdato på hvert tal.
+
+116. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Pris er med udbetalingen fordelt over løbetiden.
+   Eksempel: Pris er med udbetalingen fordelt over løbetiden.
+
+117. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Vil du have tilbud fra flere af dem på samme bil, så henter vi dem — og sammenligner dem skriftligt.
+   Eksempel: Vil du have tilbud fra flere af dem på samme bil, så henter vi dem — og sammenligner dem skriftligt.
+
+118. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Sorteret efter samlet pris pr. måned — månedsydelsen plus udbetalingen fordelt over løbetiden.
+   Eksempel: Sorteret efter samlet pris pr. måned — månedsydelsen plus udbetalingen fordelt over løbetiden.
+
+119. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Løbetiderne er ikke omregnet, så de skal læses med.
+   Eksempel: Løbetiderne er ikke omregnet, så de skal læses med.
+
+120. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Det er et mål for, hvor færdige tilbuddene er — ikke for om priserne er gode.
+   Eksempel: Det er et mål for, hvor færdige tilbuddene er — ikke for om priserne er gode.
+
+121. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Tallet siger intet om, hvor gode priserne er.
+   Eksempel: Tallet siger intet om, hvor gode priserne er.
+
+122. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Sammenlign garantien på tværs af mærker
+   Eksempel: Sammenlign garantien på tværs af mærker
+
+123. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Den annoncerede ydelse er # kr.
+   Eksempel: Den annoncerede ydelse er 1.995 kr.
+
+124. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Når vi formidler en henvendelse, betaler forhandleren eller leasingselskabet det samme beløb, uanset hvem det er.
+   Eksempel: Når vi formidler en henvendelse, betaler forhandleren eller leasingselskabet det samme beløb, uanset hvem det er.
+
+125. [14 sider, fx /varebiler/citroen/]
+   Skabelon: Se Sådan tjener vi penge .
+   Eksempel: Se Sådan tjener vi penge .
+
+126. [13 sider, fx /garanti/]
+   Skabelon: # år / # km — tilkøb # kr.
+   Eksempel: 8 år / 200.000 km — tilkøb 11.700 kr.
+
+127. [13 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: ‹udbyder› ‹bil› har et modstykke med dieselmotor: ‹udbyder› ‹bil› .
+   Eksempel: Citroën ë-Jumper har et modstykke med dieselmotor: Citroën Jumper .
+
+128. [13 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Af de # tilbud er # operationelle og # finansielt.
+   Eksempel: Af de 1 tilbud er 0 operationelle og 1 finansielt.
+
+129. [13 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Findes ‹udbyder› ‹bil› med dieselmotor?
+   Eksempel: Findes Citroën ë-Jumper med dieselmotor?
+
+130. [13 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Hvor langt kører en ‹udbyder› ‹bil› på en opladning?
+   Eksempel: Hvor langt kører en Citroën ë-Jumper på en opladning?
+
+131. [13 sider, fx /varebiler/citroen/]
+   Skabelon: På rumfang er tallet # kr. pr. m³ mod # kr. i median.
+   Eksempel: På rumfang er tallet 318 kr. pr. m³ mod 668 kr. i median.
+
+132. [13 sider, fx /varebiler/citroen/]
+   Skabelon: De to mål rangerer ikke ens: en varebil kan have plads uden at måtte bære, og omvendt.
+   Eksempel: De to mål rangerer ikke ens: en varebil kan have plads uden at måtte bære, og omvendt.
+
+133. [13 sider, fx /varebiler/citroen/]
+   Skabelon: ‹bil› : fra # kr. om måneden ekskl. moms med udbetalingen fordelt over løbetiden, hos ‹udbyder›.
+   Eksempel: Berlingo: fra 2.495 kr. om måneden ekskl. moms med udbetalingen fordelt over løbetiden, hos Citroën.
+
+134. [13 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: ‹udbyder› ‹bil› findes også som elvarebil: ‹udbyder› ‹bil› .
+   Eksempel: Citroën Jumper findes også som elvarebil: Citroën ë-Jumper .
+
+135. [13 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: Findes ‹udbyder› ‹bil› som elbil?
+   Eksempel: Findes Citroën Jumper som elbil?
+
+136. [12 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst Ikke nævnt i prislisten eller tilbehørslisten
+   Eksempel: Ikke oplyst Ikke nævnt i prislisten eller tilbehørslisten
+
+137. [12 sider, fx /udstyr/noeglefri-start/]
+   Skabelon: Standard Keyless entry & Go
+   Eksempel: Standard Keyless entry & Go
+
+138. [12 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri.
+   Eksempel: Dækker ikke lak/karrosseri, vejhjælp, højvoltsbatteri.
+
+139. [12 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Af de # tilbud er # operationelle og # finansielle.
+   Eksempel: Af de 2 tilbud er 0 operationelle og 2 finansielle.
+
+140. [12 sider, fx /varebiler/citroen/]
+   Skabelon: Ingen førstegangsydelse og ingen binding — til gengæld står du selv med værditabet.
+   Eksempel: Ingen førstegangsydelse og ingen binding — til gengæld står du selv med værditabet.
+
+141. [11 sider, fx /bedste-tilbud/elvarebil-med-traek/]
+   Skabelon: Tallet gælder den variant, målene på modelsiden er oplyst for.
+   Eksempel: Tallet gælder den variant, målene på modelsiden er oplyst for.
+
+142. [11 sider, fx /bedste-tilbud/varebil-med-traek/]
+   Skabelon: Hvor meget må du trække med varebilen?
+   Eksempel: Hvor meget må du trække med varebilen?
+
+143. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Lastrum # m³ Nyttelast # kg Trækvægt # kg Totalvægt # kg # tilbud
+   Eksempel: Lastrum 3,3 m³ Nyttelast 572 kg Trækvægt 1.350 kg Totalvægt 2.040 kg 2 tilbud
+
+144. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Fra den mindste til den største, med det billigste tilbud inkl. udbetaling.
+   Eksempel: Fra den mindste til den største, med det billigste tilbud inkl. udbetaling.
+
+145. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Klik for alle tilbud, mål og garanti.
+   Eksempel: Klik for alle tilbud, mål og garanti.
+
+146. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Rækkevidden er producentens WLTP-tal.
+   Eksempel: Rækkevidden er producentens WLTP-tal.
+
+147. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Hvad skiftet koster i kroner, regner elberegneren ud, og hvad det koster i tid, viser ladetidsberegneren .
+   Eksempel: Hvad skiftet koster i kroner, regner elberegneren ud, og hvad det koster i tid, viser ladetidsberegneren .
+
+148. [11 sider, fx /varebiler/citroen/]
+   Skabelon: Fører, passagerer og ekstraudstyr tæller med.
+   Eksempel: Fører, passagerer og ekstraudstyr tæller med.
+
+149. [11 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: ‹udbyder› ‹bil› # mdr. · # km/år Detaljer ‹udbyder› viser # varianter på modellen.
+   Eksempel: Leasing.dk 33 L2H2 F Masterline BHDi 140hk 48 mdr. · 15.000 km/år Detaljer Leasing.dk viser 5 varianter på modellen.
+
+150. [11 sider, fx /varebiler/citroen/jumpy/]
+   Skabelon: Nyttelasten er #–# kg ifølge producenten, med en tilladt totalvægt på # kg.
+   Eksempel: Nyttelasten er 1.001–1.341 kg ifølge producenten, med en tilladt totalvægt på 3.100 kg.
+
+151. [11 sider, fx /varebiler/farizon/sv/]
+   Skabelon: Hvor langt kører en ‹bil› på en opladning?
+   Eksempel: Hvor langt kører en Farizon SV på en opladning?
+
+152. [10 sider, fx /udstyr/aircondition/]
+   Skabelon: Standard Automatisk klimaanlæg (klimaautomatik)
+   Eksempel: Standard Automatisk klimaanlæg (klimaautomatik)
+
+153. [10 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # år, ubegrænset km #-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning.
+   Eksempel: 2 år, ubegrænset km 2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning.
+
+154. [10 sider, fx /varebiler/citroen/]
+   Skabelon: Lastrum # m³ Nyttelast # kg Trækvægt # kg Totalvægt # kg Batteri # kWh # tilbud
+   Eksempel: Lastrum 5,3 m³ Nyttelast 841 kg Trækvægt 1.000 kg Totalvægt 3.021 kg Batteri 75 kWh 1 tilbud
+
+155. [10 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: # år (km-grænse ikke oplyst) ‹bil› s #-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk #. indregistrering).
+   Eksempel: 2 år (km-grænse ikke oplyst) Fords 2-årige fabriksgaranti på alle nye varebiler (fra garantistartdato, typisk 1. indregistrering).
+
+156. [10 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: ‹bil› oplyser ingen km-grænse for de # år.
+   Eksempel: Ford oplyser ingen km-grænse for de 2 år.
+
+157. [10 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: # år ‹bil› Assistance i hele Europa i op til # måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret ‹bil› -værksted.
+   Eksempel: 2 år Ford Assistance i hele Europa i op til 24 måneder (afhænger af serviceinterval); fornyes ved regelmæssig service hos autoriseret Ford-værksted.
+
+158. [9 sider, fx /udstyr/noeglefri-start/]
+   Skabelon: Standard Nøglefri adgang og start
+   Eksempel: Standard Nøglefri adgang og start
+
+159. [9 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Forlænget #-#-#: importøren viser samme tal med „gælder til #“.
+   Eksempel: Forlænget 01-10-2026: importøren viser samme tal med „gælder til 31.12.2026“.
+
+160. [9 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Det billigste tilbud, vi har samlet (opdateret #. oktober #), er # kr. om måneden ekskl. moms.
+   Eksempel: Det billigste tilbud, vi har samlet (opdateret 1. oktober 2026), er 1.995 kr. om måneden ekskl. moms.
+
+161. [9 sider, fx /varebiler/citroen/]
+   Skabelon: Det er over gennemsnittet, altså tilbud hvor en større del af den endelige pris kan regnes ud på det foreliggende grundlag.
+   Eksempel: Det er over gennemsnittet, altså tilbud hvor en større del af den endelige pris kan regnes ud på det foreliggende grundlag.
+
+162. [9 sider, fx /varebiler/citroen/]
+   Skabelon: ‹bil› ‹udbyder› ‹bil› vs.
+   Eksempel: Renault Trafic Citroën Berlingo vs.
+
+163. [9 sider, fx /varebiler/citroen/]
+   Skabelon: ‹udbyder› ‹bil› ‹udbyder› ‹bil› vs.
+   Eksempel: Toyota Proace City (diesel) Citroën Berlingo vs.
+
+164. [9 sider, fx /varebiler/farizon/]
+   Skabelon: ‹bil› varebiler til erhvervsleasing
+   Eksempel: Farizon varebiler til erhvervsleasing
+
+165. [9 sider, fx /varebiler/farizon/]
+   Skabelon: ‹bil› -tilbuddene på siden oplyser tilsammen # % af de fem driftsposter.
+   Eksempel: Farizon-tilbuddene på siden oplyser tilsammen 80 % af de fem driftsposter.
+
+166. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Hvordan ‹bil› ligger i feltet
+   Eksempel: Hvordan Farizon ligger i feltet
+
+167. [9 sider, fx /varebiler/farizon/]
+   Skabelon: ‹bil› s billigste tilbud lander på # kr. pr. måned samlet, når udbetalingen er fordelt over løbetiden.
+   Eksempel: Farizons billigste tilbud lander på 3.813 kr. pr. måned samlet, når udbetalingen er fordelt over løbetiden.
+
+168. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Tilbuddene på ‹bil› oplyser # % af de fem driftsposter mod # % for alle tilbud på siden.
+   Eksempel: Tilbuddene på Farizon oplyser 80 % af de fem driftsposter mod 56 % for alle tilbud på siden.
+
+169. [9 sider, fx /varebiler/farizon/]
+   Skabelon: ‹bil› sammenlignet med andre mærker
+   Eksempel: Farizon sammenlignet med andre mærker
+
+170. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Spørgsmål om ‹bil› varebiler
+   Eksempel: Spørgsmål om Farizon varebiler
+
+171. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Hvad er den billigste ‹bil› varebil at lease?
+   Eksempel: Hvad er den billigste Farizon varebil at lease?
+
+172. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Hvilke ‹bil› varebiler fås som el?
+   Eksempel: Hvilke Farizon varebiler fås som el?
+
+173. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Tekniske mål er fra ‹bil› -prislister og gælder den variant der står på modelsiden.
+   Eksempel: Tekniske mål er fra Farizon-prislister og gælder den variant der står på modelsiden.
+
+174. [9 sider, fx /varebiler/farizon/]
+   Skabelon: Ingen kan betale sig til en bedre placering, og ‹bil› og importøren betaler os ikke.
+   Eksempel: Ingen kan betale sig til en bedre placering, og Farizon og importøren betaler os ikke.
+
+175. [9 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: Af de # tilbud er # operationelt og # finansielt.
+   Eksempel: Af de 2 tilbud er 1 operationelt og 1 finansielt.
+
+176. [9 sider, fx /varebiler/ford/ranger/]
+   Skabelon: Der står # brugte ‹bil› på lageret, fra # kr. ekskl. moms.
+   Eksempel: Der står 4 brugte Ford Ranger på lageret, fra 155.000 kr. ekskl. moms.
+
+177. [9 sider, fx /varebiler/man/tge/]
+   Skabelon: Nr. # på listen over Danmarks mest solgte varebiler — # nyregistreringer i marts #.
+   Eksempel: Nr. 9 på listen over Danmarks mest solgte varebiler — 77 nyregistreringer i marts 2026.
+
+178. [8 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: # kr. i Førerassistancepakke #.
+   Eksempel: 13.740 kr. i Førerassistancepakke 6.
+
+179. [8 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny ‹udbyder›-varebil hos autoriseret forhandler (også til biler indregistreret efter # til loyalitetspris). #-# års ekstra dækning og #-# km vælges; service efter fabrikkens forskrifter er en betingelse.
+   Eksempel: Extended Warranty Premium Varebil FLEX er et TILKØB ved køb af ny Citroën-varebil hos autoriseret forhandler (også til biler indregistreret efter 1.1.2025 til loyalitetspris). 1-6 års ekstra dækning og 50.000-200.000 km vælges; service efter fabrikkens forskrifter er en betingelse.
+
+180. [8 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Ikke taxa, køreskole, ombyggede biler, udrykning. aar/km er maksimum: samlet op til # år eller # km (hvad der kommer først).
+   Eksempel: Ikke taxa, køreskole, ombyggede biler, udrykning. aar/km er maksimum: samlet op til 8 år eller 200.000 km (hvad der kommer først).
+
+181. [8 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Kræver karrosserikontrol hvert #. år for varebiler.
+   Eksempel: Kræver karrosserikontrol hvert 2. år for varebiler.
+
+182. [8 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet.
+   Eksempel: Derefter serviceaktiveret vejhjælp: tilmeldes ved værkstedsbesøg for en periode svarende til serviceintervallet.
+
+183. [8 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Se de brugte ‹udbyder› ‹bil› Alle brugte varebiler
+   Eksempel: Se de brugte Citroën Berlingo Alle brugte varebiler
+
+184. [8 sider, fx /varebiler/citroen/]
+   Skabelon: De står med rækkevidde og batteri på modelsiden.
+   Eksempel: De står med rækkevidde og batteri på modelsiden.
+
+185. [8 sider, fx /varebiler/citroen/]
+   Skabelon: ‹bil› , med # kg nyttelast ifølge producenten.
+   Eksempel: Jumper, med 1.225 kg nyttelast ifølge producenten.
+
+186. [8 sider, fx /varebiler/farizon/]
+   Skabelon: Målt pr. kilo nyttelast koster det billigste ‹bil› -tilbud # kr. pr. kg pr. måned mod # kr. i median.
+   Eksempel: Målt pr. kilo nyttelast koster det billigste Farizon-tilbud 3,06 kr. pr. kg pr. måned mod 4,35 kr. i median.
+
+187. [8 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: ‹bil› findes også som elvarebil: ‹bil› .
+   Eksempel: Fiat Ducato findes også som elvarebil: Fiat E-Ducato .
+
+188. [8 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: Findes ‹bil› som elbil?
+   Eksempel: Findes Fiat Ducato som elbil?
+
+189. [7 sider, fx /udstyr/apple-carplay-android-auto/]
+   Skabelon: Standard Smartphone-integration, #" skærm
+   Eksempel: Standard Smartphone-integration, 10" skærm
+
+190. [7 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Standard Blind-Spot-Detection
+   Eksempel: Standard Blind-Spot-Detection
+
+191. [7 sider, fx /varebiler/citroen/]
+   Skabelon: ‹bil› , med # m³ lastrum ifølge producenten.
+   Eksempel: ë-Jumper, med 13 m³ lastrum ifølge producenten.
+
+192. [7 sider, fx /varebiler/farizon/sv/]
+   Skabelon: # år / # km ifølge mærkets egne garantivilkår.
+   Eksempel: 5 år / 200.000 km ifølge mærkets egne garantivilkår.
+
+193. [7 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: ‹bil› er en stor kassevogn med dieselmotor.
+   Eksempel: Fiat Ducato er en stor kassevogn med dieselmotor.
+
+194. [7 sider, fx /varebiler/fiat/ducato/]
+   Skabelon: # år (km-grænse ikke oplyst) ifølge mærkets egne garantivilkår.
+   Eksempel: 2 år (km-grænse ikke oplyst) ifølge mærkets egne garantivilkår.
+
+195. [7 sider, fx /varebiler/fiat/e-ducato/]
+   Skabelon: ‹bil› har et modstykke med dieselmotor: ‹bil› .
+   Eksempel: Fiat E-Ducato har et modstykke med dieselmotor: Fiat Ducato .
+
+196. [7 sider, fx /varebiler/fiat/e-ducato/]
+   Skabelon: Findes ‹bil› med dieselmotor?
+   Eksempel: Findes Fiat E-Ducato med dieselmotor?
+
+197. [7 sider, fx /varebiler/fiat/]
+   Skabelon: Der står # brugte ‹bil› varebiler på lageret, fra # kr. ekskl. moms.
+   Eksempel: Der står 2 brugte Fiat varebiler på lageret, fra 18.500 kr. ekskl. moms.
+
+198. [7 sider, fx /varebiler/ford/e-transit-custom/]
+   Skabelon: ‹udbyder› oplyser service og forsikring som tilvalg til basisprisen.
+   Eksempel: Kassebil.dk oplyser service og forsikring som tilvalg til basisprisen.
+
+199. [7 sider, fx /varebiler/mercedes-benz/esprinter/]
+   Skabelon: # kWh netto · # kWh brutto
+   Eksempel: 56,3 kWh netto · 58 kWh brutto
+
+200. [6 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: # kr. i Førerassistancepakke #
+   Eksempel: 13.740 kr. i Førerassistancepakke 6
+
+201. [6 sider, fx /udstyr/gulv-i-varerum/]
+   Skabelon: Standardgulvet er ikke beskrevet.
+   Eksempel: Standardgulvet er ikke beskrevet.
+
+202. [6 sider, fx /udstyr/ruder-i-bagdoere/]
+   Skabelon: Ruder i bagdøre med varmetråde samt bakspejl
+   Eksempel: Ruder i bagdøre med varmetråde samt bakspejl
+
+203. [6 sider, fx /udstyr/saedevarme/]
+   Skabelon: Standard Fører og passager
+   Eksempel: Standard Fører og passager
+
+204. [6 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # år, ubegrænset km # år for varebiler (# år for personbiler).
+   Eksempel: 5 år, ubegrænset km 5 år for varebiler (12 år for personbiler).
+
+205. [6 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Karrosseriombygninger og lad på varebiler er ikke omfattet.
+   Eksempel: Karrosseriombygninger og lad på varebiler er ikke omfattet.
+
+206. [6 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: # år, ubegrænset km Lakgaranti under hele den #-årige fabriksgarantiperiode.
+   Eksempel: 2 år, ubegrænset km Lakgaranti under hele den 2-årige fabriksgarantiperiode.
+
+207. [6 sider, fx /varebiler/citroen/]
+   Skabelon: Lastrum # m³ Nyttelast #–# kg Trækvægt # kg Totalvægt # kg # tilbud
+   Eksempel: Lastrum 5,3 m³ Nyttelast 1.001–1.341 kg Trækvægt 2.500 kg Totalvægt 3.100 kg 4 tilbud
+
+208. [6 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: Læssehøjden opgives som #–# mm; vi fører det højeste.
+   Eksempel: Læssehøjden opgives som 535–565 mm; vi fører det højeste.
+
+209. [6 sider, fx /varebiler/fiat/]
+   Skabelon: # udbydere har aktuelle tilbud på ‹bil› , billigste først.
+   Eksempel: 2 udbydere har aktuelle tilbud på Fiat, billigste først.
+
+210. [6 sider, fx /varebiler/fiat/]
+   Skabelon: Hvilken ‹bil› varebil kan laste mest?
+   Eksempel: Hvilken Fiat varebil kan laste mest?
+
+211. [6 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: Siden skriver ikke, om ydelsen er inkl. eller ekskl. moms, og forholder sig ikke til service, dæk, forsikring, vejhjælp eller ejerafgift.
+   Eksempel: Siden skriver ikke, om ydelsen er inkl. eller ekskl. moms, og forholder sig ikke til service, dæk, forsikring, vejhjælp eller ejerafgift.
+
+212. [6 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: Prisen er inkl. registreringsafgift og ekskl. leveringsomkostninger på # kr. ekskl. moms.
+   Eksempel: Prisen er inkl. registreringsafgift og ekskl. leveringsomkostninger på 4.620 kr. ekskl. moms.
+
+213. [6 sider, fx /varebiler/ford/]
+   Skabelon: ‹bil› , med # kg trækvægt ifølge producenten, med bremset anhænger.
+   Eksempel: Ranger, med 3.500 kg trækvægt ifølge producenten, med bremset anhænger.
+
+214. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: Prisen er inkl. levering.
+   Eksempel: Prisen er inkl. levering.
+
+215. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: Totalomkostninger i perioden: # kr.
+   Eksempel: Totalomkostninger i perioden: 96.820 kr.
+
+216. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: # år, ubegrænset km ‹udbyder› nybilsgaranti på alle varebiler: # år fra udlevering/#. indregistrering, uden kilometerbegrænsning.
+   Eksempel: 2 år, ubegrænset km Mercedes-Benz nybilsgaranti på alle varebiler: 2 år fra udlevering/1. indregistrering, uden kilometerbegrænsning.
+
+217. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: ServiceCare Extended Warranty kan tilkøbes (op til # år/# km; oprettes inden for # mdr. fra #. reg.).
+   Eksempel: ServiceCare Extended Warranty kan tilkøbes (op til 5 år/250.000 km; oprettes inden for 24 mdr. fra 1. reg.).
+
+218. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: # år MobiloVan-mobilitetsgaranti følger med (Service#h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til # år, når bilen serviceres efter forskrifterne på autoriseret ‹udbyder›-værksted.
+   Eksempel: 2 år MobiloVan-mobilitetsgaranti følger med (Service24h, bugsering, erstatningsbil, taxa, hotel) i garantiperioden og forlænges i op til 30 år, når bilen serviceres efter forskrifterne på autoriseret Mercedes-Benz-værksted.
+
+219. [6 sider, fx /varebiler/mercedes-benz/citan/]
+   Skabelon: Hvad koster det at lease en Mercedes ‹bil› ?
+   Eksempel: Hvad koster det at lease en Mercedes Citan?
+
+220. [6 sider, fx /varebiler/peugeot/boxer/]
+   Skabelon: # år, ubegrænset km #-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (‹udbyder› Garantiprogram).
+   Eksempel: 2 år, ubegrænset km 2-årig paneuropæisk nyvognsgaranti uden kilometerbegrænsning (Peugeot Garantiprogram).
+
+221. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: # år / # km # år/# km (hvad der kommer først), uden kilometerbegrænsning det første år.
+   Eksempel: 3 år / 100.000 km 3 år/100.000 km (hvad der kommer først), uden kilometerbegrænsning det første år.
+
+222. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: Samme for ‹udbyder›s erhvervsbiler som for personbiler.
+   Eksempel: Samme for Toyotas erhvervsbiler som for personbiler.
+
+223. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: # år / # km ‹udbyder› Relax: serviceaktiveret, gratis.
+   Eksempel: 10 år / 185.000 km Toyota Relax: serviceaktiveret, gratis.
+
+224. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: Hvert serviceeftersyn på autoriseret ‹udbyder›-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er # år eller har kørt # km.
+   Eksempel: Hvert serviceeftersyn på autoriseret Toyota-værksted efter fabriksgarantien giver ny garanti frem til næste service, indtil bilen er 10 år eller har kørt 185.000 km.
+
+225. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: Ombyggede biler (lokalt/eksternt) er ikke omfattet.
+   Eksempel: Ombyggede biler (lokalt/eksternt) er ikke omfattet.
+
+226. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: # år, ubegrænset km Fra ‹udbyder›s generelle garantiside ('‹udbyder›-garantien omfatter').
+   Eksempel: 12 år, ubegrænset km Fra Toyotas generelle garantiside ('Toyota-garantien omfatter').
+
+227. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: Ikke gentaget på ‹udbyder› Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver # år på varebiler.
+   Eksempel: Ikke gentaget på Toyota Professional-siden for varebiler — Proace-modellerne er bygget af Stellantis, hvis egne mærker kun giver 5 år på varebiler.
+
+228. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: # år, ubegrænset km # års lak- og overfladerustgaranti uanset km, fra ‹udbyder›s generelle garantiside; ikke gentaget på ‹udbyder› Professional-siden.
+   Eksempel: 3 år, ubegrænset km 3 års lak- og overfladerustgaranti uanset km, fra Toyotas generelle garantiside; ikke gentaget på Toyota Professional-siden.
+
+229. [6 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: # år # års ‹udbyder› Vejhjælp i hele Europa ved køb; fornyes # måneder ad gangen ved service hos ‹udbyder› (sundheds- eller sikkerhedstjek).
+   Eksempel: 1 år 1 års Toyota Vejhjælp i hele Europa ved køb; fornyes 12 måneder ad gangen ved service hos Toyota (sundheds- eller sikkerhedstjek).
+
+230. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: # år, ubegrænset km ‹udbyder›s #-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.).
+   Eksempel: 2 år, ubegrænset km Volkswagen Erhvervsbilers 2-årige nybilsgaranti (garantigiver Skandinavisk Motor Co.).
+
+231. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse.
+   Eksempel: Garantibestemmelserne for erhvervsbiler angiver kun tid, ingen km-grænse.
+
+232. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: # år / # km Semlers samlede # års garanti: # år/# km ud over de # års fabriksgaranti (hvad der kommer først).
+   Eksempel: 5 år / 150.000 km Semlers samlede 5 års garanti: 3 år/150.000 km ud over de 2 års fabriksgaranti (hvad der kommer først).
+
+233. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Gælder erhvervsbiler solgt af ‹bil› Danmark via autoriseret forhandler og udleveret fra #. maj #.
+   Eksempel: Gælder erhvervsbiler solgt af Volkswagen Danmark via autoriseret forhandler og udleveret fra 19. maj 2025.
+
+234. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Følger med uden beregning.
+   Eksempel: Følger med uden beregning.
+
+235. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele.
+   Eksempel: Dækker ikke højvoltsbatteri, lak, gennemtæring eller sliddele.
+
+236. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Til næste service, fornyes ‹bil› Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted.
+   Eksempel: Til næste service, fornyes Volkswagen Vejhjælp følger med ny bil købt hos autoriseret dansk forhandler og gælder frem til næste anbefalede serviceeftersyn; forlænges ved hvert eftersyn på autoriseret VW-værksted.
+
+237. [6 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Ingen fast årsgrænse oplyst.
+   Eksempel: Ingen fast årsgrænse oplyst.
+
+238. [5 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: Ikke oplyst Ikke i prislisten; almindelig fartpilot er standard
+   Eksempel: Ikke oplyst Ikke i prislisten; almindelig fartpilot er standard
+
+239. [5 sider, fx /udstyr/aircondition/]
+   Skabelon: Standard Aut. klimaanlæg (klimaautomatik)
+   Eksempel: Standard Aut. klimaanlæg (klimaautomatik)
+
+240. [5 sider, fx /udstyr/aircondition/]
+   Skabelon: Standard Manuel aircondition.
+   Eksempel: Standard Manuel aircondition.
+
+241. [5 sider, fx /udstyr/aircondition/]
+   Skabelon: Elektronisk klimakontrol (ECC) # kr.
+   Eksempel: Elektronisk klimakontrol (ECC) 1.600 kr.
+
+242. [5 sider, fx /udstyr/apple-carplay-android-auto/]
+   Skabelon: Smartphone integrationspakke (E#S)
+   Eksempel: Smartphone integrationspakke (E4S)
+
+243. [5 sider, fx /udstyr/bakkamera/]
+   Skabelon: Standard Bakhjælp (kamera bag), FR#
+   Eksempel: Standard Bakhjælp (kamera bag), FR8
+
+244. [5 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: BLIS med Cross Traffic Alert
+   Eksempel: BLIS med Cross Traffic Alert
+
+245. [5 sider, fx /udstyr/dab-radio/]
+   Skabelon: Standard Radio med #" touchskærm, DAB+ og Bluetooth
+   Eksempel: Standard Radio med 10" touchskærm, DAB+ og Bluetooth
+
+246. [5 sider, fx /udstyr/el-sammenklappelige-spejle/]
+   Skabelon: Standard El-sammenklappelige sidespejle med varme
+   Eksempel: Standard El-sammenklappelige sidespejle med varme
+
+247. [5 sider, fx /udstyr/gulv-i-varerum/]
+   Skabelon: Standard Bund og sider i varerum; materialet er ikke oplyst
+   Eksempel: Standard Bund og sider i varerum; materialet er ikke oplyst
+
+248. [5 sider, fx /udstyr/gulv-i-varerum/]
+   Skabelon: Kunststofgulv, slidstærkt (VK#).
+   Eksempel: Kunststofgulv, slidstærkt (VK8).
+
+249. [5 sider, fx /udstyr/parkeringsvarmer/]
+   Skabelon: Standard Webasto motor-/kabinevarmer med timer
+   Eksempel: Standard Webasto motor-/kabinevarmer med timer
+
+250. [5 sider, fx /udstyr/saedevarme/]
+   Skabelon: Standard Sædevarme i førersædet
+   Eksempel: Standard Sædevarme i førersædet
+
+251. [5 sider, fx /udstyr/saedevarme/]
+   Skabelon: Standard Opvarmet førersæde og varme på yderste passagerplads (sædepakke #A)
+   Eksempel: Standard Opvarmet førersæde og varme på yderste passagerplads (sædepakke 8A)
+
+252. [5 sider, fx /udstyr/saedevarme/]
+   Skabelon: Standard Opvarmede forsæder
+   Eksempel: Standard Opvarmede forsæder
+
+253. [5 sider, fx /udstyr/skillevaeg-til-varerum/]
+   Skabelon: Standard Hel adskillelse, lukket (D#).
+   Eksempel: Standard Hel adskillelse, lukket (D50).
+
+254. [5 sider, fx /udstyr/skydedoer-venstre-side/]
+   Skabelon: Højre og venstre skydedør med rude: # kr.
+   Eksempel: Højre og venstre skydedør med rude: 6.410 kr.
+
+255. [5 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: ‹udbyder› ‹bil› er en lille kassevogn med dieselmotor i pizzabil-klassen.
+   Eksempel: Citroën Berlingo er en lille kassevogn med dieselmotor i pizzabil-klassen.
+
+256. [5 sider, fx /varebiler/citroen/berlingo/]
+   Skabelon: Kontantpris # kr. ekskl. moms.
+   Eksempel: Kontantpris 207.990 kr. ekskl. moms.
+
+257. [5 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: ‹udbyder› ‹bil› er en stor elektrisk kassevogn.
+   Eksempel: Citroën ë-Jumper er en stor elektrisk kassevogn.
+
+258. [5 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Blandt de store på siden har den et af de største lastrum.
+   Eksempel: Blandt de store på siden har den et af de største lastrum.
+
+259. [5 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: Vægt uden last: Køreklar vægt, ikke egenvægt.
+   Eksempel: Vægt uden last: Køreklar vægt, ikke egenvægt.
+
+260. [5 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: # år, ubegrænset km # år for varebiler.
+   Eksempel: 5 år, ubegrænset km 5 år for varebiler.
+
+261. [5 sider, fx /varebiler/citroen/e-jumper/]
+   Skabelon: # år, ubegrænset km Lakgaranti i den #-årige fabriksgarantiperiode.
+   Eksempel: 2 år, ubegrænset km Lakgaranti i den 2-årige fabriksgarantiperiode.
+
+262. [5 sider, fx /varebiler/citroen/]
+   Skabelon: ‹udbyder› varebiler til erhvervsleasing
+   Eksempel: Citroën varebiler til erhvervsleasing
+
+263. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Lastrum # m³ Nyttelast # kg Totalvægt # kg Batteri # kWh # tilbud
+   Eksempel: Lastrum 13 m³ Nyttelast 635 kg Totalvægt 3.500 kg Batteri 110 kWh 1 tilbud
+
+264. [5 sider, fx /varebiler/citroen/]
+   Skabelon: # udbydere har aktuelle tilbud på ‹udbyder›, billigste først.
+   Eksempel: 4 udbydere har aktuelle tilbud på Citroën, billigste først.
+
+265. [5 sider, fx /varebiler/citroen/]
+   Skabelon: # elvarebiler fra ‹udbyder› har aktuelle tilbud.
+   Eksempel: 2 elvarebiler fra Citroën har aktuelle tilbud.
+
+266. [5 sider, fx /varebiler/citroen/]
+   Skabelon: ‹udbyder›-tilbuddene på siden oplyser tilsammen # % af de fem driftsposter.
+   Eksempel: Citroën-tilbuddene på siden oplyser tilsammen 60 % af de fem driftsposter.
+
+267. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvordan ‹udbyder› ligger i feltet
+   Eksempel: Hvordan Citroën ligger i feltet
+
+268. [5 sider, fx /varebiler/citroen/]
+   Skabelon: ‹udbyder›s billigste tilbud lander på # kr. pr. måned samlet, når udbetalingen er fordelt over løbetiden.
+   Eksempel: Citroëns billigste tilbud lander på 2.495 kr. pr. måned samlet, når udbetalingen er fordelt over løbetiden.
+
+269. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Medianen for alle # tilbud på siden er # kr., så det billigste ‹udbyder›-tilbud ligger # % under midten af feltet.
+   Eksempel: Medianen for alle 121 tilbud på siden er 3.873 kr., så det billigste Citroën-tilbud ligger 36 % under midten af feltet.
+
+270. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Målt pr. kilo nyttelast koster det billigste ‹udbyder›-tilbud # kr. pr. kg pr. måned mod # kr. i median.
+   Eksempel: Målt pr. kilo nyttelast koster det billigste Citroën-tilbud 2,59 kr. pr. kg pr. måned mod 4,35 kr. i median.
+
+271. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Tilbuddene på ‹udbyder› oplyser # % af de fem driftsposter mod # % for alle tilbud på siden.
+   Eksempel: Tilbuddene på Citroën oplyser 60 % af de fem driftsposter mod 56 % for alle tilbud på siden.
+
+272. [5 sider, fx /varebiler/citroen/]
+   Skabelon: ‹udbyder› sammenlignet med andre mærker
+   Eksempel: Citroën sammenlignet med andre mærker
+
+273. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Der står # brugte ‹udbyder› varebiler på lageret, fra # kr. ekskl. moms.
+   Eksempel: Der står 4 brugte Citroën varebiler på lageret, fra 58.500 kr. ekskl. moms.
+
+274. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Se de brugte ‹udbyder› Alle brugte varebiler
+   Eksempel: Se de brugte Citroën Alle brugte varebiler
+
+275. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Spørgsmål om ‹udbyder› varebiler
+   Eksempel: Spørgsmål om Citroën varebiler
+
+276. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvad er den billigste ‹udbyder› varebil at lease?
+   Eksempel: Hvad er den billigste Citroën varebil at lease?
+
+277. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvilke ‹udbyder› varebiler fås som el?
+   Eksempel: Hvilke Citroën varebiler fås som el?
+
+278. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvilken ‹udbyder› varebil har det største lastrum?
+   Eksempel: Hvilken Citroën varebil har det største lastrum?
+
+279. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvilken ‹udbyder› varebil kan laste mest?
+   Eksempel: Hvilken Citroën varebil kan laste mest?
+
+280. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Hvilken ‹udbyder› varebil kan trække mest?
+   Eksempel: Hvilken Citroën varebil kan trække mest?
+
+281. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Tekniske mål er fra ‹udbyder›-prislister og gælder den variant der står på modelsiden.
+   Eksempel: Tekniske mål er fra Citroën-prislister og gælder den variant der står på modelsiden.
+
+282. [5 sider, fx /varebiler/citroen/]
+   Skabelon: Ingen kan betale sig til en bedre placering, og ‹udbyder› og importøren betaler os ikke.
+   Eksempel: Ingen kan betale sig til en bedre placering, og Citroën og importøren betaler os ikke.
+
+283. [5 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: ‹udbyder› ‹bil› er en stor kassevogn med dieselmotor.
+   Eksempel: Citroën Jumper er en stor kassevogn med dieselmotor.
+
+284. [5 sider, fx /varebiler/citroen/jumper/]
+   Skabelon: Der står # brugte ‹udbyder› ‹bil› på lageret, fra # kr. ekskl. moms.
+   Eksempel: Der står 2 brugte Citroën Jumper på lageret, fra 85.000 kr. ekskl. moms.
+
+285. [5 sider, fx /varebiler/citroen/jumpy/]
+   Skabelon: ‹udbyder› ‹bil› er en mellemstor kassevogn med dieselmotor.
+   Eksempel: Citroën Jumpy er en mellemstor kassevogn med dieselmotor.
+
+286. [5 sider, fx /varebiler/farizon/]
+   Skabelon: Medianen for alle # tilbud på siden er # kr., så det billigste ‹bil› -tilbud ligger # % under midten af feltet.
+   Eksempel: Medianen for alle 121 tilbud på siden er 3.873 kr., så det billigste Farizon-tilbud ligger 2 % under midten af feltet.
+
+287. [5 sider, fx /varebiler/fiat/]
+   Skabelon: Hvilken ‹bil› varebil har det største lastrum?
+   Eksempel: Hvilken Fiat varebil har det største lastrum?
+
+288. [5 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: Service efter ‹bil› s forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret ‹bil› -værksted.
+   Eksempel: Service efter Fords forskrifter og dokumenteret (ikke krav om autoriseret værksted); garantiarbejde på autoriseret Ford-værksted.
+
+289. [5 sider, fx /varebiler/ford/e-transit/]
+   Skabelon: Følger med uden ekstra omkostning.
+   Eksempel: Følger med uden ekstra omkostning.
+
+290. [5 sider, fx /varebiler/ford/]
+   Skabelon: ‹bil› , ‹bil› , ‹bil› , ‹bil› , ‹bil› , ‹bil› 
+   Eksempel: Transit Custom, Transit Courier, Transit Connect (diesel), Transit Connect PHEV, E-Transit Custom, E-Transit Courier
+
+291. [5 sider, fx /varebiler/ford/]
+   Skabelon: Hvilken ‹bil› varebil kan trække mest?
+   Eksempel: Hvilken Ford varebil kan trække mest?
+
+292. [5 sider, fx /varebiler/man/]
+   Skabelon: ‹bil› : Nr. # på listen over Danmarks mest solgte varebiler — # nyregistreringer i marts # kilde .
+   Eksempel: TGE : Nr. 9 på listen over Danmarks mest solgte varebiler — 77 nyregistreringer i marts 2026 kilde .
+
+293. [5 sider, fx /varebiler/opel/combo/]
+   Skabelon: # år ‹udbyder› Assistance de første # måneder.
+   Eksempel: 2 år Opel Assistance de første 24 måneder.
+
+294. [5 sider, fx /varebiler/opel/combo/]
+   Skabelon: Mangler: ‹udbyder› oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; ‹udbyder›s garantibetingelser (garantihæfte) er ikke offentliggjort som PDF.
+   Eksempel: Mangler: Opel oplyser en lakgaranti, men ikke varigheden, og ingen gennemtæringsgaranti på opel.dk; Opels garantibetingelser (garantihæfte) er ikke offentliggjort som PDF.
+
+295. [5 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: Dækningsperioden pr. service følger bilens serviceinterval: for Proace # år/# km (‹udbyder› Professional), mod # år/# km for de fleste personbiler.
+   Eksempel: Dækningsperioden pr. service følger bilens serviceinterval: for Proace 2 år/30.000 km (Toyota Professional), mod 1 år/15.000 km for de fleste personbiler.
+
+296. [5 sider, fx /varebiler/toyota/proace-city-diesel/]
+   Skabelon: ‹udbyder›s varebilsprislister skriver 'afhængig af model/variant op til # år/# km' pr. service — tallene er ikke ens på tværs af ‹udbyder›s egne kilder.
+   Eksempel: Toyotas varebilsprislister skriver 'afhængig af model/variant op til 2 år/50.000 km' pr. service — tallene er ikke ens på tværs af Toyotas egne kilder.
+
+297. [5 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.
+   Eksempel: Service skal udføres og dokumenteres efter VW's forskrifter (ikke krav om autoriseret værksted); garantiarbejde kun på autoriseret VW Erhvervsbiler-værksted i DK/Grønland/Færøerne.
+
+298. [5 sider, fx /varebiler/volkswagen/amarok/]
+   Skabelon: Hvad koster det at lease en VW ‹bil› ?
+   Eksempel: Hvad koster det at lease en VW Amarok?

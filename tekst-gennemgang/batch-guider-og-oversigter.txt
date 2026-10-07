@@ -1,0 +1,759 @@
+1. [313 sider, fx /bedste-tilbud/]
+   Skabelon: Har du fået et tilbud på bordet?
+   Eksempel: Har du fået et tilbud på bordet?
+
+2. [313 sider, fx /bedste-tilbud/]
+   Skabelon: Vi regner det igennem, finder ud af, hvad der ikke står i det, og giver dig de spørgsmål, du skal stille leasingselskabet.
+   Eksempel: Vi regner det igennem, finder ud af, hvad der ikke står i det, og giver dig de spørgsmål, du skal stille leasingselskabet.
+
+3. [274 sider, fx /bedste-tilbud/]
+   Skabelon: Forhandleren betaler os for henvendelsen — det samme beløb fra alle, og uanset om du siger ja eller nej.
+   Eksempel: Forhandleren betaler os for henvendelsen — det samme beløb fra alle, og uanset om du siger ja eller nej.
+
+4. [269 sider, fx /bedste-tilbud/]
+   Skabelon: # kr. ekskl. moms pr. tilbud.
+   Eksempel: 695 kr. ekskl. moms pr. tilbud.
+
+5. [268 sider, fx /bedste-tilbud/]
+   Skabelon: Har du ikke et tilbud endnu?
+   Eksempel: Har du ikke et tilbud endnu?
+
+6. [268 sider, fx /bedste-tilbud/]
+   Skabelon: Du siger, hvad bilen skal kunne — vi ringer rundt til forhandlerne, beder om det samme hos alle, og læser tilbuddene igennem, før du ser dem.
+   Eksempel: Du siger, hvad bilen skal kunne — vi ringer rundt til forhandlerne, beder om det samme hos alle, og læser tilbuddene igennem, før du ser dem.
+
+7. [268 sider, fx /bedste-tilbud/]
+   Skabelon: Der sidder et menneske og gør det, ikke et system.
+   Eksempel: Der sidder et menneske og gør det, ikke et system.
+
+8. [268 sider, fx /bedste-tilbud/]
+   Skabelon: Her er der ingen forhandler inde over — du betaler, og ingen andre.
+   Eksempel: Her er der ingen forhandler inde over — du betaler, og ingen andre.
+
+9. [150 sider, fx //]
+   Skabelon: En tankestreg betyder, at tallet ikke er oplyst.
+   Eksempel: En tankestreg betyder, at tallet ikke er oplyst.
+
+10. [149 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Prisen er det billigste annoncerede tilbud på hver model, ekskl. moms; hvilken udbyder og variant står på modelsiden.
+   Eksempel: Prisen er det billigste annoncerede tilbud på hver model, ekskl. moms; hvilken udbyder og variant står på modelsiden.
+
+11. [149 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Mål og vægt gælder den variant, der står på modelsiden.
+   Eksempel: Mål og vægt gælder den variant, der står på modelsiden.
+
+12. [149 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Den grønne markering viser det bedste tal i rækken, hvor det kan afgøres.
+   Eksempel: Den grønne markering viser det bedste tal i rækken, hvor det kan afgøres.
+
+13. [120 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Forskelle i standardudstyr
+   Eksempel: Forskelle i standardudstyr
+
+14. [120 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: På det billigste udstyrsniveau hos begge.
+   Eksempel: På det billigste udstyrsniveau hos begge.
+
+15. [120 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Kun poster, hvor producenten oplyser begge dele.
+   Eksempel: Kun poster, hvor producenten oplyser begge dele.
+
+16. [98 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel leasing af varebil
+   Eksempel: Finansiel leasing af varebil
+
+17. [96 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil med service inkluderet i leasingydelsen
+   Eksempel: Varebil med service inkluderet i leasingydelsen
+
+18. [95 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil med automatgear i erhvervsleasing
+   Eksempel: Varebil med automatgear i erhvervsleasing
+
+19. [93 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Operationel leasing af varebil
+   Eksempel: Operationel leasing af varebil
+
+20. [91 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil der kan være i en parkeringskælder
+   Eksempel: Varebil der kan være i en parkeringskælder
+
+21. [91 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Kun standard på ‹bil› 
+   Eksempel: Kun standard på Ford Transit Connect (diesel)
+
+22. [88 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil med lavt brændstofforbrug
+   Eksempel: Varebil med lavt brændstofforbrug
+
+23. [87 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Dieselvarebil i erhvervsleasing
+   Eksempel: Dieselvarebil i erhvervsleasing
+
+24. [87 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: ‹udbyder› ‹bil› er billigst at lease: # kr. mindre om måneden, når udbetalingen er fordelt over løbetiden.
+   Eksempel: Citroën Berlingo er billigst at lease: 1.171 kr. mindre om måneden, når udbetalingen er fordelt over løbetiden.
+
+25. [85 sider, fx /bedste-tilbud/bedste-varebil-2026/]
+   Skabelon: ‹udbyder› ‹bil› 
+   Eksempel: Toyota Proace Max Electric
+
+26. [84 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Kun standard på ‹udbyder› ‹bil› 
+   Eksempel: Kun standard på Citroën Berlingo
+
+27. [80 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil der kan tage europaller
+   Eksempel: Varebil der kan tage europaller
+
+28. [79 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil til under # kr. om måneden
+   Eksempel: Varebil til under 3.500 kr. om måneden
+
+29. [78 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Leasing af elvarebil til erhverv
+   Eksempel: Leasing af elvarebil til erhverv
+
+30. [78 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Elvarebil med lang rækkevidde
+   Eksempel: Elvarebil med lang rækkevidde
+
+31. [78 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Elvarebil med hurtig opladning
+   Eksempel: Elvarebil med hurtig opladning
+
+32. [77 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Elvarebil med stort lastrum
+   Eksempel: Elvarebil med stort lastrum
+
+33. [72 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Bedste varevogn til håndværkere
+   Eksempel: Bedste varevogn til håndværkere
+
+34. [71 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil til servicetekniker
+   Eksempel: Varebil til servicetekniker
+
+35. [70 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Varebil med lav udbetaling
+   Eksempel: Varebil med lav udbetaling
+
+36. [70 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel leasing af stor varebil
+   Eksempel: Finansiel leasing af stor varebil
+
+37. [67 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Operationel leasing af elvarebil
+   Eksempel: Operationel leasing af elvarebil
+
+38. [67 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel leasing af elvarebil
+   Eksempel: Finansiel leasing af elvarebil
+
+39. [66 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Operationel leasing af lille varebil
+   Eksempel: Operationel leasing af lille varebil
+
+40. [66 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Operationel leasing af mellemstor varebil
+   Eksempel: Operationel leasing af mellemstor varebil
+
+41. [66 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Operationel leasing af stor varebil
+   Eksempel: Operationel leasing af stor varebil
+
+42. [65 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel leasing af lille varebil
+   Eksempel: Finansiel leasing af lille varebil
+
+43. [64 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Finansiel leasing af mellemstor varebil
+   Eksempel: Finansiel leasing af mellemstor varebil
+
+44. [62 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: ‹bil› må laste mest (# kg).
+   Eksempel: Ford Transit Connect (diesel) må laste mest (747 kg).
+
+45. [62 sider, fx /sammenlign/citroen-e-jumper-vs-fiat-e-ducato/]
+   Skabelon: ‹bil› er billigst at lease: # kr. mindre om måneden, når udbetalingen er fordelt over løbetiden.
+   Eksempel: Fiat E-Ducato er billigst at lease: 200 kr. mindre om måneden, når udbetalingen er fordelt over løbetiden.
+
+46. [61 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Elvarebil med strøm til værktøj (V#L)
+   Eksempel: Elvarebil med strøm til værktøj (V2L)
+
+47. [61 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: ‹bil› har det største lastrum (# m³ mod # m³).
+   Eksempel: Ford Transit Connect (diesel) har det største lastrum (3,7 m³ mod 3,3 m³).
+
+48. [60 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Det står ikke i leasingtilbuddet
+   Eksempel: Det står ikke i leasingtilbuddet
+
+49. [57 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: ‹bil› 
+   Eksempel: Fiat Ducato Ducato Comfort 35M L3H2 180 HK A8
+
+50. [57 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Ladbil leasing: ladvogne og chassis med opbygning
+   Eksempel: Ladbil leasing: ladvogne og chassis med opbygning
+
+51. [55 sider, fx /bedste-tilbud/bedste-varebil-2026/]
+   Skabelon: Uafhængig sammenligning · ingen betalte placeringer
+   Eksempel: Uafhængig sammenligning · ingen betalte placeringer
+
+52. [55 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Pickup leasing til erhverv
+   Eksempel: Pickup leasing til erhverv
+
+53. [54 sider, fx /bedste-tilbud/bedste-varebil-2026/]
+   Skabelon: Har du allerede et tilbud?
+   Eksempel: Har du allerede et tilbud?
+
+54. [53 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Kilde og indsamlingsdato står ved hvert tilbud, og modelnavnet fører til modelsiden med de fulde specifikationer.
+   Eksempel: Kilde og indsamlingsdato står ved hvert tilbud, og modelnavnet fører til modelsiden med de fulde specifikationer.
+
+55. [53 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Har du selv fået et tilbud?
+   Eksempel: Har du selv fået et tilbud?
+
+56. [53 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Se hvor det ligger i leasingberegneren .
+   Eksempel: Se hvor det ligger i leasingberegneren .
+
+57. [53 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Send det ind, og få det gennemgået på de samme punkter, vi sammenligner på her: hvad ydelsen dækker, hvad der ligger uden for, og hvad aftalen koster i alt.
+   Eksempel: Send det ind, og få det gennemgået på de samme punkter, vi sammenligner på her: hvad ydelsen dækker, hvad der ligger uden for, og hvad aftalen koster i alt.
+
+58. [50 sider, fx /sammenlign/citroen-berlingo-vs-renault-kangoo/]
+   Skabelon: ‹bil› har længst garanti (# år / # km).
+   Eksempel: Renault Kangoo har længst garanti (5 år / 150.000 km).
+
+59. [47 sider, fx /sammenlign/citroen-berlingo-vs-peugeot-partner/]
+   Skabelon: ‹udbyder› ‹bil› har længst garanti (# år / # km).
+   Eksempel: Peugeot Partner har længst garanti (5 år / 200.000 km).
+
+60. [43 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: # mdr. · # km/år · gælder til #. dec. #
+   Eksempel: 60 mdr. · 15.000 km/år · gælder til 31. dec. 2026
+
+61. [42 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Vi har gennemgået # annoncerede tilbud og talt efter. # af dem forholder sig ikke til én eneste driftspost.
+   Eksempel: Vi har gennemgået 122 annoncerede tilbud og talt efter. 14 af dem forholder sig ikke til én eneste driftspost.
+
+62. [41 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Grøn ejerafgift på varebil
+   Eksempel: Grøn ejerafgift på varebil
+
+63. [40 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-courier/]
+   Skabelon: ‹udbyder› ‹bil› har det største lastrum (# m³ mod # m³).
+   Eksempel: Citroën Berlingo har det største lastrum (3,3 m³ mod 2,9 m³).
+
+64. [38 sider, fx /sammenlign/citroen-berlingo-vs-opel-combo/]
+   Skabelon: # tilbud på ‹udbyder› ‹bil› # tilbud på ‹udbyder› ‹bil› 
+   Eksempel: 2 tilbud på Citroën Berlingo 3 tilbud på Opel Combo
+
+65. [37 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Afgiften følger CO₂, ikke prisen.
+   Eksempel: Afgiften følger CO₂, ikke prisen.
+
+66. [37 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: På vores # modeller går den fra # til # kr. om året — og ingen ydelse dækker den.
+   Eksempel: På vores 58 modeller går den fra 920 til 13.980 kr. om året — og ingen ydelse dækker den.
+
+67. [37 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: De fem bedste efter inkl. udbetaling
+   Eksempel: De fem bedste efter inkl. udbetaling
+
+68. [37 sider, fx /sammenlign/farizon-sv-vs-ford-e-transit-custom/]
+   Skabelon: # tilbud på ‹bil› # tilbud på ‹bil› 
+   Eksempel: 1 tilbud på Farizon SV 2 tilbud på Ford E-Transit Custom
+
+69. [36 sider, fx /sammenlign/farizon-sv-vs-mercedes-benz-evito/]
+   Skabelon: # tilbud på ‹bil› # tilbud på ‹udbyder› ‹bil› 
+   Eksempel: 1 tilbud på Farizon SV 2 tilbud på Mercedes-Benz eVito
+
+70. [35 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: # tilbud på ‹udbyder› ‹bil› # tilbud på ‹bil› 
+   Eksempel: 2 tilbud på Citroën Berlingo 3 tilbud på Ford Transit Connect (diesel)
+
+71. [34 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-courier/]
+   Skabelon: ‹udbyder› ‹bil› må laste mest (# kg).
+   Eksempel: Citroën Berlingo må laste mest (572 kg).
+
+72. [34 sider, fx /sammenlign/citroen-jumper-vs-ford-transit/]
+   Skabelon: Sammenligning · Store kassevogne
+   Eksempel: Sammenligning · Store kassevogne
+
+73. [33 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: # tilbud fra # modeller · alle priser ekskl. moms · opdateret #. okt. #
+   Eksempel: 121 tilbud fra 62 modeller · alle priser ekskl. moms · opdateret 1. okt. 2026
+
+74. [32 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: # ‹udbyder› ‹bil› ‹udbyder› · oplyser #/# driftsposter # kr. annonceret · # kr. udbetaling · # mdr. · # km/år # kr./md.
+   Eksempel: 1 Mercedes-Benz eCitan Ejner Hessel · oplyser 4/5 driftsposter 1.495 kr. annonceret · 20.000 kr. udbetaling · 36 mdr. · 15.000 km/år 2.051 kr./md.
+
+75. [31 sider, fx /sammenlign/ford-e-transit-courier-vs-mercedes-benz-ecitan/]
+   Skabelon: ‹bil› vs.
+   Eksempel: Ford E-Transit Courier vs.
+
+76. [29 sider, fx /garanti/]
+   Skabelon: # år (km-grænse ikke oplyst)
+   Eksempel: 12 år (km-grænse ikke oplyst)
+
+77. [28 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: ‹bil› MASTER E-Tech T# L#H# # FWD aut.
+   Eksempel: Renault Master E-Tech MASTER E-Tech T35 L2H2 122 FWD aut.
+
+78. [27 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: # ‹bil› ‹udbyder› · oplyser #/# driftsposter # kr. annonceret · # kr. udbetaling · # mdr. · # km/år # kr./md.
+   Eksempel: 2 Renault Kangoo E-Tech Ejner Hessel · oplyser 4/5 driftsposter 1.699 kr. annonceret · 50.000 kr. udbetaling · 60 mdr. · 15.000 km/år 2.532 kr./md.
+
+79. [27 sider, fx /sammenlign/citroen-berlingo-vs-ford-transit-connect-diesel/]
+   Skabelon: Sammenligning · Pizzabiler
+   Eksempel: Sammenligning · Pizzabiler
+
+80. [26 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: Buzz Cargo ‹bil› 
+   Eksempel: Buzz Cargo Comfort 58 kWh 190 hk
+
+81. [26 sider, fx /sammenlign/citroen-berlingo-vs-toyota-proace-city-diesel/]
+   Skabelon: Apple CarPlay / Android Auto
+   Eksempel: Apple CarPlay / Android Auto
+
+82. [25 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: # ‹udbyder› ‹bil› ‹udbyder› · oplyser #/# driftsposter # kr. annonceret · # kr. udbetaling · # mdr. · # km/år · gælder til #. dec. # # kr./md.
+   Eksempel: 2 Opel Combo Opel · oplyser 3/5 driftsposter 1.858 kr. annonceret · 30.000 kr. udbetaling · 60 mdr. · 15.000 km/år · gælder til 31. dec. 2026 2.358 kr./md.
+
+83. [25 sider, fx /sammenlign/citroen-e-jumpy-vs-farizon-sv/]
+   Skabelon: ‹udbyder› ‹bil› kører længst på en opladning (# km efter WLTP).
+   Eksempel: Citroën ë-Jumpy kører længst på en opladning (352 km efter WLTP).
+
+84. [25 sider, fx /sammenlign/citroen-jumpy-vs-ford-transit-custom/]
+   Skabelon: Sammenligning · Mellemstore kassevogne
+   Eksempel: Sammenligning · Mellemstore kassevogne
+
+85. [24 sider, fx /sammenlign/ford-e-transit-courier-vs-mercedes-benz-ecitan/]
+   Skabelon: El-sammenklappelige spejle
+   Eksempel: El-sammenklappelige spejle
+
+86. [23 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: ‹bil› MASTER T# L#H# dCi # FWD aut.
+   Eksempel: Renault Master MASTER T35 L2H2 dCi 150 FWD aut.
+
+87. [23 sider, fx /sammenlign/citroen-e-jumper-vs-fiat-e-ducato/]
+   Skabelon: Sammenligning · Store kassevogne · el
+   Eksempel: Sammenligning · Store kassevogne · el
+
+88. [23 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Tabellen viser begge ender af modelprogrammet.
+   Eksempel: Tabellen viser begge ender af modelprogrammet.
+
+89. [23 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Priserne er producentens listepris for tilvalget, ekskl. moms.
+   Eksempel: Priserne er producentens listepris for tilvalget, ekskl. moms.
+
+90. [23 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Standard (med teknikpakke)
+   Eksempel: Standard (med teknikpakke)
+
+91. [23 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Hentet fra hver producents danske prisliste; kilde og dato står på modelsiden.
+   Eksempel: Hentet fra hver producents danske prisliste; kilde og dato står på modelsiden.
+
+92. [23 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst betyder, at prislisten ikke nævner udstyret — ikke at bilen mangler det.
+   Eksempel: Ikke oplyst betyder, at prislisten ikke nævner udstyret — ikke at bilen mangler det.
+
+93. [22 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: ‹bil› KANGOO E-Tech L#H# # FWD Aut.
+   Eksempel: Renault Kangoo E-Tech KANGOO E-Tech L1H1 120 FWD Aut.
+
+94. [22 sider, fx /sammenlign/citroen-e-jumper-vs-renault-master-e-tech/]
+   Skabelon: ‹bil› kører længst på en opladning (# km efter WLTP).
+   Eksempel: Renault Master E-Tech kører længst på en opladning (408 km efter WLTP).
+
+95. [20 sider, fx /bedste-tilbud/bedste-varevogn-til-prisen/]
+   Skabelon: # modeller · alle priser ekskl. moms · opdateret #. okt. #
+   Eksempel: 56 modeller · alle priser ekskl. moms · opdateret 1. okt. 2026
+
+96. [20 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: ‹bil› T# L#H# # FWD Aut.
+   Eksempel: Renault Master E-Tech Chassis Master E-Tech T35 L2H1 140 FWD Aut.
+
+97. [19 sider, fx /sammenlign/citroen-e-jumpy-vs-farizon-sv/]
+   Skabelon: Sammenligning · Mellemstore kassevogne · el
+   Eksempel: Sammenligning · Mellemstore kassevogne · el
+
+98. [17 sider, fx /sammenlign/ford-e-transit-courier-vs-mercedes-benz-ecitan/]
+   Skabelon: Sammenligning · Pizzabiler · el
+   Eksempel: Sammenligning · Pizzabiler · el
+
+99. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Leasingudbyder · uafhængig gennemgang
+   Eksempel: Leasingudbyder · uafhængig gennemgang
+
+100. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Sorteret efter samlet pris pr. måned.
+   Eksempel: Sorteret efter samlet pris pr. måned.
+
+101. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Kolonnen Inkluderet viser hvad ydelsen dækker, og Ikke inkluderet viser hvad udbyderen eksplicit har skrevet fra — begge er oplysninger, og begge tæller med i oplysningsgraden.
+   Eksempel: Kolonnen Inkluderet viser hvad ydelsen dækker, og Ikke inkluderet viser hvad udbyderen eksplicit har skrevet fra — begge er oplysninger, og begge tæller med i oplysningsgraden.
+
+102. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Samme bil hos andre udbydere
+   Eksempel: Samme bil hos andre udbydere
+
+103. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Målt på samlet pris pr. md. — månedsydelsen plus udbetalingen fordelt over løbetiden.
+   Eksempel: Målt på samlet pris pr. md. — månedsydelsen plus udbetalingen fordelt over løbetiden.
+
+104. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Løbetid og indhold er ikke nødvendigvis ens, så se detaljerne på modelsiden.
+   Eksempel: Løbetid og indhold er ikke nødvendigvis ens, så se detaljerne på modelsiden.
+
+105. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Hvilke varebiler kan man lease hos ‹udbyder›?
+   Eksempel: Hvilke varebiler kan man lease hos Andersen Biler?
+
+106. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Listen gælder de tilbud, ‹udbyder› selv har offentliggjort, og som vi har indsamlet.
+   Eksempel: Listen gælder de tilbud, Andersen Biler selv har offentliggjort, og som vi har indsamlet.
+
+107. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Hvad koster det at lease en varebil hos ‹udbyder›?
+   Eksempel: Hvad koster det at lease en varebil hos Andersen Biler?
+
+108. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Det billigste tilbud, vi har fra ‹udbyder›, er # kr. om måneden ekskl. moms — # kr. om måneden, når udbetalingen fordeles over løbetiden.
+   Eksempel: Det billigste tilbud, vi har fra Andersen Biler, er 1.969 kr. om måneden ekskl. moms — 2.802 kr. om måneden, når udbetalingen fordeles over løbetiden.
+
+109. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Priserne gælder de oplyste vilkår og kan ændre sig.
+   Eksempel: Priserne gælder de oplyste vilkår og kan ændre sig.
+
+110. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Er Gulplade.dk en del af ‹udbyder›?
+   Eksempel: Er Gulplade.dk en del af Andersen Biler?
+
+111. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Gulplade.dk er en uafhængig sammenligning og er ikke tilknyttet ‹udbyder›.
+   Eksempel: Gulplade.dk er en uafhængig sammenligning og er ikke tilknyttet Andersen Biler.
+
+112. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Oplysningsgraden på # % handler om de # tilbud, vi har indsamlet fra ‹udbyder› — ikke om selskabet som helhed.
+   Eksempel: Oplysningsgraden på 34 % handler om de 7 tilbud, vi har indsamlet fra Andersen Biler — ikke om selskabet som helhed.
+
+113. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Et tilbud du selv får tilsendt kan være langt mere detaljeret end det, der står på en offentlig prisside, og det er netop derfor vi tilbyder at læse dit igennem.
+   Eksempel: Et tilbud du selv får tilsendt kan være langt mere detaljeret end det, der står på en offentlig prisside, og det er netop derfor vi tilbyder at læse dit igennem.
+
+114. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Tallet siger heller ikke noget om, hvor gode priserne er, om restværdien er sat fornuftigt, eller hvad det koster at aflevere bilen.
+   Eksempel: Tallet siger heller ikke noget om, hvor gode priserne er, om restværdien er sat fornuftigt, eller hvad det koster at aflevere bilen.
+
+115. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Det er de forhold, en offentlig prisside aldrig oplyser, og som afgør regningen.
+   Eksempel: Det er de forhold, en offentlig prisside aldrig oplyser, og som afgør regningen.
+
+116. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Vi har ikke kontaktet selskabet, og siden er ikke godkendt af dem.
+   Eksempel: Vi har ikke kontaktet selskabet, og siden er ikke godkendt af dem.
+
+117. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Gulplade.dk er ikke tilknyttet ‹udbyder›, og ingen udbyder kan betale for en placering i sammenligningen.
+   Eksempel: Gulplade.dk er ikke tilknyttet Andersen Biler, og ingen udbyder kan betale for en placering i sammenligningen.
+
+118. [17 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Når vi henter tilbud hjem for dig, betaler den forhandler eller det leasingselskab, vi sender henvendelsen til, et honorar — det samme beløb fra alle.
+   Eksempel: Når vi henter tilbud hjem for dig, betaler den forhandler eller det leasingselskab, vi sender henvendelsen til, et honorar — det samme beløb fra alle.
+
+119. [16 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: Alle priser er ekskl. moms.
+   Eksempel: Alle priser er ekskl. moms.
+
+120. [16 sider, fx /udbydere/andersen-biler/]
+   Skabelon: ‹udbyder› leasing af varebiler
+   Eksempel: Andersen Biler leasing af varebiler
+
+121. [13 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst Ikke nævnt på ‹bil› s kampagneside, og ‹udbyder› har ingen offentlig prisliste
+   Eksempel: Ikke oplyst Ikke nævnt på Ivecos kampagneside, og Iveco Danmark har ingen offentlig prisliste
+
+122. [12 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Hvad koster ‹udbyder›s billigste tilbud på hver model, sammenlignet med det billigste andre steder?
+   Eksempel: Hvad koster Andersen Bilers billigste tilbud på hver model, sammenlignet med det billigste andre steder?
+
+123. [12 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Er service inkluderet i ‹udbyder›s tilbud?
+   Eksempel: Er service inkluderet i Andersen Bilers tilbud?
+
+124. [12 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Priserne er hentet fra ‹udbyder›s egne offentlige sider, og ‹udbyder› kan ikke købe en bedre placering.
+   Eksempel: Priserne er hentet fra Andersen Bilers egne offentlige sider, og Andersen Biler kan ikke købe en bedre placering.
+
+125. [12 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Priserne er indsamlet fra ‹udbyder›s egne offentligt tilgængelige sider på de datoer der står i tabellen, og er vejledende.
+   Eksempel: Priserne er indsamlet fra Andersen Bilers egne offentligt tilgængelige sider på de datoer der står i tabellen, og er vejledende.
+
+126. [12 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst Ikke i den danske prisliste eller på kampagnearkets liste over standardudstyr
+   Eksempel: Ikke oplyst Ikke i den danske prisliste eller på kampagnearkets liste over standardudstyr
+
+127. [11 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Alle # tilbud fra ‹udbyder›
+   Eksempel: Alle 7 tilbud fra Andersen Biler
+
+128. [11 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Omregnet fra inkl. moms (prislistens tal / #).
+   Eksempel: Omregnet fra inkl. moms (prislistens tal / 1,25).
+
+129. [11 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: ‹udbyder›s prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap
+   Eksempel: Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap
+
+130. [10 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Fire mål afgør, om bilen kan bruges til arbejdet.
+   Eksempel: Fire mål afgør, om bilen kan bruges til arbejdet.
+
+131. [10 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Tre af dem står aldrig i en leasingannonce.
+   Eksempel: Tre af dem står aldrig i en leasingannonce.
+
+132. [10 sider, fx /sammenlign/citroen-e-jumpy-vs-ford-e-transit-custom/]
+   Skabelon: ‹bil› må laste mest (#–# kg).
+   Eksempel: Ford E-Transit Custom må laste mest (946–1.024 kg).
+
+133. [10 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: ‹udbyder›s prisliste har ingen fabrikstilvalg ud over farve og ekstra skydedør, og konfiguratoren har intet tilvalgstrin
+   Eksempel: Toyotas prisliste har ingen fabrikstilvalg ud over farve og ekstra skydedør, og konfiguratoren har intet tilvalgstrin
+
+134. [9 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: En brugt bil af samme slags kan købes kontant, og mange kan også leases hos forhandleren.
+   Eksempel: En brugt bil af samme slags kan købes kontant, og mange kan også leases hos forhandleren.
+
+135. [9 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: Kilometertal, årgang og grøn ejerafgift står på hver bil.
+   Eksempel: Kilometertal, årgang og grøn ejerafgift står på hver bil.
+
+136. [9 sider, fx /bedste-tilbud/elvarebil-med-v2l/]
+   Skabelon: Lavest først, én pr. model.
+   Eksempel: Lavest først, én pr. model.
+
+137. [9 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser.
+   Eksempel: Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser.
+
+138. [9 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Grænserne er vores valg, ikke en officiel definition.
+   Eksempel: Grænserne er vores valg, ikke en officiel definition.
+
+139. [9 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Reglerne for indretning og kørsel hjem: specialindretning af varebil og tage varebilen med hjem .
+   Eksempel: Reglerne for indretning og kørsel hjem: specialindretning af varebil og tage varebilen med hjem .
+
+140. [9 sider, fx /udbydere/andersen-biler/]
+   Skabelon: I # af # tilbud skriver ‹udbyder›, at service og reparation er med i ydelsen.
+   Eksempel: I 2 af 7 tilbud skriver Andersen Biler, at service og reparation er med i ydelsen.
+
+141. [9 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Hvad der i øvrigt er inkluderet, står ved hvert tilbud.
+   Eksempel: Hvad der i øvrigt er inkluderet, står ved hvert tilbud.
+
+142. [9 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: ‹udbyder›s prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap, og konfiguratoren på toyota.dk har intet tilvalgstrin
+   Eksempel: Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap, og konfiguratoren på toyota.dk har intet tilvalgstrin
+
+143. [8 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: De to typer side om side: finansiel eller operationel leasing .
+   Eksempel: De to typer side om side: finansiel eller operationel leasing .
+
+144. [8 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: Den typiske af de # tilbud koster # kr. om måneden.
+   Eksempel: Den typiske af de 18 tilbud koster 3.908 kr. om måneden.
+
+145. [8 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: Hvad er forskellen på finansiel og operationel leasing?
+   Eksempel: Hvad er forskellen på finansiel og operationel leasing?
+
+146. [8 sider, fx /bedste-tilbud/finansiel-leasing-elvarebil/]
+   Skabelon: Ved operationel leasing afleverer du bilen, og leasingselskabet bærer risikoen for dens værdi.
+   Eksempel: Ved operationel leasing afleverer du bilen, og leasingselskabet bærer risikoen for dens værdi.
+
+147. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Har bilen fast indretning til arbejdet, kan den være specialindrettet og må så køre mellem hjem og arbejde hver dag — se Håndbogen om specialindretning.
+   Eksempel: Har bilen fast indretning til arbejdet, kan den være specialindrettet og må så køre mellem hjem og arbejde hver dag — se Håndbogen om specialindretning.
+
+148. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Den typiske bil på listen koster # kr. om måneden.
+   Eksempel: Den typiske bil på listen koster 4.683 kr. om måneden.
+
+149. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Må varebilen køre hjem hver dag?
+   Eksempel: Må varebilen køre hjem hver dag?
+
+150. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: En specialindrettet varebil må køre mellem hjem og arbejde hver dag ifølge Motorstyrelsen.
+   Eksempel: En specialindrettet varebil må køre mellem hjem og arbejde hver dag ifølge Motorstyrelsen.
+
+151. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Det afgør indretningen, ikke faget.
+   Eksempel: Det afgør indretningen, ikke faget.
+
+152. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: En almindelig varebil på gule plader må køre hjem op til # gange om året.
+   Eksempel: En almindelig varebil på gule plader må køre hjem op til 25 gange om året.
+
+153. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Kan vi få tilbud på flere biler?
+   Eksempel: Kan vi få tilbud på flere biler?
+
+154. [8 sider, fx /bedste-tilbud/varebil-til-anlaegsgartner/]
+   Skabelon: Vi henter tilbud fra forhandlere og leasingselskaber på samme bil og sammenligner dem skriftligt.
+   Eksempel: Vi henter tilbud fra forhandlere og leasingselskaber på samme bil og sammenligner dem skriftligt.
+
+155. [8 sider, fx /sammenlign/citroen-jumpy-vs-opel-vivaro/]
+   Skabelon: ‹udbyder› ‹bil› må laste mest (#–# kg).
+   Eksempel: Opel Vivaro må laste mest (1.004–1.304 kg).
+
+156. [8 sider, fx /udbydere/andersen-biler/]
+   Skabelon: I de tilbud vi har indsamlet inkluderer ‹udbyder› service (# af #).
+   Eksempel: I de tilbud vi har indsamlet inkluderer Andersen Biler service (2 af 7).
+
+157. [8 sider, fx /udbydere/andersen-biler/]
+   Skabelon: Spørgsmål om ‹udbyder›
+   Eksempel: Spørgsmål om Andersen Biler
+
+158. [8 sider, fx /udbydere/ayvens/]
+   Skabelon: ‹udbyder› inkluderer ingen af de fem driftsposter i nogen af de tilbud, vi har indsamlet.
+   Eksempel: Ayvens inkluderer ingen af de fem driftsposter i nogen af de tilbud, vi har indsamlet.
+
+159. [8 sider, fx /udbydere/ayvens/]
+   Skabelon: Ydelsen dækker bilen, og service, dæk, forsikring, ejerafgift og vejhjælp skal lægges oveni.
+   Eksempel: Ydelsen dækker bilen, og service, dæk, forsikring, ejerafgift og vejhjælp skal lægges oveni.
+
+160. [8 sider, fx /udbydere/ayvens/]
+   Skabelon: ‹udbyder› skriver ikke i nogen af de tilbud, vi har indsamlet, at service og reparation er med i ydelsen.
+   Eksempel: Ayvens skriver ikke i nogen af de tilbud, vi har indsamlet, at service og reparation er med i ydelsen.
+
+161. [8 sider, fx /udbydere/ayvens/]
+   Skabelon: Spørg selskabet, før du skriver under.
+   Eksempel: Spørg selskabet, før du skriver under.
+
+162. [8 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Fås ikke Chassis med ladopbygning (Brdr.
+   Eksempel: Fås ikke Chassis med ladopbygning (Brdr.
+
+163. [7 sider, fx /bedste-tilbud/finansiel-leasing-lille-varebil/]
+   Skabelon: Den billigste er ‹udbyder› ‹bil› til # kr. om måneden med udbetalingen fordelt, hos ‹udbyder›.
+   Eksempel: Den billigste er Opel Combo til 2.358 kr. om måneden med udbetalingen fordelt, hos Opel.
+
+164. [7 sider, fx /bedste-tilbud/varebil-til-budkoersel/]
+   Skabelon: Den billigste på listen er ‹udbyder› ‹bil› til # kr. om måneden med udbetalingen fordelt, hos ‹udbyder›.
+   Eksempel: Den billigste på listen er Opel Movano (diesel) til 2.995 kr. om måneden med udbetalingen fordelt, hos Opel.
+
+165. [7 sider, fx /sammenlign/ford-transit-custom-vs-mercedes-benz-vito/]
+   Skabelon: #-trins automatisk (#G-TRONIC)
+   Eksempel: 9-trins automatisk (9G-TRONIC)
+
+166. [7 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Plagborg); intet lukket varerum
+   Eksempel: Plagborg); intet lukket varerum
+
+167. [7 sider, fx /udstyr/gulv-i-varerum/]
+   Skabelon: Fås ikke Chassis uden varerum; opbygningen leveres af opbygger
+   Eksempel: Fås ikke Chassis uden varerum; opbygningen leveres af opbygger
+
+168. [6 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: En specialindrettet bil må køre mellem hjem og arbejde, uden at det tæller som privat kørsel.
+   Eksempel: En specialindrettet bil må køre mellem hjem og arbejde, uden at det tæller som privat kørsel.
+
+169. [6 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Men et skillerum er ikke en specialindretning.
+   Eksempel: Men et skillerum er ikke en specialindretning.
+
+170. [6 sider, fx /udstyr/12v-stik-i-varerum/]
+   Skabelon: Ikke oplyst Boks/lift-opbygning (Brdr.
+   Eksempel: Ikke oplyst Boks/lift-opbygning (Brdr.
+
+171. [6 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Ikke oplyst Står på Innovations liste „udover Enjoy“ og ikke i optionslisten
+   Eksempel: Ikke oplyst Står på Innovations liste „udover Enjoy“ og ikke i optionslisten
+
+172. [5 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: # af # tilbud oplyser et kilometertal — og # af dem siger # km.
+   Eksempel: 107 af 122 tilbud oplyser et kilometertal — og 106 af dem siger 15.000 km.
+
+173. [5 sider, fx /bedste-tilbud/billigste-varebil/]
+   Skabelon: Ingen oplyser, hvad kilometeren derover koster.
+   Eksempel: Ingen oplyser, hvad kilometeren derover koster.
+
+174. [5 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: # af # nye varebiler i august var elektriske.
+   Eksempel: 1.141 af 2.221 nye varebiler i august var elektriske.
+
+175. [5 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: Første gang over halvdelen — og det ændrer, hvad der er en normal firmabil.
+   Eksempel: Første gang over halvdelen — og det ændrer, hvad der er en normal firmabil.
+
+176. [5 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: Skal din varebil have takograf?
+   Eksempel: Skal din varebil have takograf?
+
+177. [5 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: Fra #. juli # skal varebiler over # tons i international godskørsel have takograf.
+   Eksempel: Fra 1. juli 2026 skal varebiler over 2,5 tons i international godskørsel have takograf.
+
+178. [5 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: National kørsel er undtaget — og det samme er de fleste håndværkere.
+   Eksempel: National kørsel er undtaget — og det samme er de fleste håndværkere.
+
+179. [5 sider, fx /bedste-tilbud/hvad-koster-en-varebil/]
+   Skabelon: Syn af varebil: hvornår og hvor tit
+   Eksempel: Syn af varebil: hvornår og hvor tit
+
+180. [5 sider, fx /bedste-tilbud/hvad-koster-en-varebil/]
+   Skabelon: Fire år til første syn, derefter hvert andet.
+   Eksempel: Fire år til første syn, derefter hvert andet.
+
+181. [5 sider, fx /bedste-tilbud/hvad-koster-en-varebil/]
+   Skabelon: Med én undtagelse, der rammer de største biler hvert eneste år.
+   Eksempel: Med én undtagelse, der rammer de største biler hvert eneste år.
+
+182. [5 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: Fås ikke Ikke i niveauets udstyr (kun CM+ i konfiguratoren).
+   Eksempel: Fås ikke Ikke i niveauets udstyr (kun CM+ i konfiguratoren).
+
+183. [5 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: Ikke oplyst Standard først på ‹bil› line.
+   Eksempel: Ikke oplyst Standard først på Masterline.
+
+184. [5 sider, fx /udstyr/adaptiv-fartpilot/]
+   Skabelon: Ikke oplyst Ikke standard på Plus (står på Premiums „udover PLUS“-liste) og ikke i optionslisten; om det kan tilvælges er ikke oplyst.
+   Eksempel: Ikke oplyst Ikke standard på Plus (står på Premiums „udover PLUS“-liste) og ikke i optionslisten; om det kan tilvælges er ikke oplyst.
+
+185. [5 sider, fx /udstyr/bakkamera/]
+   Skabelon: Standard Via Tekno-pakken (enkeltpris # kr.)
+   Eksempel: Standard Via Tekno-pakken (enkeltpris 1.200 kr.)
+
+186. [5 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Fås ikke Kun Comfort ‹bil› + i konfiguratoren.
+   Eksempel: Fås ikke Kun Comfort Master+ i konfiguratoren.
+
+187. [5 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Fås ikke Ikke i niveauets udstyr (kun Tek og CM+ i konfiguratoren).
+   Eksempel: Fås ikke Ikke i niveauets udstyr (kun Tek og CM+ i konfiguratoren).
+
+188. [5 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Ikke oplyst Ikke standard på Flexline og ikke i optionslisten
+   Eksempel: Ikke oplyst Ikke standard på Flexline og ikke i optionslisten
+
+189. [5 sider, fx /udstyr/blindvinkelassistent/]
+   Skabelon: Ikke oplyst Ikke standard på Plus og ikke i optionslisten
+   Eksempel: Ikke oplyst Ikke standard på Plus og ikke i optionslisten
+
+190. [5 sider, fx /udstyr/ruder-i-bagdoere/]
+   Skabelon: Fås ikke Pickup med lad – findes ikke
+   Eksempel: Fås ikke Pickup med lad – findes ikke

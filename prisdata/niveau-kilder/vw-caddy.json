@@ -1,0 +1,913 @@
+{
+  "kilde": "Volkswagens danske konfigurator (modeloversigten Udstyrsvarianter og Vis alt udstyr på volkswagen.dk), udtræk af standardudstyr pr. udstyrsvariant og motor",
+  "kilde_url": "https://www.volkswagen.dk/da/erhvervsbiler/caddy-cargo.html#udstyrsvarianter",
+  "hentet": "2026-10-06",
+  "datafelter": "udstyr: kode -> familie | navn. standard_alle_motorer: koder, der er standard i alle motorer på varianten. standard_kun_nogle_motorer: kode -> indeks i motorer. fremhaevet: de punkter, varianten viser på sit kort.",
+  "udstyr": {
+    "MKRS1A5": "Karosseri | Drivmiddel benzin",
+    "MZTD6U1": "Karosseri | Ekstra støvforsegling",
+    "MHET3RD": "Karosseri | Fløjdøre bagpå uden rudeudsnit, asymmetr isk deling",
+    "MAHV1D7": "Karosseri | Forberedelse til anhængertræk (inklusive vogntogsstabilisering)",
+    "MWSS4GX": "Karosseri | Forrude af lamineret samt varme- og støj dæmpende glas med elopvarmning",
+    "MASE6XP": "Karosseri | Sidespejle med elektrisk indstilling, el opvarmning og indklapning",
+    "MBBO6FA": "Karosseri | Sidespejlhuse og dørhåndtag i sort, skyd edørsskinne i sølvfarve",
+    "MTLR5R2": "Karosseri | Skydedør i højre side af varerum/passagerkabine",
+    "MSTF2JB": "Karosseri | Stødfanger i grå",
+    "MDAR3S6": "Karosseri | Tagræling-/tagbøjleforberedelse",
+    "MHFE4HI": "Karosseri | Uden bagrude (uden rude)",
+    "MSCTQL3": "Karosseri | Varmedæmpende glas (grønt)",
+    "MREIJ68": "Undervogn | 205/60 R16 96H XL-dæk, rullemodstandsopt imerede",
+    "MDFHUC7": "Undervogn | Affejdring bag, chassis med øget frihøjde",
+    "MDFVG02": "Undervogn | Dæmpning for - hochstandsfahrwerk",
+    "MRADC0E": "Undervogn | Fire stålfælge, 6,5 J x 16, i sort",
+    "MRAA1NC": "Undervogn | Hjulkapsel",
+    "MLRVAV1": "Undervogn | Højrekørsel",
+    "MZUG01D": "Undervogn | Tilladt totalvægt 2.150 kg",
+    "MRER1G8": "Undervogn | Tyre Mobility Set: 12-volts-kompressor og dæktætningsmiddel",
+    "MLEAL0L": "Undervogn | Venstrestyret",
+    "MBAV1ZD": "Sikkerhedsudstyr | 16\" skivebremser foran",
+    "MAIB4UF": "Sikkerhedsudstyr | Airbag til fører og forsædepassager, med frakobling af forsædepassagerens airbag",
+    "MFLS9I5": "Sikkerhedsudstyr | Automatisk kørelys, med dagskørelys samt Coming- leaving home funktion",
+    "MSBR8SA": "Sikkerhedsudstyr | Baglygter",
+    "MKSUKA2": "Sikkerhedsudstyr | Bakkameraet \"Rear View\"",
+    "MBRS1AQ": "Sikkerhedsudstyr | Bremsekraftforstærker",
+    "MHSW8ID": "Sikkerhedsudstyr | Dobbelte H7-halogenforlygter",
+    "MSKAJX1": "Sikkerhedsudstyr | Krydsningsassistent",
+    "MKASQK1": "Sikkerhedsudstyr | Multifunktionskamera",
+    "MLRA2FD": "Sikkerhedsudstyr | Multifunktionsrat i læder (med skiftekon takter i forbindelse med DSG)",
+    "MAWV8J3": "Sikkerhedsudstyr | Nødbremseassistenten Front Assist med fodgænger- og cyklistregistrering",
+    "MRUFNZ2": "Sikkerhedsudstyr | Nødopkaldssystemet eCall",
+    "MLEN1N3": "Sikkerhedsudstyr | Servotronic (hastighedsafhængig servosty ring)",
+    "MSAB4X3": "Sikkerhedsudstyr | Side- og hovedairbags til fører og forsæ depassager",
+    "MIRS4L6": "Sikkerhedsudstyr | Sikkerhedsbakspejl, med automatisk afblæ nding",
+    "MBAH1KU": "Sikkerhedsudstyr | Skivebremser bag (16\")",
+    "MSON6DE": "Sikkerhedsudstyr | Solskærm med billetlomme i førersiden samt airbagmærkat på passagersolskærm",
+    "MEDW7AA": "Sikkerhedsudstyr | Startspærre (elektronisk)",
+    "MRSV4QT": "Sikkerhedsudstyr | Trepunktsrulleseler foran med selehøjdei ndstilling og elektriske selestrammere",
+    "MSRH6I1": "Sikkerhedsudstyr | Vognbaneassistenten Lane Assist",
+    "MALV4S1": "Indvendigt udstyr | Armlæn til begge sæder i førerkabine",
+    "MEIH7TC": "Indvendigt udstyr | Cockpit-afdækning, mat",
+    "MTSV3LD": "Indvendigt udstyr | Dørbeklædning og armlæn i kunststof",
+    "MSAG6Q2": "Indvendigt udstyr | Gearvælger i læder",
+    "MBFH5AC": "Indvendigt udstyr | Gummibund i kabine",
+    "MHAK4Z3": "Indvendigt udstyr | Handskerum med lys og låsbar klap",
+    "MSIE3L3": "Indvendigt udstyr | Højdeindstilling til begge forsæder, man uel",
+    "MILE9CK": "Indvendigt udstyr | LED-lys i varerum, 2 LED-spots",
+    "MFLA6LG": "Indvendigt udstyr | Luftdyser i mat sort foran",
+    "MLOR7P4": "Indvendigt udstyr | Lændestøtte med manuel indstilling, venstre og højre side",
+    "MMIK3D2": "Indvendigt udstyr | Midterkonsol med 2 universaldrikkevareho ldere",
+    "MALS7N1": "Indvendigt udstyr | Opbevaringsrum i loftet (opbevaringshyld e i loftbeklædningen med 2 greb i loftet i førerkabinen)",
+    "MSIV5DC": "Indvendigt udstyr | Sidebeklædning Standard i varerummet",
+    "MTRW3CF": "Indvendigt udstyr | Skillevæg (høj) uden rude",
+    "MVOSQ1A": "Indvendigt udstyr | Sæde i venstre og højre side, på 1. sæde række",
+    "MSIBN0L": "Indvendigt udstyr | Sædeindtræk i stof, design Double Grid",
+    "MBFL5BA": "Indvendigt udstyr | Uden bundbeklædning i varerummet",
+    "MSLR8QJ": "Funktionsudstyr | 2 udklappelige nøgler med fjernbetjening",
+    "MLSE8RE": "Funktionsudstyr | 4 højttalere",
+    "MAKB1E5": "Funktionsudstyr | Activated carbon canister (Evaporative Emission Control System (EVAP))",
+    "MAUD9WH": "Funktionsudstyr | App-Connect trådløst til Apple CarPlay og Android Auto",
+    "MBATJ0V": "Funktionsudstyr | Batteri 420 A (70 Ah)",
+    "MTKV4I7": "Funktionsudstyr | Centrallås med nøglefrit startsystem \"Keyless Start\" uden safefunktion",
+    "MMFA7J2": "Funktionsudstyr | Digital Cockpit, flere farver, der kan v ælges mellem forskellige infoprofiler",
+    "MTVEQV3": "Funktionsudstyr | Digital radiomodtagelse (DAB+)",
+    "MBTR9Z0": "Funktionsudstyr | Driftsspænding 12 V",
+    "MRDK7K1": "Funktionsudstyr | Dækkontrolvisning (efter EU-typegodkende lse)",
+    "MESSU9G": "Funktionsudstyr | Ekstern, USB Typ-C datastik med forhøjet ladeeffekt -- UN-ECE --",
+    "MAGM4VP": "Funktionsudstyr | Emission standard, WLTP3 N1-II//EU6EB",
+    "MGRA8T2": "Funktionsudstyr | Fartpilot",
+    "MLIA8G1": "Funktionsudstyr | Fjernlysreguleringen Light Assist",
+    "MAILGV1": "Funktionsudstyr | Forberedelse Alkohol Interlock - UN-ECE-",
+    "MNAV7UX": "Funktionsudstyr | Forberedelse for Navigationssystem",
+    "MKRM1Z2": "Funktionsudstyr | Første brændstofpåfyldning, forøget (10 l)",
+    "MRAU9JA": "Funktionsudstyr | Ikkerygerudgave",
+    "MINSU5A": "Funktionsudstyr | Instrumentenhed (km/h); visning af hasti ghed, kilometer-/triptæller, omdrejnings tal, tankmåler og ur",
+    "MHKA9AK": "Funktionsudstyr | Klimaanlæg Climatronic i førerhuset",
+    "MLWR8Q1": "Funktionsudstyr | Lyslængderegulering",
+    "MLIMLT2": "Funktionsudstyr | Med Predictive Speed Limiter -- UN-ECE --",
+    "MEPH7X2": "Funktionsudstyr | Parkeringshjælp foran og bagpå",
+    "MRAO8DG": "Funktionsudstyr | Radio Ready to Discover med 32,7 cm (12,9\") Touch-Farvedisplay, med forb. for navigation",
+    "MRCOER1": "Funktionsudstyr | Regionskode ECE til radio",
+    "MSGK9P3": "Funktionsudstyr | Selealarm, foran",
+    "MSWR8X7": "Funktionsudstyr | Sprinklervæskeindikator med større sprin klervæskebeholder",
+    "MSNA7L6": "Funktionsudstyr | Start-stop-system med genindvinding af b remseenergien",
+    "MSIH4A3": "Funktionsudstyr | Sædevarme til sæder i førerhuset, i vens tre og højre side, separat indstilling",
+    "MVTV9ZQ": "Funktionsudstyr | Telefonforberedelse \"Comfort\" med induktiv ladefunktion til 1 smartphone, maximale effekt 25 W",
+    "MMKEEM3": "Funktionsudstyr | Træthedsregistrering og afledningsregistrering med førerovervågning",
+    "MKMPQR9": "Funktionsudstyr | Vejskiltegenkendelse",
+    "MSWS8N6": "Funktionsudstyr | Viskerintervalfunktion med lys- og regns ensor",
+    "MONLEL5": "Funktionsudstyr | We Connect uden begrænsning af løbetid",
+    "MSAG6Q0": "Indvendigt udstyr | DSG-gearvælger med shift by wire-teknolo gi",
+    "MZUG0WL": "Undervogn | -",
+    "MREIJ73": "Undervogn | 215/55 R17 98H XL-dæk, rullemodstandsopt imerede",
+    "MRADV36": "Undervogn | Fire stålfælge, 6,5 J x 17, i sort",
+    "MASMGM4": "Sikkerhedsudstyr | -",
+    "MBRS1AE": "Sikkerhedsudstyr | BRS für Fahrzeuge mit E-Antrieb (ESC und eBKV)",
+    "MAGM4VQ": "Funktionsudstyr | -",
+    "MAKB1E1": "Funktionsudstyr | Aktivtkulbeholder",
+    "MBATJ0H": "Funktionsudstyr | Batteri 340A (58Ah)",
+    "MLKC76C": "Funktionsudstyr | Ladekabel (mode 3)",
+    "MLKA71Q": "Funktionsudstyr | Nødladekabel mode 2",
+    "MKRS0F5": "Karosseri | -",
+    "MZUG01E": "Undervogn | -",
+    "MWSA7E6": "Funktionsudstyr | Elektrisk ekstravarme (luft)",
+    "MAKB1E9": "Funktionsudstyr | Uden aktivtkulbeholder med SCR -- Diesel --",
+    "MZUG01F": "Undervogn | -",
+    "MBBO6FK": "Karosseri | Sidespejlhuse, sortlakerede, dørhåndtag i bilens farve og skydedørsskinne i sort",
+    "MSTF2J1": "Karosseri | Stødfanger lakeret i bilens farve",
+    "MDAR3S2": "Karosseri | Tagræling, sort",
+    "MRADC1C": "Undervogn | 4 letmetalfælge \"Columbo\" 6 1/2J x 17, sort blank, med lasurlak i \"Vulcano\"",
+    "MRAA1NL": "Undervogn | Afdækninger til letmetalfælge",
+    "MSBR8SK": "Sikkerhedsudstyr | LED-baglygter",
+    "MHSW8IY": "Sikkerhedsudstyr | LED-forlygter med LED-dagskørelys",
+    "MNES8WM": "Sikkerhedsudstyr | Vejrafhængigt lys og drejelys (LED-tekni k)",
+    "MEIH7TH": "Indvendigt udstyr | Dekorindlæg Dark Silver brushed",
+    "MSIE3PQ": "Indvendigt udstyr | Forsæder med højdeindstilling og med ind stilling af sædehyndens hældning og rygl ænsindstilling til begge forsæder",
+    "MFLA6LH": "Indvendigt udstyr | Luftdyser foran med kromindlæg",
+    "MLOR7P1": "Indvendigt udstyr | Lændestøtte med elektrisk 4-vejs-indstil ling, venstre og højre side",
+    "MFHWVF1": "Indvendigt udstyr | Pedaler i aluminiumslook",
+    "MLWR8Q3": "Funktionsudstyr | Lyslængderegulering, dynamisk",
+    "MDFVG04": "Undervogn | -",
+    "MZUG0WV": "Undervogn | -",
+    "MZUG0WK": "Undervogn | Totalvægt 2.350 kg",
+    "MRADC5P": "Undervogn | Fire stålfælge, 6,5 J x 16, i sort",
+    "MZUG0WA": "Undervogn | -"
+  },
+  "varianter": [
+    {
+      "trimId": "Caddy Cargo Comfort",
+      "salesgroup": "Den nye Caddy Cargo",
+      "fremhaevet": [
+        "Digital Cockpit",
+        "Infotainment med 12,9\" Touch-Farvedisplay og trådløs App-Connect",
+        "Klimaanlæg Climatronic i førerkabine",
+        "Multifunktionsrat i læder",
+        "Bakkamera",
+        "Parkeringssensorer, for og bag",
+        "Sædevarme i til forsæder, med separat justering",
+        "Armlæn til begge sæder i førerkabine",
+        "Forrude, med el opvarmning",
+        "Fjernlysreguleringen Light Assist",
+        "Højdeindstilling til forsæder, manuel",
+        "Lændestøtter til forsæder, manuel indstilling",
+        "App-Connect trådløst til Apple CarPlay og Android Auto",
+        "Sidespejle med elektrisk indstilling, el opvarmning og indklapning",
+        "Airbag til fører og forsædepassager med frakobling af forsædepassagerens airbag",
+        "Side- og hovedairbags til fører og forsædepassager",
+        "Forberedelse for anhængertræk"
+      ],
+      "motorer": [
+        "Caddy Comfort 2755 mm 1.5 TSI 116hk/85kW Forhjulstræk 6 trins manuel",
+        "Caddy Comfort 2755 mm 1.5 TSI 116hk/85kW Forhjulstræk 7 trins DSG",
+        "Caddy Comfort 2755 mm 1.5 TSI OPF/Hybrid 116hk/85kW Forhjulstræk 6 trins DSG",
+        "Caddy Comfort 2755 mm 2.0 TDI SCR 102hk/75kW Forhjulstræk 6 trins manuel",
+        "Caddy Comfort 2755 mm 2.0 TDI SCR 122hk/90kW Forhjulstræk 7 trins DSG"
+      ],
+      "standard_alle_motorer": [
+        "MZTD6U1",
+        "MHET3RD",
+        "MAHV1D7",
+        "MWSS4GX",
+        "MASE6XP",
+        "MBBO6FA",
+        "MTLR5R2",
+        "MSTF2JB",
+        "MDAR3S6",
+        "MHFE4HI",
+        "MSCTQL3",
+        "MDFHUC7",
+        "MDFVG02",
+        "MRAA1NC",
+        "MLRVAV1",
+        "MRER1G8",
+        "MLEAL0L",
+        "MBAV1ZD",
+        "MAIB4UF",
+        "MFLS9I5",
+        "MSBR8SA",
+        "MKSUKA2",
+        "MHSW8ID",
+        "MSKAJX1",
+        "MKASQK1",
+        "MLRA2FD",
+        "MAWV8J3",
+        "MRUFNZ2",
+        "MLEN1N3",
+        "MSAB4X3",
+        "MIRS4L6",
+        "MBAH1KU",
+        "MSON6DE",
+        "MEDW7AA",
+        "MRSV4QT",
+        "MSRH6I1",
+        "MALV4S1",
+        "MEIH7TC",
+        "MTSV3LD",
+        "MBFH5AC",
+        "MHAK4Z3",
+        "MSIE3L3",
+        "MILE9CK",
+        "MFLA6LG",
+        "MLOR7P4",
+        "MMIK3D2",
+        "MALS7N1",
+        "MSIV5DC",
+        "MTRW3CF",
+        "MVOSQ1A",
+        "MSIBN0L",
+        "MBFL5BA",
+        "MSLR8QJ",
+        "MLSE8RE",
+        "MAUD9WH",
+        "MTKV4I7",
+        "MMFA7J2",
+        "MTVEQV3",
+        "MBTR9Z0",
+        "MRDK7K1",
+        "MESSU9G",
+        "MGRA8T2",
+        "MLIA8G1",
+        "MAILGV1",
+        "MNAV7UX",
+        "MKRM1Z2",
+        "MRAU9JA",
+        "MINSU5A",
+        "MHKA9AK",
+        "MLWR8Q1",
+        "MLIMLT2",
+        "MEPH7X2",
+        "MRAO8DG",
+        "MRCOER1",
+        "MSGK9P3",
+        "MSNA7L6",
+        "MSIH4A3",
+        "MVTV9ZQ",
+        "MMKEEM3",
+        "MKMPQR9",
+        "MSWS8N6",
+        "MONLEL5"
+      ],
+      "standard_kun_nogle_motorer": {
+        "MKRS1A5": [
+          0,
+          1,
+          2
+        ],
+        "MREIJ68": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MRADC0E": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MZUG01D": [
+          0,
+          1
+        ],
+        "MBRS1AQ": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSAG6Q2": [
+          0,
+          3
+        ],
+        "MAKB1E5": [
+          0,
+          1
+        ],
+        "MBATJ0V": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MAGM4VP": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSWR8X7": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSAG6Q0": [
+          1,
+          2,
+          4
+        ],
+        "MZUG0WL": [
+          2
+        ],
+        "MREIJ73": [
+          2
+        ],
+        "MRADV36": [
+          2
+        ],
+        "MASMGM4": [
+          2
+        ],
+        "MBRS1AE": [
+          2
+        ],
+        "MAGM4VQ": [
+          2
+        ],
+        "MAKB1E1": [
+          2
+        ],
+        "MBATJ0H": [
+          2
+        ],
+        "MLKC76C": [
+          2
+        ],
+        "MLKA71Q": [
+          2
+        ],
+        "MKRS0F5": [
+          3,
+          4
+        ],
+        "MZUG01E": [
+          3
+        ],
+        "MWSA7E6": [
+          3,
+          4
+        ],
+        "MAKB1E9": [
+          3,
+          4
+        ],
+        "MZUG01F": [
+          4
+        ]
+      }
+    },
+    {
+      "trimId": "Caddy Cargo Edition",
+      "salesgroup": "Den nye Caddy Cargo Edition",
+      "fremhaevet": [
+        "Digital Cockpit",
+        "Infotainment med 12,9\" Touch-Farvedisplay og trådløs App-Connect",
+        "Klimaanlæg Climatronic i førerhuset",
+        "AGR ergoComfort forsæder",
+        "17\" letmetalfælge Columbo,  sort blank",
+        "Stødfanger lakeret i bilens farve",
+        "Tagræling, sort",
+        "LED-baglygter",
+        "Bakkamera",
+        "Parkeringssensorer, for og bag",
+        "Sædevarme i til forsæder, med separat justering"
+      ],
+      "motorer": [
+        "Caddy Edition 2755 mm 1.5 TSI 116hk/85kW Forhjulstræk 7 trins DSG",
+        "Caddy Edition 2755 mm 1.5 TSI OPF/Hybrid 116hk/85kW Forhjulstræk 6 trins DSG",
+        "Caddy Edition 2755 mm 2.0 TDI SCR 122hk/90kW Forhjulstræk 7 trins DSG"
+      ],
+      "standard_alle_motorer": [
+        "MZTD6U1",
+        "MHET3RD",
+        "MAHV1D7",
+        "MWSS4GX",
+        "MASE6XP",
+        "MBBO6FK",
+        "MTLR5R2",
+        "MSTF2J1",
+        "MDAR3S2",
+        "MHFE4HI",
+        "MSCTQL3",
+        "MREIJ73",
+        "MRADC1C",
+        "MRAA1NL",
+        "MDFHUC7",
+        "MDFVG02",
+        "MLRVAV1",
+        "MRER1G8",
+        "MLEAL0L",
+        "MBAV1ZD",
+        "MAIB4UF",
+        "MFLS9I5",
+        "MKSUKA2",
+        "MSKAJX1",
+        "MSBR8SK",
+        "MHSW8IY",
+        "MKASQK1",
+        "MLRA2FD",
+        "MAWV8J3",
+        "MRUFNZ2",
+        "MLEN1N3",
+        "MSAB4X3",
+        "MIRS4L6",
+        "MBAH1KU",
+        "MSON6DE",
+        "MEDW7AA",
+        "MRSV4QT",
+        "MNES8WM",
+        "MSRH6I1",
+        "MALV4S1",
+        "MSAG6Q0",
+        "MEIH7TH",
+        "MTSV3LD",
+        "MSIE3PQ",
+        "MBFH5AC",
+        "MHAK4Z3",
+        "MILE9CK",
+        "MFLA6LH",
+        "MLOR7P1",
+        "MMIK3D2",
+        "MALS7N1",
+        "MFHWVF1",
+        "MSIV5DC",
+        "MTRW3CF",
+        "MVOSQ1A",
+        "MSIBN0L",
+        "MBFL5BA",
+        "MSLR8QJ",
+        "MLSE8RE",
+        "MAUD9WH",
+        "MTKV4I7",
+        "MMFA7J2",
+        "MTVEQV3",
+        "MBTR9Z0",
+        "MRDK7K1",
+        "MESSU9G",
+        "MGRA8T2",
+        "MLIA8G1",
+        "MAILGV1",
+        "MNAV7UX",
+        "MKRM1Z2",
+        "MRAU9JA",
+        "MINSU5A",
+        "MHKA9AK",
+        "MLWR8Q3",
+        "MLIMLT2",
+        "MEPH7X2",
+        "MRAO8DG",
+        "MRCOER1",
+        "MSGK9P3",
+        "MSNA7L6",
+        "MSIH4A3",
+        "MVTV9ZQ",
+        "MMKEEM3",
+        "MKMPQR9",
+        "MSWS8N6",
+        "MONLEL5"
+      ],
+      "standard_kun_nogle_motorer": {
+        "MKRS1A5": [
+          0,
+          1
+        ],
+        "MZUG01D": [
+          0
+        ],
+        "MBRS1AQ": [
+          0,
+          2
+        ],
+        "MAKB1E5": [
+          0
+        ],
+        "MBATJ0V": [
+          0,
+          2
+        ],
+        "MAGM4VP": [
+          0,
+          2
+        ],
+        "MSWR8X7": [
+          0,
+          2
+        ],
+        "MZUG0WL": [
+          1
+        ],
+        "MASMGM4": [
+          1
+        ],
+        "MBRS1AE": [
+          1
+        ],
+        "MAGM4VQ": [
+          1
+        ],
+        "MAKB1E1": [
+          1
+        ],
+        "MBATJ0H": [
+          1
+        ],
+        "MLKC76C": [
+          1
+        ],
+        "MLKA71Q": [
+          1
+        ],
+        "MKRS0F5": [
+          2
+        ],
+        "MZUG01F": [
+          2
+        ],
+        "MWSA7E6": [
+          2
+        ],
+        "MAKB1E9": [
+          2
+        ]
+      }
+    },
+    {
+      "trimId": "Caddy Cargo Maxi Edition",
+      "salesgroup": "Den nye Caddy Cargo Edition",
+      "fremhaevet": [
+        "Digital Cockpit",
+        "Infotainment med 12,9\" Touch-Farvedisplay og trådløs App-Connect",
+        "Klimaanlæg Climatronic i førerhuset",
+        "AGR ergoComfort forsæder",
+        "17\" letmetalfælge Columbo,  sort blank",
+        "Stødfanger lakeret i bilens farve",
+        "Tagræling, sort",
+        "LED-baglygter",
+        "Bakkamera",
+        "Parkeringssensorer, for og bag",
+        "Sædevarme i til forsæder, med separat justering"
+      ],
+      "motorer": [
+        "Caddy Edition 2970 mm 1.5 TSI 116hk/85kW Forhjulstræk 7 trins DSG",
+        "Caddy Edition 2970 mm 1.5 TSI OPF/Hybrid 116hk/85kW Forhjulstræk 6 trins DSG",
+        "Caddy Edition 2970 mm 2.0 TDI SCR 122hk/90kW Forhjulstræk 7 trins DSG"
+      ],
+      "standard_alle_motorer": [
+        "MZTD6U1",
+        "MHET3RD",
+        "MAHV1D7",
+        "MWSS4GX",
+        "MASE6XP",
+        "MBBO6FK",
+        "MTLR5R2",
+        "MSTF2J1",
+        "MDAR3S2",
+        "MHFE4HI",
+        "MSCTQL3",
+        "MDFVG04",
+        "MREIJ73",
+        "MRADC1C",
+        "MRAA1NL",
+        "MDFHUC7",
+        "MLRVAV1",
+        "MRER1G8",
+        "MLEAL0L",
+        "MBAV1ZD",
+        "MAIB4UF",
+        "MFLS9I5",
+        "MKSUKA2",
+        "MSKAJX1",
+        "MSBR8SK",
+        "MHSW8IY",
+        "MKASQK1",
+        "MLRA2FD",
+        "MAWV8J3",
+        "MRUFNZ2",
+        "MLEN1N3",
+        "MSAB4X3",
+        "MIRS4L6",
+        "MBAH1KU",
+        "MSON6DE",
+        "MEDW7AA",
+        "MRSV4QT",
+        "MNES8WM",
+        "MSRH6I1",
+        "MALV4S1",
+        "MSAG6Q0",
+        "MEIH7TH",
+        "MTSV3LD",
+        "MSIE3PQ",
+        "MBFH5AC",
+        "MHAK4Z3",
+        "MILE9CK",
+        "MFLA6LH",
+        "MLOR7P1",
+        "MMIK3D2",
+        "MALS7N1",
+        "MFHWVF1",
+        "MSIV5DC",
+        "MTRW3CF",
+        "MVOSQ1A",
+        "MSIBN0L",
+        "MBFL5BA",
+        "MSLR8QJ",
+        "MLSE8RE",
+        "MAUD9WH",
+        "MTKV4I7",
+        "MMFA7J2",
+        "MTVEQV3",
+        "MBTR9Z0",
+        "MRDK7K1",
+        "MESSU9G",
+        "MGRA8T2",
+        "MLIA8G1",
+        "MAILGV1",
+        "MNAV7UX",
+        "MKRM1Z2",
+        "MRAU9JA",
+        "MINSU5A",
+        "MHKA9AK",
+        "MLWR8Q3",
+        "MLIMLT2",
+        "MEPH7X2",
+        "MRAO8DG",
+        "MRCOER1",
+        "MSGK9P3",
+        "MSNA7L6",
+        "MSIH4A3",
+        "MVTV9ZQ",
+        "MMKEEM3",
+        "MKMPQR9",
+        "MSWS8N6",
+        "MONLEL5"
+      ],
+      "standard_kun_nogle_motorer": {
+        "MKRS1A5": [
+          0,
+          1
+        ],
+        "MZUG01F": [
+          0
+        ],
+        "MBRS1AQ": [
+          0,
+          2
+        ],
+        "MAKB1E5": [
+          0
+        ],
+        "MBATJ0V": [
+          0,
+          2
+        ],
+        "MAGM4VP": [
+          0,
+          2
+        ],
+        "MSWR8X7": [
+          0,
+          2
+        ],
+        "MZUG0WV": [
+          1
+        ],
+        "MASMGM4": [
+          1
+        ],
+        "MBRS1AE": [
+          1
+        ],
+        "MAGM4VQ": [
+          1
+        ],
+        "MAKB1E1": [
+          1
+        ],
+        "MBATJ0H": [
+          1
+        ],
+        "MLKC76C": [
+          1
+        ],
+        "MLKA71Q": [
+          1
+        ],
+        "MKRS0F5": [
+          2
+        ],
+        "MZUG0WK": [
+          2
+        ],
+        "MWSA7E6": [
+          2
+        ],
+        "MAKB1E9": [
+          2
+        ]
+      }
+    },
+    {
+      "trimId": "Caddy Cargo Maxi Comfort",
+      "salesgroup": "Den nye Caddy Cargo",
+      "fremhaevet": [],
+      "motorer": [
+        "Caddy Comfort 2970 mm 1.5 TSI 116hk/85kW Forhjulstræk 6 trins manuel",
+        "Caddy Comfort 2970 mm 1.5 TSI 116hk/85kW Forhjulstræk 7 trins DSG",
+        "Caddy Comfort 2970 mm 1.5 TSI OPF/Hybrid 116hk/85kW Forhjulstræk 6 trins DSG",
+        "Caddy Comfort 2970 mm 2.0 TDI SCR 102hk/75kW Forhjulstræk 6 trins manuel",
+        "Caddy Comfort 2970 mm 2.0 TDI SCR 122hk/90kW Forhjulstræk 7 trins DSG"
+      ],
+      "standard_alle_motorer": [
+        "MZTD6U1",
+        "MHET3RD",
+        "MAHV1D7",
+        "MWSS4GX",
+        "MASE6XP",
+        "MBBO6FA",
+        "MTLR5R2",
+        "MSTF2JB",
+        "MDAR3S6",
+        "MHFE4HI",
+        "MSCTQL3",
+        "MDFVG04",
+        "MDFHUC7",
+        "MRAA1NC",
+        "MLRVAV1",
+        "MRER1G8",
+        "MLEAL0L",
+        "MBAV1ZD",
+        "MAIB4UF",
+        "MFLS9I5",
+        "MSBR8SA",
+        "MKSUKA2",
+        "MHSW8ID",
+        "MSKAJX1",
+        "MKASQK1",
+        "MLRA2FD",
+        "MAWV8J3",
+        "MRUFNZ2",
+        "MLEN1N3",
+        "MSAB4X3",
+        "MIRS4L6",
+        "MBAH1KU",
+        "MSON6DE",
+        "MEDW7AA",
+        "MRSV4QT",
+        "MSRH6I1",
+        "MALV4S1",
+        "MEIH7TC",
+        "MTSV3LD",
+        "MBFH5AC",
+        "MHAK4Z3",
+        "MSIE3L3",
+        "MILE9CK",
+        "MFLA6LG",
+        "MLOR7P4",
+        "MMIK3D2",
+        "MALS7N1",
+        "MSIV5DC",
+        "MTRW3CF",
+        "MVOSQ1A",
+        "MSIBN0L",
+        "MBFL5BA",
+        "MSLR8QJ",
+        "MLSE8RE",
+        "MAUD9WH",
+        "MTKV4I7",
+        "MMFA7J2",
+        "MTVEQV3",
+        "MBTR9Z0",
+        "MRDK7K1",
+        "MESSU9G",
+        "MGRA8T2",
+        "MLIA8G1",
+        "MAILGV1",
+        "MNAV7UX",
+        "MKRM1Z2",
+        "MRAU9JA",
+        "MINSU5A",
+        "MHKA9AK",
+        "MLWR8Q1",
+        "MLIMLT2",
+        "MEPH7X2",
+        "MRAO8DG",
+        "MRCOER1",
+        "MSGK9P3",
+        "MSNA7L6",
+        "MSIH4A3",
+        "MVTV9ZQ",
+        "MMKEEM3",
+        "MKMPQR9",
+        "MSWS8N6",
+        "MONLEL5"
+      ],
+      "standard_kun_nogle_motorer": {
+        "MKRS1A5": [
+          0,
+          1,
+          2
+        ],
+        "MZUG01F": [
+          0,
+          1
+        ],
+        "MREIJ68": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MRADC5P": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MBRS1AQ": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSAG6Q2": [
+          0,
+          3
+        ],
+        "MAKB1E5": [
+          0,
+          1
+        ],
+        "MBATJ0V": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MAGM4VP": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSWR8X7": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "MSAG6Q0": [
+          1,
+          2,
+          4
+        ],
+        "MZUG0WV": [
+          2
+        ],
+        "MREIJ73": [
+          2
+        ],
+        "MRADV36": [
+          2
+        ],
+        "MASMGM4": [
+          2
+        ],
+        "MBRS1AE": [
+          2
+        ],
+        "MAGM4VQ": [
+          2
+        ],
+        "MAKB1E1": [
+          2
+        ],
+        "MBATJ0H": [
+          2
+        ],
+        "MLKC76C": [
+          2
+        ],
+        "MLKA71Q": [
+          2
+        ],
+        "MKRS0F5": [
+          3,
+          4
+        ],
+        "MZUG0WA": [
+          3
+        ],
+        "MWSA7E6": [
+          3,
+          4
+        ],
+        "MAKB1E9": [
+          3,
+          4
+        ],
+        "MZUG0WK": [
+          4
+        ]
+      }
+    }
+  ]
+}

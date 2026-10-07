@@ -1,0 +1,136 @@
+# Gulplade.dk
+
+> Uafhængig dansk sammenligning af erhvervsleasing af varebiler på gule plader. 131 aktuelle tilbud på 66 modeller fra 17 udbydere, senest opdateret 2026-10-05. Alle priser er ekskl. moms og hentet fra udbydernes egne prislister med kilde og dato ved hvert tilbud.
+
+Gulplade.dk skriver til virksomheder, håndværkere og flådeansvarlige. Udløbne tilbud fjernes, og priser omregnes ikke til fælles løbetid eller kilometertal. Mål, vægt og nyttelast er hentet fra producenternes egne specifikationer. Regler om moms, afgift og gule plader henviser til Motorstyrelsen, Skattestyrelsen og Færdselsstyrelsen. Forhandlere og leasingselskaber betaler et honorar pr. henvendelse; det påvirker ikke rækkefølgen (https://gulplade.dk/saadan-tjener-vi-penge/).
+
+## Sammenlign
+
+- [Alle varebiler og tilbud](https://gulplade.dk/varebiler/): oversigt over modeller med billigste leasingpris
+- [Bedste tilbud](https://gulplade.dk/bedste-tilbud/): guider som billigste varebil, bedste elvarebil, lille, mellemstor og stor varebil
+- [Elvarebiler](https://gulplade.dk/elvarebiler/): rækkevidde, batteri og opladning
+- [Sammenlign to varebiler](https://gulplade.dk/sammenlign/): mål, pris og udstyr side om side
+- [Garanti](https://gulplade.dk/garanti/) og [Udstyr](https://gulplade.dk/udstyr/): på tværs af mærker
+- [Udbydere](https://gulplade.dk/udbydere/): leasingselskaber og forhandlere
+- [Leasingberegner](https://gulplade.dk/leasingberegner/)
+- [Brugte varebiler](https://gulplade.dk/brugte-varebiler/)
+- [Grøn omstilling](https://gulplade.dk/groen-omstilling/): el eller diesel regnet igennem
+
+## Modeller med aktuelle tilbud
+
+- [Citroën Berlingo](https://gulplade.dk/varebiler/citroen/berlingo/): 2 tilbud, fra 1.995 kr./md. ekskl. moms
+- [Citroën ë-Jumper](https://gulplade.dk/varebiler/citroen/e-jumper/): 1 tilbud, fra 3.295 kr./md. ekskl. moms
+- [Citroën ë-Jumpy](https://gulplade.dk/varebiler/citroen/e-jumpy/): 1 tilbud, fra 2.908 kr./md. ekskl. moms
+- [Citroën Jumper](https://gulplade.dk/varebiler/citroen/jumper/): 4 tilbud, fra 2.345 kr./md. ekskl. moms
+- [Citroën Jumpy](https://gulplade.dk/varebiler/citroen/jumpy/): 4 tilbud, fra 2.249 kr./md. ekskl. moms
+- [Farizon SV](https://gulplade.dk/varebiler/farizon/sv/): 1 tilbud, fra 2.980 kr./md. ekskl. moms
+- [Fiat Ducato](https://gulplade.dk/varebiler/fiat/ducato/): 2 tilbud, fra 3.031 kr./md. ekskl. moms
+- [Fiat E-Ducato](https://gulplade.dk/varebiler/fiat/e-ducato/): 1 tilbud, fra 3.095 kr./md. ekskl. moms
+- [Ford E-Transit](https://gulplade.dk/varebiler/ford/e-transit/): 2 tilbud, fra 3.615 kr./md. ekskl. moms
+- [Ford E-Transit Courier](https://gulplade.dk/varebiler/ford/e-transit-courier/): 1 tilbud, fra 2.562 kr./md. ekskl. moms
+- [Ford E-Transit Custom](https://gulplade.dk/varebiler/ford/e-transit-custom/): 2 tilbud, fra 3.368 kr./md. ekskl. moms
+- [Ford Ranger](https://gulplade.dk/varebiler/ford/ranger/): 1 tilbud, fra 3.995 kr./md. ekskl. moms
+- [Ford Transit](https://gulplade.dk/varebiler/ford/transit/): 2 tilbud, fra 2.859 kr./md. ekskl. moms
+- [Ford Transit Connect (diesel)](https://gulplade.dk/varebiler/ford/transit-connect-diesel/): 3 tilbud, fra 2.895 kr./md. ekskl. moms
+- [Ford Transit Connect PHEV](https://gulplade.dk/varebiler/ford/transit-connect-phev/): 1 tilbud, fra 3.013 kr./md. ekskl. moms
+- [Ford Transit Courier](https://gulplade.dk/varebiler/ford/transit-courier/): 3 tilbud, fra 1.969 kr./md. ekskl. moms
+- [Ford Transit Custom](https://gulplade.dk/varebiler/ford/transit-custom/): 5 tilbud, fra 2.559 kr./md. ekskl. moms
+- [Ford Transit Custom PHEV](https://gulplade.dk/varebiler/ford/transit-custom-phev/): 1 tilbud, fra 4.928 kr./md. ekskl. moms
+- [Iveco Daily](https://gulplade.dk/varebiler/iveco/daily/): 1 tilbud, fra 3.850 kr./md. ekskl. moms
+- [Iveco Daily Boks](https://gulplade.dk/varebiler/iveco/daily-boks/): 1 tilbud, fra 4.685 kr./md. ekskl. moms
+- [Iveco Daily Ladbil](https://gulplade.dk/varebiler/iveco/daily-ladbil/): 1 tilbud, fra 4.195 kr./md. ekskl. moms
+- [Kia PV5 Cargo](https://gulplade.dk/varebiler/kia/pv5-cargo/): 3 tilbud, fra 2.453 kr./md. ekskl. moms
+- [MAN TGE](https://gulplade.dk/varebiler/man/tge/): 1 tilbud, fra 3.126 kr./md. ekskl. moms
+- [Mercedes-Benz Citan](https://gulplade.dk/varebiler/mercedes-benz/citan/): 2 tilbud, fra 1.995 kr./md. ekskl. moms
+- [Mercedes-Benz eCitan](https://gulplade.dk/varebiler/mercedes-benz/ecitan/): 1 tilbud, fra 1.495 kr./md. ekskl. moms
+- [Mercedes-Benz eSprinter](https://gulplade.dk/varebiler/mercedes-benz/esprinter/): 1 tilbud, fra 4.295 kr./md. ekskl. moms
+- [Mercedes-Benz eVito](https://gulplade.dk/varebiler/mercedes-benz/evito/): 2 tilbud, fra 2.495 kr./md. ekskl. moms
+- [Mercedes-Benz Sprinter](https://gulplade.dk/varebiler/mercedes-benz/sprinter/): 3 tilbud, fra 3.525 kr./md. ekskl. moms
+- [Mercedes-Benz Vito](https://gulplade.dk/varebiler/mercedes-benz/vito/): 4 tilbud, fra 2.995 kr./md. ekskl. moms
+- [Nissan Interstar](https://gulplade.dk/varebiler/nissan/interstar/): 1 tilbud, fra 3.005 kr./md. ekskl. moms
+- [Nissan Primastar](https://gulplade.dk/varebiler/nissan/primastar/): 1 tilbud, fra 3.278 kr./md. ekskl. moms
+- [Opel Combo](https://gulplade.dk/varebiler/opel/combo/): 3 tilbud, fra 1.858 kr./md. ekskl. moms
+- [Opel Combo Electric](https://gulplade.dk/varebiler/opel/combo-electric/): 1 tilbud, fra 2.427 kr./md. ekskl. moms
+- [Opel Movano (diesel)](https://gulplade.dk/varebiler/opel/movano-diesel/): 2 tilbud, fra 2.969 kr./md. ekskl. moms
+- [Opel Movano Electric](https://gulplade.dk/varebiler/opel/movano-electric/): 2 tilbud, fra 3.370 kr./md. ekskl. moms
+- [Opel Vivaro](https://gulplade.dk/varebiler/opel/vivaro/): 2 tilbud, fra 1.999 kr./md. ekskl. moms
+- [Peugeot Boxer](https://gulplade.dk/varebiler/peugeot/boxer/): 3 tilbud, fra 3.066 kr./md. ekskl. moms
+- [Peugeot e-Boxer](https://gulplade.dk/varebiler/peugeot/e-boxer/): 2 tilbud, fra 3.249 kr./md. ekskl. moms
+- [Peugeot e-Expert](https://gulplade.dk/varebiler/peugeot/e-expert/): 2 tilbud, fra 2.649 kr./md. ekskl. moms
+- [Peugeot e-Partner](https://gulplade.dk/varebiler/peugeot/e-partner/): 1 tilbud, fra 2.399 kr./md. ekskl. moms
+- [Peugeot Expert](https://gulplade.dk/varebiler/peugeot/expert/): 4 tilbud, fra 1.999 kr./md. ekskl. moms
+- [Peugeot Partner](https://gulplade.dk/varebiler/peugeot/partner/): 4 tilbud, fra 2.333 kr./md. ekskl. moms
+- [Renault Kangoo](https://gulplade.dk/varebiler/renault/kangoo/): 2 tilbud, fra 1.999 kr./md. ekskl. moms
+- [Renault Kangoo E-Tech](https://gulplade.dk/varebiler/renault/kangoo-e-tech/): 2 tilbud, fra 1.699 kr./md. ekskl. moms
+- [Renault Master](https://gulplade.dk/varebiler/renault/master/): 3 tilbud, fra 2.999 kr./md. ekskl. moms
+- [Renault Master Chassis](https://gulplade.dk/varebiler/renault/master-chassis/): 1 tilbud, fra 2.976 kr./md. ekskl. moms
+- [Renault Master E-Tech](https://gulplade.dk/varebiler/renault/master-e-tech/): 2 tilbud, fra 2.999 kr./md. ekskl. moms
+- [Renault Master E-Tech Chassis](https://gulplade.dk/varebiler/renault/master-e-tech-chassis/): 1 tilbud, fra 3.287 kr./md. ekskl. moms
+- [Renault Trafic](https://gulplade.dk/varebiler/renault/trafic/): 4 tilbud, fra 2.449 kr./md. ekskl. moms
+- [Renault Trafic E-Tech](https://gulplade.dk/varebiler/renault/trafic-e-tech/): 1 tilbud, fra 2.868 kr./md. ekskl. moms
+- [Toyota bZ4X Touring Van](https://gulplade.dk/varebiler/toyota/bz4x-touring-van/): 2 tilbud, fra 3.454 kr./md. ekskl. moms
+- [Toyota bZ4X Van](https://gulplade.dk/varebiler/toyota/bz4x-van/): 2 tilbud, fra 2.795 kr./md. ekskl. moms
+- [Toyota C-HR+ Van](https://gulplade.dk/varebiler/toyota/c-hr-van/): 2 tilbud, fra 2.493 kr./md. ekskl. moms
+- [Toyota Proace (diesel)](https://gulplade.dk/varebiler/toyota/proace-diesel/): 2 tilbud, fra 2.009 kr./md. ekskl. moms
+- [Toyota Proace City (diesel)](https://gulplade.dk/varebiler/toyota/proace-city-diesel/): 2 tilbud, fra 1.701 kr./md. ekskl. moms
+- [Toyota Proace City Electric](https://gulplade.dk/varebiler/toyota/proace-city-electric/): 1 tilbud, fra 1.695 kr./md. ekskl. moms
+- [Toyota Proace Electric](https://gulplade.dk/varebiler/toyota/proace-electric/): 2 tilbud, fra 1.840 kr./md. ekskl. moms
+- [Toyota Proace Max (diesel)](https://gulplade.dk/varebiler/toyota/proace-max-diesel/): 2 tilbud, fra 2.162 kr./md. ekskl. moms
+- [Toyota Proace Max Electric](https://gulplade.dk/varebiler/toyota/proace-max-electric/): 2 tilbud, fra 2.795 kr./md. ekskl. moms
+- [Toyota Urban Cruiser Van](https://gulplade.dk/varebiler/toyota/urban-cruiser-van/): 1 tilbud, fra 2.195 kr./md. ekskl. moms
+- [Volkswagen Amarok](https://gulplade.dk/varebiler/volkswagen/amarok/): 1 tilbud, fra 5.445 kr./md. ekskl. moms
+- [Volkswagen Caddy Cargo](https://gulplade.dk/varebiler/volkswagen/caddy-cargo/): 2 tilbud, fra 2.245 kr./md. ekskl. moms
+- [Volkswagen Crafter](https://gulplade.dk/varebiler/volkswagen/crafter/): 1 tilbud, fra 3.795 kr./md. ekskl. moms
+- [Volkswagen e-Transporter](https://gulplade.dk/varebiler/volkswagen/e-transporter/): 2 tilbud, fra 3.618 kr./md. ekskl. moms
+- [Volkswagen ID. Buzz Cargo](https://gulplade.dk/varebiler/volkswagen/id-buzz-cargo/): 3 tilbud, fra 3.445 kr./md. ekskl. moms
+- [Volkswagen Transporter](https://gulplade.dk/varebiler/volkswagen/transporter/): 3 tilbud, fra 2.445 kr./md. ekskl. moms
+
+## Gulplade Håndbogen: regler og råd
+
+- [Gule plader: reglerne for gulpladebiler samlet](https://gulplade.dk/haandbogen/gule-plader/): Hvad må du køre på gule plader, hvad med moms, skat og afgift, og hvornår skal du vælge papegøjeplader eller hvide plader? Reglerne samlet med kilde.
+- [Hvad må du køre i en varebil på gule plader?](https://gulplade.dk/haandbogen/hvad-maa-du-koere-i-en-varebil-paa-gule-plader/): Gule plader betyder erhvervskørsel. Her er hvad du faktisk må — frokostturen, de 25 ture hjem, kolleger i bilen — og hvad det koster at bryde reglerne.
+- [Må du tage varebilen med hjem?](https://gulplade.dk/haandbogen/tage-varebilen-med-hjem/): Må håndværkeren tage varebilen på gule plader med hjem? Der er fire lovlige veje: de 25 gange, specialindretning, skiftende arbejdssteder og vagt.
+- [Må du køre i firmabilen til skole og kursus?](https://gulplade.dk/haandbogen/firmabil-til-skole-og-kursus/): Lærling med firmabil på gule plader? Motorstyrelsen tillader kørsel til kursus og undervisning. Men bilen skal også stå hjemme om natten — her er reglerne.
+- [Må familien køre med i firmabilen på gule plader?](https://gulplade.dk/haandbogen/familie-i-firmabilen-paa-gule-plader/): Må ægtefællen, børnene eller autostolen med i firmabilen på gule plader? Svaret afhænger af pladerne, og om bilen er specialindrettet.
+- [Dagsbevis: sådan kører du privat i en varebil på gule plader](https://gulplade.dk/haandbogen/dagsbevis-varebil/): Skal gulpladebilen bruges til flytning eller ferie? Med et dagsbevis må du køre privat. Højst 20 om året, købes i appen — her er reglerne fra Motorstyrelsen.
+- [Mandskabsvogn: reglerne for indretning og kørsel](https://gulplade.dk/haandbogen/mandskabsvogn-regler/): En mandskabsvogn slipper for registreringsafgift, men kun hvis den er indrettet og bruges rigtigt. Motorstyrelsens regler — og prisen for at bryde dem.
+- [Gule, hvide eller papegøjeplader på en varebil?](https://gulplade.dk/haandbogen/gule-hvide-eller-papegoejeplader/): Varebil på gule, papegøje- eller hvide plader? Se forskellen, hvad det koster, og hvordan du skifter fra gule plader til papegøjeplader eller hvide plader.
+- [Privatbenyttelsesafgift: hvornår skal den betales på en varebil?](https://gulplade.dk/haandbogen/privatbenyttelsesafgift/): Privatbenyttelsesafgiften betales, når en varebil på op til 4 tons bruges privat. Se hvornår du betaler hel eller halv afgift, og hvordan den bliver opkrævet.
+- [Gulpladebiler: hvilke biler kan få gule plader?](https://gulplade.dk/haandbogen/gulpladebiler/): En bil kan få gule plader, når den er indrettet til gods og kun har én sæderække. Se kravene til varerum og skillevæg og de SUV'er, der fås som varebil.
+- [Papegøjeplader: pris, regler og privat kørsel](https://gulplade.dk/haandbogen/papegoejeplader/): Papegøjeplader lader en varebil på gule plader køre privat. Sådan skifter du, hvad pladerne koster, og hvordan privatbenyttelsesafgiften virker.
+- [Varevogn på hvide plader: pris og regler](https://gulplade.dk/haandbogen/varevogn-paa-hvide-plader/): En varevogn på hvide plader er registreret som personbil og må køre privat. Det koster en differenceafgift, som ofte er højere end ventet, undtagen på el.
+- [Privatleasing af varevogn: plader, afgift og moms](https://gulplade.dk/haandbogen/privatleasing-af-varevogn/): Kan du privatlease en varevogn? Ja, men ikke på gule plader. Hvad papegøje- og hvide plader koster, og hvorfor prisen er 25 % højere end erhvervstilbuddene.
+- [Leasing af varebil på papegøjeplader](https://gulplade.dk/haandbogen/leasing-af-varebil-paa-papegoejeplader/): Ja, en leaset varebil kan få papegøjeplader. Motorstyrelsen kræver 50 % af den fulde privatbenyttelsesafgift, og momsfradraget ændrer sig. Sådan skifter du.
+- [Elvarebil på hvide plader: hvad koster det, og er det lovligt?](https://gulplade.dk/haandbogen/elvarebil-paa-hvide-plader/): Kan en elvarebil køre på hvide plader? Ja, som personbil. Elbilers lave registreringsafgift kan gøre det billigt — sådan regner du det ud.
+- [Moms på varebil: hvornår får du fuldt fradrag?](https://gulplade.dk/haandbogen/moms-paa-varebil/): Under 3 tons, 3-4 tons eller personbil på gule plader: reglerne er ikke ens. Her er hvad momsloven giver fradrag for, og hvad den ikke gør.
+- [Momsdød og momsfri varebil: hvad betyder det for momsen?](https://gulplade.dk/haandbogen/momsdoed-varebil/): En momsdød eller momsfri varebil sælges uden momsbeløb på fakturaen, og køberen kan ikke trække moms fra. Se hvad det betyder for firmaer og private.
+- [Totalvægt, nyttelast og kørekort](https://gulplade.dk/haandbogen/totalvaegt-nyttelast-og-koerekort/): Tre tal afgør, om varebilen kan det, du skal bruge den til — og om du overhovedet må køre den. Her er forskellen på dem.
+- [Køb af brugt varebil: det skal du tjekke](https://gulplade.dk/haandbogen/koeb-af-brugt-varebil/): Moms eller brugtmoms, totalvægt og kørekort, miljøzone, syn, pant i Bilbogen og omregistrering. Tjeklisten før du køber en brugt varebil til virksomheden.
+- [Det står ikke i leasingtilbuddet](https://gulplade.dk/haandbogen/det-staar-ikke-i-leasingtilbuddet/): Vi har gennemgået {{tilbud}} leasingtilbud på varebiler. De fleste nævner ikke, om service, dæk, forsikring, ejerafgift og vejhjælp er med i prisen.
+- [Leasing eller køb af varebil?](https://gulplade.dk/haandbogen/leasing-eller-koeb-af-varebil/): Leasing og køb har hver sine momsregler og binder pengene på hver sin måde. Risikoen for bilens værdi ligger også hos hver sin part. Her er mekanikken bag valget.
+- [Finansiel og operationel leasing: hvad er forskellen?](https://gulplade.dk/haandbogen/finansiel-og-operationel-leasing/): Finansiel leasing har en restværdi, du skal indfri. Operationel leasing er leje, hvor bilen afleveres. Forskellen side om side, med tal fra {{tilbud}} aktuelle erhvervstilbud.
+- [Erhvervsleasing i en enkeltmandsvirksomhed](https://gulplade.dk/haandbogen/erhvervsleasing-enkeltmandsvirksomhed/): En enkeltmandsvirksomhed kan lease en varebil på erhvervsvilkår, men ejeren hæfter personligt for aftalen. Hvad det betyder for valget mellem operationel og finansiel leasing.
+- [Leasing af varebil til erhverv: sådan gør du](https://gulplade.dk/haandbogen/leasing-af-varebil-til-erhverv/): Sådan leaser du en varebil til virksomheden: behov, leasingform, tilbud på samme grundlag, gennemgang af vilkår og moms. Fem trin før du skriver under.
+- [Varebil eller pickup?](https://gulplade.dk/haandbogen/varebil-eller-pickup/): Samme kørekort, samme momsregler — men to helt forskellige biler. Her er hvad lad og lukket varerum hver især kan, og hvad de koster i praksis.
+- [Grøn ejerafgift på varebil](https://gulplade.dk/haandbogen/groen-ejerafgift-paa-varebil/): Afgiften følger CO₂-udledningen, ikke prisen. På vores modeller går den fra {{afgift_lav_aar}} til {{afgift_hoej_aar}} kr. om året — og ingen leasingydelse inkluderer den.
+- [Specialindretning: når reolerne afgør, om du må køre hjem](https://gulplade.dk/haandbogen/specialindretning-af-varebil/): En specialindrettet varebil må køre mellem hjem og arbejde, uden at det er privat kørsel. Men indretningen skal være nødvendig, og et skillerum er ikke nok.
+- [Målene du skal tjekke, før du skriver under](https://gulplade.dk/haandbogen/maal-du-skal-tjekke-foer-du-skriver-under/): Fire mål afgør, om varebilen kan bruges til arbejdet — og tre af dem står aldrig i en leasingannonce. Her er de, og her er hvor du finder dem.
+- [L1H1, L2H2 og L3H2: hvad betyder målene på en varebil?](https://gulplade.dk/haandbogen/l1h1-l2h2-l3h2-varebil/): L står for længde og H for højde, men koderne er ikke en fælles standard. Se hvor meget lastrummet i en L1, L2 og L3 svinger fra mærke til mærke.
+- [Billig varebil: de billigste at lease, købe ny og købe brugt](https://gulplade.dk/haandbogen/billig-varebil/): Se de billigste varebiler at lease, købe ny og købe brugt. Lease fra {{billig_fra_ydelse}} kr./md., køb ny fra {{nypris_lav}} kr. eller vælg blandt {{brugt_u50}} brugte under 50.000 kr. Alle priser er uden moms.
+- [Lille varebil: hvad kan den laste, og hvad koster den?](https://gulplade.dk/haandbogen/smaa-varebiler/): Se lastrum og nyttelast på små varebiler, og sammenlign {{lille_tilbud}} tilbud på {{lille_modeller}} modeller. Lease fra {{lille_fra_ydelse}} kr./md. eller køb ny fra {{lille_nypris_lav}} kr. Alle priser er uden moms.
+- [Fri bil på gule plader: hvornår bliver medarbejderen beskattet?](https://gulplade.dk/haandbogen/fri-bil-paa-gule-plader/): Reglerne om fri bil gælder som udgangspunkt ikke for en varebil på gule plader. Det, der afgør det, er kørslen: holder den sig inden for momsreglerne, er der ingen fri bil at beskatte.
+- [Firmabil på papegøjeplader: sådan bliver medarbejderen beskattet](https://gulplade.dk/haandbogen/firmabil-paa-papegoejeplader/): Må en medarbejder køre privat i firmaets varebil på papegøjeplader, skal medarbejderen betale skat af fri bil. Se hvordan bilens værdi og miljøtillægget beregnes.
+- [Syn af varebil: hvornår og hvor tit](https://gulplade.dk/haandbogen/syn-af-varebil/): Fire år til første syn, derefter hvert andet år. Med én undtagelse, der rammer de største varebiler — og den koster både tid og penge.
+- [Kilometergrænsen: alle siger {{km_mest}}, ingen siger hvad den næste koster](https://gulplade.dk/haandbogen/kilometergraensen-paa-leasingaftalen/): {{km_oplyst}} af {{tilbud}} tilbud oplyser et kilometertal, og {{km_mest_antal}} af dem siger {{km_mest}} km. Ingen af dem oplyser, hvad en kilometer derover koster.
+- [Elvarebil i praksis: afgiften, rækkevidden og lasten](https://gulplade.dk/haandbogen/elvarebil-i-praksis/): Den grønne ejerafgift falder dramatisk, rækkevidden står i brochuren, og nyttelasten er der, ingen kigger. Her er alle tre tal samlet.
+- [Sådan får du medarbejderne til at skifte til elvarebil](https://gulplade.dk/haandbogen/faa-medarbejdere-til-at-skifte-til-elvarebil/): Ladeboks hjemme, strøm betalt efter måler, et bedre arbejdsmiljø og et løntillæg. Se hvad der får medarbejdere til at skifte, og hvad Skat siger.
+- [Må din varebil køre i miljøzonen?](https://gulplade.dk/haandbogen/miljoezoner-og-varebiler/): Reglerne for dieselvarebiler i miljøzonerne i København, Frederiksberg, Aarhus, Odense og Aalborg: registreringsdato, Euronorm 5, partikelfilter og bøden.
+- [Nulemissionszoner: hvad betyder de for din varebil?](https://gulplade.dk/haandbogen/nulemissionszoner/): Kommunerne må oprette nulemissionszoner, hvor kun el og brint må køre. Sådan rammer de varebiler, hvornår København er klar, og hvad bøden er.
+- [Skal din varebil have takograf?](https://gulplade.dk/haandbogen/takograf-paa-varebil/): Fra 1. juli 2026 skal varebiler over 2,5 tons i international kørsel have takograf. Hvem er omfattet, hvem er undtaget, og hvad med håndværkere?
+- [Hvor meget må du trække med varebilen?](https://gulplade.dk/haandbogen/anhaenger-bag-varebilen/): Hvad må du trække med kørekort B, B+ (kode 96) og BE bag en varebil? Grænserne på 750, 3.500, 4.250 og 7.000 kg forklaret med Færdselsstyrelsens regler.
+- [Hvor stærkt må en varebil køre?](https://gulplade.dk/haandbogen/hastighedsgraenser-for-varebiler/): En varebil på op til 3.500 kg må køre 130 km/t på motorvej. Over 3.500 kg, med anhænger og for en elvarebil på 4.250 kg er grænsen 80 km/t.
+
+## Kontakt
+
+- [Få tilbud](https://gulplade.dk/faa-tilbud/)
+- [Kontakt](https://gulplade.dk/kontakt/)

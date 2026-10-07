@@ -1,0 +1,426 @@
+[
+ {
+  "slug": "billigste-varebil",
+  "h1": "Billig gulpladebil: de billigste varevogne i leasing",
+  "title": "Billig varebil leasing %aar%: fra %fra% kr./md.",
+  "desc": "Se %n% tilbud på varebiler sorteret efter pris med udbetalingen regnet med. Fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Den annoncerede månedsydelse siger ikke alt. To tilbud til 3.000 kr. om måneden koster vidt forskelligt, hvis det ene kræver 35.000 kr. i udbetaling og det andet 60.000. Vi fordeler udbetalingen over løbetiden, så du kan se den reelle pris og finde den billigste bil.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "el-varebil",
+  "h1": "Leasing af elvarebil til erhverv",
+  "title": "Elvarebil leasing: %n% tilbud fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på elvarebiler med rækkevidde, batteri og grøn ejerafgift. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "En elvarebil har lav grøn ejerafgift og typisk færre udgifter til drift, men rækkevidden afgør, om den passer til din kørsel. Her ser du pris og rækkevidde side om side. Rækkevidden er producentens tal efter WLTP, og den reelle rækkevidde er lavere om vinteren og med last.",
+  "svar": "Billigste elvarebil lige nu:"
+ },
+ {
+  "slug": "ladbil",
+  "h1": "Ladbil leasing: ladvogne og chassis med opbygning",
+  "title": "Ladbil leasing: ladvogne fra %fra% kr./md.",
+  "desc": "Sammenlign ladbiler, ladvogne og chassis med opbygning. Nyttelast og ladmål står ved prisen, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "En ladbil er et chassis, hvor en opbygger har sat et lad eller en kasse på, så nyttelast og ladmål afhænger af opbygningen. Vi viser producentens tal for netop den opbygning, tilbuddet gælder. Den laveste pris står øverst, og udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigste ladbil lige nu:"
+ },
+ {
+  "slug": "varebil-med-traek",
+  "h1": "Varebil med træk på mindst 2.000 kg",
+  "title": "Varebil med træk: %n% tilbud fra %fra% kr./md.",
+  "desc": "Se %n% tilbud på varebiler, der må trække mindst 2.000 kg med bremset anhænger. Fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Skal der en trailer, en maskine eller en båd bagpå, er trækvægten det tal, der afgør valget. Her er bilerne, der må trække mindst 2.000 kg med bremset anhænger, med den største trækvægt øverst. Vogntogsvægten sætter også en grænse, fordi bil og anhænger tilsammen ikke må veje mere.",
+  "svar": "Trækker mest:"
+ },
+ {
+  "slug": "varebil-med-hoej-nyttelast",
+  "h1": "Varebil med høj nyttelast",
+  "title": "Varebil med høj nyttelast: mindst 1.000 kg",
+  "desc": "Se %n% tilbud på varebiler, der må laste mindst 1.000 kg, med den største nyttelast øverst. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Nyttelasten er det, du må lægge i bilen: fører, passagerer, værktøj og last tilsammen. Den er ikke det samme som totalvægten, og det er det tal, der oftest bliver overskredet i praksis. Her er bilerne, der må laste mindst 1.000 kg, med den største nyttelast øverst.",
+  "svar": "Største nyttelast:"
+ },
+ {
+  "slug": "varebil-under-3500-kr",
+  "h1": "Varebil til under 3.500 kr. om måneden",
+  "title": "Varebil leasing under 3.500 kr./md.: %n% tilbud",
+  "desc": "Se %n% tilbud på varebiler under 3.500 kr. om måneden uden moms, med udbetalingen regnet med. Ydelser fra %fra% kr./md. Få tilbud gratis.",
+  "intro": "Har du et loft over, hvad bilen må koste om måneden, er det den samlede ydelse, der tæller. Her er tilbuddene, der holder sig under 3.500 kr., når udbetalingen er fordelt over løbetiden. Beløbet er uden moms, som en virksomhed løfter.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "elvarebil-med-traek",
+  "h1": "Elvarebil med træk",
+  "title": "Elvarebil med træk: %n% modeller efter trækvægt",
+  "desc": "Se hvilken elvarebil der trækker mest. %n% modeller efter anhængervægt med bremser, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Anhængervægten er der, elvarebilerne adskiller sig mest, fra 750 kg til over 2 tons. Her står elvarebilerne efter producentens anhængervægt med bremser, med den tungeste øverst. Hver model står én gang med sit billigste tilbud, så du kan sammenligne direkte.",
+  "svar": "Trækker mest:"
+ },
+ {
+  "slug": "varebil-4x4",
+  "h1": "Varebil 4x4 leasing",
+  "title": "Varebil 4x4 leasing %aar% fra %fra% kr./md.",
+  "desc": "Kassevogne og pickupper med firehjulstræk, diesel og el, sorteret efter pris med udbetalingen regnet med. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Firehjulstræk hedder noget forskelligt fra mærke til mærke: 4x4, 4WD, AWD, 4MOTION eller 4MATIC. Her er tilbuddene, hvor forhandleren eller leasingselskabet selv skriver, at bilen har firehjulstræk. Du finder både pickupper og kassevogne med diesel og el, og den laveste pris med udbetalingen regnet med står øverst.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "pickup-leasing",
+  "h1": "Pickup leasing til erhverv",
+  "title": "Pickup leasing til erhverv fra %fra% kr./md.",
+  "desc": "Pickupper på gule plader med anhængervægt og pris, hvor udbetalingen er regnet med. Fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "En pickup kan køre på gule plader som en varebil, hvis den er indrettet til godstransport. Den vælges typisk for trækket og firehjulstrækket frem for lastrummet. Her er de pickupper, vi har tilbud på, og den laveste pris med udbetalingen regnet med står øverst.",
+  "svar": "Billigste pickup lige nu:"
+ },
+ {
+  "slug": "bedste-varevogn-til-prisen",
+  "h1": "Bedste varevogn til prisen",
+  "title": "Bedste varevogn til prisen: mest m³ pr. krone",
+  "desc": "Vi har regnet %n% varevogne om til kr. pr. m³ lastrum med udbetalingen regnet med og uden moms. Find mest plads for pengene, og få tilbud gratis.",
+  "intro": "Den billigste varevogn er sjældent den, der giver mest for pengene. Vi har fordelt udbetalingen over løbetiden og delt den samlede månedspris med producentens lastrum i m³. Jo lavere tal, jo mere plads får du pr. krone. Hver model står én gang med sit bedste tilbud.",
+  "svar": "Mest lastrum pr. krone:"
+ },
+ {
+  "slug": "hvad-koster-en-varebil",
+  "h1": "Hvad koster en ny varebil?",
+  "title": "Hvad koster en ny varebil? %n% nypriser %aar%",
+  "desc": "Se den vejledende nypris på %n% varebiler fra producenternes egne prislister, med det billigste leasingtilbud ved siden af. Sammenlign og få tilbud gratis.",
+  "intro": "En leasingydelse siger mest, når du kan se, hvad bilen er værd. Her finder du den vejledende nypris på hver model og det billigste leasingtilbud ved siden af.",
+  "svar": "Lavest nypris:"
+ },
+ {
+  "slug": "varebil-med-lav-ejerafgift",
+  "h1": "Varebil med lav grøn ejerafgift",
+  "title": "Varebil med lav grøn ejerafgift: %n% modeller",
+  "desc": "Se den grønne ejerafgift pr. halvår for %n% varebiler med leasingprisen ved siden af. Fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Den grønne ejerafgift betales hvert halve år, så længe bilen er indregistreret, og den står sjældent i leasingtilbuddet. Afgiften følger bilens CO₂-udledning, så forskellen mellem modellerne er stor. Den laveste afgift står øverst, og ved samme afgift kommer den billigste leasingpris først.",
+  "svar": "Lavest ejerafgift:"
+ },
+ {
+  "slug": "varebil-med-lavt-braendstofforbrug",
+  "h1": "Varebil med lavt brændstofforbrug",
+  "title": "Varebil med lavt brændstofforbrug: %n% modeller",
+  "desc": "Se hvilken varebil der kører længst på literen. %n% diesel- og benzinmodeller efter WLTP-forbrug, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Brændstoffet er en af de største udgifter på en varebil, og det står aldrig i leasingtilbuddet. Her står diesel- og benzinmodellerne efter producentens forbrug efter WLTP, og den bil, der kører længst på literen, står øverst. En stor varebil bruger næsten dobbelt så meget som en lille.",
+  "svar": "Længst på literen:"
+ },
+ {
+  "slug": "elvarebil-med-lang-raekkevidde",
+  "h1": "Elvarebil med lang rækkevidde",
+  "title": "Elvarebil med lang rækkevidde: %n% modeller",
+  "desc": "Se hvilken elvarebil der kører længst på en opladning. %n% modeller efter WLTP-rækkevidde, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Rækkevidden afgør, om en elvarebil passer til din kørsel. Her står elvarebilerne efter producentens rækkevidde efter WLTP, med den længste øverst. Tallet gælder det batteri, målene på modelsiden er taget på, og flere modeller fås med både et lille og et stort batteri.",
+  "svar": "Længste rækkevidde:"
+ },
+ {
+  "slug": "elvarebil-med-stort-lastrum",
+  "h1": "Elvarebil med stort lastrum",
+  "title": "Elvarebil med stort lastrum: %n% modeller",
+  "desc": "Se hvilken elvarebil der har det største lastrum. %n% modeller efter m³ med nyttelast og rækkevidde. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "I de fleste elvarebiler tager batteriet ikke plads fra varerummet, men det tager vægt fra nyttelasten. Her står elvarebilerne efter lastrummets volumen ifølge producenten, med det største øverst. Nyttelasten står ved siden af, så du kan se, hvor meget du må fylde i.",
+  "svar": "Største lastrum:"
+ },
+ {
+  "slug": "elvarebil-med-hurtig-opladning",
+  "h1": "Elvarebil med hurtig opladning",
+  "title": "Elvarebil med hurtig opladning: %n% modeller",
+  "desc": "Se hvilken elvarebil der lader hurtigst. %n% modeller efter maksimal DC-ladeeffekt med ladetid. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "På en lynlader afgør bilens maksimale DC-effekt, hvor hurtigt batteriet bliver fyldt. Her står elvarebilerne efter den effekt, producenten oplyser, med den højeste øverst. Ladetiden står ved siden af med det interval, producenten har målt over, fx 10–80 % eller 0–80 %.",
+  "svar": "Højeste ladeeffekt:"
+ },
+ {
+  "slug": "elvarebil-med-v2l",
+  "h1": "Elvarebil med strøm til værktøj (V2L)",
+  "title": "Elvarebil med V2L til værktøj fra %fra% kr./md.",
+  "desc": "Se de %n% elvarebiler, hvor producenten oplyser V2L, så batteriet kan give strøm til værktøj. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Med V2L (vehicle-to-load) giver bilens batteri strøm til værktøj, kompressor eller lys, hvor der ikke er en stikkontakt. Her er elvarebilerne, hvor producentens prisliste eller specifikationer nævner V2L, med den laveste pris øverst. Effekten står ved modellen, når producenten oplyser den.",
+  "svar": "Billigste med V2L:"
+ },
+ {
+  "slug": "stor-varebil",
+  "h1": "Stor varebil og kassevogn",
+  "title": "Stor varebil leasing fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på store kassevogne over 5,4 m som Sprinter, Crafter og Transit. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Når der skal meget med, er det de store kassevogne over 5,4 m, der kan klare det. Her kan du sammenligne %n% tilbud på Sprinter, Crafter, Transit, Master og Ducato med lastrum, nyttelast og pris. Det billigste står øverst.",
+  "svar": "Billigste store varebil:"
+ },
+ {
+  "slug": "lille-varebil",
+  "h1": "Bedste lille varebil 2026",
+  "title": "Bedste lille varebil %aar% fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på små varebiler under 4,75 m som Caddy, Berlingo og Kangoo. Leasing fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "En lille varebil er let at parkere, billigere i afgift og bruger mindre brændstof. Her kan du sammenligne pizzabilerne under 4,75 m, fx Caddy, Berlingo, Partner og Kangoo, også som elbiler. De fleste tager to europaller.",
+  "svar": "Billigste lille varebil:"
+ },
+ {
+  "slug": "varebil-til-parkeringskaelder",
+  "h1": "Varebil der kan være i en parkeringskælder",
+  "title": "Varebil til parkeringskælder: under 2,10 m høj",
+  "desc": "Se %n% tilbud på varebiler under 2,10 m, sorteret efter højden fra vej til tag. Leasing fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Danske parkeringskældre har typisk 1,90 til 2,10 m frihøjde. Her er %n% tilbud på varebiler under 2,10 m, sorteret efter højden fra vejen til taget, så du hurtigt kan se, hvilke der kommer ind. Den laveste står øverst.",
+  "svar": "Laveste varebil lige nu:"
+ },
+ {
+  "slug": "varebil-til-elektriker",
+  "h1": "Varebil til elektriker",
+  "title": "Varebil til elektriker fra %fra% kr./md.",
+  "desc": "Sammenlign %n% mellemstore kassevogne med plads til reoler, sorteret efter den reelle pris. Leasing fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Kabler, materialer og værktøj skal stå på reoler, og bilen skal kunne parkeres hos kunder i byen. Derfor viser vi de mellemstore kassevogne, sorteret efter hvad de reelt koster om måneden med udbetalingen fordelt. Vælg en bil, og få tilbud gratis.",
+  "svar": "Billigst til elektriker:"
+ },
+ {
+  "slug": "varebil-til-vvs",
+  "h1": "Varebil til VVS",
+  "title": "Varebil til VVS: leasing fra %fra% kr./md.",
+  "desc": "%n% kassevogne med mindst 2,5 m lastrum, så rør og lange emner kan ligge i bunden. Sorteret efter reel pris, fra %fra% kr./md. uden moms.",
+  "intro": "Rør, fittings og værktøj fylder i længden. Her er kassevognene med mindst 2,5 m lastrum ifølge producenten, sorteret efter hvad de reelt koster om måneden. Længden står ved hver bil, og på modelsiden kan du se mål og læssehøjde.",
+  "svar": "Billigst til VVS:"
+ },
+ {
+  "slug": "varebil-til-toemrer",
+  "h1": "Varebil til tømrer",
+  "title": "Varebil til tømrer: leasing fra %fra% kr./md.",
+  "desc": "%n% lange kassevogne og ladvogne til plader, lægter og lange emner. Sorteret efter reel pris, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Plader og lægter kræver længde. Her er kassevognene med mindst 3 m lastrum og ladvognene, sorteret efter hvad de reelt koster om måneden. Skal der også en trailer med, kan du se trækvægten på modelsiden.",
+  "svar": "Billigst til tømrer:"
+ },
+ {
+  "slug": "varebil-til-maler",
+  "h1": "Varebil til maler",
+  "title": "Varebil til maler: leasing fra %fra% kr./md.",
+  "desc": "%n% kassevogne med mindst 3,5 m³ lastrum til stiger, spande og afdækning. Sorteret efter reel pris, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Stiger, spande og afdækning skal med, men sjældent de helt tunge læs. Her er de små og mellemstore kassevogne med mindst 3,5 m³ lastrum, sorteret efter hvad de reelt koster om måneden med udbetalingen fordelt.",
+  "svar": "Billigst til maler:"
+ },
+ {
+  "slug": "varebil-til-murer",
+  "h1": "Varebil til murer",
+  "title": "Varebil til murer: leasing fra %fra% kr./md.",
+  "desc": "%n% varebiler med mindst 1.100 kg nyttelast og 2.500 kg trækvægt til tunge materialer. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Mursten, mørtel og stillads vejer. Her er varebilerne med mindst 1.100 kg nyttelast og 2.500 kg bremset trækvægt ifølge producenten, sorteret efter hvad de reelt koster om måneden. Indretning trækker fra nyttelasten.",
+  "svar": "Billigst til murer:"
+ },
+ {
+  "slug": "varebil-til-anlaegsgartner",
+  "h1": "Varebil til anlægsgartner",
+  "title": "Varebil til anlægsgartner fra %fra% kr./md.",
+  "desc": "%n% ladvogne, pickupper og varebiler, der må trække mindst 3 tons. Sorteret efter reel pris, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Jord, sten, planter og en trailer med maskiner kræver en bil, der kan trække. Her er ladvognene, pickupperne og de varebiler, der må trække mindst 3.000 kg ifølge producenten, sorteret efter hvad de reelt koster om måneden.",
+  "svar": "Billigst til anlægsgartner:"
+ },
+ {
+  "slug": "varebil-til-budkoersel",
+  "h1": "Varebil til budkørsel",
+  "title": "Varebil til budkørsel: mest m³ for pengene",
+  "desc": "%n% store kassevogne med mindst 9 m³, sorteret efter hvad hver kubikmeter koster. Leasing fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Til pakker og gods er det rumfanget, der tjener pengene. Her er kassevognene med mindst 9 m³ lastrum, sorteret efter hvad hver kubikmeter koster om måneden med udbetalingen fordelt. Den bil, der giver mest plads for pengene, står øverst.",
+  "svar": "Billigst pr. m³ lige nu:"
+ },
+ {
+  "slug": "varebil-til-servicetekniker",
+  "h1": "Varebil til servicetekniker",
+  "title": "Varebil til servicetekniker fra %fra% kr./md.",
+  "desc": "%n% små kassevogne til værktøj og reservedele, lette at parkere og billige i drift. Leasing fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "En servicetekniker kører mange korte ture i byen med værktøj og reservedele. Her er de små kassevogne, sorteret efter hvad de reelt koster om måneden. Flere fås som elbil, og på modelsiden kan du se rækkevidden.",
+  "svar": "Billigst til servicetekniker:"
+ },
+ {
+  "slug": "kassevogn-l2h2",
+  "h1": "Kassevogn L2H2 leasing",
+  "title": "Kassevogn L2H2 leasing fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på kassevogne i L2H2 med lastrum og pris, hvor udbetalingen er regnet med. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "L2H2 betyder mellemlang og højt tag, typisk med 1,8 til 1,9 m lastrumshøjde. L2 er ikke en fælles standard, så lastrumslængden svinger med over en meter fra mærke til mærke. Her er tilbuddene, hvor forhandleren eller leasingselskabet selv skriver L2H2, med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigste L2H2 lige nu:"
+ },
+ {
+  "slug": "varebil-l3h2",
+  "h1": "Varebil L3H2 leasing",
+  "title": "Varebil L3H2 leasing fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på lange kassevogne med højt tag, typisk omkring 13 m³ lastrum. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "L3H2 er den lange kassevogn med højt tag, typisk omkring 13 m³ lastrum. Den passer til flytning, distribution og håndværkere med meget materiel. Her er tilbuddene, hvor forhandleren eller leasingselskabet selv skriver L3H2, sorteret efter samlet pris pr. måned.",
+  "svar": "Billigste L3H2 lige nu:"
+ },
+ {
+  "slug": "lang-varebil",
+  "h1": "Lang varebil: længste lastrum",
+  "title": "Lang varebil: %n% modeller efter lastrumslængde",
+  "desc": "Hvilken varebil har det længste lastrum? Se %n% modeller sorteret efter producentens mål, med leasingpris fra %fra% kr./md. uden moms.",
+  "intro": "Skal der rør, profiler, lister eller stiger med, er det lastrummets længde på gulvet, der tæller. Her er modellerne sorteret efter producentens mål, med den længste øverst. Hver model står én gang med sit billigste tilbud.",
+  "svar": "Længste lastrum lige nu:"
+ },
+ {
+  "slug": "varebil-til-europaller",
+  "h1": "Varebil der kan tage europaller",
+  "title": "Varebil til europaller: antal paller pr. model",
+  "desc": "Sammenlign %n% tilbud efter, hvor mange europaller bilen kan tage ifølge producenten. Med lastrumsmål og pris fra %fra% kr./md. uden moms.",
+  "intro": "En europalle måler 1.200 × 800 mm, og det er bredden mellem hjulkasserne, der afgør, om den kan stå på tværs. Her er modellerne, hvor producenten selv oplyser, hvor mange europaller der kan stå efter hinanden. Flest paller står øverst.",
+  "svar": "Flest europaller:"
+ },
+ {
+  "slug": "mellemstor-varebil",
+  "h1": "Mellemstor varebil",
+  "title": "Mellemstor varebil leasing fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på kassevogne på 4,75 til 5,4 m som Transit Custom, Trafic og Transporter. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Den mellemstore varebil har plads til reoler og tre europaller og kan stadig parkeres i en almindelig gade. Her er kassevognene på 4,75 til 5,4 m, fx Transit Custom, Transporter, Vito, Trafic og Jumpy, også som elbiler. Den billigste står øverst.",
+  "svar": "Billigste mellemstore varebil:"
+ },
+ {
+  "slug": "kassevogn-leasing",
+  "h1": "Kassevogn leasing: sammenlign kassebiler til erhverv",
+  "title": "Kassevogn leasing: %n% tilbud fra %fra% kr./md.",
+  "desc": "Lease en kassebil eller kassevogn til erhverv. Sammenlign %n% tilbud fra %fra% kr./md. uden moms med lastrum, nyttelast og udbetaling.",
+  "intro": "Kassevognen er den mest leasede erhvervsbil. Her finder du alle tilbuddene samlet, fra små bybiler som Caddy og Berlingo til store 3,5-tons kassevogne som Sprinter og Crafter. Vi har fordelt udbetalingen over løbetiden, så du kan sammenligne den reelle pris pr. måned.",
+  "svar": "Billigste kassevogn lige nu:"
+ },
+ {
+  "slug": "varebil-med-automatgear",
+  "h1": "Varebil med automatgear i erhvervsleasing",
+  "title": "Varebil med automatgear fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på varebiler med automatgear, både diesel og el, sorteret efter samlet pris. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Automatgear gør byen og de mange stop lettere, og alle elvarebiler er automatiske. Her er elvarebilerne og de dieseltilbud, hvor forhandleren eller leasingselskabet selv skriver automatgear, fx aut., EAT8 eller DSG. Det billigste tilbud står øverst.",
+  "svar": "Billigst med automatgear:"
+ },
+ {
+  "slug": "stoerste-varebil-paa-almindeligt-koerekort",
+  "h1": "Største varebil på almindeligt kørekort",
+  "title": "Største varebil på almindeligt kørekort %aar%",
+  "desc": "Se %n% varebiler på højst 3.500 kg, som du må køre på B-kørekort, sorteret efter lastrum i m³. Med nyttelast og pris fra %fra% kr./md. uden moms.",
+  "intro": "Med kørekort til kategori B må du køre biler med en tilladt totalvægt på højst 3.500 kg. Her er varebilerne inden for grænsen sorteret efter lastrum ifølge producenten, med nyttelasten ved siden af. Tallene gælder den udgave af bilen, modelsiden viser.",
+  "svar": "Største lastrum på B-kørekort:"
+ },
+ {
+  "slug": "varebil-til-haandvaerker",
+  "h1": "Bedste varevogn til håndværkere",
+  "title": "Varevogn til håndværker fra %fra% kr./md.",
+  "desc": "%n% kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt, sorteret efter reel pris. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Værktøj og materialer skal med, og ofte også en trailer. Derfor viser vi kun kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt ifølge producenten, sorteret efter hvad de reelt koster om måneden. Vælg en bil, og få tilbud gratis.",
+  "svar": "Billigst til håndværkere:"
+ },
+ {
+  "slug": "diesel-varebil",
+  "h1": "Dieselvarebil i erhvervsleasing",
+  "title": "Dieselvarebil leasing fra %fra% kr./md.",
+  "desc": "Sammenlign %n% tilbud på dieselvarebiler til erhverv med samlet pris pr. måned, forbrug og nyttelast. Fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Halvdelen af de nye varebiler er elektriske, men de fleste tilbud på siden er stadig diesel. Her er de dieseldrevne modeller, sorteret efter samlet pris pr. måned med udbetalingen fordelt. Ved hver bil kan du se forbrug og nyttelast.",
+  "svar": "Billigste dieselvarebil:"
+ },
+ {
+  "slug": "varebil-med-lav-udbetaling",
+  "h1": "Varebil uden udbetaling eller med lav udbetaling",
+  "title": "Varebil uden udbetaling? %n% leasingtilbud",
+  "desc": "Tilbud på varebiler uden udbetaling eller med højst 40.000 kr. i førstegangsydelse, fra %fra% kr./md. uden moms. Se den reelle pris, og få tilbud gratis.",
+  "intro": "Her er %n% tilbud på varebiler uden udbetaling eller med en førstegangsydelse på højst 40.000 kr. En lav udbetaling gør månedsydelsen højere, og derfor viser kolonnen Inkl. udbetaling, hvad hvert tilbud reelt koster om måneden.",
+  "svar": "Lavest udbetaling lige nu:"
+ },
+ {
+  "slug": "finansiel-eller-operationel-leasing",
+  "h1": "Finansiel eller operationel leasing af varebil",
+  "title": "Finansiel eller operationel leasing? %n% tilbud",
+  "desc": "Se forskellen på finansiel og operationel leasing af varebil, regnet på %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Ved operationel leasing afleverer du bilen, og leasingselskabet bærer risikoen for, hvad den er værd. Her kan du se begge typer side om side og vælge den, der passer til virksomheden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "varebil-med-service-inkluderet",
+  "h1": "Varebil med service inkluderet i leasingydelsen",
+  "title": "Varebil med service inkluderet: %n% tilbud",
+  "desc": "%n% leasingtilbud på varebiler, hvor service og reparation er med i ydelsen, fra %fra% kr./md. uden moms. Kend udgiften på forhånd, og få tilbud gratis.",
+  "intro": "Her er %n% tilbud, hvor forhandleren eller leasingselskabet skriver, at service og reparation er med i månedsydelsen. Så kender du udgiften til værkstedet på forhånd. Sammenlign den samlede pris, og få et tilbud gratis.",
+  "svar": "Billigst med service:"
+ },
+ {
+  "slug": "varebil-med-kort-loebetid",
+  "h1": "Varebil med kort løbetid",
+  "title": "Varebil på kort leasing: 36 eller 48 måneder",
+  "desc": "%n% leasingtilbud på varebiler med 36 eller 48 måneders løbetid i stedet for de sædvanlige 60, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "De fleste leasingaftaler på varebiler løber i 60 måneder. Her er %n% tilbud på 36 eller 48 måneder, så du kan skifte bil tidligere, hvis virksomheden vokser eller opgaverne ændrer sig. Ydelsen er som regel højere, fordi bilen afdrages over kortere tid.",
+  "svar": "Billigst på kort løbetid:"
+ },
+ {
+  "slug": "operationel-leasing-elvarebil",
+  "h1": "Operationel leasing af elvarebil",
+  "title": "Operationel leasing af elvarebil: %n% tilbud",
+  "desc": "Lease en elvarebil, og aflever den efter løbetiden uden at hæfte for restværdien. %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du elvarebilen, når aftalen udløber, og leasingselskabet bærer risikoen for, hvad den er værd. Her er %n% tilbud sorteret efter den reelle pris, hvor udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigste elvarebil lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-elvarebil",
+  "h1": "Finansiel leasing af elvarebil",
+  "title": "Finansiel leasing af elvarebil fra %fra% kr.",
+  "desc": "Se ydelse, udbetaling og restværdi på elvarebiler med finansiel leasing. %n% tilbud fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen til det beløb. Her er %n% tilbud på elvarebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigste elvarebil lige nu:"
+ },
+ {
+  "slug": "operationel-leasing-lille-varebil",
+  "h1": "Operationel leasing af lille varebil",
+  "title": "Operationel leasing af lille varebil i %aar%",
+  "desc": "Små varebiler på operationel leasing, hvor du afleverer bilen efter løbetiden og ikke hæfter for restværdien. %n% tilbud fra %fra% kr./md. uden moms.",
+  "intro": "Her er %n% tilbud på små varebiler, hvor du afleverer bilen, når aftalen udløber. Leasingselskabet bærer risikoen for, hvad den er værd. Det billigste tilbud står øverst, og udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigste lille varebil:"
+ },
+ {
+  "slug": "finansiel-leasing-lille-varebil",
+  "h1": "Finansiel leasing af lille varebil",
+  "title": "Finansiel leasing af lille varebil: %n% tilbud",
+  "desc": "%n% finansielle leasingtilbud på små varebiler fra %fra% kr./md. uden moms, med ydelse, udbetaling og restværdi side om side. Få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen. Her er %n% tilbud på små varebiler, hvor du kan se ydelse, udbetaling og restværdi for hvert tilbud.",
+  "svar": "Billigste lille varebil:"
+ },
+ {
+  "slug": "operationel-leasing-mellemstor-varebil",
+  "h1": "Operationel leasing af mellemstor varebil",
+  "title": "Mellemstor varebil: operationel leasing %aar%",
+  "desc": "Mellemstore varebiler på operationel leasing, hvor du afleverer bilen efter løbetiden. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du den mellemstore varebil, når aftalen udløber, og du hæfter ikke for restværdien. Her er %n% tilbud sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-mellemstor-varebil",
+  "h1": "Finansiel leasing af mellemstor varebil",
+  "title": "Finansiel leasing af mellemstor varebil %aar%",
+  "desc": "%n% finansielle leasingtilbud på mellemstore varebiler fra %fra% kr./md. uden moms. Se ydelse, udbetaling og restværdi, og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Her er %n% tilbud på mellemstore varebiler med ydelse, udbetaling og restværdi side om side. Det billigste tilbud står øverst, og udbetalingen er fordelt over løbetiden.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "operationel-leasing-stor-varebil",
+  "h1": "Operationel leasing af stor varebil",
+  "title": "Operationel leasing af stor varebil: %n% tilbud",
+  "desc": "Store varebiler på operationel leasing, hvor du afleverer bilen, når aftalen udløber. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du den store varebil, når aftalen udløber, og leasingselskabet bærer risikoen for, hvad den er værd. Her er %n% tilbud sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "svar": "Billigste store varebil:"
+ },
+ {
+  "slug": "finansiel-leasing-stor-varebil",
+  "h1": "Finansiel leasing af stor varebil",
+  "title": "Finansiel leasing af stor varebil fra %fra% kr.",
+  "desc": "Se ydelse, udbetaling og restværdi på %n% finansielle leasingtilbud på store varebiler, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber, og du eller en køber, du anviser, overtager bilen til det beløb. Her er %n% tilbud på store varebiler, og du kan sammenligne restværdien lige så let som ydelsen.",
+  "svar": "Billigste store varebil:"
+ },
+ {
+  "slug": "operationel-leasing-varebil",
+  "h1": "Operationel leasing af varebil",
+  "title": "Operationel leasing af varebil: %n% tilbud",
+  "desc": "Operationel leasing af varebil uden restværdi, så du afleverer bilen, når aftalen udløber. %n% tilbud fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved operationel leasing afleverer du bilen, når aftalen udløber, og der er ingen restværdi at hæfte for. Her er %n% tilbud på varebiler i alle størrelser. Se ydelsen og hvad der følger med i hvert tilbud, og få et tilbud gratis.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "finansiel-leasing-varebil",
+  "h1": "Finansiel leasing af varebil",
+  "title": "Finansiel leasing af varebil fra %fra% kr./md.",
+  "desc": "%n% finansielle leasingtilbud på varebiler med ydelse, udbetaling, restværdi og løbetid side om side, fra %fra% kr./md. uden moms. Få tilbud gratis.",
+  "intro": "Ved finansiel leasing hæfter du for en restværdi, når aftalen udløber. Du eller en køber, du anviser, overtager bilen til det beløb, og er den mindre værd, betaler du forskellen. Her er %n% tilbud, hvor du kan sammenligne restværdi og ydelse.",
+  "svar": "Billigst lige nu:"
+ },
+ {
+  "slug": "erhvervsbil-leasing",
+  "h1": "Erhvervsbil leasing: varebil, kassevogn, ladbil og pickup",
+  "title": "Erhvervsbil leasing: %n% modeller fra %fra% kr.",
+  "desc": "Den billigste leasingpris på %n% varebiler, kassevogne, ladbiler og pickupper på gule plader, fra %fra% kr./md. uden moms. Sammenlign og få tilbud gratis.",
+  "intro": "Her står hver erhvervsbil på gule plader én gang med det billigste tilbud, vi har på den. Det gælder varebiler, kassevogne, ladbiler og pickupper. Klik på en model for at se alle tilbud, målene og udstyret.",
+  "svar": "Billigste erhvervsbil lige nu:"
+ }
+]

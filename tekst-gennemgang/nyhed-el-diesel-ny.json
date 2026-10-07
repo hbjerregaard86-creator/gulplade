@@ -1,0 +1,242 @@
+{
+  "slug": "elvarebil-eller-diesel-maanedlig-pris",
+  "sektion": "nyheder",
+  "udgivet": "2026-10-04",
+  "h1": "Elvarebil eller diesel? El er billigst i alle fire modeller, vi har regnet på",
+  "title": "Elvarebil eller diesel? Månedsprisen på fire varebiler regnet igennem",
+  "desc": "Kangoo, Transporter, Master og Ducato med diesel og el ved 15.000 km om året. Elbilen er billigst i alle fire og sparer 323-1.804 kr. om måneden uden moms.",
+  "kort": "Vi har regnet på fire varebiler, der fås med både diesel og el. Når diesel, strøm og ejerafgift lægges oven i leasingen, er elbilen billigst hver gang, også når den koster mest at lease.",
+  "emne": "Vælg den rigtige bil",
+  "laesetid": 4,
+  "opdateret": "2026-10-04",
+  "afsnit": [
+    {
+      "h2": "Resultatet",
+      "tekst": [
+        "Vi har sammenlignet fire varebiler, der fås med både diesel og el: Renault Kangoo, Volkswagen Transporter, Renault Master og Fiat Ducato. Diesel- og elbilen er leaset hos **samme forhandler eller leasingselskab, med samme løbetid og 15.000 km om året**, så forskellen ikke skyldes aftalen.",
+        "Når diesel, strøm og grøn ejerafgift lægges oven i leasingen, er **elbilen billigst i alle fire modeller**. Den sparer fra 323 kr. til 1.804 kr. om måneden. Ser man kun på leasingydelsen, er elbilen billigst i én model, koster det samme i én og er dyrest i to."
+      ],
+      "tabeller": [
+        {
+          "hoved": [
+            "Pr. måned",
+            "Diesel",
+            "El",
+            "El billigere"
+          ],
+          "raekker": [
+            [
+              "Renault Kangoo",
+              "4.099 kr.",
+              "3.042 kr.",
+              "1.057 kr."
+            ],
+            [
+              "VW Transporter",
+              "5.534 kr.",
+              "5.211 kr.",
+              "323 kr."
+            ],
+            [
+              "Renault Master",
+              "5.905 kr.",
+              "4.503 kr.",
+              "1.402 kr."
+            ],
+            [
+              "Fiat Ducato",
+              "6.505 kr.",
+              "4.701 kr.",
+              "1.804 kr."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Model for model",
+      "tekst": [
+        "I tabellerne er leasing månedsydelsen plus udbetalingen fordelt over løbetiden. Udgiften til diesel og strøm er regnet med 15.000 km om året."
+      ],
+      "tabeller": [
+        {
+          "titel": "[Renault Kangoo](/varebiler/renault/kangoo/) og [Kangoo E-Tech](/varebiler/renault/kangoo-e-tech/)",
+          "hoved": [
+            "Pr. måned",
+            "Diesel",
+            "El"
+          ],
+          "raekker": [
+            [
+              "Leasing",
+              "2.832 kr.",
+              "2.532 kr."
+            ],
+            [
+              "Brændstof / el",
+              "967 kr.",
+              "433 kr."
+            ],
+            [
+              "Grøn ejerafgift",
+              "300 kr.",
+              "77 kr."
+            ],
+            [
+              "I alt",
+              "4.099 kr.",
+              "3.042 kr."
+            ]
+          ],
+          "sum": true,
+          "note": "Lille kassevogn på 3,3 m³. Tilbuddene er fra Ejner Hessel og løber i 60 måneder. Elbilen er også billigst at lease."
+        },
+        {
+          "titel": "[VW Transporter](/varebiler/volkswagen/transporter/) og [e-Transporter](/varebiler/volkswagen/e-transporter/)",
+          "hoved": [
+            "Pr. måned",
+            "Diesel",
+            "El"
+          ],
+          "raekker": [
+            [
+              "Leasing",
+              "3.428 kr.",
+              "4.578 kr."
+            ],
+            [
+              "Brændstof / el",
+              "1.459 kr.",
+              "556 kr."
+            ],
+            [
+              "Grøn ejerafgift",
+              "647 kr.",
+              "77 kr."
+            ],
+            [
+              "I alt",
+              "5.534 kr.",
+              "5.211 kr."
+            ]
+          ],
+          "sum": true,
+          "note": "Mellemstor kassevogn i lang udgave. Tilbuddene er fra Volkswagen Erhvervsbiler og løber i 60 måneder som operationel leasing med service. Elbilen koster 1.150 kr. mere om måneden at lease."
+        },
+        {
+          "titel": "[Renault Master](/varebiler/renault/master/) og [Master E-Tech](/varebiler/renault/master-e-tech/)",
+          "hoved": [
+            "Pr. måned",
+            "Diesel",
+            "El"
+          ],
+          "raekker": [
+            [
+              "Leasing",
+              "3.832 kr.",
+              "3.832 kr."
+            ],
+            [
+              "Brændstof / el",
+              "1.426 kr.",
+              "594 kr."
+            ],
+            [
+              "Grøn ejerafgift",
+              "647 kr.",
+              "77 kr."
+            ],
+            [
+              "I alt",
+              "5.905 kr.",
+              "4.503 kr."
+            ]
+          ],
+          "sum": true,
+          "note": "Stor kassevogn i L2H2 på 10,8 m³. Tilbuddene er fra Ejner Hessel og løber i 60 måneder. De to biler koster det samme at lease."
+        },
+        {
+          "titel": "[Fiat Ducato](/varebiler/fiat/ducato/) og [E-Ducato](/varebiler/fiat/e-ducato/)",
+          "hoved": [
+            "Pr. måned",
+            "Diesel",
+            "El"
+          ],
+          "raekker": [
+            [
+              "Leasing",
+              "3.878 kr.",
+              "3.928 kr."
+            ],
+            [
+              "Brændstof / el",
+              "1.724 kr.",
+              "696 kr."
+            ],
+            [
+              "Grøn ejerafgift",
+              "903 kr.",
+              "77 kr."
+            ],
+            [
+              "I alt",
+              "6.505 kr.",
+              "4.701 kr."
+            ]
+          ],
+          "sum": true,
+          "note": "Stor kassevogn i L3H2 på 13 m³. Tilbuddene er fra Fiat Professional og løber i 60 måneder."
+        }
+      ],
+      "efter": [
+        "Regn jeres egen kørsel igennem i [elberegneren](/groen-omstilling/#beregner). Her kan I bruge jeres egne kilometer og priser på diesel og strøm og vælge mellem alle 21 varebiler, der fås med både diesel og el."
+      ]
+    },
+    {
+      "h2": "Det, tallene ikke viser",
+      "tekst": [
+        "Forskellen i **nyttelast** er lille i Kangoo, Transporter og Master. I Ducato er den stor, for ifølge producenten må dieselbilen laste 1.240 kg og E-Ducato 635 kg. For firmaer, der kører med tunge læs, kan nyttelasten betyde mere end prisen.",
+        "Vi har regnet med, at 70 % af strømmen lades **hjemme eller på firmaets adresse**. Kan bilen ikke lades der, stiger udgiften til strøm. Lader I kun på offentlige ladere til 3 kr. pr. kWh, koster strømmen til Ducato 1.103 kr. om måneden i stedet for 696 kr. Så er elbilen stadig billigst i Kangoo, Master og Ducato, mens Transporter koster det samme med el og diesel, nemlig 5.536 kr. mod 5.534 kr.",
+        "Bilerne er ikke helt ens udstyret. Vi har brugt det billigste tilbud på hver bil, og derfor har diesel-Kangooen manuelt gear, mens el-Kangooen har automatgear. På modelsiden kan du se, hvad der følger med i hvert tilbud."
+      ]
+    },
+    {
+      "h2": "Sådan har vi regnet",
+      "tekst": [
+        "Alle priser er uden moms, ligesom i leasingtilbuddene.",
+        "Vi har brugt det billigste tilbud på hver bil. Diesel- og elbilen er fra samme forhandler eller leasingselskab, og priserne er fra deres egne prislister den 4. oktober 2026. Leasingprisen er månedsydelsen plus førstegangsydelsen fordelt over løbetiden.",
+        "Diesel har vi regnet til 15,17 kr. pr. liter, som var det danske gennemsnit den 28. september 2026 i EU-Kommissionens Weekly Oil Bulletin. Forbruget er producentens WLTP-tal.",
+        "Strøm til erhverv kostede 1,42 kr. pr. kWh i 2. halvår 2025 ifølge Danmarks Statistik. Vi har brugt den pris for 70 % af ladningen og 3 kr. pr. kWh på offentlige ladere for de sidste 30 %. Det giver i gennemsnit 1,89 kr. pr. kWh. Forbruget er også her producentens WLTP-tal.",
+        "Ejerafgiften er den grønne ejerafgift, som producenten eller importøren oplyser for bilen, omregnet til et beløb om måneden.",
+        "Service, dæk og forsikring er ikke regnet med. WLTP-forbruget er målt under standardforhold, og det faktiske forbrug er typisk højere for både diesel- og elbiler."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "sp": "Er en elvarebil billigere end en dieselvarebil?",
+      "sv": "I vores sammenligning af fire varebiler den 4. oktober 2026 er elbilen billigst pr. måned i alle fire, når leasing, diesel eller strøm og grøn ejerafgift regnes med ved 15.000 km om året. Den er fra 323 kr. (VW Transporter) til 1.804 kr. (Fiat Ducato) billigere om måneden uden moms."
+    },
+    {
+      "sp": "Er leasingydelsen højere på en elvarebil?",
+      "sv": "Ikke altid. Renault Kangoo E-Tech er 300 kr. billigere at lease end dieselbilen, Renault Master koster det samme, og VW e-Transporter er 1.150 kr. dyrere. Det er udgiften til diesel, strøm og ejerafgift, der afgør, hvilken bil der er billigst samlet. Priserne er uden moms."
+    }
+  ],
+  "kilder": [
+    {
+      "navn": "EU-Kommissionen: Weekly Oil Bulletin",
+      "url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en",
+      "dato": "2026-09-28"
+    },
+    {
+      "navn": "Danmarks Statistik: ENERGI2, elpriser for erhverv",
+      "url": "https://www.statistikbanken.dk/ENERGI2",
+      "dato": "2026-10-02"
+    },
+    {
+      "navn": "Leasingtilbud og producentdata: kilde og dato står ved hvert tilbud på modelsiderne",
+      "url": "https://gulplade.dk/varebiler/",
+      "dato": "2026-10-04"
+    }
+  ]
+}

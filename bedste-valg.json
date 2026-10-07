@@ -1,0 +1,10 @@
+{ "guider": { "el-varebil": { "h1": "Bedste elvarebil %aar%", "svar": "Vores valg:", "faq_bedste": "Hvad er den bedste elvarebil i %aar%?",
+  "valg_overskrift": "De tre bedste elvarebiler",
+  "valg": [
+    { "model": "kia-pv5-cargo", "label": "Bedst samlet", "kort": "Den kører længst af de små elvarebiler.", "hvorfor": "Test." },
+    { "model": "ford-e-transit-custom", "label": "Bedste mellemstore", "kort": "x", "hvorfor": "Test 2." },
+    { "model": "renault-master-e-tech", "label": "Bedste store", "kort": "x", "hvorfor": "Test 3." }
+  ],
+  "ogsaa": [ { "model": "vw-id-buzz-cargo", "tekst": "Test også." } ],
+  "om_billigst": { "mercedes-ecitan": "Test billigst." }
+} } }

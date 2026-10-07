@@ -1,0 +1,673 @@
+{
+  "niveauer": {
+    "citroen-e-jumpy": {
+      "kilde_fil": "prislister/citroen-e-jumpy.pdf",
+      "niveauer": [
+        {
+          "navn": "Flexline",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Skiltegenkendelse og hastighedsalarm",
+            "Vognbaneassistent",
+            "Avanceret nødbremsesystem",
+            "Fartpilot",
+            "Radio med 10\" farveskærm, DAB+ og Bluetooth",
+            "Apple CarPlay og Android Auto",
+            "Multifunktionslæderrat med varme",
+            "Dobbelt passagersæde med Moduwork og bord",
+            "Regn- og lyssensor",
+            "Sædevarme",
+            "Bakkamera med 180° og p-sensorer bag",
+            "Ladekabel"
+          ]
+        },
+        {
+          "navn": "Masterline",
+          "bygger_paa": "Flexline",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot",
+            "Bakkamera med 180° og p-sensorer foran og bag",
+            "Digitalt bakspejl",
+            "Blind Spot Detection",
+            "Trådløs oplader til mobil",
+            "El-sammenklappelige sidespejle med varme",
+            "Automatisk klimaanlæg",
+            "Keyless Entry & Go",
+            "Full LED-forlygter med kørelys",
+            "Exterior Look Pack med indfarvede kofangere",
+            "Interior Look Pack med krom",
+            "Automatisk fjernlys",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "citroen-jumpy": {
+      "kilde_fil": "prislister/citroen-jumpy.pdf",
+      "niveauer": [
+        {
+          "navn": "Flexline",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Skiltegenkendelse og hastighedsalarm",
+            "Vognbaneassistent",
+            "Avanceret nødbremsesystem",
+            "Fartpilot",
+            "Radio med 10\" farveskærm, DAB+ og Bluetooth",
+            "Apple CarPlay og Android Auto",
+            "Multifunktionslæderrat med varme",
+            "Dobbelt passagersæde med Moduwork og bord",
+            "Regn- og lyssensor",
+            "Webasto kabinevarmer",
+            "Sædevarme",
+            "Bakkamera med 180° og p-sensorer bag"
+          ]
+        },
+        {
+          "navn": "Masterline",
+          "bygger_paa": "Flexline",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot",
+            "Bakkamera med 180° og p-sensorer foran og bag",
+            "Digitalt bakspejl",
+            "Blind Spot Detection",
+            "Trådløs oplader til mobil",
+            "El-sammenklappelige sidespejle med varme",
+            "Automatisk klimaanlæg",
+            "Keyless Entry & Go",
+            "Full LED-forlygter med kørelys",
+            "Exterior Look Pack med indfarvede kofangere",
+            "Interior Look Pack med krom",
+            "Automatisk fjernlys",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Masterline fås også med 180 hk, Flexline kun med 150 hk."
+    },
+    "opel-combo": {
+      "kilde_fil": "prislister/opel-combo.pdf",
+      "niveauer": [
+        {
+          "navn": "Enjoy",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "10\" HD-touchskærm med navigation (IVI High)",
+            "Surround Rear Vision med digitalt bakspejl og udvidet udsyn bagud og i blinde vinkler",
+            "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord",
+            "Opvarmet forrude",
+            "Sædevarme",
+            "Opvarmet multifunktionelt læderrat",
+            "Elektrisk parkeringsbremse",
+            "Regn- og lyssensor",
+            "El-ruder samt el-justerbare, opvarmede og indklappelige sidespejle",
+            "Fartpilot",
+            "Baksensor",
+            "Blindvinkelassistent"
+          ]
+        },
+        {
+          "navn": "Innovation",
+          "bygger_paa": "Enjoy",
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "Automatisk klimaanlæg",
+            "Nøglefri adgang og start",
+            "Trådløs oplader",
+            "Matrix-forlygter",
+            "Bagkofanger i bilens farve",
+            "Udvendige dørhåndtag i blank sort",
+            "Sidespejlkapper og sidebeskyttelser i blank sort",
+            "Skydedørskinne lakeret i bilens farve",
+            "16\" hjulkapsler (full cover)",
+            "Motorvejsassistent (HIA)",
+            "Vognbane-centreringsassistent (LPA)",
+            "Adaptiv fartpilot med Stop & Go (ACC Stop & Go)",
+            "Udvidet trafikskiltegenkendelse (e-TSR)",
+            "Avanceret nødbremsesystem 3. generation (AEBS3)"
+          ]
+        }
+      ],
+      "note": "Innovation fås kun med 130 hk og automatgear."
+    },
+    "opel-combo-electric": {
+      "kilde_fil": "prislister/opel-combo-electric.pdf",
+      "niveauer": [
+        {
+          "navn": "Enjoy",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "10\" HD-touchskærm med navigation (IVI High)",
+            "Surround Rear Vision med digitalt bakspejl og udvidet udsyn bagud og i blinde vinkler",
+            "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord",
+            "Automatisk klimaanlæg",
+            "Varmepumpe",
+            "Opvarmet forrude",
+            "Sædevarme",
+            "Opvarmet multifunktionelt læderrat",
+            "Elektrisk parkeringsbremse",
+            "Fartpilot",
+            "Baksensor",
+            "Blindvinkelassistent"
+          ]
+        },
+        {
+          "navn": "Innovation",
+          "bygger_paa": "Enjoy",
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "Nøglefri adgang og start",
+            "Trådløs oplader",
+            "Matrix-forlygter",
+            "Bagkofanger i bilens farve",
+            "Udvendige dørhåndtag i blank sort",
+            "Sidespejlkapper og sidebeskyttelser i blank sort",
+            "Skydedørskinne lakeret i bilens farve",
+            "16\" hjulkapsler (full cover)",
+            "Motorvejsassistent (HIA)",
+            "Vognbane-centreringsassistent (LPA)",
+            "Adaptiv fartpilot med Stop & Go (ACC Stop & Go)",
+            "Udvidet trafikskiltegenkendelse (e-TSR)",
+            "Avanceret nødbremsesystem 3. generation (AEBS3)"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "opel-vivaro": {
+      "kilde_fil": "prislister/opel-vivaro.pdf",
+      "niveauer": [
+        {
+          "navn": "Enjoy",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Skiltegenkendelse og hastighedsalarm",
+            "Vognbaneassistent",
+            "Avanceret nødbremsesystem",
+            "Fartpilot",
+            "Radio med 10\" farveskærm, DAB+ og Bluetooth",
+            "Apple CarPlay og Android Auto",
+            "Multifunktionslæderrat med varme",
+            "Dobbelt passagersæde med Moduwork og bord",
+            "Regn- og lyssensor",
+            "Webasto kabinevarmer",
+            "Sædevarme",
+            "Bakkamera med 180° og p-sensorer bag"
+          ]
+        },
+        {
+          "navn": "Innovation",
+          "bygger_paa": "Enjoy",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot",
+            "Bakkamera med 180° og p-sensorer foran og bag",
+            "Digitalt bakspejl",
+            "Blind Spot Detection",
+            "Trådløs oplader til mobil",
+            "El-sammenklappelige sidespejle med varme",
+            "Automatisk klimaanlæg",
+            "Keyless Entry & Go",
+            "Full LED-forlygter med kørelys",
+            "Exterior Look Pack med indfarvede kofangere",
+            "Interior Look Pack med krom",
+            "Automatisk fjernlys",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Innovation fås også med 180 hk, Enjoy kun med 150 hk."
+    },
+    "peugeot-e-expert": {
+      "kilde_fil": "prislister/peugeot-e-expert.pdf",
+      "niveauer": [
+        {
+          "navn": "Plus",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Automatisk klimaanlæg",
+            "Sædevarme",
+            "Dobbelt passagersæde med Moduwork og bord",
+            "Bakkamera med 180° og p-sensor bag",
+            "Fartpilot",
+            "Radio med 10\" farveskærm, DAB+ og Bluetooth",
+            "Apple CarPlay og Android Auto",
+            "Keyless Entry & Go",
+            "Trådløs oplader til mobil",
+            "Multifunktionslæderrat med varme",
+            "Ladekabel",
+            "5 års fabriksgaranti"
+          ]
+        },
+        {
+          "navn": "Premium",
+          "bygger_paa": "Plus",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot",
+            "Bakkamera med 180° og p-sensorer foran og bag",
+            "Digitalt bakspejl",
+            "Blind Spot Detection",
+            "El-sammenklappelige sidespejle med varme",
+            "Full LED-forlygter med kørelys",
+            "Exterior Look Pack med indfarvede kofangere",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "peugeot-e-partner": {
+      "kilde_fil": "prislister/peugeot-e-partner.pdf",
+      "niveauer": [
+        {
+          "navn": "Plus",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "10\" HD-touchskærm med navigation",
+            "Surround Rear Vision med digitalt bakspejl og udvidet udsyn bagud og i blinde vinkler",
+            "Trådløs Apple CarPlay og Android Auto",
+            "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord",
+            "Automatisk klimaanlæg",
+            "Varmepumpe",
+            "Sædevarme",
+            "Trådløs mobiloplader",
+            "Nøglefri adgang og start",
+            "Fartpilot",
+            "Baksensor",
+            "Blindvinkelassistent"
+          ]
+        },
+        {
+          "navn": "Premium",
+          "bygger_paa": "Plus",
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "Adaptiv fartpilot med Stop & Go (ACC Stop & Go)",
+            "Highway Integrated Assist (HIA)",
+            "Extended skiltegenkendelse"
+          ]
+        }
+      ],
+      "note": "Udstyrslisten på side 2 nævner kun adaptiv fartpilot med Stop & Go for Premium. Highway Integrated Assist og extended skiltegenkendelse er fra tilvalgslisten på side 4, hvor Drive Assist Pack står som standard på Premium. Pakken nævner også en vejbaneassistent, men den er ikke taget med, fordi Plus allerede har Lane Keep Assist, og listen ikke siger, om de to er forskellige."
+    },
+    "peugeot-expert": {
+      "kilde_fil": "prislister/peugeot-expert.pdf",
+      "niveauer": [
+        {
+          "navn": "Plus",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Automatisk klimaanlæg",
+            "Webasto kabinevarmer",
+            "Sædevarme",
+            "Dobbelt passagersæde med Moduwork og bord",
+            "Bakkamera med 180° og p-sensor bag",
+            "Fartpilot",
+            "Radio med 10\" farveskærm, DAB+ og Bluetooth",
+            "Apple CarPlay og Android Auto",
+            "Keyless Entry & Go",
+            "Trådløs oplader til mobil",
+            "Multifunktionslæderrat med varme",
+            "5 års fabriksgaranti"
+          ]
+        },
+        {
+          "navn": "Premium",
+          "bygger_paa": "Plus",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot",
+            "Bakkamera med 180° og p-sensorer foran og bag",
+            "Digitalt bakspejl",
+            "Blind Spot Detection",
+            "El-sammenklappelige sidespejle med varme",
+            "Full LED-forlygter med kørelys",
+            "Exterior Look Pack med indfarvede kofangere",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Premium fås også med 180 hk, Plus kun med 150 hk."
+    },
+    "peugeot-partner": {
+      "kilde_fil": "prislister/peugeot-partner.pdf",
+      "niveauer": [
+        {
+          "navn": "Plus",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "10\" radio med SD-skærm, Apple CarPlay og Android Auto, Wifi-mirroring og DAB",
+            "Manuelt klimaanlæg",
+            "Bakkamera og parkeringssensor bag",
+            "Fartpilot med hastighedsbegrænser",
+            "Sædevarme",
+            "Varme i forrude",
+            "Surround Rear Vision med digitalt bakspejl",
+            "Flex Cargo og Extenso-kabine",
+            "Elektrisk parkeringsbremse",
+            "Multifunktionslæderrat med varme",
+            "Elektrisk foldbare sidespejle",
+            "Lane Keep Assist (LKA)"
+          ]
+        },
+        {
+          "navn": "Premium",
+          "bygger_paa": "Plus",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "10\" IVI High-touchskærm med Apple CarPlay og Android Auto, Wifi-mirroring og DAB",
+            "Trådløs opladning",
+            "Adaptiv fartpilot",
+            "ECO-LED-forlygter",
+            "Automatisk klimaanlæg",
+            "Nøglefri adgang og start"
+          ]
+        }
+      ],
+      "note": "Premium fås kun med 130 hk og automatgear. Det manuelle klimaanlæg på Plus står i udstyrstabellen på side 4."
+    },
+    "nissan-interstar": {
+      "kilde_fil": "prislister/nissan-interstar.pdf",
+      "niveauer": [
+        {
+          "navn": "N-Connecta",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Anhængertræk",
+            "Adaptiv fartpilot samt hastighedsbegrænser",
+            "Bakkamera",
+            "Parkeringssensor bag",
+            "Advarsel om biler i den blinde vinkel",
+            "Intelligent vognbaneassistent (Lane Keep Assist)",
+            "Automatisk aircondition",
+            "Opvarmede forsæder",
+            "Dobbeltpassagersæde",
+            "Elektrisk parkeringsbremse",
+            "10,1\" Display Audio med Android Auto og Apple CarPlay",
+            "Isoleret skillevæg mellem kabine og varerum"
+          ]
+        },
+        {
+          "navn": "Tekna",
+          "bygger_paa": "N-Connecta",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "Opvarmet forrude",
+            "Tågeforlygter foran",
+            "12V-udtag i kabinen og i varerummet",
+            "Google built-in med ruteplanlægning via Google Maps, Google Play og Google Assistant",
+            "Trådløs opladning af telefonen",
+            "Handskerum med skuffe",
+            "Lukket opbevaring",
+            "Navkapsler med stor dækning af hjul"
+          ]
+        }
+      ],
+      "note": "Prislisten viser hele standardudstyret for begge niveauer i én tabel på side 3 og 4. Tekna har 170 hk, N-Connecta 150 hk. Side 2 nævner opvarmet forrude og tågeforlygter som standard på Interstar, men tabellen viser dem kun på Tekna."
+    },
+    "nissan-primastar": {
+      "kilde_fil": "prislister/nissan-primastar.pdf",
+      "niveauer": [
+        {
+          "navn": "N-Connecta",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Anhængertræk med Trailer Sway Control",
+            "Heldækkende skillevæg uden rude, med lastluge til langt gods",
+            "Multifunktions-midtersæde med A4-dokumentholder og arbejdsbord",
+            "Automatisk aircondition",
+            "Opvarmede forsæder",
+            "Tilskudsvarmer ab fabrik",
+            "NissanConnect infotainmentsystem med 8\" touchskærm",
+            "Android Auto og Apple CarPlay",
+            "Bakkamera",
+            "360 graders parkeringssensorer foran, på siden og bag",
+            "Advarsel om biler i den blinde vinkel",
+            "LED-forlygter"
+          ]
+        },
+        {
+          "navn": "Tekna",
+          "bygger_paa": "N-Connecta",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "Indfarvet forkofanger og delvis indfarvet bagkofanger",
+            "Indfarvede sidespejle",
+            "NissanConnect infotainmentsystem med 8\" touchskærm og navi",
+            "NissanConnect Services (iOS og Android)",
+            "Sort stofbetræk \"Java\"",
+            "i-Key og centrallås",
+            "Easy Life-skuffe på 19,8 l",
+            "Lukket opbevaring i instrumentpanelet"
+          ]
+        }
+      ],
+      "note": "PDF'en har intet tekstlag, så udstyret er aflæst visuelt i tabellen på side 3 og 4. Tekna har 170 hk og automatgear, N-Connecta 150 hk."
+    },
+    "renault-kangoo": {
+      "kilde_fil": "prislister/renault-kangoo.pdf",
+      "niveauer": [
+        {
+          "navn": "Advance Tekno",
+          "bygger_paa": "Advance",
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "Midterkonsol med armlæn og opbevaring",
+            "Trådløs opladning",
+            "Navipakke med navi og 360° parkeringssensor",
+            "Vidvinkelspejl i passagerens solskærm"
+          ]
+        },
+        {
+          "navn": "Extra Tekno",
+          "bygger_paa": "Advance Tekno",
+          "beregnet": true,
+          "side": 4,
+          "ekstra": [
+            "Automatisk aircondition",
+            "Easy Life-handskerum",
+            "Nøglekort med håndfri betjening og selektiv døråbning",
+            "Automatisk lyssensor, nær og fjern",
+            "Mobilholder",
+            "Indfarvede dørhåndtag"
+          ]
+        }
+      ],
+      "note": "Tekno-pakken ligger oven i standardudstyret og kan fravælges ved bestilling. Prislisten siger ikke, hvad Extra har ud over Advance, så forskellen er fundet i standardudstyret på side 3 og 4, hvor punkterne er mærket \"Kun ADVANCE\" og \"Kun EXTRA\". Vidvinkelspejlet i passagerens solskærm fra Advance Tekno-pakken fås ikke til Extra."
+    },
+    "renault-master-e-tech": {
+      "kilde_fil": "prislister/renault-master-e-tech.pdf",
+      "niveauer": [
+        {
+          "navn": "Tekno 3.5T",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "360° parkeringssensor",
+            "Bakkamera",
+            "Vidvinkelspejl i passagerens solskærm",
+            "Bremseslidindikatorer",
+            "Trådløs oplader",
+            "OpenR 10,1\" display med DAB og trådløs smartphone-spejling (Apple og Android)",
+            "Onboard charger AC 22 kW og DC 130 kW",
+            "Manuel aircondition",
+            "Varme i fører- og det yderste passagersæde",
+            "Fartpilot og fartbegrænser",
+            "Passagerbænk med opbevaring",
+            "6-vejs førersæde med armlæn og lændestøtte"
+          ]
+        },
+        {
+          "navn": "Tekno 4.0T",
+          "bygger_paa": "Tekno 3.5T",
+          "beregnet": true,
+          "side": 4,
+          "ekstra": [
+            "Blindvinkelassistent for cyklister og motorcykler",
+            "Cyklistalarm",
+            "Digital fartskriver",
+            "Hel hjulkapsel"
+          ]
+        }
+      ],
+      "note": "Udstyret er ikke helt ens. Tekno-pakken kan fravælges ved bestilling. Tekno 4.0T har bakkamera, men ikke 360° parkeringssensor fra Teknopakke del 1. Den er begrænset til 90 km/t, og totalvægten er 4.000 kg mod 3.500 kg."
+    },
+    "renault-master-e-tech-chassis": {
+      "kilde_fil": "prislister/renault-master-e-tech-chassis.pdf",
+      "niveauer": [
+        {
+          "navn": "Tekno 3.5T",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Vidvinkelspejl i passagerens solskærm",
+            "Bremseslidindikatorer",
+            "Trådløs oplader",
+            "OpenR 10,1\" display med DAB og trådløs smartphone-spejling (Apple og Android)",
+            "Onboard lader AC 22 kW og DC 130 kW",
+            "Forstærket batteri",
+            "Parkeringssensor bag",
+            "Manuel aircondition",
+            "Varme i fører- og det yderste passagersæde",
+            "Fartpilot og fartbegrænser",
+            "Passagerbænk med opbevaring",
+            "6-vejs førersæde med armlæn og lændestøtte"
+          ]
+        },
+        {
+          "navn": "Tekno 4.0T",
+          "bygger_paa": "Tekno 3.5T",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "Blindvinkelassistent for cyklister og motorcykler",
+            "Cyklistalarm",
+            "Digital fartskriver",
+            "Hel hjulkapsel"
+          ]
+        }
+      ],
+      "note": "Udstyret er ikke helt ens. Tekno-pakken er den samme på begge og kan fravælges ved bestilling. Tekno 4.0T er begrænset til 90 km/t, og totalvægten er 4.000 kg mod 3.500 kg."
+    },
+    "farizon-sv": {
+      "kilde_fil": "prislister/farizon-sv.pdf",
+      "niveauer": [
+        {
+          "navn": "Basis (uden teknikpakke)",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "360 graders kamera",
+            "Parkeringssensorer foran og bag",
+            "Adaptiv fartpilot (ACC)",
+            "Blindvinkeladvarsel (BSD)",
+            "12,3\" touchskærm med FM, AM og DAB-radio",
+            "Trådløs Apple CarPlay og Android Auto",
+            "Varme i rattet",
+            "Varme og ventilation i ydre sæder",
+            "LED-forlygter med automatisk op- og nedblænding",
+            "Tyverialarm",
+            "Varerumsadskillelse uden rude",
+            "Reservehjul i fuld størrelse"
+          ]
+        },
+        {
+          "navn": "Standard (med teknikpakke)",
+          "bygger_paa": "Basis (uden teknikpakke)",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Anhængertræk (2 tons)",
+            "Vægtmonitorering med visning af totalvægt i display",
+            "Opvarmet forrude",
+            "V2L (Vehicle to Load)",
+            "Tre 230V-stik i varerummet",
+            "Regnsensor"
+          ]
+        }
+      ],
+      "note": "Teknikpakken er standard på alle versioner undtagen Basis, som hjemtages på bestilling. Udstyrslisten på side 2 gælder versionerne med teknikpakke, så punkterne for Basis er valgt uden teknikpakkens udstyr."
+    },
+    "kia-pv5-cargo": {
+      "kilde_fil": "prislister/kia-pv5-cargo.pdf",
+      "niveauer": [
+        {
+          "navn": "Work",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 6,
+          "ekstra": [
+            "Adaptiv fartpilot (SCC) med Emergency Stop",
+            "P-sensorer foran og bag",
+            "Bakkamera med dynamisk guide",
+            "12,9\" touchskærm med navigation og Kia Connect, 7 år inkluderet",
+            "Trådløs Apple CarPlay og Android Auto",
+            "Automatisk klimaanlæg med 1 zone",
+            "Varmepumpe",
+            "Varme i forsæder og rat",
+            "Vehicle to Load (V2L) med 230V-udtag i kabinen",
+            "11 kW On-Board-Charger med V2X-forberedelse",
+            "9 mm træfinérbund i varerummet",
+            "Motorvejsassistent (HDA 1)"
+          ]
+        },
+        {
+          "navn": "Work Pro",
+          "bygger_paa": "Work",
+          "beregnet": false,
+          "side": 8,
+          "ekstra": [
+            "360 graders kamera (SVM)",
+            "Aktiv blindvinkelassistent (BCA) og assistent for bagvedkrydsende trafik (RCCA)",
+            "Blindvinkelkamera (BVM)",
+            "Centerairbag mellem forsæder",
+            "P-sensorer foran, bag og på siden",
+            "El-foldbare sidespejle"
+          ]
+        }
+      ],
+      "note": "Prislisterne for L1H1 og L2H2 viser samme forskel mellem Work og Work Pro."
+    }
+  }
+}

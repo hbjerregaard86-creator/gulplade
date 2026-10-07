@@ -1,0 +1,19 @@
+# Bygges af byg-dist.js eller hører kun til denne computer
+dist/
+skitser/
+node_modules/
+.wrangler/
+
+# Kildemateriale: PDF-prislister og gemte websider (over 200 MB).
+# Tallene står i priser.json og de andre json-filer, og scripts og spec-filer i prisdata/ er med.
+prisdata/prislister/
+prisdata/indretning-kilder/
+prisdata/tilbehoer-kilder/
+*.pdf
+
+# Private arbejdsfiler og udkast
+samlet_haandbog.txt
+presse-udkast/
+intromail-forhandlere.md
+partnerforslag.md
+*.pptx

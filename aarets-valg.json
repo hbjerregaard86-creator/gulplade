@@ -1,0 +1,55 @@
+[
+  {
+    "model": "renault-master-e-tech",
+    "label": "Årets varebil",
+    "guide": "stor-varebil",
+    "hvorfor": "Renault Master E-Tech kører længst af de store elvarebiler blandt vores tilbud, og den må stadig laste over et ton og trække 2.500 kg. Den nye Master blev International Van of the Year 2025. I Danmark blev den Årets Varebil 2025 sammen med tvillingen Nissan Interstar.",
+    "anmeldelser": [
+      { "kilde": "International Van of the Year 2025", "url": "https://internationalfleetworld.com/renault-master-walks-off-with-international-van-of-the-year-award-for-2025/", "tekst": "Juryen fra 25 europæiske lande valgte den nye Master enstemmigt." },
+      { "kilde": "Bilmagasinet", "url": "https://bilmagasinet.dk/bil-nyheder/aarets-varebil", "tekst": "Danske Motorjournalister kårede Master og Interstar for meget lastrum til prisen og elbilens rækkevidde." },
+      { "kilde": "What Van?", "url": "https://www.whatvan.co.uk/van-reviews/renault-master-e-tech-advance-review/", "tekst": "Anmelderen giver elbilen 9 ud af 10 og roser køreegenskaberne. Den lader med 130 kW, mens Ford lader med 180 kW." }
+    ]
+  },
+  {
+    "model": "ford-transit-custom",
+    "label": "Bedste mellemstore varebil",
+    "guide": "mellemstor-varebil",
+    "hvorfor": "Ford Transit Custom blev International Van of the Year 2024. I Euro NCAP's test af varebilers sikkerhed fik den den højeste medalje, Platinum. I 2026 har flere britiske fagblade igen kåret den som den bedste mellemstore varebil. Den fås også som elbil under navnet E-Transit Custom.",
+    "anmeldelser": [
+      { "kilde": "Auto Express", "url": "https://www.autoexpress.co.uk/ford/transit-custom/361649/ford-transit-custom-van-review", "tekst": "Bladet giver 4,5 ud af 5. Den er let at køre og fås i mange udgaver, men koster mere end konkurrenterne." },
+      { "kilde": "Biltorvet", "url": "https://www.biltorvet.dk/artikler/anmeldelser/ford-transit-custom---stadig-haandvaerkerens-ven/4195", "tekst": "Anmelderen roser køreegenskaberne og lastrummet, men skriver, at vej og dæk larmer på motorvejen." },
+      { "kilde": "Bilmagasinet", "url": "https://bilmagasinet.dk/ford/ford-transit-custom", "tekst": "Bladet kalder elbilen det bedste tilbud i klassen indtil nu. Den koster dog en del mere end dieselbilen." }
+    ]
+  },
+  {
+    "model": "kia-pv5-cargo",
+    "label": "Bedste lille elvarebil",
+    "guide": "el-varebil",
+    "hvorfor": "Kia PV5 Cargo blev International Van of the Year 2026. Den er bygget som elbil fra starten. Den kører også længst af alle elvarebilerne blandt vores tilbud. Den har også det største lastrum af de små varebiler.",
+    "anmeldelser": [
+      { "kilde": "International Van of the Year 2026", "url": "https://van-of-the-year.com/?p=2217", "tekst": "En enig jury på 26 journalister valgte PV5 for den nye elplatform og designet." },
+      { "kilde": "Bilmagasinet", "url": "https://bilmagasinet.dk/kia/pv5-cargo", "tekst": "Bladet kalder den en god og billig elvarebil. Lastrummet er dog kun 225 cm langt." },
+      { "kilde": "Fleet News", "url": "https://www.fleetnews.co.uk/van/reviews/kia-pv5-cargo", "tekst": "Anmelderen roser det høje lastrum og udstyret. Nyttelasten er dog omkring 200 kg lavere end hos de bedste i klassen." }
+    ]
+  },
+  {
+    "model": "ford-transit-courier",
+    "label": "Bedste lille varebil",
+    "guide": "lille-varebil",
+    "hvorfor": "Ford Transit Courier blev kåret som den bedste lille varebil af What Car?, Parkers, Fleet News og Van Reviewer i 2026. Anmelderne fremhæver, at den kører bedst i klassen. Til gengæld har den lidt mindre lastrum end Berlingo og Caddy.",
+    "anmeldelser": [
+      { "kilde": "What Car?", "url": "https://www.whatcar.com/news/van-and-commercial-vehicle-awards-best-small-van/n25156", "tekst": "Bladet kårede den som bedste lille varebil 2026, fordi den kører bedst og er den mest komplette." },
+      { "kilde": "Parkers", "url": "https://www.parkers.co.uk/vans-pickups/ford/transit-courier/", "tekst": "Anmelderen giver 4,3 ud af 5, men finder skærmen besværlig at bruge og automatgearet langsomt." }
+    ]
+  },
+  {
+    "model": "ford-ranger",
+    "label": "Bedste pickup",
+    "guide": "pickup-leasing",
+    "hvorfor": "Ford Ranger må trække 3.500 kg. I 2026 blev den kåret som den bedste pickup af What Car?, Fleet News og Auto Express. Den deler teknik med VW Amarok, men anmelderne fremhæver, at Ranger er billigere og fås i flere udgaver.",
+    "anmeldelser": [
+      { "kilde": "Autocar", "url": "https://www.autocar.co.uk/car-review/ford/ranger", "tekst": "Anmelderen giver 4,5 ud af 5 og kalder den praktisk og nem at køre." },
+      { "kilde": "LandbrugsAvisen", "url": "https://landbrugsavisen.dk/traktortech/hybrid-version-blev-aarets-pickup-255982", "tekst": "Ranger som plugin-hybrid vandt International Pick-up Award 2026/27 som den første hybrid nogensinde." }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "niveauer": {
+    "vw-caddy": {
+      "kilde_fil": "niveau-kilder/vw-caddy.json",
+      "kilde_url": "https://www.volkswagen.dk/da/erhvervsbiler/caddy-cargo.html#udstyrsvarianter",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Klimaanlæg Climatronic i førerhuset",
+            "Infotainment med 12,9\" touch-farvedisplay og trådløs App-Connect",
+            "Digital Cockpit",
+            "Bakkamera Rear View",
+            "Parkeringssensorer for og bag",
+            "Sædevarme til forsæder med separat justering",
+            "Forrude med elopvarmning",
+            "Sidespejle med elektrisk indstilling, elopvarmning og indklapning",
+            "Centrallås med nøglefrit startsystem Keyless Start",
+            "Fartpilot",
+            "Høj skillevæg uden rude",
+            "LED-lys i varerum, 2 LED-spots"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "17\" letmetalfælge Columbo i sort blank med lasurlak i Vulcano",
+            "AGR ergoComfort forsæder med indstilling af sædehyndens hældning",
+            "Lændestøtte med elektrisk 4-vejs-indstilling i begge forsæder",
+            "LED-forlygter med LED-dagskørelys",
+            "LED-baglygter",
+            "Vejrafhængigt lys og drejelys med LED-teknik",
+            "Dynamisk lyslængderegulering",
+            "Stødfanger lakeret i bilens farve",
+            "Sortlakerede sidespejlhuse, dørhåndtag i bilens farve og skydedørsskinne i sort",
+            "Sort tagræling",
+            "Sort tag",
+            "Dekorindlæg Dark Silver brushed",
+            "Luftdyser foran med kromindlæg",
+            "Pedaler i aluminiumslook",
+            "Afdækninger til letmetalfælge"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Punkterne er standardudstyr i Volkswagens danske konfigurator (Udstyrsvarianter og Vis alt udstyr på modelsiden), hentet den 6. oktober 2026. Vi har sammenlignet Comfort og Edition med samme motor og gearkasse (1.5 TSI DSG, eHybrid og 2.0 TDI 122 hk), og forskellen er den samme på Caddy Cargo og Caddy Maxi Cargo. Konfiguratorfilen har ingen sider, og den siger ikke, at Edition bygger på Comfort. Sort tag står ikke i konfiguratorens standardudstyr, men i prislistens linje for Edition-modellen (prislister/vw-caddy.pdf). Comfort med eHybrid har allerede 17\" stålfælge. Edition fås kun med DSG."
+    },
+    "volkswagen-transporter": {
+      "kilde_fil": "niveau-kilder/volkswagen-transporter.json",
+      "kilde_url": "https://www.volkswagen.dk/da/erhvervsbiler/transporter.html",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Airconditionanlæg i førerkabinen med manuel regulering",
+            "Radio med 13\" touchfarvedisplay og trådløs App-Connect til Apple og Android",
+            "Bakkamera Rear View",
+            "Parkeringssensorer for og bag",
+            "Programmerbar parkeringsvarmer med fjernbetjening",
+            "Sædevarme i førerkabinen med separat indstilling",
+            "LED-forlygter med LED-dagskørelys",
+            "Fartpilot med intelligent hastighedsassistent",
+            "3 kraftfulde LED-lamper i varerummets loftbeklædning",
+            "Sidebeklædning i kunststof i varerummet i halv højde og beklædning af loft med kabelkanal",
+            "Dobbelt passagersæde med underlæssefunktion og klapbord",
+            "Ekstrabatteri (80 Ah, AGM)"
+          ]
+        },
+        {
+          "navn": "PanAmericana",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "17\" letmetalfælge Monte Carlo i sort med glanspoleret overflade",
+            "Dæk 215/60 R17C",
+            "Eksteriørpakke PanAmericana med robust offroad-look og designdetaljer",
+            "LED-baglygter med eksklusiv lyssignatur",
+            "8-vejs indstilleligt førersæde",
+            "Elektrisk 4-vejs lændestøtte til førersædet",
+            "Sædeindtræk i stof, design PanAmericana",
+            "Multifunktionsrat i kunstlæder",
+            "Side- og hovedairbags i førerkabinen",
+            "Handskerum med dæmpet lukning og lys",
+            "Indstigningsliste foran i metal med lys og skriften PanAmericana",
+            "Dekorindlæg og dørbeklædning i design Life",
+            "Displayramme i sort højglans",
+            "Indvendige dørhåndtag i krom"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "17\" letmetalfælge Le Mans i sort højglans",
+            "Dæk 215/60 R17C",
+            "IQ.LIGHT LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+            "Dynamic Light Assist",
+            "LED-baglygter med eksklusiv lyssignatur",
+            "Adaptiv fartpilot ACC",
+            "Side Assist med manøvrebremsefunktion og udstigningsadvarsel",
+            "Omgivelsesvisningen Area View med bakkamera Rear View",
+            "Nødbremseassistent med vejkrydsassistent og udvidet drejeassistent",
+            "Parkeringshjælp for og bag med manøvrebremsefunktion",
+            "Airconditionanlæg i førerkabinen (1 zone med automatisk regulering)",
+            "Multifunktionsrat i kunstlæder, elopvarmet",
+            "Side- og hovedairbags i førerkabinen",
+            "El-klapbare sidespejle med indklapning via nøgle",
+            "EDITION-foliering",
+            "Sort tag",
+            "Sidespejlhuse lakeret i sort og dørhåndtag i bilens farve",
+            "Stødfangere for og bag i bilens farve",
+            "Stænklapper for og bag",
+            "Modelbetegnelse bagpå med pynteliste i bilens farve",
+            "Elektronisk stabilitetsprogram ESP med elektromekanisk bremsekraftforstærker",
+            "Høj skillevæg af metal med stofbeklædning på førerkabinesiden",
+            "Sidebeklædning i kunststof i varerummet i fuld højde og beklædning af loft med kabelkanal",
+            "12-volts stikdåse på D-stolpen bagest i højre side",
+            "7x USB i førerkabinen",
+            "Mobiltelefoninterface med induktiv ladefunktion",
+            "Handskerum med dæmpet lukning og lys",
+            "Indstigningsliste foran i metal med lys og skriften EDITION",
+            "Dekorindlæg og dørbeklædning i design Life",
+            "Displayramme i sort højglans",
+            "Indvendige dørhåndtag i krom"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Punkterne er standardudstyr i Volkswagens danske konfigurator (Udstyrsvarianter og Vis alt udstyr på modelsiden), hentet den 6. oktober 2026, og vi har sammenlignet udgaver med samme motor, gear og længde. Konfiguratorfilen har ingen sider. Nogle pakker nævner konfiguratoren kun ved navn eller slet ikke, og deres indhold er fra prislistens Standard-markeringer og beskrivelser (prislister/volkswagen-transporter.html). Det gælder Eksteriørpakke PanAmericana, Udstyrsniveau Life og indstigningslisten på PanAmericana, og Førerassistentpakke Premium Plus (ACC og Side Assist), Dynamic Light Assist, Eksteriørpakke EDITION og Udstyrsniveau Life på Edition. Ingen af kilderne siger, hvad niveauerne bygger på. Edition bygger på Comfort og ikke på PanAmericana, fordi den har Comforts 6-vejs førersæde med manuel lændestøtte og sædeindtræk i stribet stof. På Edition afløser adaptiv fartpilot ACC fartpiloten, og Area View afløser bakkameraet."
+    },
+    "vw-e-transporter": {
+      "kilde_fil": "niveau-kilder/vw-e-transporter.json",
+      "kilde_url": "https://www.volkswagen.dk/da/erhvervsbiler/e-transporter.html",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Airconditionanlæg i førerkabinen (1 zone med automatisk regulering)",
+            "Radio med 13\" touchfarvedisplay og trådløs App-Connect til Apple og Android",
+            "Bakkamera Rear View",
+            "Parkeringssensorer for og bag",
+            "Varmepumpe til optimering af rækkevidden",
+            "Ladekabel mode 3, 3-faset 32 A, kabellængde 5 m",
+            "Sædevarme i førerkabinen med separat indstilling",
+            "LED-forlygter med LED-dagskørelys",
+            "Fartpilot med intelligent hastighedsassistent",
+            "3 kraftfulde LED-lamper i varerummets loftbeklædning",
+            "Sidebeklædning i kunststof i varerummet i halv højde og beklædning af loft med kabelkanal",
+            "Dobbelt passagersæde med underlæssefunktion og klapbord"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "17\" letmetalfælge Le Mans i sort højglans",
+            "Dæk 215/60 R17C",
+            "IQ.LIGHT LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+            "Dynamisk fjernlysregulering Dynamic Light Assist",
+            "LED-baglygter med eksklusiv lyssignatur",
+            "Adaptiv fartpilot ACC med køkørselsfunktion og intelligent hastighedsassistent",
+            "Side Assist med vognbaneassistent, manøvrebremsefunktion og udstigningsadvarsel",
+            "Omgivelsesvisningen Area View med bakkamera Rear View",
+            "Nødbremseassistent med vejkrydsassistent og udvidet drejeassistent",
+            "Parkeringshjælp for og bag med manøvrebremsefunktion",
+            "Multifunktionsrat i kunstlæder, elopvarmet",
+            "Side- og hovedairbags i førerkabinen",
+            "El-klapbare sidespejle med indklapning via nøgle",
+            "EDITION-foliering",
+            "Sort tag",
+            "Sidespejlhuse lakeret i sort og dørhåndtag i bilens farve",
+            "Stødfangere for og bag i bilens farve",
+            "Stænklapper for og bag",
+            "Modelbetegnelse bagpå med pynteliste i bilens farve",
+            "Høj skillevæg af metal med stofbeklædning på førerkabinesiden",
+            "Sidebeklædning i kunststof i varerummet i fuld højde og beklædning af loft med kabelkanal",
+            "12-volts stikdåse på D-stolpen bagest i højre side",
+            "7x USB i førerkabinen",
+            "Mobiltelefoninterface med induktiv ladefunktion",
+            "Handskerum med dæmpet lukning og lys",
+            "Indstigningsliste foran i metal med lys og skriften EDITION",
+            "Dekorindlæg og dørbeklædning i design Life",
+            "Displayramme i sort højglans",
+            "Indvendige dørhåndtag i krom"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Punkterne er standardudstyr i Volkswagens danske konfigurator (Udstyrsvarianter og Vis alt udstyr på modelsiden), hentet den 6. oktober 2026, og vi har sammenlignet udgaver med samme motor, træk og længde. Edition fås ikke med 136 hk. Konfiguratorfilen har ingen sider. Ladekablet står ikke i konfiguratoren, så det er fra prislisten (prislister/vw-e-transporter.html). Konfiguratoren nævner Eksteriørpakke EDITION og Udstyrsniveau Life kun ved navn, så deres indhold er fra prislistens beskrivelser. Konfiguratoren siger ikke, at Edition bygger på Comfort. På Edition afløser adaptiv fartpilot ACC fartpiloten, og Area View afløser bakkameraet."
+    }
+  }
+}

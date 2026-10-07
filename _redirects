@@ -1,0 +1,132 @@
+# Cloudflare Pages laeser denne fil og laver 301-redirects paa sti-niveau.
+#
+# BEMAERK: hostnavne virker IKKE her. www -> roddomaenet er en Redirect Rule i
+# dashboardet, ikke en linje i denne fil. Det blev proevet, og filen blev bare
+# ignoreret.
+
+# Haandbogen hed /viden/, indtil den fik sit rigtige navn. Siderne havde ligget
+# en enkelt dag, saa der er ingen indekseret trafik at miste - men et link,
+# nogen allerede har delt eller bogmaerket, skal ikke ramme en fejlside.
+# Siden om Horsens fjernet 30-09-2026: forhandleren navngives ikke længere.
+/brugte-varebiler/brugte-varebiler-horsens/  /brugte-varebiler/  301
+
+# Nyhederne flyttet fra Håndbogen til /nyheder/ 01-10-2026. Trafic-artiklen er delt på LinkedIn.
+/haandbogen/ny-renault-trafic-e-tech/  /nyheder/ny-renault-trafic-e-tech/  301
+/haandbogen/ny-mercedes-vito-van-ea/  /nyheder/ny-mercedes-vito-van-ea/  301
+/haandbogen/halvdelen-af-nye-varebiler-er-elektriske/  /nyheder/halvdelen-af-nye-varebiler-er-elektriske/  301
+
+# Prisguiden blev til købssiden med producenternes prislister 06-10-2026.
+/bedste-tilbud/hvad-koster-en-varebil/  /koeb-ny-varebil/  301
+/bedste-tilbud/hvad-koster-en-varebil   /koeb-ny-varebil/  301
+
+/viden/*  /haandbogen/:splat  301
+/viden    /haandbogen/        301
+
+# Kildefiler, der laa offentligt, indtil kun dist/ blev deployet (28-09-2026).
+# Pages' egen cache blev ved med at servere dem efter deployet, og en purge paa
+# domaenet naaede den ikke. En redirect evalueres foer asset-opslaget, saa den
+# lukker dem med det samme. Slet ikke linjerne foer cachen er udloebet (uger).
+/README.md             /  301
+/DEPLOY.md             /  301
+/brugte.json           /brugte-varebiler/  301
+/varebiler.json        /  301
+/.claude/*             /  301
+/generate-pages.js     /  301
+/generate-brugte.js    /  301
+/generate-viden.js     /  301
+/generate-tilvalg.js   /  301
+/deploy-gulplade.bat   /  301
+/indexnow.js           /  301
+
+# Den foerste udgave af sitet havde flade .html-adresser. Google fandt dem og
+# meldte dem i Search Console (27-09-2026) som 404 og omdirigering. De peger nu
+# paa den side, der har overtaget indholdet. Pages kan ikke matche en
+# pladsholder midt i et segment (/maerke-:x.html), saa hvert maerke staar for sig.
+/bedste-tilbud.html          /bedste-tilbud/            301
+/maerke-citroen.html         /varebiler/citroen/        301
+/maerke-ford.html            /varebiler/ford/           301
+/maerke-iveco.html           /varebiler/iveco/          301
+/maerke-kia.html             /varebiler/kia/            301
+/maerke-man.html             /varebiler/man/            301
+/maerke-mercedes.html        /varebiler/mercedes-benz/  301
+/maerke-mercedes-benz.html   /varebiler/mercedes-benz/  301
+/maerke-opel.html            /varebiler/opel/           301
+/maerke-peugeot.html         /varebiler/peugeot/        301
+/maerke-renault.html         /varebiler/renault/        301
+/maerke-toyota.html          /varebiler/toyota/         301
+/maerke-volkswagen.html      /varebiler/volkswagen/     301
+/maerke-vw.html              /varebiler/volkswagen/     301
+/maerke-fiat.html            /varebiler/fiat/           301
+/maerke-nissan.html          /varebiler/nissan/         301
+/maerke-farizon.html         /varebiler/farizon/        301
+
+# Samme adresser uden .html. ChatGPT gætter på dem (/maerke-ford set i loggen
+# 05-10-2026), og de gav 404.
+/maerke-citroen              /varebiler/citroen/        301
+/maerke-fiat                 /varebiler/fiat/           301
+/maerke-ford                 /varebiler/ford/           301
+/maerke-iveco                /varebiler/iveco/          301
+/maerke-kia                  /varebiler/kia/            301
+/maerke-man                  /varebiler/man/            301
+/maerke-mercedes             /varebiler/mercedes-benz/  301
+/maerke-mercedes-benz        /varebiler/mercedes-benz/  301
+/maerke-nissan               /varebiler/nissan/         301
+/maerke-farizon              /varebiler/farizon/        301
+/maerke-opel                 /varebiler/opel/           301
+/maerke-peugeot              /varebiler/peugeot/        301
+/maerke-renault              /varebiler/renault/        301
+/maerke-toyota               /varebiler/toyota/         301
+/maerke-volkswagen           /varebiler/volkswagen/     301
+/maerke-vw                   /varebiler/volkswagen/     301
+
+# >>> solgte biler (genereres — rediger ikke) >>>
+# Biler, der er solgt. De får en 301 til nærmeste side, der findes,
+# i stedet for en 404. Posterne udløber efter 180 dage.
+/brugte-varebiler/citroen-jumper-35-l3-2-2-blue-hdi-proffline-alu-kasse-m-lift-start-stop-16-615881  /brugte-varebiler/citroen/  301
+/brugte-varebiler/citroen-jumpy-l2-2-0-blue-hdi-fleetline-122hk-van-579530  /brugte-varebiler/citroen/  301
+/brugte-varebiler/fiat-ducato-35m-l3h2-2-3-mjt-dpf-130hk-van-6g-536479  /brugte-varebiler/  301
+/brugte-varebiler/ford-kuga-2-5-plugin-hybrid-titanium-cvt-225hk-5d-trinl-gear-579456  /brugte-varebiler/ford/  301
+/brugte-varebiler/ford-ranger-raptor-3-0-v6-ecoboost-e-4wd-292hk-dobkab-10g-aut-637033  /brugte-varebiler/ford/  301
+/brugte-varebiler/ford-transit-300-l-2-2-tdci-dpf-trend-115hk-van-601733  /brugte-varebiler/ford/transit/  301
+/brugte-varebiler/ford-transit-350-l3h1-2-0-tdci-hdt-trend-rwd-165hk-dobkab-10g-aut-614345  /brugte-varebiler/ford/transit/  301
+/brugte-varebiler/ford-transit-350-l3h1-2-0-tdci-trend-130hk-dobkab-6g-519704  /brugte-varebiler/ford/transit/  301
+/brugte-varebiler/ford-transit-courier-1-5-tdci-trend-75hk-van-6g-579264  /brugte-varebiler/ford/  301
+/brugte-varebiler/ford-transit-custom-270-l1h1-2-0-tdci-trend-130hk-van-6g-633327  /brugte-varebiler/ford/transit-custom/  301
+/brugte-varebiler/ford-transit-custom-270-l1h1-2-2-tdci-trend-125hk-van-6g-633328  /brugte-varebiler/ford/transit-custom/  301
+/brugte-varebiler/iveco-daily-35c18-12m3-3-0-d-180hk-van-6g-597257  /brugte-varebiler/iveco/daily/  301
+/brugte-varebiler/iveco-daily-35c18-12m3-3-0-d-180hk-van-8g-aut-622007  /brugte-varebiler/iveco/daily/  301
+/brugte-varebiler/iveco-daily-35c18-4100mm-3-0-d-180hk-ladv-chas-8g-aut-421511  /brugte-varebiler/iveco/daily/  301
+/brugte-varebiler/iveco-daily-35c18-4100mm-3-0-d-180hk-van-8g-aut-625006  /brugte-varebiler/iveco/daily/  301
+/brugte-varebiler/man-tge-3-5t-l4-2-0-scr-koele-frysebil-alu-kasse-m-lift-177hk-ladv-chas-au-573140  /brugte-varebiler/man/tge/  301
+/brugte-varebiler/maxus-e-deliver-9-l3h2-el-72-kwh-koelebil-204hk-van-aut-627878  /brugte-varebiler/  301
+/brugte-varebiler/mercedes-benz-b220-d-2-0-cdi-8g-dct-190hk-5d-8g-aut-635145  /brugte-varebiler/mercedes-benz/  301
+/brugte-varebiler/mercedes-benz-citan-109-lang-1-5-cdi-90hk-van-626711  /brugte-varebiler/mercedes-benz/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-a2-h2-rwd-163hk-van-6g-543816  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-a2-h2-rwd-163hk-van-6g-599013  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-a2-h2-rwd-163hk-van-aut-492547  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-a2-h2-rwd-163hk-van-aut-601731  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-r2-163hk-van-aut-519862  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-r3-163hk-ladv-chas-aut-622194  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-316-2-1-cdi-r3-163hk-van-6g-599203  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-317-2-0-cdi-a2-h2-rwd-9g-tronic-170hk-van-aut-595184  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-318-lang-3-0-cdi-183hk-van-aut-601732  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-sprinter-319-3-0-cdi-r2-7g-tronic-190hk-van-7g-aut-615917  /brugte-varebiler/mercedes-benz/sprinter/  301
+/brugte-varebiler/mercedes-benz-vito-114-a2-2-1-cdi-blueefficiency-go-136hk-van-579070  /brugte-varebiler/mercedes-benz/vito/  301
+/brugte-varebiler/mercedes-benz-vito-114-a3-2-0-cdi-pro-9g-tronic-136hk-van-9g-aut-596500  /brugte-varebiler/mercedes-benz/vito/  301
+/brugte-varebiler/mercedes-benz-vito-120-ekstra-lang-3-0-cdi-204hk-van-aut-618172  /brugte-varebiler/mercedes-benz/vito/  301
+/brugte-varebiler/renault-express-1-5-dci-95hk-van-6g-617381  /brugte-varebiler/renault/  301
+/brugte-varebiler/renault-kangoo-l1-1-5-dci-express-start-stop-90hk-van-346238  /brugte-varebiler/renault/kangoo/  301
+/brugte-varebiler/renault-master-t33-l2h2-2-3-dci-125hk-van-6g-628861  /brugte-varebiler/renault/master/  301
+/brugte-varebiler/renault-master-t35-brobil-2-3-dci-130hk-ladv-chas-man-609956  /brugte-varebiler/renault/master/  301
+/brugte-varebiler/renault-master-t35-l3h2-2-3-dci-tvillingehjul-start-stop-170hk-van-6g-580026  /brugte-varebiler/renault/master/  301
+/brugte-varebiler/renault-trafic-t29-l2h1-2-0-dci-145hk-van-6g-aut-628314  /brugte-varebiler/renault/trafic/  301
+/brugte-varebiler/toyota-proace-compact-1-6-d-base-dobbelt-bagdoer-u-ruder-95hk-van-599346  /brugte-varebiler/toyota/  301
+/brugte-varebiler/toyota-proace-l2h1-1-6-d-4d-t0-splitbagdoer-90hk-van-6g-597024  /brugte-varebiler/toyota/  301
+/brugte-varebiler/toyota-proace-l2h1-2-0-d-4d-comfort-splitbagdoer-128hk-van-6g-630704  /brugte-varebiler/toyota/  301
+/brugte-varebiler/toyota-proace-long-2-0-d-comfort-120hk-van-6g-515297  /brugte-varebiler/toyota/  301
+/brugte-varebiler/toyota-proace-medium-2-0-d-base-ladbil-120hk-ladv-chas-man-630532  /brugte-varebiler/toyota/  301
+/brugte-varebiler/toyota/proace  /brugte-varebiler/toyota/  301
+/brugte-varebiler/vw-crafter-m-2-0-tdi-3ton-163hk-ladv-chas-6g-612846  /brugte-varebiler/vw/  301
+/brugte-varebiler/vw-crafter-mellem-2-5-tdi-m-alu-kasse-m-lift-163hk-ladv-chas-man-531092  /brugte-varebiler/vw/  301
+/brugte-varebiler/vw-transporter-lang-2-0-tdi-bmt-dsg-150hk-van-7g-aut-617313  /brugte-varebiler/vw/transporter/  301
+# <<< solgte biler <<<

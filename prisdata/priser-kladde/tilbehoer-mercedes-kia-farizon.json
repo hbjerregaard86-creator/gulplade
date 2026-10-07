@@ -1,0 +1,223 @@
+{
+  "tilbehoer": {
+    "kia-pv5-cargo": {
+      "kilder": [
+        {
+          "url": "https://api.kiaonline.dk/dokumenter/pv5-cargo-l2h1-tilbehoer.pdf",
+          "navn": "Kia Danmarks tilbehørsliste for PV5 Cargo L2H1 (PDF-udgaven af kia.com/dk/pbv/modeller/pv5-cargo/tilbehoer-l2h1/)",
+          "dato": "2026-10-06",
+          "hentet": "2026-10-06"
+        },
+        {
+          "url": "https://api.kiaonline.dk/dokumenter/pv5-cargo-l1h1-tilbehoer.pdf",
+          "navn": "Kia Danmarks tilbehørsliste for PV5 Cargo L1H1",
+          "dato": "2026-10-06",
+          "hentet": "2026-10-06"
+        },
+        {
+          "url": "https://api.kiaonline.dk/dokumenter/pv5-cargo-l2h2-tilbehoer.pdf",
+          "navn": "Kia Danmarks tilbehørsliste for PV5 Cargo L2H2",
+          "dato": "2026-10-06",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen: \"Den vejledende pris er inkl. montering på et autoriseret Kia-værksted.\" Alle dele gælder Work og Work Pro. De tre lister (L1H1, L2H1, L2H2) har præcis de samme dele og priser; kilde 0 er brugt for alle dele. Listerne har ingen trykt dato og dannes automatisk hver nat (PDF-dato 06-10-2026), så dato = den dag, de er hentet. Priserne står både ekskl. og inkl. moms, og vi bruger ekskl. moms. Undtagelser: 13/7-pol-adapteren står kun med moms (divideret med 1,25), og de tre hjulsæt har et ekskl.-moms-tal, der ikke passer med inkl.-prisen, så her er inkl.-prisen divideret med 1,25 (se note pr. del). Ørebeløb er rundet til hele kroner. Listen har ingen varenumre. Kia giver 3 års garanti på tilbehør købt hos en autoriseret Kia-forhandler ved nyvognskøb. Gemt i tilbehoer-kilder/kia-pv5-cargo.pdf (L2H1), kia-pv5-cargo-l1h1.pdf og kia-pv5-cargo-l2h2.pdf.",
+      "dele": [
+        {
+          "navn": "16\" Kia-alufælge, sølvfarvede, med 215/65 R16 vinterdæk og dæktryksensorer (TPMS), sæt",
+          "gruppe": "hjul",
+          "pris_kr": 11996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver 12.746 kr. ekskl. moms og 14.995 kr. inkl. moms. De to tal passer ikke sammen: ekskl.-tallet er inkl.-prisen gange 0,85. Vi har brugt inkl.-prisen divideret med 1,25.",
+          "kilde": 0
+        },
+        {
+          "navn": "16\" Kia-alufælge, mørke med blanke eger, med 215/65 R16 vinterdæk og dæktryksensorer (TPMS), sæt",
+          "gruppe": "hjul",
+          "pris_kr": 12396,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver 13.171 kr. ekskl. moms og 15.495 kr. inkl. moms. De to tal passer ikke sammen: ekskl.-tallet er inkl.-prisen gange 0,85. Vi har brugt inkl.-prisen divideret med 1,25.",
+          "kilde": 0
+        },
+        {
+          "navn": "16\" Kia-stålfælge med 215/65 R16 vinterdæk og dæktryksensorer (TPMS), sæt",
+          "gruppe": "hjul",
+          "pris_kr": 9116,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver 9.686 kr. ekskl. moms og 11.395 kr. inkl. moms. De to tal passer ikke sammen: ekskl.-tallet er inkl.-prisen gange 0,85. Vi har brugt inkl.-prisen divideret med 1,25.",
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk med aftagelig kugle",
+          "gruppe": "traek",
+          "pris_kr": 11196,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "anhaengertraek",
+          "note": "Listen siger ikke, om el-sæt eller ledningsnet er med.",
+          "kilde": 0
+        },
+        {
+          "navn": "Adapter fra 13-polet til 7-polet stik",
+          "gruppe": "traek",
+          "pris_kr": 151,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Står kun med moms i listen: 189 kr. inkl. moms / 1,25 = 151,20 kr.",
+          "kilde": 0
+        },
+        {
+          "navn": "Lastholdersæt i aluminium, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 2956,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Lastholdersæt i aluminium, 3 stk.",
+          "gruppe": "tag",
+          "pris_kr": 2956,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Listen har samme pris som sættet med 2 stk. (2.956 kr. ekskl. moms, 3.695 kr. inkl. moms).",
+          "kilde": 0
+        },
+        {
+          "navn": "Sol- og sneskærm til forruden",
+          "gruppe": "ydre",
+          "pris_kr": 1196,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stænklapper bag, sæt",
+          "gruppe": "ydre",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1196,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Pynteliste på bagklappen (Bagklap trim line)",
+          "gruppe": "ydre",
+          "pris_kr": 1596,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Pynteliste på siden (Side trim line)",
+          "gruppe": "ydre",
+          "pris_kr": 2796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Bundmåttesæt i velour, 1. sæderække",
+          "gruppe": "kabine",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Foldbar opbevaringskasse (Trunk organizer)",
+          "gruppe": "varerum",
+          "pris_kr": 631,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "631,20 kr. ekskl. moms i listen (789 kr. inkl. moms).",
+          "kilde": 0
+        },
+        {
+          "navn": "V2L-adapter (Vehicle-to-Load), til at tage strøm fra bilens batteri",
+          "gruppe": "el",
+          "pris_kr": 2496,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Elektronisk parkeringsur med solcelle og Kia-logo, typenr. 5105",
+          "gruppe": "andet",
+          "pris_kr": 476,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sikkerhedspakke med advarselstrekant, refleksveste og førstehjælpskasse",
+          "gruppe": "andet",
+          "pris_kr": 339,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "339,20 kr. ekskl. moms i listen (424 kr. inkl. moms).",
+          "kilde": 0
+        }
+      ]
+    }
+  },
+  "afvigelser": [
+    "mercedes-citan, mercedes-ecitan, mercedes-vito, mercedes-evito, mercedes-sprinter, mercedes-esprinter: Ingen dansk tilbehørsliste eller webshop med pris fundet den 06-10-2026. På mercedes-benz.dk/vans har menuen \"Originaldele og tilbehør\" kun siden Reservedele (vans/services/genuine-parts.html), som henviser til B2B Connect (login for værksteder) og til værkstedet. Prislistesiden (vans/finance/pricelists.html) har kun prislister for bilerne, og ingen af PDF'erne nævner tilbehør. Den danske konfigurator (voc.mercedes-benz.com, da_DK) har et tilbehørstrin i sin opsætning, men ingen tilbehørskoder: 0 af 90 gemte udgaver af Vito, eVito, Sprinter og eSprinter (05-10) og to nye opslag på Vito og Sprinter (06-10). Citan og eCitan findes ikke i den danske konfigurator. shop.mercedes-benz.com/da-dk svarer ikke (DNS-fejl). System Edströms danske prisliste for indretning til Citan, Vito og Sprinter (systemedstrom.com, priser fra 01-01-2022) er fra leverandøren, ikke importøren, og er ikke brugt.",
+    "farizon-sv: Farizon Danmarks tilbehørskatalog for SV (docs.farizon.dk/brochure/sv/farizon-sv-tilbehoer/, samme indhold på docs.farizon.dk/tilbehoer/farizon-sv/, 16 sider, PDF ændret 27-08-2026, gemt som tilbehoer-kilder/farizon-sv.pdf) har varenumre, men ingen priser. Pris- og faktaarket og dækspecifikationen på docs.farizon.dk har heller ingen tilbehørspriser, og farizon.dk har ingen webshop. Kataloget viser: vinterhjul komplet med TPMS (Bridgestone 66-6019-0001, Firestone 66-6019-0002), ladekabel type 2 10 m (66-6054-0001), ladekabel med CEE-stik 5 m (66-6015-0002), V2L-adapter med Schuko-stik (66-6054-0003), V2L-adapter 10 m med blåt CE-stik (66-6054-0002), sikkerhedskit (66-6069-0001), elektronisk P-skive med solceller (66-6015-0003), køleboks 8 l og 25 l, gummimåtte (66-6501-0001), LED-lys i varerum 648 mm og 324 mm (66-6018-0002/-0003), bundplade i gråt letvægtsmateriale (L1H1 66-6018-0004, L2H1/L2H2 66-6018-0015), bundplade med alu-top og reolskinner (L1H1 66-6018-0008, L2H1/L2H2 66-6018-0013), side- og dørbeklædning (L1H1 66-6018-0005, L2H1/L2H2 66-6018-0014), ekstra lås til varerumsdør, reolpakker Basis og Premium venstre/højre (L1H1 66-6018-0006/-0007/-0009/-0010, L2H1/L2H2 66-6018-0016/-0017/-0018/-0019), tagbærere til L1H1 med 2 eller 3 laststænger (66-6015-0010/-0011) og adapter til anhængertræk 13/7-pol (66-6015-0005). Priserne må fås hos Farizon Danmark eller forhandleren.",
+    "kia-pv5-cargo: De tre hjulsæt har ekskl.-moms-tal, der ikke passer med inkl.-prisen (12.746/14.995, 13.171/15.495 og 9.686/11.395 kr.). Ekskl.-tallet er hver gang inkl.-prisen gange 0,85 i stedet for divideret med 1,25. Alle andre dele i listen passer med 1,25 og ender på 96 kr. uden moms og 95 kr. med moms, så vi har brugt inkl.-prisen / 1,25 (11.996, 12.396 og 9.116 kr.). Bruges Kias trykte ekskl.-tal i stedet, er hjulene 750, 775 og 570 kr. dyrere. Brugeren bør vælge.",
+    "kia-pv5-cargo: Udeladt som fritidsudstyr: cykelholder til anhængertræk (3.596 kr.), tagboks Roof Box 330 (3.596,80 kr.) og Roof Box 390 (3.916 kr.), alle ekskl. moms.",
+    "kia-pv5-cargo: Den gamle fælles liste uden karrosserikode (api.kiaonline.dk/dokumenter/pv5-cargo-tilbehoer.pdf) svarer stadig, men er fra 16-06-2026 og ikke brugt. Siden da er hjulpriserne steget, der er kommet en ny alufælg, en 13/7-pol-adapter og to lastholdersæt, og parkeringsuret er steget fra 396 til 476 kr. ekskl. moms. Anhængertrækket koster stadig 11.196 kr. ekskl. moms (som i udstyr.json)."
+  ]
+}

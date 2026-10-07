@@ -1,0 +1,50 @@
+# Cloudflare Pages laeser denne fil og saetter headers pr. sti.
+#
+# ── Hvorfor der IKKE staar Cache-Control her ─────────────────────────────────
+#
+# Der gjorde der. Pages **tilfoejer** bare sin egen Cache-Control efter vores i
+# stedet for at erstatte den, og resultatet var selvmodsigende:
+#
+#   Cache-Control: public, max-age=31536000, immutable, public, max-age=0, must-revalidate
+#
+# Paa domaenet blev det normaliseret til "max-age=14400, immutable,
+# must-revalidate" - altsaa stadig fire timer, plus to direktiver der siger hver
+# sit. En malformet header er vaerre end Pages' egen standard, saa linjerne er
+# fjernet igen.
+#
+# Skal billederne caches laengere end fire timer, skal det goeres som en
+# **Cache Rule** i Cloudflare-dashboardet, samme sted som www-redirecten:
+#   Caching > Cache Rules > Create rule
+#   Naar  URI Path starts with  /assets/img/
+#   Saa   Edge TTL og Browser TTL = 1 aar
+# Filnavnet er indholdet (ford-transit-custom.webp er altid det samme billede),
+# og stylesheetet hentes som /assets/style.css?v=<hash>, saa begge kan caches
+# for evigt uden at nogen kan blive haengende paa en gammel version.
+
+# ── Sikkerhedsheaders ────────────────────────────────────────────────────────
+# Dem tilfoejer Pages ikke selv, og dem virker filen til.
+#
+#   frame-ancestors     ingen maa laegge siden i en iframe. En uvildig
+#                       sammenligning i en ramme paa en forhandlers eget
+#                       domaene ville se ud, som om forhandleren stod bag
+#                       tallene.
+#   X-Frame-Options     det samme for aeldre browsere.
+#   Permissions-Policy  siden bruger hverken kamera, mikrofon eller position.
+#                       Naar den ikke goer, skal den heller ikke have lov.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'none'
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+
+# ── gulplade.pages.dev skal ikke i indekset ──────────────────────────────────
+# Pages serverer hele sitet paa projektets egen adresse ogsaa, med status 200.
+# Canonical peger godt nok paa gulplade.dk, men det er kun et hint; en noindex-
+# header er en ordre. Reglen gaelder kun pages.dev-vaerten (og preview-deploys
+# under den), ikke gulplade.dk.
+https://gulplade.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.gulplade.pages.dev/*
+  X-Robots-Tag: noindex

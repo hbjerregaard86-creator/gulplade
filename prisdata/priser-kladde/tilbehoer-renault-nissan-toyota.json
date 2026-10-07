@@ -1,0 +1,3136 @@
+{
+  "tilbehoer": {
+    "toyota-proace-city": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/proace-city/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace City og Proace City Electric",
+          "dato": "2026-07-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Samme liste gælder Proace City (diesel). Anhængertræk, tagbøjlesæt og et vinterhjul står allerede i priser.json fra prislisten og er ikke gentaget.",
+      "dele": [
+        {
+          "navn": "Alufælge 16\" sølv, monteret med bilens egne dæk, inkl. navkapsler",
+          "gruppe": "hjul",
+          "pris_kr": 12546,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 17\" Alegria sølv inkl. navkapsler",
+          "gruppe": "hjul",
+          "pris_kr": 14204,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, om dæk er med.",
+          "kilde": 0
+        },
+        {
+          "navn": "V2L-adapter",
+          "gruppe": "el",
+          "pris_kr": 3195,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Kun til elbilen ifølge listen.",
+          "kilde": 0
+        },
+        {
+          "navn": "Bakkamera til bil med splitbagdøre og Toyotas touchskærm",
+          "gruppe": "sikkerhed",
+          "pris_kr": 4532,
+          "montering_inkl": true,
+          "gaelder": "Biler med splitbagdøre og Toyotas originale touchskærm",
+          "kode": null,
+          "post": "bakkamera",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Midterkonsol til 1+1 sæder, bil med elektrisk parkeringsbremse",
+          "gruppe": "kabine",
+          "pris_kr": 922,
+          "montering_inkl": true,
+          "gaelder": "1+1 sæder og elektrisk parkeringsbremse",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2099,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Afdækning til ladestikket",
+          "gruppe": "el",
+          "pris_kr": 500,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til alufælge",
+          "gruppe": "hjul",
+          "pris_kr": 448,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til stålfælge",
+          "gruppe": "hjul",
+          "pris_kr": 358,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter foran",
+          "gruppe": "kabine",
+          "pris_kr": 437,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Måttesæt i nålefilt, 520 g",
+          "gruppe": "kabine",
+          "pris_kr": 794,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver, at varebilen ikke bruger de bageste måtter.",
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 5757,
+          "montering_inkl": true,
+          "gaelder": "Long med 1 skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 6496,
+          "montering_inkl": true,
+          "gaelder": "Long med 2 skydedøre",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 5614,
+          "montering_inkl": true,
+          "gaelder": "Medium uden skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 5317,
+          "montering_inkl": true,
+          "gaelder": "Medium med 1 skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 6484,
+          "montering_inkl": true,
+          "gaelder": "Medium med 2 skydedøre",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 6483,
+          "montering_inkl": true,
+          "gaelder": "Medium uden skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sikkerhedsgitter til ruderne i splitbagdørene",
+          "gruppe": "varerum",
+          "pris_kr": 2309,
+          "montering_inkl": true,
+          "gaelder": "Biler med splitbagdøre",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra lås ArmaDlock til bagklappen",
+          "gruppe": "sikkerhed",
+          "pris_kr": 3954,
+          "montering_inkl": true,
+          "gaelder": "Biler med bagklap",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med bagklap",
+          "gruppe": "sikkerhed",
+          "pris_kr": 7607,
+          "montering_inkl": true,
+          "gaelder": "Biler med bagklap",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med splitbagdøre og 1 skydedør",
+          "gruppe": "sikkerhed",
+          "pris_kr": 10640,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 1 skydedør",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med splitbagdøre og 2 skydedøre",
+          "gruppe": "sikkerhed",
+          "pris_kr": 11549,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 2 skydedøre",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse ArmaDlock, 2 stk., bil med splitbagdøre og 1 skydedør",
+          "gruppe": "sikkerhed",
+          "pris_kr": 6257,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 1 skydedør",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stænklapper bag",
+          "gruppe": "ydre",
+          "pris_kr": 795,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 15\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 4730,
+          "montering_inkl": true,
+          "gaelder": "Medium, ikke Long og ikke 130 hk",
+          "kode": null,
+          "post": null,
+          "note": "Listen udelukker ikke elbilen her, men vinterhjulet V40 med 15\" stålfælge er markeret \"ikke til BEV\".",
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5434,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsel 16\", heldækkende",
+          "gruppe": "hjul",
+          "pris_kr": 550,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er pr. stk.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjle, 1 stk., til bil uden tagræling",
+          "gruppe": "tag",
+          "pris_kr": 838,
+          "montering_inkl": true,
+          "gaelder": "Biler uden tagræling",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 80 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i stål",
+          "gruppe": "tag",
+          "pris_kr": 7045,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i stål",
+          "gruppe": "tag",
+          "pris_kr": 7739,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9495,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9495,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1055,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 205/60R16, Fulda-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003692Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sølv alufælge, 205/60R16, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 9995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA003788Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sølv alufælge, 215/65R16, Bridgestone-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 11995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00193DY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort alufælge, 215/65R16, Goodyear-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 11995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00165XY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 6495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003718Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 3449,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 4274,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 3130,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 4160,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 682,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-proace-city-diesel": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/proace-city/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace City og Proace City Electric",
+          "dato": "2026-07-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Samme liste gælder Proace City Electric. Anhængertræk, tagbøjlesæt og et vinterhjul står allerede i priser.json fra prislisten og er ikke gentaget.",
+      "dele": [
+        {
+          "navn": "Alufælge 16\" sølv, monteret med bilens egne dæk, inkl. navkapsler",
+          "gruppe": "hjul",
+          "pris_kr": 12546,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 17\" Alegria sølv inkl. navkapsler",
+          "gruppe": "hjul",
+          "pris_kr": 14204,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, om dæk er med.",
+          "kilde": 0
+        },
+        {
+          "navn": "Bakkamera til bil med splitbagdøre og Toyotas touchskærm",
+          "gruppe": "sikkerhed",
+          "pris_kr": 4532,
+          "montering_inkl": true,
+          "gaelder": "Biler med splitbagdøre og Toyotas originale touchskærm",
+          "kode": null,
+          "post": "bakkamera",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Midterkonsol til 1+1 sæder, bil med elektrisk parkeringsbremse",
+          "gruppe": "kabine",
+          "pris_kr": 922,
+          "montering_inkl": true,
+          "gaelder": "1+1 sæder og elektrisk parkeringsbremse",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til alufælge",
+          "gruppe": "hjul",
+          "pris_kr": 448,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til stålfælge",
+          "gruppe": "hjul",
+          "pris_kr": 358,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter foran",
+          "gruppe": "kabine",
+          "pris_kr": 437,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Måttesæt i nålefilt, 520 g",
+          "gruppe": "kabine",
+          "pris_kr": 794,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver, at varebilen ikke bruger de bageste måtter.",
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 5757,
+          "montering_inkl": true,
+          "gaelder": "Long med 1 skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 6496,
+          "montering_inkl": true,
+          "gaelder": "Long med 2 skydedøre",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 5614,
+          "montering_inkl": true,
+          "gaelder": "Medium uden skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 5317,
+          "montering_inkl": true,
+          "gaelder": "Medium med 1 skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 6484,
+          "montering_inkl": true,
+          "gaelder": "Medium med 2 skydedøre",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebeklædning i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 6483,
+          "montering_inkl": true,
+          "gaelder": "Medium uden skydedør",
+          "kode": null,
+          "post": "beklaedning_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sikkerhedsgitter til ruderne i splitbagdørene",
+          "gruppe": "varerum",
+          "pris_kr": 2309,
+          "montering_inkl": true,
+          "gaelder": "Biler med splitbagdøre",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra lås ArmaDlock til bagklappen",
+          "gruppe": "sikkerhed",
+          "pris_kr": 3954,
+          "montering_inkl": true,
+          "gaelder": "Biler med bagklap",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med bagklap",
+          "gruppe": "sikkerhed",
+          "pris_kr": 7607,
+          "montering_inkl": true,
+          "gaelder": "Biler med bagklap",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med splitbagdøre og 1 skydedør",
+          "gruppe": "sikkerhed",
+          "pris_kr": 10640,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 1 skydedør",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Mul-T-Lock, bil med splitbagdøre og 2 skydedøre",
+          "gruppe": "sikkerhed",
+          "pris_kr": 11549,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 2 skydedøre",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse ArmaDlock, 2 stk., bil med splitbagdøre og 1 skydedør",
+          "gruppe": "sikkerhed",
+          "pris_kr": 6257,
+          "montering_inkl": true,
+          "gaelder": "Splitbagdøre og 1 skydedør",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stænklapper bag",
+          "gruppe": "ydre",
+          "pris_kr": 795,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 15\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 4730,
+          "montering_inkl": true,
+          "gaelder": "Medium, ikke Long og ikke 130 hk",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5434,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsel 16\", heldækkende",
+          "gruppe": "hjul",
+          "pris_kr": 550,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er pr. stk.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjle, 1 stk., til bil uden tagræling",
+          "gruppe": "tag",
+          "pris_kr": 838,
+          "montering_inkl": true,
+          "gaelder": "Biler uden tagræling",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 80 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i stål",
+          "gruppe": "tag",
+          "pris_kr": 7045,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i stål",
+          "gruppe": "tag",
+          "pris_kr": 7739,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9495,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbagagebærer i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9495,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": "Bærer højst 115 kg.",
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1055,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 15\" på stålfælge, 195/65R15, Semperit-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 4995,
+          "montering_inkl": false,
+          "gaelder": "Diesel",
+          "kode": "TMEWS00027NY",
+          "post": null,
+          "note": "Listen skriver, at hjulet ikke passer til elbilen.",
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 205/60R16, Fulda-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003692Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sølv alufælge, 205/60R16, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 9995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA003788Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sølv alufælge, 215/65R16, Bridgestone-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 11995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00193DY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort alufælge, 215/65R16, Goodyear-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 11995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00165XY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 6495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003718Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 3449,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, hård plast",
+          "gruppe": "varerum",
+          "pris_kr": 4274,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 3130,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gulv i varerummet, træ",
+          "gruppe": "varerum",
+          "pris_kr": 4160,
+          "montering_inkl": true,
+          "gaelder": "Long",
+          "kode": null,
+          "post": "gulv_varerum",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 682,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-proace": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/Proace/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace Verso og Proace Verso Electric, som toyota.dk linker til under Proace og Proace Electric",
+          "dato": "2026-06-15",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har kun priser med moms. De er divideret med 1,25 og afrundet til hele kroner. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Listen hedder \"Proace Verso & Verso EV\", men toyota.dk linker til den under Tilbehørspriser for Proace og Proace Electric. Måttesæt og bagagerumsudstyr til personbilens sæder er udeladt. Anhængertræk med fast kugle, stylingpakke, tagbøjle og et vinterhjul står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Alufælge 17\" uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 14155,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, hvor mange fælge prisen gælder.",
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk med aftagelig kugle og 13-polet stik",
+          "gruppe": "traek",
+          "pris_kr": 13837,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "anhaengertraek",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesplade til bagkofangeren, plast",
+          "gruppe": "ydre",
+          "pris_kr": 1079,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesplade til bagkofangeren, stål",
+          "gruppe": "ydre",
+          "pris_kr": 1376,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsel til stålfælg",
+          "gruppe": "hjul",
+          "pris_kr": 355,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, om prisen er pr. stk.",
+          "kilde": 0
+        },
+        {
+          "navn": "Laststop til Toyotas tagbøjler i stål, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 429,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Laststop, foldbare, til Toyotas tagbøjler i stål, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 1128,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til alufælge",
+          "gruppe": "hjul",
+          "pris_kr": 448,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebøjler (beskyttelsesbøjler)",
+          "gruppe": "ydre",
+          "pris_kr": 6673,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5977,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 7314,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i sort stål",
+          "gruppe": "tag",
+          "pris_kr": 5700,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tyverialarm",
+          "gruppe": "sikkerhed",
+          "pris_kr": 5987,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "alarm",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16C, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 7495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003638Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16C, Falken-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 9495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00122UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul på mørkegrå alufælge, 215/60R17C, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 12995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA003758Y",
+          "post": null,
+          "note": "Listen kalder hjulet 16\", men dækstørrelsen er 17\" (215/60R17C).",
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1906,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2180,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2180,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, 6 A, type 2 og 230 V-stik",
+          "gruppe": "el",
+          "pris_kr": 2099,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-proace-diesel": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/Proace/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace Verso og Proace Verso Electric, som toyota.dk linker til under Proace og Proace Electric",
+          "dato": "2026-06-15",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har kun priser med moms. De er divideret med 1,25 og afrundet til hele kroner. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Listen hedder \"Proace Verso & Verso EV\", men toyota.dk linker til den under Tilbehørspriser for Proace og Proace Electric. Måttesæt og bagagerumsudstyr til personbilens sæder er udeladt. Anhængertræk med fast kugle, stylingpakke, tagbøjle og et vinterhjul står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Alufælge 17\" uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 14155,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, hvor mange fælge prisen gælder.",
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk med aftagelig kugle og 13-polet stik",
+          "gruppe": "traek",
+          "pris_kr": 13837,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "anhaengertraek",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesplade til bagkofangeren, plast",
+          "gruppe": "ydre",
+          "pris_kr": 1079,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesplade til bagkofangeren, stål",
+          "gruppe": "ydre",
+          "pris_kr": 1376,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsel til stålfælg",
+          "gruppe": "hjul",
+          "pris_kr": 355,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen siger ikke, om prisen er pr. stk.",
+          "kilde": 0
+        },
+        {
+          "navn": "Laststop til Toyotas tagbøjler i stål, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 429,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Laststop, foldbare, til Toyotas tagbøjler i stål, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 1128,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsebolte til alufælge",
+          "gruppe": "hjul",
+          "pris_kr": 448,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidebøjler (beskyttelsesbøjler)",
+          "gruppe": "ydre",
+          "pris_kr": 6673,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\" til vinterhjul, uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5977,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 7314,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i sort stål",
+          "gruppe": "tag",
+          "pris_kr": 5700,
+          "montering_inkl": true,
+          "gaelder": "Medium",
+          "kode": null,
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tyverialarm",
+          "gruppe": "sikkerhed",
+          "pris_kr": 5987,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": "alarm",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16C, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 7495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS003638Y",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/65R16C, Falken-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 9495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00122UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul på mørkegrå alufælge, 215/60R17C, Dunlop-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 12995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA003758Y",
+          "post": null,
+          "note": "Listen kalder hjulet 16\", men dækstørrelsen er 17\" (215/60R17C).",
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1906,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-proace-max": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/proace-max/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace Max",
+          "dato": "2026-05-04",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Den anden kolonne er \"inkl. moms, afgift & montering\". Forsiden er dateret 5. maj 2026, prissiderne 4. maj 2026. Anhængertræk med 13-polet stik, tagbøjlesæt med 3 stk. og vinterhjul V60 står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Vinterhjul 15\" på stålfælge, 215/70R15C, Semperit-dæk, hulkreds 5x118 mm",
+          "gruppe": "hjul",
+          "pris_kr": 9995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00154NY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 10495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00186UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 225/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 10495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00188UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort slebet alufælge, 215/75R16C, Falken-dæk, hulkreds 5x118 mm",
+          "gruppe": "hjul",
+          "pris_kr": 19995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00185UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort slebet alufælge, 225/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 19995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00187UY",
+          "post": null,
+          "note": "Toyotas prisliste for Proace Max fra den 16. september 2026 har et 16\" vinterhjul på sort slebet alufælge, 225/75R16C, med Semperit-dæk til 14.995 kr. Det står allerede i priser.json. Listen skriver 19.995 kr. uden moms og 18.744 kr. med moms. De to tal passer ikke sammen (18.744 kr. delt med 1,25 er 14.995 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 16\"",
+          "gruppe": "hjul",
+          "pris_kr": 11495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0674MB",
+          "post": null,
+          "note": "Listen siger ikke antal og ikke, om dæk er med. Listen skriver 11.495 kr. uden moms og 10.595 kr. med moms. De to tal passer ikke sammen (10.595 kr. delt med 1,25 er 8.476 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 16\", poleret sort, 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 20895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0673MB",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 15\", 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 7745,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0696SC",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\", 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0697SC",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 15\" til stålfælge, sorte, halvdækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 1445,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06661B",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 15\" til stålfælge, grå, heldækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 1195,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06671H",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 16\" til stålfælge, sorte, halvdækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 795,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06681B",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 16\" til stålfælge, grå, heldækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 2195,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06691H",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk til kassevogn, fast kugle, 7-polet stik og adapter til 13-polet",
+          "gruppe": "traek",
+          "pris_kr": 11995,
+          "montering_inkl": true,
+          "gaelder": "Kassevogn",
+          "kode": null,
+          "post": "anhaengertraek",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter, bil uden klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 645,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9350",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter, bil med klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 645,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9351",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter 450 g, bil uden klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 845,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9352",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter 450 g, bil med klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 845,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9353",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2099,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "G9060YM141",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B24",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B25",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Afdækning til ladestikket",
+          "gruppe": "el",
+          "pris_kr": 500,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW6B942000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Deadlock og Slamlock, sæt med 2",
+          "gruppe": "sikkerhed",
+          "pris_kr": 5995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H0200",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Deadlock og Slamlock, sæt med 3",
+          "gruppe": "sikkerhed",
+          "pris_kr": 8995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H0202",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sikkerhedsgitter til bagdørene",
+          "gruppe": "varerum",
+          "pris_kr": 3995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0E61",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i kunstlæder, uden tablet",
+          "gruppe": "kabine",
+          "pris_kr": 3895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9170",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i kunstlæder, med tablet",
+          "gruppe": "kabine",
+          "pris_kr": 3895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9171",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i stof, med tablet",
+          "gruppe": "kabine",
+          "pris_kr": 4395,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9172",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjle, 1 stk.",
+          "gruppe": "tag",
+          "pris_kr": 1495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H5640",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 39995,
+          "montering_inkl": true,
+          "gaelder": "L2H1 (listens betegnelse)",
+          "kode": "PZ4L0H5650",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 40495,
+          "montering_inkl": true,
+          "gaelder": "L2H2 (listens betegnelse)",
+          "kode": "PZ4L0H5651",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 43395,
+          "montering_inkl": true,
+          "gaelder": "L3H2 (listens betegnelse)",
+          "kode": "PZ4L0H5652",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stige til tagplatformen, monteret bag, aluminium",
+          "gruppe": "tag",
+          "pris_kr": 8795,
+          "montering_inkl": true,
+          "gaelder": "H1 (listens betegnelse)",
+          "kode": "PZ4L0H0610",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stige til tagplatformen, monteret bag, aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9895,
+          "montering_inkl": true,
+          "gaelder": "H2 (listens betegnelse)",
+          "kode": "PZ4L0H0611",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-proace-max-diesel": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Varebiler/proace-max/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Proace Max",
+          "dato": "2026-05-04",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Den anden kolonne er \"inkl. moms, afgift & montering\". Forsiden er dateret 5. maj 2026, prissiderne 4. maj 2026. Anhængertræk med 13-polet stik, tagbøjlesæt med 3 stk. og vinterhjul V60 står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Vinterhjul 15\" på stålfælge, 215/70R15C, Semperit-dæk, hulkreds 5x118 mm",
+          "gruppe": "hjul",
+          "pris_kr": 9995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00154NY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 215/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 10495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00186UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på stålfælge, 225/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 10495,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWS00188UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort slebet alufælge, 215/75R16C, Falken-dæk, hulkreds 5x118 mm",
+          "gruppe": "hjul",
+          "pris_kr": 19995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00185UY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 16\" på sort slebet alufælge, 225/75R16C, Falken-dæk, hulkreds 5x130 mm",
+          "gruppe": "hjul",
+          "pris_kr": 19995,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA00187UY",
+          "post": null,
+          "note": "Toyotas prisliste for Proace Max fra den 16. september 2026 har et 16\" vinterhjul på sort slebet alufælge, 225/75R16C, med Semperit-dæk til 14.995 kr. Det står allerede i priser.json. Listen skriver 19.995 kr. uden moms og 18.744 kr. med moms. De to tal passer ikke sammen (18.744 kr. delt med 1,25 er 14.995 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 16\"",
+          "gruppe": "hjul",
+          "pris_kr": 11495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0674MB",
+          "post": null,
+          "note": "Listen siger ikke antal og ikke, om dæk er med. Listen skriver 11.495 kr. uden moms og 10.595 kr. med moms. De to tal passer ikke sammen (10.595 kr. delt med 1,25 er 8.476 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Alufælge 16\", poleret sort, 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 20895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0673MB",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 15\", 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 7745,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0696SC",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stålfælge 16\", 4 stk., uden dæk",
+          "gruppe": "hjul",
+          "pris_kr": 5495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0697SC",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 15\" til stålfælge, sorte, halvdækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 1445,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06661B",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 15\" til stålfælge, grå, heldækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 1195,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06671H",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 16\" til stålfælge, sorte, halvdækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 795,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06681B",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Hjulkapsler 16\" til stålfælge, grå, heldækkende, 4 stk.",
+          "gruppe": "hjul",
+          "pris_kr": 2195,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H06691H",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk til kassevogn, fast kugle, 7-polet stik og adapter til 13-polet",
+          "gruppe": "traek",
+          "pris_kr": 11995,
+          "montering_inkl": true,
+          "gaelder": "Kassevogn",
+          "kode": null,
+          "post": "anhaengertraek",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter, bil uden klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 645,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9350",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter, bil med klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 645,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9351",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter 450 g, bil uden klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 845,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9352",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter 450 g, bil med klimaanlæg bagi",
+          "gruppe": "kabine",
+          "pris_kr": 845,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9353",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Deadlock og Slamlock, sæt med 2",
+          "gruppe": "sikkerhed",
+          "pris_kr": 5995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H0200",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ekstra låse Deadlock og Slamlock, sæt med 3",
+          "gruppe": "sikkerhed",
+          "pris_kr": 8995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H0202",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sikkerhedsgitter til bagdørene",
+          "gruppe": "varerum",
+          "pris_kr": 3995,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H0E61",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i kunstlæder, uden tablet",
+          "gruppe": "kabine",
+          "pris_kr": 3895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9170",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i kunstlæder, med tablet",
+          "gruppe": "kabine",
+          "pris_kr": 3895,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9171",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sædebetræk i stof, med tablet",
+          "gruppe": "kabine",
+          "pris_kr": 4395,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L1H9172",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjle, 1 stk.",
+          "gruppe": "tag",
+          "pris_kr": 1495,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ4L0H5640",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 39995,
+          "montering_inkl": true,
+          "gaelder": "L2H1 (listens betegnelse)",
+          "kode": "PZ4L0H5650",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 40495,
+          "montering_inkl": true,
+          "gaelder": "L2H2 (listens betegnelse)",
+          "kode": "PZ4L0H5651",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagplatform i aluminium",
+          "gruppe": "tag",
+          "pris_kr": 43395,
+          "montering_inkl": true,
+          "gaelder": "L3H2 (listens betegnelse)",
+          "kode": "PZ4L0H5652",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stige til tagplatformen, monteret bag, aluminium",
+          "gruppe": "tag",
+          "pris_kr": 8795,
+          "montering_inkl": true,
+          "gaelder": "H1 (listens betegnelse)",
+          "kode": "PZ4L0H0610",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stige til tagplatformen, monteret bag, aluminium",
+          "gruppe": "tag",
+          "pris_kr": 9895,
+          "montering_inkl": true,
+          "gaelder": "H2 (listens betegnelse)",
+          "kode": "PZ4L0H0611",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-bz4x-van": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Personbiler/bz4x/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for bZ4X, som toyota.dk linker til under bZ4X Van",
+          "dato": "2026-09-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Listen er til personbilen bZ4X, men toyota.dk linker til den under bZ4X Van. Udstyr til bagsædet og passagerer er udeladt. Transportpakke, beskyttelsespakke, anhængertræk og to vinterhjul står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Vinterhjul 18\" på mat sort alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42228AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Goodyear-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 14396,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42325XY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42221AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Bakke til bagagerummet, bil uden JBL-lydanlæg",
+          "gruppe": "varerum",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW24142002",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Bakke til bagagerummet, bil med JBL-lydanlæg",
+          "gruppe": "varerum",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW24142006",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelse af bagkofangeren",
+          "gruppe": "ydre",
+          "pris_kr": 1076,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW1770R005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til dørkanterne",
+          "gruppe": "ydre",
+          "pris_kr": 996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17442002",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie bag dørhåndtagene, 2 stk.",
+          "gruppe": "ydre",
+          "pris_kr": 516,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17400000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til motorhjelmen",
+          "gruppe": "ydre",
+          "pris_kr": 1996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17542000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til taget",
+          "gruppe": "ydre",
+          "pris_kr": 956,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17A42000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter",
+          "gruppe": "kabine",
+          "pris_kr": 996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042053",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Velourmåtter, 830 g",
+          "gruppe": "kabine",
+          "pris_kr": 876,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042045",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Velourmåtter, 830 g, med læderdetaljer",
+          "gruppe": "kabine",
+          "pris_kr": 1676,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042047",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stænklapper for og bag",
+          "gruppe": "ydre",
+          "pris_kr": 1436,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW38942000",
+          "post": null,
+          "note": "Listen skriver 1.436 kr. uden moms og 1.745 kr. med moms. De to tal passer ikke sammen (1.745 kr. delt med 1,25 er 1.396 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1516,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW38242005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister i aluminium med lys ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 2396,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW52D42000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjler",
+          "gruppe": "tag",
+          "pris_kr": 2796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW30142004",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, mode 2, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2236,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "G9060YM141",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B24",
+          "post": null,
+          "note": "Listen skriver 2.316 kr. uden moms og 2.725 kr. med moms. De to tal passer ikke sammen (2.725 kr. delt med 1,25 er 2.180 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B25",
+          "post": null,
+          "note": "Listen skriver 2.316 kr. uden moms og 2.845 kr. med moms. De to tal passer ikke sammen (2.845 kr. delt med 1,25 er 2.276 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-bz4x-touring-van": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Personbiler/bz4x-touring-tilbehoersprisliste/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for bZ4X Touring, som toyota.dk linker til under bZ4X Touring Van",
+          "dato": "2026-09-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har kun priser med moms. De er divideret med 1,25 og afrundet til hele kroner. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Listen er til personbilen bZ4X Touring, men toyota.dk linker til den under bZ4X Touring Van. Udstyr til bagsædet og passagerer er udeladt. Pakkerne, anhængertræk, stænklapper og to vinterhjul står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Vinterhjul 18\" på mat sort alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42337AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Goodyear-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 14396,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42339XY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42338AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Bakke til bagagerummet",
+          "gruppe": "varerum",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW24142040",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelse af bagkofangeren",
+          "gruppe": "ydre",
+          "pris_kr": 1076,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW1770R005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til dørkanterne",
+          "gruppe": "ydre",
+          "pris_kr": 996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17442002",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie bag dørhåndtagene, 2 stk.",
+          "gruppe": "ydre",
+          "pris_kr": 516,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17400000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til motorhjelmen",
+          "gruppe": "ydre",
+          "pris_kr": 1996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17542000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter",
+          "gruppe": "kabine",
+          "pris_kr": 996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042053",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Velourmåtter, 830 g",
+          "gruppe": "kabine",
+          "pris_kr": 876,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042045",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Velourmåtter, 830 g, med læderdetaljer",
+          "gruppe": "kabine",
+          "pris_kr": 1676,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042047",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Sidepaneler",
+          "gruppe": "ydre",
+          "pris_kr": 2396,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW15642010N6",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1516,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW38242005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister i aluminium med lys ved fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 2396,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW52D42200",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjler, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 2796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW30142023",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, mode 2, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2236,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "G9060YM141",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2180,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B24",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2276,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B25",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-c-hr-van": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Brochurer/Ekstraudstyr/toyota-c-hr-tilbehoersprisliste/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for C-HR+, som toyota.dk linker til under C-HR+ Van",
+          "dato": "2026-09-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har kun priser med moms. De er divideret med 1,25 og afrundet til hele kroner. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul). Listen er til personbilen C-HR+, men toyota.dk linker til den under C-HR+ Van. Udstyr til bagsædet og passagerer er udeladt. Anhængertræk og to vinterhjul står allerede i priser.json.",
+      "dele": [
+        {
+          "navn": "Beskyttelsespakke med bagagerumsbakke, ryglænsbeskyttelse, beskyttelse af bagkofangeren, gummimåtter og stænklapper",
+          "gruppe": "andet",
+          "pris_kr": 4796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver \"bagsæderygbeskyttelse\", selv om varebilen ikke har bagsæde.",
+          "kilde": 0
+        },
+        {
+          "navn": "Transportpakke med tagbøjler, taske til tagbøjlerne og cykelholder",
+          "gruppe": "tag",
+          "pris_kr": 4156,
+          "montering_inkl": true,
+          "gaelder": "Ikke Executive Panorama",
+          "kode": null,
+          "post": null,
+          "note": "Tagbøjlerne passer ikke til Executive Panorama ifølge listen.",
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på mat sort alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42337AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Goodyear-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 14396,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42339XY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort slebet alufælge, 235/60R18, Continental-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 15196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TMEWA42338AY",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Låsemøtrikker",
+          "gruppe": "hjul",
+          "pris_kr": 790,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW45600023",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 630,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Sidepaneler i plast",
+          "gruppe": "ydre",
+          "pris_kr": 2396,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW15642005N7",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelse af bagagerumskanten, plast",
+          "gruppe": "ydre",
+          "pris_kr": 1196,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW40542001N7",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Bakke til bagagerummet",
+          "gruppe": "varerum",
+          "pris_kr": 876,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW24142012",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stænklapper for og bag",
+          "gruppe": "ydre",
+          "pris_kr": 1436,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW38942020",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til fordørene",
+          "gruppe": "ydre",
+          "pris_kr": 1596,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW16242005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Vindafvisere til for- og bagdørene",
+          "gruppe": "ydre",
+          "pris_kr": 1996,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW16242004",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelse af bagkofangeren",
+          "gruppe": "ydre",
+          "pris_kr": 1076,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW1770R005",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelse til motorhjelmen",
+          "gruppe": "ydre",
+          "pris_kr": 1596,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW42142002",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie bag dørhåndtagene, 2 stk.",
+          "gruppe": "ydre",
+          "pris_kr": 796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17400000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie til dørkanterne",
+          "gruppe": "ydre",
+          "pris_kr": 1596,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW17442003",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter",
+          "gruppe": "kabine",
+          "pris_kr": 956,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042078",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter",
+          "gruppe": "kabine",
+          "pris_kr": 876,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042074",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Stofmåtter, premium",
+          "gruppe": "kabine",
+          "pris_kr": 1676,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW21042082",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister",
+          "gruppe": "ydre",
+          "pris_kr": 1516,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW38242013",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjler, 2 stk.",
+          "gruppe": "tag",
+          "pris_kr": 2796,
+          "montering_inkl": true,
+          "gaelder": "Ikke Executive Panorama",
+          "kode": "PW30142011",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, mode 2, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2236,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "G9060YM141",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2180,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B24",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2276,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B25",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Afdækning til ladestikket",
+          "gruppe": "el",
+          "pris_kr": 364,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PW6B942000",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    },
+    "toyota-urban-cruiser-van": {
+      "kilder": [
+        {
+          "url": "https://modelinformation.toyota.dk/Toyota/Udstyrsprislister/Personbiler/urban-cruiser-tilbehoersprisliste/",
+          "navn": "Toyota Danmarks tilbehørsprisliste for Urban Cruiser, som toyota.dk linker til under Urban Cruiser Van",
+          "dato": "2026-09-09",
+          "hentet": "2026-10-06"
+        }
+      ],
+      "montering_note": "Listen har en kolonne uden moms, og den er brugt. Priserne er med montering, undtagen hvor delen er markeret \"ekskl. montering\" (vinterhjul og tagbøjler). Listen er til personbilen Urban Cruiser, men toyota.dk linker til den under Urban Cruiser Van.",
+      "dele": [
+        {
+          "navn": "Beskyttelsespakke med bagagerumsbakke og gummimåtter",
+          "gruppe": "andet",
+          "pris_kr": 2148,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Listen skriver 2.148 kr. uden moms og 2.695 kr. med moms. De to tal passer ikke sammen (2.695 kr. delt med 1,25 er 2.156 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Vinterhjul 18\" på sort alufælge, Falken-dæk",
+          "gruppe": "hjul",
+          "pris_kr": 11996,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "TDKWAUC018MB",
+          "post": null,
+          "note": "Dækstørrelsen står som 25/50R18 i listen.",
+          "kilde": 0
+        },
+        {
+          "navn": "Montering af vinterhjul",
+          "gruppe": "hjul",
+          "pris_kr": 525,
+          "montering_inkl": null,
+          "gaelder": "alle",
+          "kode": null,
+          "post": null,
+          "note": "Prisen er selve monteringen. Listen siger ikke, om den er pr. sæt.",
+          "kilde": 0
+        },
+        {
+          "navn": "Anhængertræk, aftageligt",
+          "gruppe": "traek",
+          "pris_kr": 10814,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PL960PW001",
+          "post": "anhaengertraek",
+          "note": "Toyotas prisliste for Urban Cruiser Van fra den 7. juli 2026 har intet anhængertræk. Listen skriver 10.814 kr. uden moms og 13.795 kr. med moms. De to tal passer ikke sammen (13.795 kr. delt med 1,25 er 11.036 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Beskyttelsesfolie ved dørhåndtagene, 4 stk.",
+          "gruppe": "ydre",
+          "pris_kr": 636,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "08174WC800",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Gummimåtter",
+          "gruppe": "kabine",
+          "pris_kr": 1196,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "08210WC800",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Nødladekabel, mode 2, 6 A, 6 meter",
+          "gruppe": "el",
+          "pris_kr": 2236,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "G9060YM141",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B24",
+          "post": null,
+          "note": "Listen skriver 2.316 kr. uden moms og 2.725 kr. med moms. De to tal passer ikke sammen (2.725 kr. delt med 1,25 er 2.180 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Ladekabel til ladestander, 3 faser, 32 A, 7,5 meter",
+          "gruppe": "el",
+          "pris_kr": 2316,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "PZ42DT0B25",
+          "post": null,
+          "note": "Listen skriver 2.316 kr. uden moms og 2.845 kr. med moms. De to tal passer ikke sammen (2.845 kr. delt med 1,25 er 2.276 kr.). Vi har brugt prisen uden moms.",
+          "kilde": 0
+        },
+        {
+          "navn": "Tagbøjler",
+          "gruppe": "tag",
+          "pris_kr": 3196,
+          "montering_inkl": false,
+          "gaelder": "alle",
+          "kode": "08301WC800",
+          "post": "tagbaerer",
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Trinlister i stål",
+          "gruppe": "ydre",
+          "pris_kr": 2796,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "08266WC800",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        },
+        {
+          "navn": "Bakke til bagagerummet",
+          "gruppe": "varerum",
+          "pris_kr": 1192,
+          "montering_inkl": true,
+          "gaelder": "alle",
+          "kode": "08241WC800",
+          "post": null,
+          "note": null,
+          "kilde": 0
+        }
+      ]
+    }
+  },
+  "afvigelser": [
+    "Renault (alle otte model-id'er): ingen dele. Tilbehørs-PDF'erne på erhverv.renault.dk/kob/prislister-og-brochurer (tilbehoer-kangoo.pdf fra 2021, tilbehoer-trafic.pdf fra februar 2022 og tilbehoer-master.pdf fra januar 2025) har kun varenumre og prikker for, hvilke udstyrsniveauer delen passer til. De har ingen priser. Renaults prislister har heller ingen tilbehørspriser, og hverken renault.dk eller erhverv.renault.dk har en tilbehørsshop med priser. PDF'erne er gemt i tilbehoer-kilder som renault-kangoo.pdf, renault-trafic.pdf og renault-master.pdf.",
+    "Renault, uden for opgaven: erhverv.renault.dk/kob/prislister-og-brochurer linker den 6. oktober 2026 kun til de fire Master-prislister. Kangoo, Kangoo E-Tech, Trafic og Trafic E-Tech har ingen prisliste på siden.",
+    "Nissan (nissan-interstar og nissan-primastar): ingen nye dele. Nissan har ingen separat dansk tilbehørsliste med pris for varebilerne. nissan.dk har kun tilbehørssider for Ariya, Micra, Qashqai og Leaf, og brochuresiden har kun prislisterne, hvis tilbehør allerede står i priser.json. Interstar-prislisten henviser til en tilbehørsbrochure, som ikke ligger på nissan.dk.",
+    "Toyota generelt: toyota.dk/priser-brochurer linker hver varebil til en tilbehørsprisliste på modelinformation.toyota.dk (knappen Tilbehørspriser). Det er de lister, der er brugt. PDF'erne er hentet med GetPDF.ashx og gemt i tilbehoer-kilder under model-id'et. Dele, der allerede står i priser.json for modellen, er ikke gentaget.",
+    "Toyota, udeladt i alle lister: bilpleje, Toyota ProTect, tagbokse, cykel- og skiholdere (også Thule), køleboks, kabeltasker, foldbare kasser, opbevaringstasker, hjulopbevaringsposer, sikkerhedsvest, førstehjælp, advarselstrekant, sikkerhedshammer, parkeringsur, askebæger og cigartænder. Fra personbilslisterne er udstyr til bagsæde og passagerer også udeladt (bagsæderygbeskyttelse, sædedække til hund, bagagerumsopdeler, tabletholder), og fra Proace Verso-listen måttesæt og bagagerumsudstyr til personbilens sæderækker.",
+    "Toyota Proace City: tilbehørslisten fra den 9. juli 2026 har anhængertrækket til 9.795 kr. Prislisten fra den 12. juni 2026 og priser.json har 9.765 kr. priser.json er ikke rettet. Vinterhjulet på 16\" stålfælge med Bridgestone-dæk til 8.295 kr. i priser.json står ikke i tilbehørslisten, som i stedet har V40-V44.",
+    "Toyota Proace City: vinterhjul V40 (15\") er kun lagt under dieselbilen, fordi listen skriver \"ikke til BEV\". Den løse 15\" stålfælg står under begge, fordi listen kun begrænser den til Medium uden 130 hk. Elbilen har en note om det.",
+    "Toyota Proace og Proace (diesel): toyota.dk linker til en tilbehørsliste med overskriften \"Proace Verso & Verso EV\" (15. juni 2026). Teksten er den samme som i Proace Verso-listen, som toyota.dk linker til under Proace Verso. Delene er brugt for kassevognen med en note i montering_note.",
+    "Toyota Proace: listen har kun priser med moms. Anhængertræk med fast kugle koster 11.732 kr. med moms (9.386 kr. uden), mens prislisten fra den 17. september 2026 og priser.json har 9.965 kr. uden moms. Tagbøjlen koster 1.493 kr. med moms (1.194 kr. uden) mod 1.645 kr. i priser.json. Stylingpakken står som 10.095 kr. med moms og 8.076 kr. uden moms i tilbehørslisten, men som 10.095 kr. uden moms i prislisten og i priser.json. En af dem må være forkert. priser.json er ikke rettet.",
+    "Toyota Proace: vinterhjul V52 kaldes 16\" i listen, men dækket er 215/60R17C. Navnet i kladden bruger dækstørrelsen.",
+    "Toyota Proace Max: tilbehørslisten er fra maj 2026, prislisten fra den 16. september 2026. Vinterhjul V60 (TMEWS00170NY) koster 9.995 kr. i tilbehørslisten og 10.195 kr. i prislisten og priser.json. Prislisten har et 16\" vinterhjul på sort slebet alufælge, 225/75R16C, med Semperit-dæk til 14.995 kr. Tilbehørslisten har V65 med samme fælg og dækstørrelse, men Falken-dæk, til 19.995 kr. V65 er taget med som en særskilt del.",
+    "Toyota Proace Max: to linjer har priser med og uden moms, der ikke passer sammen. V65 står til 19.995 kr. uden moms og 18.744 kr. med moms. Alufælge 16\" (PZ4L0H0674MB) står til 11.495 kr. uden moms og 10.595 kr. med moms. Kladden bruger prisen uden moms og har en note på delen.",
+    "Toyota Proace Max: anhængertræk til chassis (12.195 kr.) og måtter til mandskabskabine er udeladt, fordi der ikke er model-id til chassis eller mandskabsvogn. Tagplatform og stige står med listens betegnelser L2H1, L2H2, L3H2, H1 og H2, fordi listen ikke oversætter dem til Medium, Long og Ekstra Long.",
+    "Toyota bZ4X Van: toyota.dk linker til tilbehørslisten for personbilen bZ4X (9. september 2026). Den gamle liste \"bZ4X VAN\" fra den 11. juli 2024 (Udstyrsprislister/Varebiler/bz4x) linker toyota.dk ikke længere til, og den er ikke brugt.",
+    "Toyota bZ4X Van: beskyttelsespakken står til 5.380 kr. i priser.json (bZ4X Van-prislisten) og til 4.777 kr. uden moms og 5.995 kr. med moms i tilbehørslisten. priser.json er ikke rettet. I tilbehørslisten passer prisen uden moms ikke med prisen med moms for begge ladekabler (2.316 kr. uden moms, 2.725 og 2.845 kr. med moms) og stænklapperne (1.436 kr. uden moms, 1.745 kr. med moms). Kladden bruger prisen uden moms og har en note på delene.",
+    "Toyota bZ4X Touring Van og C-HR+ Van: listerne har kun priser med moms. Ladekablerne giver derfor 2.180 kr. (5 meter) og 2.276 kr. (7,5 meter) uden moms, mens bZ4X- og Urban Cruiser-listerne skriver 2.316 kr. uden moms for begge.",
+    "Toyota C-HR+ Van: beskyttelsespakken (4.796 kr.) og transportpakken (4.156 kr.) er taget med, selv om pakkerne indeholder bagsæderygbeskyttelse og cykelholder, fordi Toyota sælger dem samlet. Tagbøjlerne og transportpakken passer ikke til Executive Panorama ifølge listen.",
+    "Toyota Urban Cruiser Van: anhængertrækket står til 10.814 kr. uden moms og 13.795 kr. med moms (11.036 kr. uden moms). Beskyttelsespakken står til 2.148 kr. uden moms og 2.695 kr. med moms (2.156 kr.). Ladekablerne har samme uoverensstemmelse som i bZ4X-listen. Kladden bruger prisen uden moms og har en note på delene. Vinterhjul V92 har dækstørrelsen 25/50R18 i listen, hvilket ikke er en gyldig størrelse.",
+    "Montering af vinterhjul har montering_inkl null, fordi prisen er selve monteringen. Ingen liste siger, om den gælder pr. sæt."
+  ]
+}

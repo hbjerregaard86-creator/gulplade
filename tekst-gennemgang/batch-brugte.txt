@@ -1,0 +1,1011 @@
+1. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Hør nærmere om denne bil Ring mig op
+   Eksempel: Hør nærmere om denne bil Ring mig op
+
+2. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Billederne er forhandlerens egne.
+   Eksempel: Billederne er forhandlerens egne.
+
+3. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Tallene er forhandlerens egne, hentet den #. sep. #.
+   Eksempel: Tallene er forhandlerens egne, hentet den 25. sep. 2026.
+
+4. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Lasteevne og totalvægt oplyser forhandleren ikke, og vi regner dem ikke ud — de afhænger af den enkelte bils opbygning.
+   Eksempel: Lasteevne og totalvægt oplyser forhandleren ikke, og vi regner dem ikke ud — de afhænger af den enkelte bils opbygning.
+
+5. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Vi tjekker, at bilen stadig er til salg
+   Eksempel: Vi tjekker, at bilen stadig er til salg
+
+6. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Fremvisning, prøvetur eller et leasingforslag
+   Eksempel: Fremvisning, prøvetur eller et leasingforslag
+
+7. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Byttebil kan komme med i handlen
+   Eksempel: Byttebil kan komme med i handlen
+
+8. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Vi er ikke forhandler: bilen købes hos den forhandler, vi samarbejder med, og handlen er forhandlerens ansvar.
+   Eksempel: Vi er ikke forhandler: bilen købes hos den forhandler, vi samarbejder med, og handlen er forhandlerens ansvar.
+
+9. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Vi kan få betaling for at formidle kontakten.
+   Eksempel: Vi kan få betaling for at formidle kontakten.
+
+10. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Bilen kan være solgt, siden listen blev hentet den #. sep. #.
+   Eksempel: Bilen kan være solgt, siden listen blev hentet den 25. sep. 2026.
+
+11. [329 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Tjekliste før køb · Alle brugte varebiler
+   Eksempel: Tjekliste før køb · Alle brugte varebiler
+
+12. [328 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Teksten er forhandlerens egen; kontaktoplysninger er taget ud.
+   Eksempel: Teksten er forhandlerens egen; kontaktoplysninger er taget ud.
+
+13. [328 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Udstyrslisten er forhandlerens registrering.
+   Eksempel: Udstyrslisten er forhandlerens registrering.
+
+14. [327 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Den har kørt # km og koster # kr. ekskl. moms.
+   Eksempel: Den har kørt 266.000 km og koster 112.500 kr. ekskl. moms.
+
+15. [169 sider, fx /brugte-varebiler/citroen-jumper-33-l3-2-0-hdi-130hk-ladv-chas-577629/]
+   Skabelon: Forhandlerens leasingforslag
+   Eksempel: Forhandlerens leasingforslag
+
+16. [154 sider, fx /brugte-varebiler/citroen-jumper-33-l3-2-0-hdi-130hk-ladv-chas-577629/]
+   Skabelon: Bilen må trække # kg med bremset anhænger, kører # km/l og kan leases fra # kr. om måneden.
+   Eksempel: Bilen må trække 2.500 kg med bremset anhænger, kører 15,2 km/l og kan leases fra 2.275 kr. om måneden.
+
+17. [147 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Bilen må trække # kg med bremset anhænger og kører # km/l.
+   Eksempel: Bilen må trække 2.400 kg med bremset anhænger og kører 14,7 km/l.
+
+18. [135 sider, fx /brugte-varebiler/citroen-berlingo-l1-1-5-blue-hdi-proffline-start-stop-100hk-635147/]
+   Skabelon: Brugt ‹udbyder› ‹bil› (#)
+   Eksempel: Brugt Citroën Berlingo (2021)
+
+19. [134 sider, fx /brugte-varebiler/ford-ranger-3000kg-2-0-ecoblue-bi-turbo-raptor-4x4-213hk-dobkab-10g-aut-628054/]
+   Skabelon: Andre brugte ‹bil› i samme prisklasse.
+   Eksempel: Andre brugte Ford Ranger i samme prisklasse.
+
+20. [132 sider, fx /brugte-varebiler/citroen-jumper-33-l3-2-0-hdi-130hk-ladv-chas-577629/]
+   Skabelon: Andre brugte ‹udbyder› ‹bil› i samme prisklasse.
+   Eksempel: Andre brugte Citroën Jumper i samme prisklasse.
+
+21. [77 sider, fx /brugte-varebiler/mercedes-benz-citan-110-a2-1-5-cdi-pro-95hk-van-7g-aut-620284/]
+   Skabelon: Brugt ‹udbyder› ‹bil› kassevogn fra # med # hk dieselmotor og automatgear.
+   Eksempel: Brugt Mercedes-Benz Citan kassevogn fra 2024 med 95 hk dieselmotor og automatgear.
+
+22. [73 sider, fx /brugte-varebiler/ford-transit-courier-1-5-tdci-trend-100hk-van-6g-577521/]
+   Skabelon: Brugt ‹bil› (#)
+   Eksempel: Brugt Ford Transit Courier (2020)
+
+23. [59 sider, fx /brugte-varebiler/fiat-ducato-35m-l3h2-2-3-mjt-dpf-130hk-van-6g-536479/]
+   Skabelon: Brugt ‹bil› kassevogn fra # med # hk dieselmotor og manuelt gear.
+   Eksempel: Brugt Fiat Ducato kassevogn fra 2014 med 130 hk dieselmotor og manuelt gear.
+
+24. [57 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Sælges engros · som den står, typisk kun til CVR
+   Eksempel: Sælges engros · som den står, typisk kun til CVR
+
+25. [57 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Opdateret #. sep. # · formidles af Gulplade.dk
+   Eksempel: Opdateret 25. sep. 2026 · formidles af Gulplade.dk
+
+26. [57 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Kontant ekskl. moms # kr.
+   Eksempel: Kontant ekskl. moms 14.500 kr.
+
+27. [57 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Kan du ikke finde den rigtige?
+   Eksempel: Kan du ikke finde den rigtige?
+
+28. [57 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Fortæl os, hvad bilen skal kunne, og hvad den må koste.
+   Eksempel: Fortæl os, hvad bilen skal kunne, og hvad den må koste.
+
+29. [57 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Vi leder på lageret og hos forhandlerne — og siger det, hvis en ny bil på leasing er billigere.
+   Eksempel: Vi leder på lageret og hos forhandlerne — og siger det, hvis en ny bil på leasing er billigere.
+
+30. [56 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Priserne går fra # til # kr. ekskl. moms, og halvdelen ligger under # kr.
+   Eksempel: Priserne går fra 14.500 til 99.800 kr. ekskl. moms, og halvdelen ligger under 59.800 kr.
+
+31. [56 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Årgangene spænder fra # til #, med # km på den typiske bil.
+   Eksempel: Årgangene spænder fra 2007 til 2023, med 189.000 km på den typiske bil.
+
+32. [56 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Formidling Bilerne sælges af en forhandler, vi samarbejder med.
+   Eksempel: Formidling Bilerne sælges af en forhandler, vi samarbejder med.
+
+33. [56 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Du køber bilen hos forhandleren — vi formidler kontakten og kan få betaling for det.
+   Eksempel: Du køber bilen hos forhandleren — vi formidler kontakten og kan få betaling for det.
+
+34. [56 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Priser og tal er forhandlerens.
+   Eksempel: Priser og tal er forhandlerens.
+
+35. [52 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: På lageret lige nu fra # kr. til # kr. ekskl. moms.
+   Eksempel: På lageret lige nu fra 112.500 kr. til 399.800 kr. ekskl. moms.
+
+36. [52 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Halvdelen koster under # kr.
+   Eksempel: Halvdelen koster under 225.000 kr.
+
+37. [50 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Forhandleren har lagt et leasingforslag på # af de # biler.
+   Eksempel: Forhandleren har lagt et leasingforslag på 11 af de 17 biler.
+
+38. [50 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Ydelse og restværdi står på bilens side.
+   Eksempel: Ydelse og restværdi står på bilens side.
+
+39. [46 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: ‹udbyder› (#) Dacia (#) ‹bil› (#) ‹bil› (#) ‹bil› (#) ‹udbyder› (#) ‹udbyder› (#) ‹bil› (#) ‹udbyder› (#) VW (#) Se alle # biler
+   Eksempel: Citroën (4) Dacia (4) Ford (62) Iveco (30) MAN (5) Mercedes-Benz (127) Peugeot (12) Renault (52) Toyota (4) VW (20) Se alle 329 biler
+
+40. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Priserne på lageret går fra # kr. til # kr. ekskl. moms, og halvdelen koster under # kr.
+   Eksempel: Priserne på lageret går fra 112.500 kr. til 399.800 kr. ekskl. moms, og halvdelen koster under 225.000 kr.
+
+41. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Årgangen flytter mest: her er typisk pris og kilometer for hver årgang med mindst to biler.
+   Eksempel: Årgangen flytter mest: her er typisk pris og kilometer for hver årgang med mindst to biler.
+
+42. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Regnet ud af lageret den #. sep. #.
+   Eksempel: Regnet ud af lageret den 25. sep. 2026.
+
+43. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Typisk betyder, at halvdelen er billigere og halvdelen dyrere.
+   Eksempel: Typisk betyder, at halvdelen er billigere og halvdelen dyrere.
+
+44. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Årgange med én bil står kun i listen ovenfor.
+   Eksempel: Årgange med én bil står kun i listen ovenfor.
+
+45. [44 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: En fra # koster typisk # kr., en fra # typisk # kr.
+   Eksempel: En fra 2023 koster typisk 329.800 kr., en fra 2018 typisk 165.000 kr.
+
+46. [41 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Ja. # af de # på lageret har automatgear.
+   Eksempel: Ja. 16 af de 17 på lageret har automatgear.
+
+47. [41 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# RWD #G-Tronic #HK Van Aut.
+   Eksempel: 317 2,0 CDI A3 H2 RWD 9G-Tronic 170HK Van Aut.
+
+48. [37 sider, fx /brugte-varebiler/ford-ranger-3000kg-2-0-ecoblue-bi-turbo-raptor-4x4-213hk-dobkab-10g-aut-628054/]
+   Skabelon: Brugt ‹bil› kassevogn fra # med # hk dieselmotor og automatgear.
+   Eksempel: Brugt Ford Ranger kassevogn fra 2019 med 213 hk dieselmotor og automatgear.
+
+49. [31 sider, fx /brugte-varebiler/citroen-jumpy-l2-2-0-blue-hdi-fleetline-122hk-van-579530/]
+   Skabelon: Brugt ‹udbyder› ‹bil› kassevogn fra # med # hk dieselmotor og manuelt gear.
+   Eksempel: Brugt Citroën Jumpy kassevogn fra 2021 med 122 hk dieselmotor og manuelt gear.
+
+50. [28 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L#H# # TDCi Trend #HK Van #g Aut.
+   Eksempel: 300 L2H1 2,0 TDCi Trend 130HK Van 6g Aut.
+
+51. [26 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Brugt kassevogn (#) Brugt ladvogn og ladbil (#) Brugt kassevogn med automatgear (#) Brugt ladvogn med lift (#) Brugt ladbil med # kg træk (#) Brugt ‹bil› ladvogn (#) Brugt Mercedes ‹bil› ladvogn (#) Brugt ‹bil› ladvogn (#) Brugt ‹bil› ladvogn (#) Brugt varebil med alukasse (#) Brugt værkstedsbil (#) Brugt Mercedes ‹bil› med automatgear (#) Brugt ‹bil› med automatgear (#) Brugt Mercedes ‹bil› med automatgear (#) Brugt ‹bil› med automatgear (#) Brugt VW ‹bil› med automatgear (#) Brugt elvarebil (#) Brugt pickup (#) Brugt varebil med indretning (#) Brugt varebil med lift (#) Brugt ladbil med kran (#) Brugt varebil med træk (#) Brugt varebil under # kr. (#) Brugt #x# varebil (#) Brugt mandskabsvogn med dobbeltkabine (#) Brugt kølebil (#) Leasing af brugt varebil (#) Brugt lille varebil (#) Brugt mellemstor varebil (#) Brugt stor varebil (#)
+   Eksempel: Brugt kassevogn (243) Brugt ladvogn og ladbil (70) Brugt kassevogn med automatgear (132) Brugt ladvogn med lift (24) Brugt ladbil med 3.500 kg træk (22) Brugt Iveco Daily ladvogn (13) Brugt Mercedes Sprinter ladvogn (24) Brugt Renault Master ladvogn (13) Brugt Ford Transit ladvogn (9) Brugt varebil med alukasse (30) Brugt værkstedsbil (43) Brugt Mercedes Sprinter med automatgear (77) Brugt Iveco Daily med automatgear (26) Brugt Mercedes Vito med automatgear (15) Brugt Ford Transit Custom med automatgear (14) Brugt VW Transporter med automatgear (8) Brugt elvarebil (8) Brugt pickup (7) Brugt varebil med indretning (72) Brugt varebil med lift (26) Brugt ladbil med kran (11) Brugt varebil med træk (154) Brugt varebil under 50.000 kr. (24) Brugt 4x4 varebil (17) Brugt mandskabsvogn med dobbeltkabine (29) Brugt kølebil (10) Leasing af brugt varebil (169) Brugt lille varebil (33) Brugt mellemstor varebil (70) Brugt stor varebil (202)
+
+52. [25 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L#H# # TDCi Trend #HK Van #g
+   Eksempel: 290 L1H1 2,2 TDCi Trend 125HK Van 6g
+
+53. [23 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI #HK Van #g
+   Eksempel: T33 L2H2 2,3 DCI 125HK Van 6g
+
+54. [22 sider, fx /brugte-varebiler/brugt-iveco-daily-med-automatgear/]
+   Skabelon: #S# #m# # D #HK Van #g Aut.
+   Eksempel: 35S16 12m3 2,3 D 156HK Van 8g Aut.
+
+55. [22 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# # CDI RWD #G-Tronic #HK Van Aut.
+   Eksempel: 114 A2 2,1 CDI RWD 9G-Tronic 136HK Van Aut.
+
+56. [22 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# #G-Tronic #HK Van #g Aut.
+   Eksempel: 214 2,1 CDI A2 H2 9G-Tronic 143HK Van 9g Aut.
+
+57. [21 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: # # CDI A# RWD #G-Tronic #HK Ladv./Chas. #g Aut.
+   Eksempel: 315 2,0 CDI A3 RWD 9G-Tronic 150HK Ladv./Chas. 9g Aut.
+
+58. [19 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # # CDI A# H# RWD #HK Van #g
+   Eksempel: 316 2,1 CDI A2 H2 RWD 163HK Van 6g
+
+59. [19 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# RWD #HK Van Aut.
+   Eksempel: 316 2,1 CDI A2 H2 RWD 163HK Van Aut.
+
+60. [18 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Som kassevogn koster den typisk # kr. (# biler).
+   Eksempel: Som kassevogn koster den typisk 245.000 kr. (9 biler).
+
+61. [18 sider, fx /brugte-varebiler/brugt-iveco-daily-ladvogn/]
+   Skabelon: #C# #mm # D #HK Ladv./Chas. #g Aut.
+   Eksempel: 35C18 4100mm 3,0 D 180HK Ladv./Chas. 8g Aut.
+
+62. [18 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Lang # TDI BMT DSG #HK Van #g Aut.
+   Eksempel: Lang 2,0 TDI BMT DSG 204HK Van 7g Aut.
+
+63. [18 sider, fx /brugte-varebiler/ford-transit-350-alu-kasse-m-lift-2-0-tdci-hdt-trend-rwd-170hk-ladv-chas-m-605123/]
+   Skabelon: Brugt ‹bil› ladvogn fra # med # hk dieselmotor og manuelt gear.
+   Eksempel: Brugt Ford Transit ladvogn fra 2023 med 170 hk dieselmotor og manuelt gear.
+
+64. [17 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# V# # BlueHDi Plus #HK Van
+   Eksempel: L1 V1 1,5 BlueHDi Plus 100HK Van
+
+65. [17 sider, fx /brugte-varebiler/brugt-iveco-daily-ladvogn/]
+   Skabelon: #S# #mm # D #HK Ladv./Chas. #g Aut.
+   Eksempel: 35S16 4100mm 2,3 D 156HK Ladv./Chas. 8g Aut.
+
+66. [17 sider, fx /brugte-varebiler/brugt-iveco-daily-med-automatgear/]
+   Skabelon: Som ladvogn koster den typisk # kr. (# biler).
+   Eksempel: Som ladvogn koster den typisk 269.800 kr. (10 biler).
+
+67. [17 sider, fx /brugte-varebiler/ford-transit-350-alu-kasse-m-lift-2-0-tdci-hdt-trend-160hk-ladv-chas-aut-635930/]
+   Skabelon: Brugt ‹bil› ladvogn fra # med # hk dieselmotor og automatgear.
+   Eksempel: Brugt Ford Transit ladvogn fra 2022 med 160 hk dieselmotor og automatgear.
+
+68. [17 sider, fx /brugte-varebiler/mercedes-benz-sprinter-315-2-0-cdi-a3-rwd-9g-tronic-150hk-ladv-chas-9g-aut-634929/]
+   Skabelon: Brugt ‹udbyder› ‹bil› ladvogn fra # med # hk dieselmotor og automatgear.
+   Eksempel: Brugt Mercedes-Benz Sprinter ladvogn fra 2022 med 150 hk dieselmotor og automatgear.
+
+69. [16 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L#H# # TDCi Trend RWD #HK Ladv./Chas. #g
+   Eksempel: 350 L4H1 2,2 TDCi Trend RWD 155HK Ladv./Chas. 6g
+
+70. [16 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Lang # EcoBlue Trend #HK Van #g
+   Eksempel: Lang 1,5 EcoBlue Trend 100HK Van 6g
+
+71. [16 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # # CDI #Matic #G-Tronic #HK Van #g Aut.
+   Eksempel: 114 2,0 CDI 4Matic 9G-Tronic 136HK Van 9g Aut.
+
+72. [16 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# Pro #G-Tronic #HK Van #g Aut.
+   Eksempel: 317 2,0 CDI A3 Pro 9G-Tronic 170HK Van 9g Aut.
+
+73. [16 sider, fx /brugte-varebiler/vw-crafter-35-l3h2-2-0-tdi-scr-177hk-van-8g-aut-631825/]
+   Skabelon: Andre brugte VW ‹bil› i samme prisklasse.
+   Eksempel: Andre brugte VW Crafter i samme prisklasse.
+
+74. [15 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # # CDI R# #HK Van Aut.
+   Eksempel: 211 2,1 CDI R2 114HK Van Aut.
+
+75. [15 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # # CDI R# #HK Van #g
+   Eksempel: 213 2,1 CDI R2 129HK Van 6g
+
+76. [15 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI start/stop #HK Van #g
+   Eksempel: T35 L2H2 2,3 DCI start/stop 145HK Van 6g
+
+77. [15 sider, fx /brugte-varebiler/brugt-elvarebil/]
+   Skabelon: T# L# EL #HK Ladv./Chas.
+   Eksempel: T35 L3 EL 140HK Ladv./Chas.
+
+78. [15 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# # CDI TO SKYDEDØRE RWD #G-Tronic #HK Van Aut.
+   Eksempel: 114 A2 2,0 CDI TO SKYDEDØRE RWD 9G-Tronic 136HK Van Aut.
+
+79. [15 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Lang # TDI BMT VÆRKSTEDSBIL DSG #HK Van Aut.
+   Eksempel: Lang 2,0 TDI BMT VÆRKSTEDSBIL DSG 150HK Van Aut.
+
+80. [15 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Lang VÆRKSTEDSBIL # TDI BMT DSG #HK Van Aut.
+   Eksempel: Lang VÆRKSTEDSBIL 2,0 TDI BMT DSG 150HK Van Aut.
+
+81. [15 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# # CDI Pro #G-Tronic #HK Van #g Aut.
+   Eksempel: 114 A3 2,0 CDI Pro 9G-Tronic 136HK Van 9g Aut.
+
+82. [15 sider, fx /brugte-varebiler/brugt-koelebil/]
+   Skabelon: #T # SCR Køle/frysebil Alu.kasse m./lift #HK Ladv./Chas.
+   Eksempel: 3,5T 2,0 SCR Køle/frysebil Alu.kasse m./lift 177HK Ladv./Chas.
+
+83. [15 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: # # CDI A# Pro #G-Tronic #HK Ladv./Chas. #g Aut.
+   Eksempel: 317 2,0 CDI A3 Pro 9G-Tronic 170HK Ladv./Chas. 9g Aut.
+
+84. [15 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: # # CDI Alu.kasse m./lift RWD #G-Tronic #HK Ladv./Chas.
+   Eksempel: 315 2,0 CDI Alu.kasse m./lift RWD 9G-Tronic 150HK Ladv./Chas.
+
+85. [15 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: # BROBIL # CDI A# RWD #G-Tronic #HK Ladv./Chas.
+   Eksempel: 317 BROBIL 2,0 CDI A2 RWD 9G-Tronic 170HK Ladv./Chas.
+
+86. [14 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: #C# #mm # D #HK Van #g Aut.
+   Eksempel: 35C18 4100mm 3,0 D 180HK Van 8g Aut.
+
+87. [14 sider, fx /brugte-varebiler/brugt-iveco-daily-ladvogn/]
+   Skabelon: #S# #mm # D #HK Ladv./Chas. #g
+   Eksempel: 35S14 3750mm 2,3 D 136HK Ladv./Chas. 6g
+
+88. [14 sider, fx /brugte-varebiler/brugt-iveco-daily-ladvogn/]
+   Skabelon: #S# ALUKASSE/LIFT AG# # D Hi-Matic #HK Ladv./Chas.
+   Eksempel: 35S16 ALUKASSE/LIFT AG8 2,3 D Hi-Matic 156HK Ladv./Chas.
+
+89. [14 sider, fx /brugte-varebiler/brugt-iveco-daily-ladvogn/]
+   Skabelon: #S# #mm # D m/Alukasse med lift Hi-Matic #HK Ladv./Chas. #g Aut.
+   Eksempel: 35S16 4100mm 2,3 D m/Alukasse med lift Hi-Matic 156HK Ladv./Chas. 8g Aut.
+
+90. [14 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDCi Trend #HK DobKab #g
+   Eksempel: 350 L3H1 2,0 TDCi Trend 130HK DobKab 6g
+
+91. [14 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L# # DCI Tekno RWD #HK DobKab #g
+   Eksempel: T35 L3 2,3 DCI Tekno RWD 165HK DobKab 6g
+
+92. [14 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # TDI BMT m/alulad u/bagsæde DSG #HK DobKab #g Aut.
+   Eksempel: 2,0 TDI BMT m/alulad u/bagsæde DSG 150HK DobKab 7g Aut.
+
+93. [14 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# Pro #G-Tronic #HK DobKab #g Aut.
+   Eksempel: 317 2,0 CDI A3 Pro 9G-Tronic 170HK DobKab 9g Aut.
+
+94. [14 sider, fx /brugte-varebiler/brugt-koelebil/]
+   Skabelon: #T L# # SCR Køle/frysebil Alu.kasse m./lift #HK Ladv./Chas.
+   Eksempel: 3,5T L4 2,0 SCR Køle/frysebil Alu.kasse m./lift 177HK Ladv./Chas.
+
+95. [14 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: # # CDI A# Select #G-Tronic #HK Ladv./Chas. #g Aut.
+   Eksempel: 317 2,0 CDI A3 Select 9G-Tronic 170HK Ladv./Chas. 9g Aut.
+
+96. [14 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: # # CDI BROBIL RWD #G-Tronic #HK Ladv./Chas.
+   Eksempel: 315 2,0 CDI BROBIL RWD 9G-Tronic 150HK Ladv./Chas.
+
+97. [14 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: # # CDI A# RWD #HK Ladv./Chas. #g Aut.
+   Eksempel: 319 2,0 CDI A3 RWD 190HK Ladv./Chas. 9g Aut.
+
+98. [13 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Sælges engros til CVR nummer.
+   Eksempel: Sælges engros til CVR nummer.
+
+99. [13 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # V# EcoBoost e-#WD #HK DobKab #g Aut.
+   Eksempel: 3,0 V6 EcoBoost e-4WD 292HK DobKab 10g Aut.
+
+100. [13 sider, fx /brugte-varebiler/brugt-ford-transit-ladvogn/]
+   Skabelon: # Alu. kasse m. lift # TDCI HDT Trend #HK Ladv./Chas.
+   Eksempel: 350 Alu. kasse m. lift 2,0 TDCI HDT Trend 160HK Ladv./Chas.
+
+101. [13 sider, fx /brugte-varebiler/brugt-ford-transit-ladvogn/]
+   Skabelon: # L#H# # TDCI HDT Trend RWD #HK Ladv./Chas. #g
+   Eksempel: 350 L3H1 2,0 TDCI HDT Trend RWD 170HK Ladv./Chas. 6g
+
+102. [13 sider, fx /brugte-varebiler/brugt-iveco-daily-med-automatgear/]
+   Skabelon: #S# #m# # D Forza+ A# V #HK Van #g Aut.
+   Eksempel: 35S18 12m3 3,0 D Forza+ A8 V 176HK Van 8g Aut.
+
+103. [13 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L# V# # BlueHDi Ultimate EAT# #HK Van #g Aut.
+   Eksempel: L2 V2 1,5 BlueHDi Ultimate EAT8 130HK Van 8g Aut.
+
+104. [13 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # VÆRKSTEDSBIL # CDI A# H# RWD #G-Tronic #HK Van Aut.
+   Eksempel: 317 VÆRKSTEDSBIL 2,0 CDI A2 H2 RWD 9G-Tronic 170HK Van Aut.
+
+105. [13 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDI SCR REOLBIL #HK Van Aut.
+   Eksempel: 35 L3H2 2,0 TDI SCR REOLBIL 177HK Van Aut.
+
+106. [13 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# RWD #G-Tronic #HK DobKab Aut.
+   Eksempel: 317 2,0 CDI A3 RWD 9G-Tronic 170HK DobKab Aut.
+
+107. [13 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: Kontantpris under afklaring
+   Eksempel: Kontantpris under afklaring
+
+108. [13 sider, fx /brugte-varebiler/citroen-jumper-35-l3-2-2-blue-hdi-proffline-alu-kasse-m-lift-start-stop-16-615881/]
+   Skabelon: Bilen kan leases fra # kr. om måneden.
+   Eksempel: Bilen kan leases fra 3.699 kr. om måneden.
+
+109. [12 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # Ekstra Lang # CDI #HK Van Aut.
+   Eksempel: 120 Ekstra Lang 3,0 CDI 204HK Van Aut.
+
+110. [12 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # # CDI R# #HK Ladv./Chas.
+   Eksempel: 316 2,1 CDI R3 163HK Ladv./Chas.
+
+111. [12 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # Lang # CDI #HK Van Aut.
+   Eksempel: 318 Lang 3,0 CDI 183HK Van Aut.
+
+112. [12 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: #S# #m# # D Forza Hi-Matic #HK Van #g Aut.
+   Eksempel: 35S16 12m3 2,3 D Forza Hi-Matic 156HK Van 8g Aut.
+
+113. [12 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: #kg # EcoBlue Bi-turbo Raptor #x# #HK DobKab #g Aut.
+   Eksempel: 3000kg 2,0 EcoBlue Bi-turbo Raptor 4x4 213HK DobKab 10g Aut.
+
+114. [12 sider, fx /brugte-varebiler/brugt-elvarebil/]
+   Skabelon: T# L# EL Tekno #HK Ladv./Chas.
+   Eksempel: T35 L3 EL Tekno 140HK Ladv./Chas.
+
+115. [12 sider, fx /brugte-varebiler/brugt-elvarebil/]
+   Skabelon: T# L# EL Tekno LADBIL #HK Ladv./Chas.
+   Eksempel: T35 L2 EL Tekno LADBIL 140HK Ladv./Chas.
+
+116. [12 sider, fx /brugte-varebiler/brugt-ford-transit-ladvogn/]
+   Skabelon: # Alu.kasse m./lift # TDCI HDT Trend RWD #HK Ladv./Chas.
+   Eksempel: 350 Alu.kasse m./lift 2,0 TDCI HDT Trend RWD 170HK Ladv./Chas.
+
+117. [12 sider, fx /brugte-varebiler/brugt-iveco-daily-med-automatgear/]
+   Skabelon: #S# #mm # D #HK Van #g Aut.
+   Eksempel: 35S18 4100mm 3,0 D 180HK Van 8g Aut.
+
+118. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# #HK Van #g Aut.
+   Eksempel: 215 2,0 CDI A2 H2 150HK Van 9g Aut.
+
+119. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L# # DCI Tekno RWD ‹bil› DSKABSBIL #HK DobKab Man.
+   Eksempel: T35 L4 2,3 DCI Tekno RWD MANDSKABSBIL 165HK DobKab Man.
+
+120. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# #G-Tronic #HK Van Aut.
+   Eksempel: 315 2,0 CDI A2 H1 9G-Tronic 150HK Van Aut.
+
+121. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # Værkstedsbil # CDI A# H# RWD #G-Tronic #HK Van Aut.
+   Eksempel: 316 Værkstedsbil 2,1 CDI A2 H2 RWD 7G-Tronic 163HK Van Aut.
+
+122. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDCI HDT Trend RWD #HK DobKab #g Aut.
+   Eksempel: 350 L3H1 2,0 TDCI HDT Trend RWD 165HK DobKab 10g Aut.
+
+123. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDI SCR #HK Van #g Aut.
+   Eksempel: 35 L3H2 2,0 TDI SCR 177HK Van 8g Aut.
+
+124. [12 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# KØLE/FRYSE BIL # CDI RWD #G-Tronic #HK Van Aut.
+   Eksempel: 114 A3 KØLE/FRYSE BIL 2,0 CDI RWD 9G-Tronic 136HK Van Aut.
+
+125. [12 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: Lang # TDI BMT m/alulad DSG #HK Ladv./Chas. #g Aut.
+   Eksempel: Lang 2,0 TDI BMT m/alulad DSG 150HK Ladv./Chas. 7g Aut.
+
+126. [12 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L# BROBIL # DCI #HK Ladv./Chas.
+   Eksempel: T35 L2 BROBIL 2,0 DCI 150HK Ladv./Chas.
+
+127. [12 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L# # DCI #HK Ladv./Chas. #g Aut.
+   Eksempel: T35 L3 2,0 DCI 170HK Ladv./Chas. 9g Aut.
+
+128. [12 sider, fx /brugte-varebiler/vw-transporter-2-0-tdi-bmt-m-alulad-u-bagsaede-dsg-150hk-dobkab-7g-aut-593869/]
+   Skabelon: Brugt VW ‹bil› (#)
+   Eksempel: Brugt VW Transporter (2020)
+
+129. [11 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # A# # CDI BlueEfficiency Go #HK Van
+   Eksempel: 114 A2 2,1 CDI BlueEfficiency Go 136HK Van
+
+130. [11 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: #C# #m# # D #HK Van #g Aut.
+   Eksempel: 35C18 12m3 3,0 D 180HK Van 8g Aut.
+
+131. [11 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # # CDI R# #G-Tronic #HK Van #g Aut.
+   Eksempel: 319 3,0 CDI R2 7G-Tronic 190HK Van 7g Aut.
+
+132. [11 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# BROBIL # DCI #HK Ladv./Chas.
+   Eksempel: T35 BROBIL 2,3 DCI 130HK Ladv./Chas.
+
+133. [11 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L#H# EL # kWh Kølebil #HK Van Aut.
+   Eksempel: L3H2 EL 72 kWh Kølebil 204HK Van Aut.
+
+134. [11 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: #kg # EcoBlue Bi-turbo Stormtrak #x# #HK DobKab #g Aut.
+   Eksempel: 3200kg 2,0 EcoBlue Bi-turbo Stormtrak 4x4 213HK DobKab 10g Aut.
+
+135. [11 sider, fx /brugte-varebiler/brugt-ford-transit-ladvogn/]
+   Skabelon: # L#H# # TDCI HDT Trend #HK Ladv./Chas. #g Aut.
+   Eksempel: 350 L3H1 2,0 TDCI HDT Trend 155HK Ladv./Chas. 6g Aut.
+
+136. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L#H# # DCI Tekno #HK Van #g
+   Eksempel: T29 L2H1 2,0 DCI Tekno 120HK Van 6g
+
+137. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # EcoBlue Titanium #HK Van #g Aut.
+   Eksempel: 1,5 EcoBlue Titanium 120HK Van 8g Aut.
+
+138. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# RWD #HK Van #g Aut.
+   Eksempel: 319 3,0 CDI A3 H2 RWD 190HK Van 6g Aut.
+
+139. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Lang # TDI BMT #HK Van
+   Eksempel: Lang 2,0 TDI BMT 110HK Van
+
+140. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L#H# # DCI TwinTurbo start/stop Quickshift #HK Van #g Aut.
+   Eksempel: T35 L3H3 2,3 DCI TwinTurbo start/stop Quickshift 180HK Van 6g Aut.
+
+141. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDCi Trend VÆRKSTEDBIL #HK Van Man.
+   Eksempel: 350 L2H2 2,0 TDCi Trend VÆRKSTEDBIL 130HK Van Man.
+
+142. [11 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDCi Trend VÆRKSTEDSBIL #HK Van Man.
+   Eksempel: 350 L2H2 2,0 TDCi Trend VÆRKSTEDSBIL 130HK Van Man.
+
+143. [11 sider, fx /brugte-varebiler/brugt-koelebil/]
+   Skabelon: # # CDI A# RWD #G-Tronic #HK Ladv./Chas.
+   Eksempel: 316 2,1 CDI A2 RWD 7G-Tronic 163HK Ladv./Chas.
+
+144. [11 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: #+ L# # Blue HDi Proffline Alu.kasse m.lift start/stop #HK Ladv./Chas.
+   Eksempel: 35+ L3 2,2 Blue HDi Proffline Alu.kasse m.lift start/stop 165HK Ladv./Chas.
+
+145. [11 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L# # DCI #HK Ladv./Chas. #g
+   Eksempel: T35 L2 2,0 DCI 150HK Ladv./Chas. 6g
+
+146. [11 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Udbetaling, løbetid og hvad der er inkluderet, står ved hvert tilbud.
+   Eksempel: Udbetaling, løbetid og hvad der er inkluderet, står ved hvert tilbud.
+
+147. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Mellem # TDI m/Alu. kasse m./lift #HK Ladv./Chas.
+   Eksempel: Mellem 2,5 TDI m/Alu. kasse m./lift 163HK Ladv./Chas.
+
+148. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # DCI Express start/stop #HK Van
+   Eksempel: L1 1,5 DCI Express start/stop 90HK Van
+
+149. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI #HK Van #g Aut.
+   Eksempel: T29 L2H1 2,0 DCI 145HK Van 6g Aut.
+
+150. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # TDCi Trend #HK Van #g
+   Eksempel: 1,5 TDCi Trend 75HK Van 6g
+
+151. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L# # TDCi Trend Powershift #HK Van #g Aut.
+   Eksempel: 220 L1 1,5 TDCi Trend Powershift 120HK Van 6g Aut.
+
+152. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L# # HDI #HK Ladv./Chas.
+   Eksempel: 33 L3 2,0 HDI 130HK Ladv./Chas.
+
+153. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # Lang # Bluetec Standard #HK Van Aut.
+   Eksempel: 119 Lang 2,1 Bluetec Standard 190HK Van Aut.
+
+154. [10 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI TwinTurbo start/stop #HK Van #g
+   Eksempel: T33 L2H2 2,3 DCI TwinTurbo start/stop 150HK Van 6g
+
+155. [10 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # # CDI Progressive #Matic #HK Pick-Up #g Aut.
+   Eksempel: 350 3,0 CDI Progressive 4Matic 258HK Pick-Up 7g Aut.
+
+156. [10 sider, fx /brugte-varebiler/brugt-ford-transit-custom-med-automatgear/]
+   Skabelon: # L#H# # TDCi Sport #HK Van #g Aut.
+   Eksempel: 310 L2H1 2,0 TDCi Sport 170HK Van 6g Aut.
+
+157. [10 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L#H# # DCI start/stop #HK Van #g
+   Eksempel: L2H1 2,0 DCI start/stop 130HK Van 6g
+
+158. [10 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# # CDI Pro #HK Van #g Aut.
+   Eksempel: 110 A2 1,5 CDI Pro 95HK Van 7g Aut.
+
+159. [10 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # KØLE/FRYSEBIL # CDI A# H# RWD #G-Tronic #HK Van Aut.
+   Eksempel: 317 KØLE/FRYSEBIL 2,0 CDI A2 H2 RWD 9G-Tronic 170HK Van Aut.
+
+160. [10 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # A# # CDI Pro #HK Van #g
+   Eksempel: 114 A3 2,0 CDI Pro 136HK Van 6g
+
+161. [10 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: T# L#H# # DCI tvillingehjul start/stop #HK Ladv./Chas. #g
+   Eksempel: T35 L3H1 2,3 DCI tvillingehjul start/stop 165HK Ladv./Chas. 6g
+
+162. [10 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: # # CDI A# RWD #HK Ladv./Chas. #g
+   Eksempel: 516 2,1 CDI A3 RWD 163HK Ladv./Chas. 6g
+
+163. [10 sider, fx /brugte-varebiler/brugt-ladbil-med-kran/]
+   Skabelon: # MED KRAN # CDI R# #HK Ladv./Chas.
+   Eksempel: 316 MED KRAN 2,1 CDI R3 163HK Ladv./Chas.
+
+164. [10 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L# # DCI TwinTurbo RWD #HK Ladv./Chas. #g
+   Eksempel: T35 L2 2,3 DCI TwinTurbo RWD 165HK Ladv./Chas. 6g
+
+165. [10 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: #T L# # SCR #HK Ladv./Chas. #g Aut.
+   Eksempel: 3,5T L4 2,0 SCR 140HK Ladv./Chas. 8g Aut.
+
+166. [10 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: # # CDI A# RWD #HK Ladv./Chas.
+   Eksempel: 319 3,0 CDI A3 RWD 190HK Ladv./Chas.
+
+167. [10 sider, fx /brugte-varebiler/ford/]
+   Skabelon: Den typiske ‹bil› på lageret har kørt # km. # af de # har kørt under # km.
+   Eksempel: Den typiske Ford på lageret har kørt 91.000 km. 34 af de 62 har kørt under 100.000 km.
+
+168. [9 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: Brugt · Bil på gule plader
+   Eksempel: Brugt · Bil på gule plader
+
+169. [9 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L # TDCi DPF Trend #HK Van
+   Eksempel: 300 L 2,2 TDCi DPF Trend 115HK Van
+
+170. [9 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # DCI Access start/stop #HK Van
+   Eksempel: L1 1,5 DCI Access start/stop 75HK Van
+
+171. [9 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI TwinTurbo start/stop RWD #HK Van #g
+   Eksempel: T35 L3H2 2,3 DCI TwinTurbo start/stop RWD 165HK Van 6g
+
+172. [9 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI #HK DobKab #g
+   Eksempel: T35 L3H1 2,3 DCI 125HK DobKab 6g
+
+173. [9 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# VÆRKSTEDSBIL # DCI start/stop #HK Van Man.
+   Eksempel: T33 L2H2 VÆRKSTEDSBIL 2,3 DCI start/stop 145HK Van Man.
+
+174. [9 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # TDI BMT m/søgerlad #Motion #HK DobKab #g
+   Eksempel: 2,0 TDI BMT m/søgerlad 4Motion 150HK DobKab 6g
+
+175. [9 sider, fx /brugte-varebiler/brugt-ford-transit-ladvogn/]
+   Skabelon: # L#H# # TDCi Trend #HK Ladv./Chas. #g
+   Eksempel: 350 L3H1 2,0 TDCi Trend 170HK Ladv./Chas. 6g
+
+176. [9 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L#H# VÆRKSTEDSBIL # BiTurbo CDTI Start/Stop #HK Van Man.
+   Eksempel: L2H2 VÆRKSTEDSBIL 2,3 BiTurbo CDTI Start/Stop 145HK Van Man.
+
+177. [9 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L# V# # BlueHDi Plus #HK Van #g
+   Eksempel: L1 V1 1,5 BlueHDi Plus 130HK Van 6g
+
+178. [9 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Long # D Comfort ‹bil› #HK Van #g Aut.
+   Eksempel: Long 2,0 D Comfort Master 144HK Van 8g Aut.
+
+179. [9 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L# # DCI TwinTurbo start/stop #HK DobKab #g
+   Eksempel: T35 L3 2,3 DCI TwinTurbo start/stop 150HK DobKab 6g
+
+180. [9 sider, fx /brugte-varebiler/brugt-koelebil/]
+   Skabelon: #T L# KØLEBIL Alu.kasse m.lift # SCR #HK Ladv./Chas.
+   Eksempel: 3,5T L4 KØLEBIL Alu.kasse m.lift 2,0 SCR 140HK Ladv./Chas.
+
+181. [9 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L# # DCI TwinTurbo Tekno RWD tvillingehjul #HK Ladv./Chas. #g
+   Eksempel: T35 L3 2,3 DCI TwinTurbo Tekno RWD tvillingehjul 165HK Ladv./Chas. 6g
+
+182. [9 sider, fx /brugte-varebiler/citroen-jumper-33-l3-2-0-hdi-130hk-ladv-chas-577629/]
+   Skabelon: Brugt ‹udbyder› ‹bil› ladvogn fra # med # hk dieselmotor og manuelt gear.
+   Eksempel: Brugt Citroën Jumper ladvogn fra 2018 med 130 hk dieselmotor og manuelt gear.
+
+183. [9 sider, fx /brugte-varebiler/vw-crafter-35-l3h2-2-0-tdi-scr-177hk-van-8g-aut-631825/]
+   Skabelon: Brugt VW ‹bil› kassevogn fra # med # hk dieselmotor og automatgear.
+   Eksempel: Brugt VW Crafter kassevogn fra 2023 med 177 hk dieselmotor og automatgear.
+
+184. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: M # TDI #ton #HK Ladv./Chas. #g
+   Eksempel: M 2,0 TDI 3ton 163HK Ladv./Chas. 6g
+
+185. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L#H# # HDI Premium #HK Van #g
+   Eksempel: 330 L2H1 2,2 HDI Premium 130HK Van 6g
+
+186. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L#H# # D-#D Comfort Splitbagdør #HK Van #g
+   Eksempel: L2H1 2,0 D-4D Comfort Splitbagdør 128HK Van 6g
+
+187. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # DCI Access #HK Van
+   Eksempel: L1 1,5 DCI Access 80HK Van
+
+188. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # TDI BMT SCR Comfortline DSG #HK Van #g Aut.
+   Eksempel: 1,6 TDI BMT SCR Comfortline DSG 115HK Van 7g Aut.
+
+189. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # DCI Express #HK Van #g
+   Eksempel: L2 1,5 DCI Express 95HK Van 6g
+
+190. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # CDI #G-DCT #HK #d #g Aut.
+   Eksempel: 2,1 CDI 7G-DCT 136HK 5d 7g Aut.
+
+191. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # BlueHDI Business #HK Van #g
+   Eksempel: L3 2,0 BlueHDI Business 145HK Van 6g
+
+192. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # Plugin-hybrid Titanium CVT #HK #d Trinl.
+   Eksempel: 2,5 Plugin-hybrid Titanium CVT 225HK 5d Trinl.
+
+193. [8 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # L#H# # TDCi Trend RWD #HK Van #g
+   Eksempel: 350 L4H3 2,0 TDCi Trend RWD 130HK Van 6g
+
+194. [8 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # # CDI Pure #Matic #HK Pick-Up #g Aut.
+   Eksempel: 250 2,3 CDI Pure 4Matic 190HK Pick-Up 7g Aut.
+
+195. [8 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: #kg # EcoBlue Bi-turbo Wildtrak #x# #HK DobKab #g Aut.
+   Eksempel: 3200kg 2,0 EcoBlue Bi-turbo Wildtrak 4x4 213HK DobKab 10g Aut.
+
+196. [8 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: Extended Cab # D Exclusive #ton #WD #HK Pick-Up #g Aut.
+   Eksempel: Extended Cab 1,9 D Exclusive 3ton 4WD 163HK Pick-Up 6g Aut.
+
+197. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L#H# # DCI start/stop #HK DobKab #g
+   Eksempel: T35 L3H1 2,3 DCI start/stop 145HK DobKab 6g
+
+198. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L# V# # BlueHDi ZAP #HK Van
+   Eksempel: L1 V1 1,5 BlueHDi ZAP 100HK Van
+
+199. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: Kort # TDI BMT #HK Van
+   Eksempel: Kort 2,0 TDI BMT 110HK Van
+
+200. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L# # DCI #HK DobKab #g
+   Eksempel: T35 L3 2,3 DCI 135HK DobKab 6g
+
+201. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # L#H# # TDCi Trend RWD #HK DobKab #g
+   Eksempel: 350 L4H1 2,0 TDCi Trend RWD 185HK DobKab 6g
+
+202. [8 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: L#H# # DCi N-Connecta #HK Van #g
+   Eksempel: L2H2 2,3 DCi N-Connecta 180HK Van 6g
+
+203. [8 sider, fx /brugte-varebiler/brugt-ladbil-med-3500-kg-traek/]
+   Skabelon: # # CDI R# #HK Ladv./Chas. #g
+   Eksempel: 319 3,0 CDI R3 190HK Ladv./Chas. 6g
+
+204. [8 sider, fx /brugte-varebiler/brugt-ladbil-med-kran/]
+   Skabelon: # KRANBIL # CDI A# RWD #HK Ladv./Chas.
+   Eksempel: 316 KRANBIL 2,1 CDI A2 RWD 163HK Ladv./Chas.
+
+205. [8 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: T# L#H# # DCI #HK Ladv./Chas. #g
+   Eksempel: T35 L3H1 2,3 DCI 130HK Ladv./Chas. 6g
+
+206. [8 sider, fx /brugte-varebiler/ford/]
+   Skabelon: Hvad koster en brugt ‹bil› ?
+   Eksempel: Hvad koster en brugt Ford?
+
+207. [8 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Spørgsmål om brugt ‹bil› 
+   Eksempel: Spørgsmål om brugt Ford Transit
+
+208. [8 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Vi sammenligner # erhvervsleasingtilbud på en ny ‹bil› , med ydelser fra # kr. om måneden ekskl. moms før udbetaling.
+   Eksempel: Vi sammenligner 2 erhvervsleasingtilbud på en ny Ford Transit, med ydelser fra 2.859 kr. om måneden ekskl. moms før udbetaling.
+
+209. [8 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Se tilbuddene på en ny ‹bil› 
+   Eksempel: Se tilbuddene på en ny Ford Transit
+
+210. [8 sider, fx /brugte-varebiler/mercedes-benz-sprinter-215-2-0-cdi-a2-h2-150hk-van-9g-aut-637058/]
+   Skabelon: Alle brugte ‹udbyder› ‹bil› Brugt kassevogn (#) Brugt varebil med automatgear (#) Brugt kassevogn med automatgear (#) Brugt Mercedes ‹bil› med automatgear (#) Brugt varebil med lav kilometerstand (#) Nyere brugte varebiler (#) Leasing af brugt varebil (#) Brugt stor varebil (#)
+   Eksempel: Alle brugte Mercedes-Benz Sprinter Brugt kassevogn (243) Brugt varebil med automatgear (185) Brugt kassevogn med automatgear (132) Brugt Mercedes Sprinter med automatgear (77) Brugt varebil med lav kilometerstand (145) Nyere brugte varebiler (131) Leasing af brugt varebil (169) Brugt stor varebil (202)
+
+211. [7 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: #M L#H# # MJT DPF #HK Van #g
+   Eksempel: 35M L3H2 2,3 MJT DPF 130HK Van 6g
+
+212. [7 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L#H# # D-#D T# Splitbagdør #HK Van #g
+   Eksempel: L2H1 1,6 D-4D T0 Splitbagdør 90HK Van 6g
+
+213. [7 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: Long # D Comfort #HK Van #g
+   Eksempel: Long 2,0 D Comfort 120HK Van 6g
+
+214. [7 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: #C# #m# # D #HK Van #g
+   Eksempel: 35C18 12m3 3,0 D 180HK Van 6g
+
+215. [7 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: T# L#H# # DCI tvillingehjul start/stop #HK Van #g
+   Eksempel: T35 L3H2 2,3 DCI tvillingehjul start/stop 170HK Van 6g
+
+216. [7 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: T# L# # DCI Tekno RWD tvillingehjul start/stop #HK Van Man.
+   Eksempel: T35 L3 2,3 DCI Tekno RWD tvillingehjul start/stop 165HK Van Man.
+
+217. [7 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# RWD #HK Van #g
+   Eksempel: 516 2,1 CDI A2 RWD 163HK Van 6g
+
+218. [7 sider, fx /brugte-varebiler/dacia-dokker-1-5-dci-ambiance-90hk-van-621288/]
+   Skabelon: Kan synes og serviceres mod merpris.
+   Eksempel: Kan synes og serviceres mod merpris.
+
+219. [7 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: # brugte ‹bil› på lager.
+   Eksempel: 23 brugte Ford Transit på lager.
+
+220. [7 sider, fx /brugte-varebiler/ford-transit-connect-220-l1-1-5-tdci-trend-powershift-120hk-van-6g-aut-637186/]
+   Skabelon: Brugt ‹bil› Connect (#)
+   Eksempel: Brugt Ford Transit Connect (2018)
+
+221. [7 sider, fx /brugte-varebiler/ford-transit-connect-220-l1-1-5-tdci-trend-powershift-120hk-van-6g-aut-637186/]
+   Skabelon: Andre brugte ‹bil› Connect i samme prisklasse.
+   Eksempel: Andre brugte Ford Transit Connect i samme prisklasse.
+
+222. [7 sider, fx /brugte-varebiler/renault-master-t35-l2-el-tekno-ladbil-140hk-ladv-chas-aut-609018/]
+   Skabelon: Spørg forhandleren, hvor meget af garantien der er tilbage, og om den følger bilen ved salg.
+   Eksempel: Spørg forhandleren, hvor meget af garantien der er tilbage, og om den følger bilen ved salg.
+
+223. [7 sider, fx /brugte-varebiler/renault-master-t35-l2-el-tekno-ladbil-140hk-ladv-chas-aut-609018/]
+   Skabelon: Kilde: producentens garantivilkår .
+   Eksempel: Kilde: producentens garantivilkår .
+
+224. [6 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # Tce Streetway Start/Stop #HK #d
+   Eksempel: 0,9 Tce Streetway Start/Stop 90HK 5d
+
+225. [6 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: L# # Blue HDi Fleetline #HK Van
+   Eksempel: L2 2,0 Blue HDi Fleetline 122HK Van
+
+226. [6 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # DCi Essential #HK Van #g
+   Eksempel: 1,5 DCi Essential 95HK Van 6g
+
+227. [6 sider, fx /brugte-varebiler/brugt-4x4-varebil/]
+   Skabelon: # V# TDI Highline #Motion #HK Pick-Up #g Aut.
+   Eksempel: 3,0 V6 TDI Highline 4Motion 224HK Pick-Up 8g Aut.
+
+228. [6 sider, fx /brugte-varebiler/brugt-ford-transit-custom-med-automatgear/]
+   Skabelon: Gearkassen står, som forhandleren har registreret den.
+   Eksempel: Gearkassen står, som forhandleren har registreret den.
+
+229. [6 sider, fx /brugte-varebiler/brugt-kassevogn/]
+   Skabelon: # # CDI A# H# #HK Van #g
+   Eksempel: 314 2,1 CDI A2 H2 143HK Van 6g
+
+230. [6 sider, fx /brugte-varebiler/brugt-ladvogn/]
+   Skabelon: L# # CDTI #HK Ladv./Chas.
+   Eksempel: L3 2,3 CDTI 145HK Ladv./Chas.
+
+231. [6 sider, fx /brugte-varebiler/brugt-varebil-leasing/]
+   Skabelon: # BlueHDi Allure Pack EAT# #HK #d #g Aut.
+   Eksempel: 1,5 BlueHDi Allure Pack EAT8 130HK 5d 8g Aut.
+
+232. [6 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Brugt ‹bil› til salg
+   Eksempel: Brugt Ford Transit til salg
+
+233. [6 sider, fx /brugte-varebiler/ford/transit/]
+   Skabelon: Alle # ‹bil› på lager
+   Eksempel: Alle 23 Ford Transit på lager
+
+234. [6 sider, fx /brugte-varebiler/ford-transit-350-l2h2-2-0-tdci-trend-130hk-van-6g-536384/]
+   Skabelon: Klar til at komme ud og arbejde.
+   Eksempel: Klar til at komme ud og arbejde.
+
+235. [6 sider, fx /brugte-varebiler/ford-transit-connect-lang-1-5-ecoblue-trend-100hk-van-6g-455874/]
+   Skabelon: God bil med rigtig god kørekomfort og godt med power.
+   Eksempel: God bil med rigtig god kørekomfort og godt med power.
+
+236. [6 sider, fx /brugte-varebiler/ford-transit-connect-lang-1-5-ecoblue-trend-100hk-van-6g-455874/]
+   Skabelon: Udstyret med fartpilot, håndfri telefon, sædevarme og meget mere.
+   Eksempel: Udstyret med fartpilot, håndfri telefon, sædevarme og meget mere.
+
+237. [6 sider, fx /brugte-varebiler/ford-transit-connect-lang-1-5-ecoblue-trend-100hk-van-6g-455874/]
+   Skabelon: Brugt ‹bil› Connect kassevogn fra # med # hk dieselmotor og manuelt gear.
+   Eksempel: Brugt Ford Transit Connect kassevogn fra 2019 med 100 hk dieselmotor og manuelt gear.
+
+238. [6 sider, fx /brugte-varebiler/mercedes-benz-sprinter-314-2-1-cdi-a2-h2-rwd-7g-tronic-143hk-van-aut-420885/]
+   Skabelon: Alle brugte ‹udbyder› ‹bil› Brugt kassevogn (#) Brugt varebil med automatgear (#) Brugt kassevogn med automatgear (#) Brugt Mercedes ‹bil› med automatgear (#) Leasing af brugt varebil (#) Brugt stor varebil (#)
+   Eksempel: Alle brugte Mercedes-Benz Sprinter Brugt kassevogn (243) Brugt varebil med automatgear (185) Brugt kassevogn med automatgear (132) Brugt Mercedes Sprinter med automatgear (77) Leasing af brugt varebil (169) Brugt stor varebil (202)
+
+239. [5 sider, fx /brugte-varebiler/audi-sq5-3-0-biturbo-tdi-quattro-tiptr-313hk-5d-aut-621338/]
+   Skabelon: # biturbo TDI Quattro Tiptr. #HK #d Aut.
+   Eksempel: 3,0 biturbo TDI Quattro Tiptr. 313HK 5d Aut.
+
+240. [5 sider, fx /brugte-varebiler/billige-brugte-varebiler/]
+   Skabelon: # CDI Business #HK #d #g
+   Eksempel: 2,1 CDI Business 136HK 5d 6g
+
+241. [5 sider, fx /brugte-varebiler/brugt-ford-transit-custom-med-automatgear/]
+   Skabelon: Alle brugte ‹bil› (#)
+   Eksempel: Alle brugte Ford Transit Custom (20)
+
+242. [5 sider, fx /brugte-varebiler/ford-transit-courier-1-5-tdci-trend-75hk-van-632147/]
+   Skabelon: Alle brugte ‹bil› Billige brugte varebiler (#) Brugt kassevogn (#) Brugt varebil med træk (#) Brugt lille varebil (#)
+   Eksempel: Alle brugte Ford Transit Courier Billige brugte varebiler (73) Brugt kassevogn (243) Brugt varebil med træk (154) Brugt lille varebil (33)
+
+243. [5 sider, fx /brugte-varebiler/ford-transit-custom-280-l1h1-2-0-tdci-trend-130hk-van-6g-594313/]
+   Skabelon: Med isoleret varerum, skuffer, hylder og #V inverter.
+   Eksempel: Med isoleret varerum, skuffer, hylder og 230V inverter.
+
+244. [5 sider, fx /brugte-varebiler/ford-transit-custom-280-l1h1-2-0-tdci-trend-130hk-van-6g-594313/]
+   Skabelon: Komplet og med mange kilometer endnu.
+   Eksempel: Komplet og med mange kilometer endnu.
+
+245. [5 sider, fx /brugte-varebiler/ford-transit-custom-300-l2h1-2-0-tdci-trend-130hk-van-6g-aut-346220/]
+   Skabelon: MEGET VELUDSTYRET CUSTOM REOLBIL
+   Eksempel: MEGET VELUDSTYRET CUSTOM REOLBIL
+
+246. [5 sider, fx /brugte-varebiler/ford-transit-custom-300-l2h1-2-0-tdci-trend-130hk-van-6g-aut-346220/]
+   Skabelon: Monteret med både arbejdslys, blink, rotorblink og meget mere.
+   Eksempel: Monteret med både arbejdslys, blink, rotorblink og meget mere.
+
+247. [5 sider, fx /brugte-varebiler/ford-transit-custom-300-l2h1-2-0-tdci-trend-130hk-van-6g-aut-346220/]
+   Skabelon: Derudover er bilen udstyret med sædevarme, klimaanlæg, bakkamera, automatgear og meget mere.
+   Eksempel: Derudover er bilen udstyret med sædevarme, klimaanlæg, bakkamera, automatgear og meget mere.
+
+248. [5 sider, fx /brugte-varebiler/iveco-daily-35c18-4100mm-3-0-d-180hk-ladv-chas-8g-aut-633158/]
+   Skabelon: Naturligvis med #kg. træk.
+   Eksempel: Naturligvis med 3.500kg. træk.
+
+249. [5 sider, fx /brugte-varebiler/iveco-daily-35s16-12m3-2-3-d-156hk-van-8g-aut-346235/]
+   Skabelon: Tag den som den er - eller vi kan syne og servicere mod merpris.
+   Eksempel: Tag den som den er - eller vi kan syne og servicere mod merpris.
+
+250. [5 sider, fx /brugte-varebiler/mercedes-benz-sprinter-314-2-1-cdi-a2-h2-9g-tronic-143hk-van-9g-aut-632032/]
+   Skabelon: Perfekt kørende værksted.
+   Eksempel: Perfekt kørende værksted.
+
+251. [5 sider, fx /brugte-varebiler/mercedes-benz-sprinter-315-2-0-cdi-a2-h2-9g-tronic-150hk-van-9g-aut-635328/]
+   Skabelon: Alle brugte ‹udbyder› ‹bil› Brugt kassevogn (#) Brugt varebil med automatgear (#) Brugt kassevogn med automatgear (#) Brugt værkstedsbil (#) Brugt Mercedes ‹bil› med automatgear (#) Brugt varebil med lav kilometerstand (#) Nyere brugte varebiler (#) Brugt varebil med indretning (#) Leasing af brugt varebil (#) Brugt stor varebil (#)
+   Eksempel: Alle brugte Mercedes-Benz Sprinter Brugt kassevogn (243) Brugt varebil med automatgear (185) Brugt kassevogn med automatgear (132) Brugt værkstedsbil (43) Brugt Mercedes Sprinter med automatgear (77) Brugt varebil med lav kilometerstand (145) Nyere brugte varebiler (131) Brugt varebil med indretning (72) Leasing af brugt varebil (169) Brugt stor varebil (202)
+
+252. [5 sider, fx /brugte-varebiler/renault-master-t35-l2-el-tekno-ladbil-140hk-ladv-chas-aut-609018/]
+   Skabelon: Brugt ‹bil› ladvogn fra # med # hk elmotor og automatgear.
+   Eksempel: Brugt Renault Master ladvogn fra 2026 med 140 hk elmotor og automatgear.
+
+253. [5 sider, fx /brugte-varebiler/renault-master-t35-l2-el-tekno-ladbil-140hk-ladv-chas-aut-609018/]
+   Skabelon: Producenten giver # år eller # km garanti på drivbatteriet på en ny ‹bil› , med mindst # % af den oprindelige kapacitet.
+   Eksempel: Producenten giver 8 år eller 160.000 km garanti på drivbatteriet på en ny Renault Master, med mindst 70 % af den oprindelige kapacitet.

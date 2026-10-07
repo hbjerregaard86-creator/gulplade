@@ -1,0 +1,281 @@
+[
+ {
+  "slug": "varebil-med-lav-udbetaling",
+  "gruppe": "leasing",
+  "h1": "Varebil uden udbetaling eller med lav udbetaling",
+  "title": "Leasing af varebil uden udbetaling — fra 1.495 kr./md.",
+  "desc": "Leasing af varebil uden udbetaling eller med lav førstegangsydelse: 24 tilbud fra 1.495 kr./md. ekskl. moms. Udbetaling, ydelse og den reelle pris side om side.",
+  "kort": "Tilbud uden udbetaling eller med en førstegangsydelse på 40.000 kr. eller derunder.",
+  "intro": "En lav udbetaling binder mindre likviditet, men den forsvinder ikke — den flytter over i månedsydelsen. Her er tilbuddene med en førstegangsydelse på 40.000 kr. eller derunder, og kolonnen Inkl. udbetaling viser, hvad de reelt koster.",
+  "kriterium": "førstegangsydelsen. Lavest først.",
+  "antal": 24,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Opel Movano (diesel): 0 kr.",
+   "Mercedes-Benz eCitan: 20.000 kr.",
+   "Toyota Proace City (diesel): 20.000 kr."
+  ]
+ },
+ {
+  "slug": "finansiel-eller-operationel-leasing",
+  "gruppe": "leasing",
+  "h1": "Finansiel eller operationel leasing af varebil",
+  "title": "Finansiel eller operationel leasing af varebil — side om side",
+  "desc": "Finansiel eller operationel leasing? Udbetaling, ydelse, restværdi, service og løbetid side om side — regnet af 117 aktuelle erhvervstilbud på varebiler. Ekskl. moms.",
+  "kort": "Forskellen på de to aftaletyper — og hvad den betyder for ydelsen.",
+  "intro": "Finansiel leasing har en aftalt restværdi: når aftalen udløber, skal du selv eller en køber, du anviser, overtage bilen til det beløb. Operationel leasing har ingen — bilen leveres tilbage, og udbyderen bærer risikoen for, hvad den er værd til sidst. Det er to forskellige produkter, og en ydelse af den ene type kan ikke uden videre holdes op mod den anden.",
+  "kriterium": "samlet pris pr. måned blandt tilbud, hvor udbyderen oplyser aftaletypen. Lavest først.",
+  "antal": 117,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-med-service-inkluderet",
+  "gruppe": "leasing",
+  "h1": "Varebil med service inkluderet i leasingydelsen",
+  "title": "Varebil med service inkluderet i leasingen",
+  "desc": "Se erhvervsleasingtilbud på varebiler, hvor service og reparation er inkluderet i månedsydelsen. Med kilde og dato på hvert tilbud.",
+  "kort": "Tilbud hvor service og reparation er dækket af ydelsen — ikke et tilvalg.",
+  "intro": "Er service inkluderet, ligger værkstedsregningen i ydelsen, og budgettet holder. Er den ikke, kommer den oveni — og på en varebil med 15.000 km om året er det ikke et lille beløb. Her er tilbuddene, hvor udbyderen udtrykkeligt skriver, at service og reparation er dækket.",
+  "kriterium": "samlet pris pr. måned blandt tilbud med service inkluderet. Lavest først.",
+  "antal": 55,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Opel Combo: 2.567 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-med-kort-loebetid",
+  "gruppe": "leasing",
+  "h1": "Varebil med kort løbetid",
+  "title": "Varebil på kort leasing — 36 eller 48 måneder",
+  "desc": "De fleste varebilsaftaler løber 60 måneder. Se tilbuddene på 36 og 48 måneder, med samlet pris ekskl. moms.",
+  "kort": "Aftaler på 36 eller 48 måneder i stedet for de sædvanlige 60.",
+  "intro": "Standarden på varebiler er 60 måneder, fordi en lang løbetid trykker månedsydelsen. Men fem år er lang tid at binde sig, hvis virksomheden vokser eller opgaverne skifter. Her er aftalerne på 36 og 48 måneder — bemærk at den kortere løbetid som regel koster mere om måneden, netop fordi bilen afdrages hurtigere.",
+  "kriterium": "samlet pris pr. måned blandt aftaler på 36 eller 48 måneder. Lavest først.",
+  "antal": 45,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.567 kr./md.",
+   "Mercedes-Benz Citan: 2.689 kr./md."
+  ]
+ },
+ {
+  "slug": "operationel-leasing-elvarebil",
+  "gruppe": "leasing",
+  "h1": "Operationel leasing af elvarebil",
+  "title": "Operationel leasing af elvarebil fra 1.495 kr./md.",
+  "desc": "Sammenlign 18 operationelle leasingtilbud på elvarebiler fra 1.495 kr./md. ekskl. moms. Ydelse, udbetaling og hvad der er inkluderet side om side.",
+  "kort": "Tilbud, hvor bilen afleveres efter løbetiden — sorteret efter den reelle pris.",
+  "svar": "Billigste operationelle leasing af en elvarebil lige nu:",
+  "intro": "Ved operationel leasing lejer du bilen og afleverer den efter løbetiden; leasingselskabet bærer risikoen for, hvad den er værd. Her er de operationelle tilbud på elvarebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt operationelle tilbud på elvarebiler. Lavest først.",
+  "antal": 18,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Peugeot e-Partner: 3.212 kr./md.",
+   "Opel Combo Electric: 3.240 kr./md."
+  ]
+ },
+ {
+  "slug": "finansiel-leasing-elvarebil",
+  "gruppe": "leasing",
+  "h1": "Finansiel leasing af elvarebil",
+  "title": "Finansiel leasing af elvarebil fra 1.699 kr./md.",
+  "desc": "Sammenlign 18 finansielle leasingtilbud på elvarebiler fra 1.699 kr./md. ekskl. moms. Ydelse, udbetaling og restværdi side om side.",
+  "kort": "Tilbud med restværdi på elvarebiler — sorteret efter den reelle pris.",
+  "svar": "Billigste finansielle leasing af en elvarebil lige nu:",
+  "intro": "Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser. Her er de finansielle tilbud på elvarebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt finansielle tilbud på elvarebiler. Lavest først.",
+  "antal": 18,
+  "enhed": "tilbud",
+  "fra_kr_md": 1699,
+  "top3": [
+   "Renault Kangoo E-Tech: 2.532 kr./md.",
+   "Toyota Proace City Electric: 2.910 kr./md.",
+   "Renault Kangoo E-Tech: 3.290 kr./md."
+  ]
+ },
+ {
+  "slug": "operationel-leasing-lille-varebil",
+  "gruppe": "leasing",
+  "h1": "Operationel leasing af lille varebil",
+  "title": "Operationel leasing af lille varebil fra 1.495 kr./md.",
+  "desc": "Sammenlign 15 operationelle leasingtilbud på små varebiler fra 1.495 kr./md. ekskl. moms. Ydelse, udbetaling og hvad der er inkluderet side om side.",
+  "kort": "Tilbud, hvor bilen afleveres efter løbetiden — sorteret efter den reelle pris.",
+  "svar": "Billigste operationelle leasing af en lille varebil lige nu:",
+  "intro": "Ved operationel leasing lejer du bilen og afleverer den efter løbetiden; leasingselskabet bærer risikoen for, hvad den er værd. Her er de operationelle tilbud på små varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt operationelle tilbud på små varebiler. Lavest først.",
+  "antal": 15,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.567 kr./md.",
+   "Mercedes-Benz Citan: 2.689 kr./md."
+  ]
+ },
+ {
+  "slug": "finansiel-leasing-lille-varebil",
+  "gruppe": "leasing",
+  "h1": "Finansiel leasing af lille varebil",
+  "title": "Finansiel leasing af lille varebil fra 1.699 kr./md.",
+  "desc": "Sammenlign 21 finansielle leasingtilbud på små varebiler fra 1.699 kr./md. ekskl. moms. Ydelse, udbetaling og restværdi side om side.",
+  "kort": "Tilbud med restværdi på små varebiler — sorteret efter den reelle pris.",
+  "svar": "Billigste finansielle leasing af en lille varebil lige nu:",
+  "intro": "Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser. Her er de finansielle tilbud på små varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt finansielle tilbud på små varebiler. Lavest først.",
+  "antal": 21,
+  "enhed": "tilbud",
+  "fra_kr_md": 1699,
+  "top3": [
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md.",
+   "Toyota Proace City (diesel): 2.393 kr./md."
+  ]
+ },
+ {
+  "slug": "operationel-leasing-mellemstor-varebil",
+  "gruppe": "leasing",
+  "h1": "Operationel leasing af mellemstor varebil",
+  "title": "Operationel leasing af mellemstor varebil fra 2.249 kr./md.",
+  "desc": "Sammenlign 18 operationelle leasingtilbud på mellemstore varebiler fra 2.249 kr./md. ekskl. moms. Ydelse, udbetaling og hvad der er inkluderet side om side.",
+  "kort": "Tilbud, hvor bilen afleveres efter løbetiden — sorteret efter den reelle pris.",
+  "svar": "Billigste operationelle leasing af en mellemstor varebil lige nu:",
+  "intro": "Ved operationel leasing lejer du bilen og afleverer den efter løbetiden; leasingselskabet bærer risikoen for, hvad den er værd. Her er de operationelle tilbud på mellemstore varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt operationelle tilbud på mellemstore varebiler. Lavest først.",
+  "antal": 18,
+  "enhed": "tilbud",
+  "fra_kr_md": 2249,
+  "top3": [
+   "Citroën Jumpy: 3.082 kr./md.",
+   "Toyota Proace (diesel): 3.261 kr./md.",
+   "Volkswagen Transporter: 3.278 kr./md."
+  ]
+ },
+ {
+  "slug": "finansiel-leasing-mellemstor-varebil",
+  "gruppe": "leasing",
+  "h1": "Finansiel leasing af mellemstor varebil",
+  "title": "Finansiel leasing af mellemstor varebil fra 1.999 kr./md.",
+  "desc": "Sammenlign 19 finansielle leasingtilbud på mellemstore varebiler fra 1.999 kr./md. ekskl. moms. Ydelse, udbetaling og restværdi side om side.",
+  "kort": "Tilbud med restværdi på mellemstore varebiler — sorteret efter den reelle pris.",
+  "svar": "Billigste finansielle leasing af en mellemstor varebil lige nu:",
+  "intro": "Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser. Her er de finansielle tilbud på mellemstore varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt finansielle tilbud på mellemstore varebiler. Lavest først.",
+  "antal": 19,
+  "enhed": "tilbud",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Toyota Proace (diesel): 2.676 kr./md.",
+   "Opel Vivaro: 2.832 kr./md.",
+   "Renault Trafic: 3.282 kr./md."
+  ]
+ },
+ {
+  "slug": "operationel-leasing-stor-varebil",
+  "gruppe": "leasing",
+  "h1": "Operationel leasing af stor varebil",
+  "title": "Operationel leasing af stor varebil fra 2.956 kr./md.",
+  "desc": "Sammenlign 13 operationelle leasingtilbud på store varebiler fra 2.956 kr./md. ekskl. moms. Ydelse, udbetaling og hvad der er inkluderet side om side.",
+  "kort": "Tilbud, hvor bilen afleveres efter løbetiden — sorteret efter den reelle pris.",
+  "svar": "Billigste operationelle leasing af en stor varebil lige nu:",
+  "intro": "Ved operationel leasing lejer du bilen og afleverer den efter løbetiden; leasingselskabet bærer risikoen for, hvad den er værd. Her er de operationelle tilbud på store varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt operationelle tilbud på store varebiler. Lavest først.",
+  "antal": 13,
+  "enhed": "tilbud",
+  "fra_kr_md": 2956,
+  "top3": [
+   "Citroën Jumper: 3.873 kr./md.",
+   "Toyota Proace Max (diesel): 3.895 kr./md.",
+   "Opel Movano (diesel): 3.907 kr./md."
+  ]
+ },
+ {
+  "slug": "finansiel-leasing-stor-varebil",
+  "gruppe": "leasing",
+  "h1": "Finansiel leasing af stor varebil",
+  "title": "Finansiel leasing af stor varebil fra 2.162 kr./md.",
+  "desc": "Sammenlign 25 finansielle leasingtilbud på store varebiler fra 2.162 kr./md. ekskl. moms. Ydelse, udbetaling og restværdi side om side.",
+  "kort": "Tilbud med restværdi på store varebiler — sorteret efter den reelle pris.",
+  "svar": "Billigste finansielle leasing af en stor varebil lige nu:",
+  "intro": "Ved finansiel leasing er der aftalt en restværdi, som skal indfries ved udløb — af dig selv eller en køber, du anviser. Her er de finansielle tilbud på store varebiler, sorteret efter den reelle pris med udbetalingen fordelt over løbetiden.",
+  "kriterium": "samlet pris pr. måned blandt finansielle tilbud på store varebiler. Lavest først.",
+  "antal": 25,
+  "enhed": "tilbud",
+  "fra_kr_md": 2162,
+  "top3": [
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Toyota Proace Max (diesel): 3.162 kr./md.",
+   "Citroën Jumper: 3.178 kr./md."
+  ]
+ },
+ {
+  "slug": "operationel-leasing-varebil",
+  "gruppe": "leasing",
+  "h1": "Operationel leasing af varebil",
+  "title": "Operationel leasing af varebil — 47 tilbud fra 1.495 kr./md.",
+  "desc": "Sammenlign 47 operationelle leasingtilbud på varebiler fra 1.495 kr./md. ekskl. moms. Ingen restværdi — bilen afleveres tilbage. Ydelse og indhold side om side.",
+  "kort": "Kun aftaler uden restværdi: bilen afleveres tilbage, og udbyderen bærer risikoen.",
+  "intro": "På operationel leasing afleverer du bilen, når aftalen udløber, og udbyderen bærer risikoen for, hvad den er værd. Der er ingen restværdi at hæfte for. Til gengæld står kilometergrænsen og tilbageleveringsvilkårene for alvor til regnskab — dem skal du læse.",
+  "kriterium": "samlet pris pr. måned blandt de operationelle tilbud. Lavest først.",
+  "antal": 47,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.567 kr./md.",
+   "Mercedes-Benz Citan: 2.689 kr./md."
+  ]
+ },
+ {
+  "slug": "finansiel-leasing-varebil",
+  "gruppe": "leasing",
+  "h1": "Finansiel leasing af varebil",
+  "title": "Finansiel leasing af varebil — 70 tilbud fra 1.699 kr./md.",
+  "desc": "Sammenlign 70 finansielle leasingtilbud på varebiler fra 1.699 kr./md. ekskl. moms. Ydelse, udbetaling, restværdi og løbetid side om side.",
+  "kort": "Kun aftaler med restværdi: ved udløb skal restværdien indfries — af dig eller en køber, du anviser.",
+  "intro": "På finansiel leasing er der aftalt en restværdi. Når aftalen udløber, skal du selv eller en køber, du anviser, overtage bilen til det beløb — og er den mindre værd, er det dig, der betaler forskellen. Derfor skal restværdien læses lige så grundigt som ydelsen.",
+  "kriterium": "samlet pris pr. måned blandt de finansielle tilbud. Lavest først. Restværdien er ikke regnet med.",
+  "antal": 70,
+  "enhed": "tilbud",
+  "fra_kr_md": 1699,
+  "top3": [
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md.",
+   "Toyota Proace City (diesel): 2.393 kr./md."
+  ]
+ },
+ {
+  "slug": "erhvervsbil-leasing",
+  "gruppe": "leasing",
+  "h1": "Erhvervsbil leasing: varebil, kassevogn, ladbil og pickup",
+  "title": "Erhvervsbil leasing — 62 modeller fra 1.495 kr./md.",
+  "desc": "Leasing af erhvervsbil til virksomheden: den billigste pris på hver varebil, kassevogn, ladbil og pickup på gule plader, med udbetalingen regnet med.",
+  "kort": "Den billigste leasingpris på hver erhvervsbil — kassevogne, ladbiler og pickupper på gule plader.",
+  "svar": "Billigste erhvervsbil lige nu:",
+  "intro": "En erhvervsbil er i leasingsprog en bil til virksomheden på gule plader — en varebil, en kassevogn, en ladbil eller en pickup, registreret til godstransport. Her står hver model én gang, med det billigste tilbud vi har på den, målt på månedsydelsen plus udbetalingen fordelt over løbetiden. Klik på modellen for at se alle tilbud, målene og udstyret.",
+  "kriterium": "månedsydelsen plus udbetalingen fordelt over løbetiden, billigste tilbud pr. model. Lavest først.",
+  "antal": 62,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ }
+]

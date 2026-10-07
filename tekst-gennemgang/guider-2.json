@@ -1,0 +1,396 @@
+[
+ {
+  "slug": "stor-varebil",
+  "gruppe": "stoerrelse",
+  "h1": "Stor varebil og kassevogn",
+  "title": "Stor varebil til erhvervsleasing — 3 tons",
+  "desc": "Sammenlign leasing af store varebiler og kassevogne over 5,4 m: Sprinter, Crafter, Transit, Master og Ducato. Nyttelast, lastrum og pris.",
+  "kort": "De store kassevogne over 5,4 m — Sprinter, Crafter, Transit, Master og Ducato-klassen.",
+  "svar": "Billigste store varebil lige nu:",
+  "intro": "Skal der bæres meget, er en billig lille bil ikke billig. Her er de store kassevogne — over 5,4 m, som Sprinter, Crafter, Transit, Master og Ducato. Bemærk at totalvægten er bilens egen vægt plus lasten — det er nyttelasten, der siger hvor meget du må laste.",
+  "kriterium": "samlet pris pr. måned blandt de store kassevogne (over 5,4 m). Lavest først.",
+  "antal": 40,
+  "enhed": "tilbud",
+  "fra_kr_md": 2162,
+  "top3": [
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Toyota Proace Max (diesel): 3.162 kr./md.",
+   "Citroën Jumper: 3.178 kr./md."
+  ]
+ },
+ {
+  "slug": "lille-varebil",
+  "gruppe": "stoerrelse",
+  "h1": "Bedste lille varebil 2026",
+  "title": "Bedste lille varebil 2026 — leasing fra 1.495 kr./md.",
+  "desc": "Bedste lille varebil til byen: sammenlign leasing af små varevogne og pizzabiler under 4,75 m. Mål, nyttelast og pris ekskl. moms.",
+  "kort": "Pizzabilerne: kompakte varebiler under 4,75 m, der kan parkere i byen.",
+  "svar": "Billigste lille varebil lige nu:",
+  "intro": "En lille varebil er lettere at parkere, billigere i afgift og bruger mindre brændstof. Til gengæld sætter lastrummet grænsen. Her er pizzabilerne — varebiler under 4,75 m som Caddy, Berlingo, Partner, Kangoo og deres elversioner. De fleste tager to europaller.",
+  "kriterium": "samlet pris pr. måned blandt pizzabilerne (under 4,75 m). Lavest først.",
+  "antal": 36,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-parkeringskaelder",
+  "gruppe": "stoerrelse",
+  "h1": "Varebil der kan være i en parkeringskælder",
+  "title": "Varebil til parkeringskælder — under 2,10 m høj",
+  "desc": "Danske parkeringskældre ligger typisk mellem 1,90 og 2,10 m. Se hvilke varebiler der kommer ind, med højden målt fra vejkanten til taget.",
+  "kort": "Modeller under 2,10 m i højden — det tal, der afgør om du kommer ind.",
+  "intro": "Danske parkeringskældre ligger typisk mellem 1,90 og 2,10 m i frihøjde, og en varebil, der ikke kan komme ind, er ubrugelig i indre by. Alligevel oplyser ingen leasingside højden. Her er modellerne under 2,10 m, sorteret efter højde.",
+  "kriterium": "udvendig højde, målt fra vejkanten til kanten af taget. Lavest først.",
+  "antal": 79,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Citroën Berlingo: 1.796 mm",
+   "Citroën Berlingo: 1.796 mm",
+   "Peugeot Partner: 1.796 mm"
+  ]
+ },
+ {
+  "slug": "varebil-til-elektriker",
+  "gruppe": "fag",
+  "h1": "Varebil til elektriker",
+  "title": "Varebil til elektriker — leasing fra 1.999 kr./md.",
+  "desc": "Mellemstore kassevogne med plads til reoler — sorteret efter den reelle pris. 16 erhvervstilbud ekskl. moms, fra 1.999 kr./md.",
+  "kort": "Mellemstore kassevogne med plads til reoler — sorteret efter den reelle pris.",
+  "svar": "Billigste varebil til elektriker lige nu:",
+  "intro": "En elektriker kører med kabler, materialer og værktøj på reoler, ofte mellem kunder i byen. Her er de mellemstore kassevogne: plads til indretning, men stadig til at parkere. Sorteret efter, hvad de reelt koster om måneden med udbetalingen fordelt.",
+  "kriterium": "samlet pris pr. måned blandt mellemstore kassevogne. Lavest først, én pr. model.",
+  "antal": 16,
+  "enhed": "modeller",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Toyota Proace (diesel): 2.676 kr./md.",
+   "Opel Vivaro: 2.832 kr./md.",
+   "Citroën Jumpy: 3.082 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-vvs",
+  "gruppe": "fag",
+  "h1": "Varebil til VVS",
+  "title": "Varebil til VVS — leasing fra 1.999 kr./md.",
+  "desc": "Kassevogne med mindst 2,5 meter lastrum, så rør og lange emner kan ligge i bunden. 38 erhvervstilbud ekskl. moms, fra 1.999 kr./md.",
+  "kort": "Kassevogne med mindst 2,5 meter lastrum, så rør og lange emner kan ligge i bunden.",
+  "svar": "Billigste varebil til VVS-installatør lige nu:",
+  "intro": "Rør, fittings og værktøj fylder i længden. Her er kassevognene med mindst 2,5 meter lastrumslængde ifølge producenten, sorteret efter den reelle pris. Længden står ved hver bil; mål og læssehøjde står på modelsiden.",
+  "kriterium": "samlet pris pr. måned blandt kassevogne med mindst 2.500 mm lastrumslængde. Lavest først, én pr. model.",
+  "antal": 38,
+  "enhed": "modeller",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Toyota Proace (diesel): 2.676 kr./md.",
+   "Opel Vivaro: 2.832 kr./md.",
+   "Opel Movano (diesel): 2.995 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-toemrer",
+  "gruppe": "fag",
+  "h1": "Varebil til tømrer",
+  "title": "Varebil til tømrer — leasing fra 2.162 kr./md.",
+  "desc": "Lange kassevogne og ladvogne til plader, lægter og lange emner. 27 erhvervstilbud ekskl. moms, fra 2.162 kr./md.",
+  "kort": "Lange kassevogne og ladvogne til plader, lægter og lange emner.",
+  "svar": "Billigste varebil til tømrer lige nu:",
+  "intro": "Plader, lægter og lange emner kræver længde — enten et langt lastrum eller et lad. Her er kassevognene med mindst 3 meter lastrum og ladvognene, sorteret efter den reelle pris. Trækvægten står på modelsiden, hvis der også skal en trailer med.",
+  "kriterium": "samlet pris pr. måned blandt kassevogne med mindst 3.000 mm lastrumslængde og ladvogne. Lavest først, én pr. model.",
+  "antal": 27,
+  "enhed": "modeller",
+  "fra_kr_md": 2162,
+  "top3": [
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Toyota Proace Max (diesel): 3.162 kr./md.",
+   "Citroën Jumper: 3.178 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-maler",
+  "gruppe": "fag",
+  "h1": "Varebil til maler",
+  "title": "Varebil til maler — leasing fra 1.999 kr./md.",
+  "desc": "Små og mellemstore kassevogne med mindst 3,5 m³ til stiger, spande og afdækning. 19 erhvervstilbud ekskl. moms, fra 1.999 kr./md.",
+  "kort": "Små og mellemstore kassevogne med mindst 3,5 m³ til stiger, spande og afdækning.",
+  "svar": "Billigste varebil til maler lige nu:",
+  "intro": "En maler skal have stiger, spande og afdækning med, men sjældent de helt tunge læs. Her er de små og mellemstore kassevogne med mindst 3,5 m³ lastrum, sorteret efter den reelle pris med udbetalingen fordelt.",
+  "kriterium": "samlet pris pr. måned blandt små og mellemstore kassevogne med mindst 3,5 m³ lastrum. Lavest først, én pr. model.",
+  "antal": 19,
+  "enhed": "modeller",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Toyota Proace (diesel): 2.676 kr./md.",
+   "Opel Vivaro: 2.832 kr./md.",
+   "Citroën Jumpy: 3.082 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-murer",
+  "gruppe": "fag",
+  "h1": "Varebil til murer",
+  "title": "Varebil til murer — leasing fra 2.162 kr./md.",
+  "desc": "Varebiler med mindst 1.100 kg nyttelast og 2.500 kg trækvægt til tunge materialer. 10 erhvervstilbud ekskl. moms, fra 2.162 kr./md.",
+  "kort": "Varebiler med mindst 1.100 kg nyttelast og 2.500 kg trækvægt til tunge materialer.",
+  "svar": "Billigste varebil til murer lige nu:",
+  "intro": "Mursten, mørtel og stillads vejer. Her er varebilerne med mindst 1.100 kg nyttelast og 2.500 kg bremset trækvægt ifølge producenten, sorteret efter den reelle pris. Husk, at indretning trækker fra nyttelasten.",
+  "kriterium": "samlet pris pr. måned blandt varebiler med mindst 1.100 kg nyttelast og 2.500 kg anhængervægt. Lavest først, én pr. model.",
+  "antal": 10,
+  "enhed": "modeller",
+  "fra_kr_md": 2162,
+  "top3": [
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Toyota Proace Max (diesel): 3.162 kr./md.",
+   "Citroën Jumper: 3.178 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-anlaegsgartner",
+  "gruppe": "fag",
+  "h1": "Varebil til anlægsgartner",
+  "title": "Varebil til anlægsgartner — leasing fra 2.976 kr./md.",
+  "desc": "Ladvogne, pickupper og varebiler, der må trække mindst 3 tons. 10 erhvervstilbud ekskl. moms, fra 2.976 kr./md.",
+  "kort": "Ladvogne, pickupper og varebiler, der må trække mindst 3 tons.",
+  "svar": "Billigste varebil til anlægsgartner lige nu:",
+  "intro": "Jord, sten, planter og en trailer med maskiner. Her er ladvognene og pickupperne og de varebiler, der må trække mindst 3.000 kg ifølge producenten, sorteret efter den reelle pris.",
+  "kriterium": "samlet pris pr. måned blandt ladvogne, pickupper og varebiler med mindst 3.000 kg anhængervægt. Lavest først, én pr. model.",
+  "antal": 10,
+  "enhed": "modeller",
+  "fra_kr_md": 2976,
+  "top3": [
+   "Renault Master Chassis: 3.809 kr./md.",
+   "Fiat Ducato: 3.878 kr./md.",
+   "Renault Master E-Tech Chassis: 4.120 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-til-budkoersel",
+  "gruppe": "fag",
+  "h1": "Varebil til budkørsel",
+  "title": "Varebil til budkørsel — leasing fra 2.162 kr./md.",
+  "desc": "Store kassevogne med mindst 9 m³, sorteret efter pris pr. m³ lastrum. 20 erhvervstilbud ekskl. moms, fra 2.162 kr./md.",
+  "kort": "Store kassevogne med mindst 9 m³, sorteret efter pris pr. m³ lastrum.",
+  "svar": "Billigste varebil til budkørsel lige nu:",
+  "intro": "Til pakker og gods er det rumfanget, der tjener pengene. Her er kassevognene med mindst 9 m³ lastrum, sorteret efter hvad hver kubikmeter koster om måneden med udbetalingen fordelt.",
+  "kriterium": "samlet pris pr. måned delt med lastrummets rumfang, blandt varebiler med mindst 9 m³. Lavest først, én pr. model.",
+  "antal": 20,
+  "enhed": "modeller",
+  "fra_kr_md": 2162,
+  "top3": [
+   "Opel Movano (diesel): 260 kr./m³",
+   "Toyota Proace Max Electric: 271 kr./m³",
+   "Fiat Ducato: 298 kr./m³"
+  ]
+ },
+ {
+  "slug": "varebil-til-servicetekniker",
+  "gruppe": "fag",
+  "h1": "Varebil til servicetekniker",
+  "title": "Varebil til servicetekniker — leasing fra 1.495 kr./md.",
+  "desc": "Små kassevogne til værktøj og reservedele — lette at parkere, billige i drift. 18 erhvervstilbud ekskl. moms, fra 1.495 kr./md.",
+  "kort": "Små kassevogne til værktøj og reservedele — lette at parkere, billige i drift.",
+  "svar": "Billigste varebil til servicetekniker lige nu:",
+  "intro": "En servicetekniker kører mange korte ture med værktøj og reservedele, ofte i byen. Her er de små kassevogne, sorteret efter den reelle pris. Flere findes som el; rækkevidden står på modelsiden.",
+  "kriterium": "samlet pris pr. måned blandt små kassevogne. Lavest først, én pr. model.",
+  "antal": 18,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "kassevogn-l2h2",
+  "gruppe": "stoerrelse",
+  "h1": "Kassevogn L2H2 leasing",
+  "title": "Kassevogn L2H2 leasing — priser og lastrum",
+  "desc": "Sammenlign leasingtilbud på kassevogne i L2H2: mellemlang og højt tag. Pris inkl. udbetaling, lastrum og kilde. L2 betyder ikke det samme hos alle mærker.",
+  "kort": "Tilbud på kassevogne i L2H2, sorteret efter pris med udbetalingen regnet med.",
+  "intro": "L2H2 betyder mellemlang (L2) og højt tag (H2). Det høje tag giver typisk 1,8–1,9 m lastrumshøjde, uden at bilen bliver lige så lang som en L3. Men L2 er ikke en fælles standard: lastrumslængden svinger med over en meter fra mærke til mærke. Her er tilbuddene, hvor udbyderen selv skriver L2H2, sorteret efter månedsydelsen plus udbetalingen fordelt over løbetiden.",
+  "kriterium": "tilbud, hvor forhandleren eller leasingselskabet kalder bilen L2H2. Samlet månedspris inkl. udbetaling, lavest først.",
+  "antal": 14,
+  "enhed": "tilbud",
+  "fra_kr_md": 2345,
+  "top3": [
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Citroën Jumper: 3.178 kr./md.",
+   "Ford Transit: 3.692 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-l3h2",
+  "gruppe": "stoerrelse",
+  "h1": "Varebil L3H2 leasing",
+  "title": "Varebil L3H2 leasing — store kassevogne",
+  "desc": "Sammenlign leasingtilbud på varebiler i L3H2: lang kassevogn med højt tag. Pris inkl. udbetaling, lastrum og nyttelast, med kilde og dato.",
+  "kort": "Store kassevogne i L3H2 — lang og høj — sorteret efter pris inkl. udbetaling.",
+  "intro": "L3H2 er den lange kassevogn med højt tag — typisk omkring 13 m³ lastrum og en bil på omkring seks meter. Det er størrelsen til flytning, distribution og håndværkere med meget materiel. Her er tilbuddene, hvor udbyderen selv skriver L3H2, sorteret efter månedsydelsen plus udbetalingen fordelt over løbetiden.",
+  "kriterium": "tilbud, hvor forhandleren eller leasingselskabet kalder bilen L3H2. Samlet månedspris inkl. udbetaling, lavest først.",
+  "antal": 11,
+  "enhed": "tilbud",
+  "fra_kr_md": 2995,
+  "top3": [
+   "Citroën Jumper: 3.828 kr./md.",
+   "Fiat Ducato: 3.878 kr./md.",
+   "Fiat E-Ducato: 3.928 kr./md."
+  ]
+ },
+ {
+  "slug": "lang-varebil",
+  "gruppe": "stoerrelse",
+  "h1": "Lang varebil: længste lastrum",
+  "title": "Lang varebil — længste lastrum i leasing",
+  "desc": "Hvilken varebil har det længste lastrum? Modellerne sorteret efter producentens lastrumslængde i mm, med pris inkl. udbetaling. Til rør, profiler og lange emner.",
+  "kort": "Modellerne med det længste lastrum, målt i mm af producenten.",
+  "intro": "Skal der lange emner med — rør, profiler, lister eller stiger — er det lastrumslængden på gulvet, der afgør det, ikke volumen. Her er modellerne sorteret efter producentens oplyste lastrumslængde, længst først. Hver model står én gang, med sit billigste tilbud.",
+  "kriterium": "producentens lastrumslængde på gulvet i mm. Længst først, ét tilbud pr. model.",
+  "antal": 58,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Toyota Proace Max Electric: 3.705 mm",
+   "Fiat Ducato: 3.705 mm",
+   "Fiat E-Ducato: 3.705 mm"
+  ]
+ },
+ {
+  "slug": "varebil-til-europaller",
+  "gruppe": "stoerrelse",
+  "h1": "Varebil der kan tage europaller",
+  "title": "Varebil til europaller — se hvor mange der er plads",
+  "desc": "Sammenlign varebiler efter hvor mange europaller de kan tage. Producentens eget tal, med lastrumsmål og pris ekskl. moms.",
+  "kort": "Modeller hvor producenten oplyser, hvor mange europaller der er plads til.",
+  "intro": "En europalle er 1.200 × 800 mm. Om den kan stå i bilen afgøres ikke af lastrummets volumen, men af bredden mellem hjulkasserne — der skal være mindst 1.200 mm, hvis pallen skal ind på tværs. Her er modellerne, hvor producenten selv oplyser det maksimale antal europaller i forlængelse af hinanden.",
+  "kriterium": "producentens oplyste maksimale antal europaller. Flest først.",
+  "antal": 55,
+  "enhed": "tilbud",
+  "fra_kr_md": 1858,
+  "top3": [
+   "Iveco Daily Boks: 8 paller",
+   "Fiat Ducato: 5 paller",
+   "Fiat E-Ducato: 5 paller"
+  ]
+ },
+ {
+  "slug": "mellemstor-varebil",
+  "gruppe": "stoerrelse",
+  "h1": "Mellemstor varebil",
+  "title": "Mellemstor varebil til erhvervsleasing",
+  "desc": "Sammenlign leasing af mellemstore varebiler og kassevogne på 4,75–5,4 m: Transit Custom, Trafic, Transporter og flere. Mål, nyttelast og pris ekskl. moms.",
+  "kort": "Kassevogne på 4,75–5,4 m — størrelsen, flest håndværkere kører i.",
+  "svar": "Billigste mellemstore varebil lige nu:",
+  "intro": "Mellemstørrelsen er kompromiset: plads til reoler og tre europaller, men stadig en bil, der kan parkeres i en almindelig gade. Her er kassevognene på 4,75–5,4 m — Transit Custom, Transporter, Vito, Trafic, Jumpy og deres elversioner.",
+  "kriterium": "samlet pris pr. måned blandt kassevognene på 4,75–5,4 m. Lavest først.",
+  "antal": 39,
+  "enhed": "tilbud",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Toyota Proace (diesel): 2.676 kr./md.",
+   "Opel Vivaro: 2.832 kr./md.",
+   "Citroën Jumpy: 3.082 kr./md."
+  ]
+ },
+ {
+  "slug": "kassevogn-leasing",
+  "gruppe": "stoerrelse",
+  "h1": "Kassevogn leasing — sammenlign kassebiler til erhverv",
+  "title": "Lease kassebil eller kassevogn — tilbud fra 1.495 kr./md.",
+  "desc": "Lease en kassebil eller kassevogn til erhverv: 115 tilbud fra 1.495 kr./md. ekskl. moms, med lastrum, nyttelast og udbetaling side om side. Få tilbud gratis.",
+  "kort": "Alle tilbud på lukkede kassevogne — fra små bybiler til store 3,5-tons kassebiler.",
+  "svar": "Billigste kassevogn lige nu:",
+  "intro": "En kassevogn — eller kassebil — er varebilen med lukket lastrum bag førerhuset. Det er langt den mest leasede erhvervsbil, og den findes i tre størrelser: små bybiler som Caddy og Berlingo, mellemstore som Transit Custom og Vito, og store 3,5-tons kassevogne som Sprinter, Crafter og Master. Her er alle tilbuddene på kassevogne, sorteret efter månedsydelsen med udbetalingen fordelt over løbetiden.",
+  "kriterium": "månedsydelsen plus udbetalingen fordelt over løbetiden, blandt lukkede kassevogne. Lavest først.",
+  "antal": 115,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md."
+  ]
+ },
+ {
+  "slug": "varebil-med-automatgear",
+  "gruppe": "stoerrelse",
+  "h1": "Varebil med automatgear i erhvervsleasing",
+  "title": "Varebil med automatgear — leasing til erhverv",
+  "desc": "Leasing af varebil med automatgear: tilbud på automatiske diesel- og elvarebiler, sorteret efter pris med udbetalingen regnet med. Kilde og dato på hvert tilbud.",
+  "kort": "Tilbud, hvor udbyderen selv skriver automatgear — plus elvarebilerne, der alle er automatiske.",
+  "svar": "Billigste varebil med automatgear lige nu:",
+  "intro": "Automatgear gør byen og de mange stop lettere, og alle elvarebiler er automatiske. Her er tilbuddene, hvor udbyderen selv skriver automatgear i bilens navn (aut., EAT8, DSG, A8), plus elvarebilerne — sorteret efter månedsydelsen med udbetalingen fordelt over løbetiden. Står der ikke automatgear ved et dieseltilbud, er det ikke med, heller ikke hvis modellen findes med automat.",
+  "kriterium": "månedsydelsen plus udbetalingen fordelt over løbetiden, blandt tilbud med automatgear. Lavest først.",
+  "antal": 59,
+  "enhed": "tilbud",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Mercedes-Benz eCitan: 2.051 kr./md.",
+   "Citroën Berlingo: 2.495 kr./md.",
+   "Renault Kangoo E-Tech: 2.532 kr./md."
+  ]
+ },
+ {
+  "slug": "stoerste-varebil-paa-almindeligt-koerekort",
+  "gruppe": "stoerrelse",
+  "h1": "Største varebil på almindeligt kørekort",
+  "title": "Største varebil på almindeligt kørekort — m³ og pris",
+  "desc": "Hvilken varebil har mest plads på B-kørekort? Varebiler op til 3.500 kg totalvægt sorteret efter lastrum i m³, med nyttelast og leasingpris ekskl. moms.",
+  "kort": "Varebiler med en tilladt totalvægt på højst 3.500 kg, sorteret efter lastrummets volumen.",
+  "svar": "Største lastrum på B-kørekort:",
+  "intro": "Kørekort i kategori B dækker biler med en tilladt totalvægt på højst 3.500 kg. Her er varebilerne inden for den grænse sorteret efter lastrummets volumen ifølge producenten, med nyttelasten ved siden af. Flere store kassevogne fås både som 3.500 kg og i tungere udgaver; tallene gælder den udgave af bilen, modelsiden viser.",
+  "kriterium": "lastrummets volumen ifølge producenten blandt varebiler med en tilladt totalvægt på højst 3.500 kg. Størst først, én pr. model.",
+  "antal": 55,
+  "enhed": "modeller",
+  "fra_kr_md": 1495,
+  "top3": [
+   "Toyota Proace Max Electric: 13 m³",
+   "Fiat Ducato: 13 m³",
+   "Fiat E-Ducato: 13 m³"
+  ]
+ },
+ {
+  "slug": "varebil-til-haandvaerker",
+  "gruppe": "fag",
+  "h1": "Bedste varevogn til håndværkere",
+  "title": "Bedste varevogn til håndværker — leasing fra 1.999 kr./md.",
+  "desc": "Varevogne til håndværkere: kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt, sorteret efter den reelle leasingpris ekskl. moms.",
+  "kort": "Kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt, sorteret efter den reelle pris.",
+  "svar": "Billigste håndværkervarebil lige nu:",
+  "intro": "En håndværker skal kunne have værktøj og materialer med og trække en trailer. Derfor er her kun kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt ifølge producenten, sorteret efter hvad de reelt koster om måneden med udbetalingen fordelt. Tallene står for den udgave af bilen, modelsiden viser.",
+  "kriterium": "samlet pris pr. måned blandt kassevogne med mindst 1.000 kg nyttelast og 2.000 kg anhængervægt. Lavest først.",
+  "antal": 48,
+  "enhed": "tilbud",
+  "fra_kr_md": 1999,
+  "top3": [
+   "Opel Vivaro: 2.832 kr./md.",
+   "Opel Movano (diesel): 2.995 kr./md.",
+   "Citroën Jumpy: 3.082 kr./md."
+  ]
+ },
+ {
+  "slug": "diesel-varebil",
+  "gruppe": "stoerrelse",
+  "h1": "Dieselvarebil i erhvervsleasing",
+  "title": "Dieselvarebil til erhvervsleasing — sammenlign tilbud",
+  "desc": "Sammenlign leasing af dieselvarebiler til erhverv. Samlet pris pr. måned inkl. udbetaling, forbrug og nyttelast ekskl. moms.",
+  "kort": "De dieseldrevne modeller, sorteret efter samlet pris.",
+  "svar": "Billigste dieselvarebil lige nu:",
+  "intro": "Halvdelen af de nye varebiler er elektriske, men diesel er stadig det, de fleste tilbud på siden handler om. Her er de dieseldrevne modeller. Tænk restværdien med: hvad en dieselvarebil er værd om fem år, afhænger af, hvor hurtigt markedet skifter.",
+  "kriterium": "samlet pris pr. måned blandt de dieseldrevne modeller. Lavest først.",
+  "antal": 77,
+  "enhed": "tilbud",
+  "fra_kr_md": 1701,
+  "top3": [
+   "Opel Combo: 2.358 kr./md.",
+   "Toyota Proace City (diesel): 2.368 kr./md.",
+   "Toyota Proace City (diesel): 2.393 kr./md."
+  ]
+ }
+]

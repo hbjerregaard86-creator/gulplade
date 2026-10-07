@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /generate-pages.js
+Disallow: /generate-brugte.js
+Disallow: /generate-viden.js
+Disallow: /varebiler.json
+Disallow: /brugte.json
+Disallow: /viden.json
+Disallow: /README.md
+Disallow: /DEPLOY.md
+Disallow: /deploy-gulplade.bat
+Disallow: /indexnow.js
+
+Sitemap: https://gulplade.dk/sitemap.xml

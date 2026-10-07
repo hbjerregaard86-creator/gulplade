@@ -1,0 +1,18 @@
+{
+  "maaned": "2026-10",
+  "note": "Første måling 04-10-2026, samme dag som AI-crawlerne blev lukket ind i Cloudflare og de tre nye guider kom op. Perplexity uden login stoppede efter 3 spørgsmål ('Tilmeld dig og gentag din anmodning'), så kun s01 og s02 nåede at blive målt.",
+  "resultater": [
+    {
+      "id": "s01", "tjeneste": "perplexity", "dato": "2026-10-04", "point": 1,
+      "naevnt_som": "Gulplade.dk / Leasio (Erhvervsleasing): guide og sammenligning af erhvervsleasing, inklusive varebiler",
+      "gulplade_kilder": [],
+      "kilder": ["leasing.dk", "leasio.dk", "leasingbuddy.dk", "kassebil.dk", "lejvarebil.dk", "varebil-leasing.dk", "leasingtilbud.com"]
+    },
+    {
+      "id": "s02", "tjeneste": "perplexity", "dato": "2026-10-04", "point": 1,
+      "naevnt_som": "Gulplade.dk (Leasio) – Leasios erhvervsside med fokus på gulpladebiler og varevogne. God til både leasingtilbud og faglig viden om regler, skat og drift.",
+      "gulplade_kilder": [],
+      "kilder": ["leasing.dk", "kassebil.dk", "leasio.dk", "nordania.dk"]
+    }
+  ]
+}

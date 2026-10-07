@@ -1,0 +1,499 @@
+1. [46 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Et tilbudstjek koster # kr. ekskl. moms.
+   Eksempel: Et tilbudstjek koster 695 kr. ekskl. moms.
+
+2. [45 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Uvildigt — leasingselskabet betaler os ikke en krone for at sige god for tilbuddet.
+   Eksempel: Uvildigt — leasingselskabet betaler os ikke en krone for at sige god for tilbuddet.
+
+3. [44 sider, fx /til-varebilen/indretning/brugt/]
+   Skabelon: Indretning af varebil : moduler, vægt, pris og regler
+   Eksempel: Indretning af varebil : moduler, vægt, pris og regler
+
+4. [44 sider, fx /til-varebilen/indretning/brugt/]
+   Skabelon: Indretning til service og montage
+   Eksempel: Indretning til service og montage
+
+5. [43 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Reglerne ændrer sig, og satser reguleres årligt.
+   Eksempel: Reglerne ændrer sig, og satser reguleres årligt.
+
+6. [43 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Datoerne står der, så du kan se, hvor gammelt grundlaget er.
+   Eksempel: Datoerne står der, så du kan se, hvor gammelt grundlaget er.
+
+7. [43 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Siden er ikke skatte-, revisions- eller juridisk rådgivning — er der penge i det, så spørg din revisor.
+   Eksempel: Siden er ikke skatte-, revisions- eller juridisk rådgivning — er der penge i det, så spørg din revisor.
+
+8. [42 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: En opstilling med et modul i hver side vejer #–# kg.
+   Eksempel: En opstilling med et modul i hver side vejer 61–110 kg.
+
+9. [39 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Vejledende priser ekskl. moms.
+   Eksempel: Vejledende priser ekskl. moms.
+
+10. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Her er målene, en indretning planlægges efter, og hvad den gør ved nyttelasten.
+   Eksempel: Her er målene, en indretning planlægges efter, og hvad den gør ved nyttelasten.
+
+11. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Moduler på # mm i dybden; tagets form og hjulkassernes højde er skematiske.
+   Eksempel: Moduler på 436 mm i dybden; tagets form og hjulkassernes højde er skematiske.
+
+12. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Mål for den variant, vi viser på modelsiden , hvor kilde og dato står.
+   Eksempel: Mål for den variant, vi viser på modelsiden , hvor kilde og dato står.
+
+13. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Længere og højere udgaver har større lastrum.
+   Eksempel: Længere og højere udgaver har større lastrum.
+
+14. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Med moduler på # mm i dybden giver to moduler # mm fri gang, og ét modul i venstre side giver # mm.
+   Eksempel: Med moduler på 436 mm i dybden giver to moduler 861 mm fri gang, og ét modul i venstre side giver 1.297 mm.
+
+15. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Det lange modul sidder i venstre side, det korte i højre side bag skydedøren.
+   Eksempel: Det lange modul sidder i venstre side, det korte i højre side bag skydedøren.
+
+16. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Højden på # mm giver plads over modulerne til lange emner.
+   Eksempel: Højden på 1.270 mm giver plads over modulerne til lange emner.
+
+17. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Nyttelast efter indretning
+   Eksempel: Nyttelast efter indretning
+
+18. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Tre typiske opstillinger med et modul i hver side og den nyttelast, der er tilbage.
+   Eksempel: Tre typiske opstillinger med et modul i hver side og den nyttelast, der er tilbage.
+
+19. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Modulvægte: Sortimo Xpress, mysortimo.dk, #. okt. #.
+   Eksempel: Modulvægte: Sortimo Xpress, mysortimo.dk, 2. okt. 2026.
+
+20. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Færdige moduler til mellemstore varebiler koster #–# kr. ekskl. moms pr. modul, og en opstilling med et modul i hver side #–# kr. ekskl. moms plus gulv og montering.
+   Eksempel: Færdige moduler til mellemstore varebiler koster 6.900–26.800 kr. ekskl. moms pr. modul, og en opstilling med et modul i hver side 28.700–51.400 kr. ekskl. moms plus gulv og montering.
+
+21. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Se priser pr. meter og moduler .
+   Eksempel: Se priser pr. meter og moduler .
+
+22. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Lastrummet er # mm langt, # mm bredt, # mm mellem hjulkasserne og # mm højt (# m³) for den variant, vi viser mål for.
+   Eksempel: Lastrummet er 1.817 mm langt, 1.733 mm bredt, 1.229 mm mellem hjulkasserne og 1.270 mm højt (3,3 m³) for den variant, vi viser mål for.
+
+23. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Hvor bred er gangen med reoler i begge sider?
+   Eksempel: Hvor bred er gangen med reoler i begge sider?
+
+24. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Med moduler på # mm i dybden i begge sider er der # mm fri gang.
+   Eksempel: Med moduler på 436 mm i dybden i begge sider er der 861 mm fri gang.
+
+25. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Med ét modul i venstre side er der # mm.
+   Eksempel: Med ét modul i venstre side er der 1.297 mm.
+
+26. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Hvor meget nyttelast er der efter indretning?
+   Eksempel: Hvor meget nyttelast er der efter indretning?
+
+27. [37 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Med # kg nyttelast er der #–# kg tilbage.
+   Eksempel: Med 572 kg nyttelast er der 462–511 kg tilbage.
+
+28. [36 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Skal du have en ny varebil?
+   Eksempel: Skal du have en ny varebil?
+
+29. [36 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Vi henter erhvervstilbud fra flere forhandlere på den bil, du skal bruge, og læser dem igennem, før du ser dem.
+   Eksempel: Vi henter erhvervstilbud fra flere forhandlere på den bil, du skal bruge, og læser dem igennem, før du ser dem.
+
+30. [32 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Hvad må du køre i en varebil på gule plader?
+   Eksempel: Hvad må du køre i en varebil på gule plader?
+
+31. [21 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Erhvervskørsel er hovedreglen.
+   Eksempel: Erhvervskørsel er hovedreglen.
+
+32. [21 sider, fx /bedste-tilbud/kassevogn-leasing/]
+   Skabelon: Men frokostturen er tilladt, du må køre hjem # gange om året, og kolleger må gerne med.
+   Eksempel: Men frokostturen er tilladt, du må køre hjem 25 gange om året, og kolleger må gerne med.
+
+33. [21 sider, fx /bedste-tilbud/varebil-med-automatgear/]
+   Skabelon: Må du tage varebilen med hjem?
+   Eksempel: Må du tage varebilen med hjem?
+
+34. [20 sider, fx /bedste-tilbud/varebil-med-automatgear/]
+   Skabelon: Ja, i fire situationer: op til # gange om året, når bilen er specialindrettet, når virksomheden har skiftende arbejdssteder, og når du har vagt.
+   Eksempel: Ja, i fire situationer: op til 25 gange om året, når bilen er specialindrettet, når virksomheden har skiftende arbejdssteder, og når du har vagt.
+
+35. [20 sider, fx /bedste-tilbud/varebil-med-automatgear/]
+   Skabelon: Uden for dem kræver det papegøjeplader.
+   Eksempel: Uden for dem kræver det papegøjeplader.
+
+36. [19 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Gule plader: reglerne for gulpladebiler samlet
+   Eksempel: Gule plader: reglerne for gulpladebiler samlet
+
+37. [19 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: En varebil på gule plader er registreret til erhvervskørsel.
+   Eksempel: En varebil på gule plader er registreret til erhvervskørsel.
+
+38. [19 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Det giver momsfradrag og lavere registreringsafgift — men bilen må som udgangspunkt kun bruges til arbejde.
+   Eksempel: Det giver momsfradrag og lavere registreringsafgift — men bilen må som udgangspunkt kun bruges til arbejde.
+
+39. [19 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Her er reglerne samlet, med link til hver detalje.
+   Eksempel: Her er reglerne samlet, med link til hver detalje.
+
+40. [18 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Lastrummet i ‹udbyder› ‹bil› er # mm langt og # mm bredt mellem hjulkasserne.
+   Eksempel: Lastrummet i Citroën Berlingo er 1.817 mm langt og 1.229 mm bredt mellem hjulkasserne.
+
+41. [18 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Indretningen kan ofte lægges ind i leasingaftalen på ‹udbyder› ‹bil› .
+   Eksempel: Indretningen kan ofte lægges ind i leasingaftalen på Citroën Berlingo .
+
+42. [18 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Hvor stort er lastrummet i ‹udbyder› ‹bil› ?
+   Eksempel: Hvor stort er lastrummet i Citroën Berlingo?
+
+43. [18 sider, fx /til-varebilen/indretning/farizon-sv/]
+   Skabelon: Lastrummet i ‹bil› er # mm langt og # mm bredt mellem hjulkasserne.
+   Eksempel: Lastrummet i Farizon SV er 2.690 mm langt og 1.390 mm bredt mellem hjulkasserne.
+
+44. [18 sider, fx /til-varebilen/indretning/farizon-sv/]
+   Skabelon: Indretningen kan ofte lægges ind i leasingaftalen på ‹bil› .
+   Eksempel: Indretningen kan ofte lægges ind i leasingaftalen på Farizon SV .
+
+45. [18 sider, fx /til-varebilen/indretning/farizon-sv/]
+   Skabelon: Hvor stort er lastrummet i ‹bil› ?
+   Eksempel: Hvor stort er lastrummet i Farizon SV?
+
+46. [17 sider, fx /til-varebilen/indretning/citroen-berlingo/]
+   Skabelon: Indretning til ‹udbyder› ‹bil› 
+   Eksempel: Indretning til Citroën Berlingo
+
+47. [17 sider, fx /til-varebilen/indretning/fiat-ducato/]
+   Skabelon: Indretning til ‹bil› 
+   Eksempel: Indretning til Fiat Ducato
+
+48. [13 sider, fx /bedste-tilbud/erhvervsbil-leasing/]
+   Skabelon: Leasing eller køb af varebil?
+   Eksempel: Leasing eller køb af varebil?
+
+49. [13 sider, fx /bedste-tilbud/erhvervsbil-leasing/]
+   Skabelon: Momsen falder forskelligt, likviditeten bindes forskelligt, og risikoen for bilens værdi ligger to forskellige steder.
+   Eksempel: Momsen falder forskelligt, likviditeten bindes forskelligt, og risikoen for bilens værdi ligger to forskellige steder.
+
+50. [12 sider, fx /haandbogen/dagsbevis-varebil/]
+   Skabelon: Motorstyrelsen: Regler for gule plader læst #. sep. #
+   Eksempel: Motorstyrelsen: Regler for gule plader læst 28. sep. 2026
+
+51. [10 sider, fx /haandbogen/dagsbevis-varebil/]
+   Skabelon: Reglerne · # min. læsning · opdateret #. sep. #
+   Eksempel: Reglerne · 3 min. læsning · opdateret 28. sep. 2026
+
+52. [9 sider, fx /bedste-tilbud/el-varebil/]
+   Skabelon: Afgiften falder dramatisk, rækkevidden står i brochuren — og nyttelasten er den, ingen kigger på.
+   Eksempel: Afgiften falder dramatisk, rækkevidden står i brochuren — og nyttelasten er den, ingen kigger på.
+
+53. [9 sider, fx /bedste-tilbud/stor-varebil/]
+   Skabelon: Tre tal, der ofte forveksles.
+   Eksempel: Tre tal, der ofte forveksles.
+
+54. [9 sider, fx /bedste-tilbud/stor-varebil/]
+   Skabelon: Det ene afgør, hvad du må laste.
+   Eksempel: Det ene afgør, hvad du må laste.
+
+55. [9 sider, fx /bedste-tilbud/stor-varebil/]
+   Skabelon: Det andet, om du må køre bilen.
+   Eksempel: Det andet, om du må køre bilen.
+
+56. [9 sider, fx /bedste-tilbud/stor-varebil/]
+   Skabelon: Det tredje står sjældent i annoncen.
+   Eksempel: Det tredje står sjældent i annoncen.
+
+57. [8 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: Må din varebil køre i miljøzonen?
+   Eksempel: Må din varebil køre i miljøzonen?
+
+58. [8 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: En dieselvarebil registreret før #. september # må kun køre i miljøzonen med Euronorm # eller et registreret partikelfilter.
+   Eksempel: En dieselvarebil registreret før 1. september 2016 må kun køre i miljøzonen med Euronorm 5 eller et registreret partikelfilter.
+
+59. [8 sider, fx /bedste-tilbud/diesel-varebil/]
+   Skabelon: Det er værd at tjekke, før du køber brugt.
+   Eksempel: Det er værd at tjekke, før du køber brugt.
+
+60. [8 sider, fx /haandbogen/anhaenger-bag-varebilen/]
+   Skabelon: Reglerne · # min. læsning · opdateret #. okt. #
+   Eksempel: Reglerne · 5 min. læsning · opdateret 2. okt. 2026
+
+61. [8 sider, fx /haandbogen/erhvervsleasing-enkeltmandsvirksomhed/]
+   Skabelon: Den juridiske vejledning: Moms/registreringsafgift — tilladt kørsel i varevogne og mandskabsvogne læst #. sep. #
+   Eksempel: Den juridiske vejledning: Moms/registreringsafgift — tilladt kørsel i varevogne og mandskabsvogne læst 23. sep. 2026
+
+62. [7 sider, fx /bedste-tilbud/erhvervsbil-leasing/]
+   Skabelon: Under # tons, #-# tons eller en personbil på gule plader — momsloven behandler dem forskelligt.
+   Eksempel: Under 3 tons, 3-4 tons eller en personbil på gule plader — momsloven behandler dem forskelligt.
+
+63. [7 sider, fx /bedste-tilbud/erhvervsbil-leasing/]
+   Skabelon: Her er hvad du faktisk kan trække fra.
+   Eksempel: Her er hvad du faktisk kan trække fra.
+
+64. [7 sider, fx /bedste-tilbud/varebil-med-traek/]
+   Skabelon: Samme kørekort, samme momsregler, to helt forskellige biler.
+   Eksempel: Samme kørekort, samme momsregler, to helt forskellige biler.
+
+65. [7 sider, fx /bedste-tilbud/varebil-med-traek/]
+   Skabelon: Forskellen er ikke pris — den er, hvordan lasten kommer ind og ud.
+   Eksempel: Forskellen er ikke pris — den er, hvordan lasten kommer ind og ud.
+
+66. [7 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Gulplade.dk: alle indsamlede leasingtilbud læst #. sep. #
+   Eksempel: Gulplade.dk: alle indsamlede leasingtilbud læst 23. sep. 2026
+
+67. [7 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Finansiel og operationel leasing: hvad er forskellen?
+   Eksempel: Finansiel og operationel leasing: hvad er forskellen?
+
+68. [7 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Operationel leasing er leje: du betaler for at bruge varebilen og afleverer den, når aftalen slutter.
+   Eksempel: Operationel leasing er leje: du betaler for at bruge varebilen og afleverer den, når aftalen slutter.
+
+69. [7 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Her er forskellen, og hvad den betyder for prisen.
+   Eksempel: Her er forskellen, og hvad den betyder for prisen.
+
+70. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Ny ‹bil› : # km, # volt og baghjulstræk
+   Eksempel: Ny Renault Trafic E-Tech: 470 km, 800 volt og baghjulstræk
+
+71. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Den nye ‹bil› er en helt ny elvarebil — ikke en opdatering.
+   Eksempel: Den nye Renault Trafic E-Tech er en helt ny elvarebil — ikke en opdatering.
+
+72. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Her er alt, hvad ‹bil› selv har oplyst, og forskellen til den ‹bil› , du kan lease i dag.
+   Eksempel: Her er alt, hvad Renault selv har oplyst, og forskellen til den Trafic E-Tech, du kan lease i dag.
+
+73. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Ny elektrisk Mercedes ‹bil› : det ved vi om VAN.EA
+   Eksempel: Ny elektrisk Mercedes Vito: det ved vi om VAN.EA
+
+74. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Varebilen har endnu ingen dato.
+   Eksempel: Varebilen har endnu ingen dato.
+
+75. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Her er, hvad Mercedes selv har sagt, hvad der kun er gætværk, og hvad du kan få i dag.
+   Eksempel: Her er, hvad Mercedes selv har sagt, hvad der kun er gætværk, og hvad du kan få i dag.
+
+76. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: ‹bil› PV#: større elvarebil med # volt og op til # m³
+   Eksempel: Kia PV7: større elvarebil med 800 volt og op til 8 m³
+
+77. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: ‹bil› PV# er den større udgave af elvarebilen PV#.
+   Eksempel: Kia PV7 er den større udgave af elvarebilen PV5.
+
+78. [7 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: ‹bil› oplyser op til # m³ lastrum, op til # kg nyttelast, # volt med #–# % på cirka # minutter og op til omkring # km rækkevidde.
+   Eksempel: Kia oplyser op til 8,0 m³ lastrum, op til 1.200 kg nyttelast, 800 volt med 10–80 % på cirka 25 minutter og op til omkring 460 km rækkevidde.
+
+79. [6 sider, fx /groen-omstilling/]
+   Skabelon: Sådan får du medarbejderne til at skifte til elvarebil
+   Eksempel: Sådan får du medarbejderne til at skifte til elvarebil
+
+80. [6 sider, fx /groen-omstilling/]
+   Skabelon: Bilen er sjældent problemet, når medarbejderne skal skifte til el.
+   Eksempel: Bilen er sjældent problemet, når medarbejderne skal skifte til el.
+
+81. [6 sider, fx /groen-omstilling/]
+   Skabelon: Det er hverdagen og vanerne.
+   Eksempel: Det er hverdagen og vanerne.
+
+82. [6 sider, fx /groen-omstilling/]
+   Skabelon: Det, der virker, er at fjerne bøvlet og gøre arbejdsdagen bedre: en ladeboks hjemme, strømmen betalt, et bedre arbejdsmiljø — og gerne et løntillæg for at skifte.
+   Eksempel: Det, der virker, er at fjerne bøvlet og gøre arbejdsdagen bedre: en ladeboks hjemme, strømmen betalt, et bedre arbejdsmiljø — og gerne et løntillæg for at skifte.
+
+83. [6 sider, fx /groen-omstilling/]
+   Skabelon: Nulemissionszoner: hvad betyder de for din varebil?
+   Eksempel: Nulemissionszoner: hvad betyder de for din varebil?
+
+84. [6 sider, fx /groen-omstilling/]
+   Skabelon: Siden #. januar # har kommunerne haft lov til at oprette én nulemissionszone hver — men ingen zone gælder endnu.
+   Eksempel: Siden 1. januar 2025 har kommunerne haft lov til at oprette én nulemissionszone hver — men ingen zone gælder endnu.
+
+85. [6 sider, fx /groen-omstilling/]
+   Skabelon: Er zonen for al trafik, må kun el- og brintvarebiler køre ind.
+   Eksempel: Er zonen for al trafik, må kun el- og brintvarebiler køre ind.
+
+86. [6 sider, fx /groen-omstilling/]
+   Skabelon: Den første zone er på vej på Indre Vesterbro i København.
+   Eksempel: Den første zone er på vej på Indre Vesterbro i København.
+
+87. [6 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Finansiel leasing ligner afbetaling: der er aftalt en restværdi, og er bilen mindre værd til sidst, er det dig, der betaler forskellen.
+   Eksempel: Finansiel leasing ligner afbetaling: der er aftalt en restværdi, og er bilen mindre værd til sidst, er det dig, der betaler forskellen.
+
+88. [6 sider, fx /haandbogen/]
+   Skabelon: Køb af brugt varebil: det skal du tjekke
+   Eksempel: Køb af brugt varebil: det skal du tjekke
+
+89. [6 sider, fx /haandbogen/]
+   Skabelon: En brugt varebil til virksomheden er mere end pris og kilometer.
+   Eksempel: En brugt varebil til virksomheden er mere end pris og kilometer.
+
+90. [6 sider, fx /haandbogen/]
+   Skabelon: Momsen på fakturaen, totalvægten, miljøzonen, synet og pant i Bilbogen afgør, om den er et godt køb.
+   Eksempel: Momsen på fakturaen, totalvægten, miljøzonen, synet og pant i Bilbogen afgør, om den er et godt køb.
+
+91. [6 sider, fx /haandbogen/]
+   Skabelon: Her er tjeklisten — med kilde ved hvert punkt.
+   Eksempel: Her er tjeklisten — med kilde ved hvert punkt.
+
+92. [6 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: ‹bil› oplyser op til # km rækkevidde, # volt lynladning og baghjulstræk, og kassevognen kommer på vejene i slutningen af #.
+   Eksempel: Renault oplyser op til 470 km rækkevidde, 800 volt lynladning og baghjulstræk, og kassevognen kommer på vejene i slutningen af 2026.
+
+93. [6 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Næste Mercedes ‹bil› bygges på en ny elplatform, VAN.EA.
+   Eksempel: Næste Mercedes Vito bygges på en ny elplatform, VAN.EA.
+
+94. [6 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Den første bil på platformen er personbilen VLE, og den har været i produktion siden juni #.
+   Eksempel: Den første bil på platformen er personbilen VLE, og den har været i produktion siden juni 2026.
+
+95. [6 sider, fx /nyheder/elvarebil-eller-diesel-maanedlig-pris/]
+   Skabelon: Den blev vist på IAA Transportation den #. september # og kommer til Europa i andet halvår #.
+   Eksempel: Den blev vist på IAA Transportation den 14. september 2026 og kommer til Europa i andet halvår 2027.
+
+96. [6 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Skal vi hente tilbuddene hjem?
+   Eksempel: Skal vi hente tilbuddene hjem?
+
+97. [6 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Vi ringer rundt til forhandlerne, beder om det samme hos alle og læser tilbuddene igennem, før du ser dem.
+   Eksempel: Vi ringer rundt til forhandlerne, beder om det samme hos alle og læser tilbuddene igennem, før du ser dem.
+
+98. [6 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Få tilbud Eller få tjekket et tilbud, du har
+   Eksempel: Få tilbud Eller få tjekket et tilbud, du har
+
+99. [6 sider, fx /til-varebilen/indretning/fiat-ducato/]
+   Skabelon: Siden gælder også ‹bil› , der har samme lastrum.
+   Eksempel: Siden gælder også Fiat E-Ducato, der har samme lastrum.
+
+100. [5 sider, fx /groen-omstilling/]
+   Skabelon: Den skal offentliggøres mindst # måneder, før den gælder for erhvervskøretøjer, og bøden forventes at blive # kr. for en varebil.
+   Eksempel: Den skal offentliggøres mindst 12 måneder, før den gælder for erhvervskøretøjer, og bøden forventes at blive 2.500 kr. for en varebil.
+
+101. [5 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Erhvervsleasing i en enkeltmandsvirksomhed
+   Eksempel: Erhvervsleasing i en enkeltmandsvirksomhed
+
+102. [5 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: En enkeltmandsvirksomhed kan lease en varebil på erhvervsvilkår ligesom et ApS.
+   Eksempel: En enkeltmandsvirksomhed kan lease en varebil på erhvervsvilkår ligesom et ApS.
+
+103. [5 sider, fx /haandbogen/det-staar-ikke-i-leasingtilbuddet/]
+   Skabelon: Forskellen er hæftelsen: ejeren hæfter personligt og ubegrænset for virksomhedens gæld — også for leasingaftalen.
+   Eksempel: Forskellen er hæftelsen: ejeren hæfter personligt og ubegrænset for virksomhedens gæld — også for leasingaftalen.
+
+104. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Elvarebil på hvide plader: hvad koster det, og er det lovligt?
+   Eksempel: Elvarebil på hvide plader: hvad koster det, og er det lovligt?
+
+105. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Ja, en elvarebil kan få hvide plader — så er den registreret som personbil og må køre privat.
+   Eksempel: Ja, en elvarebil kan få hvide plader — så er den registreret som personbil og må køre privat.
+
+106. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Det lyder for godt til at være sandt, men elbilernes lave afgift gør det muligt.
+   Eksempel: Det lyder for godt til at være sandt, men elbilernes lave afgift gør det muligt.
+
+107. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Motorstyrelsen: Omregistrering til hvide plader læst #. sep. #
+   Eksempel: Motorstyrelsen: Omregistrering til hvide plader læst 28. sep. 2026
+
+108. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Motorstyrelsen: Papegøjeplader og klistermærker læst #. sep. #
+   Eksempel: Motorstyrelsen: Papegøjeplader og klistermærker læst 27. sep. 2026
+
+109. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Momsdød varebil: hvad betyder det for momsfradraget?
+   Eksempel: Momsdød varebil: hvad betyder det for momsfradraget?
+
+110. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: "Momsdød" betyder, at bilen er købt uden fradragsret for moms.
+   Eksempel: "Momsdød" betyder, at bilen er købt uden fradragsret for moms.
+
+111. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: Sælges den videre efter brugtmomsordningen, må fakturaen ikke vise et momsbeløb, og det skal fremgå af den, at køber ikke har fradrag for momsen.
+   Eksempel: Sælges den videre efter brugtmomsordningen, må fakturaen ikke vise et momsbeløb, og det skal fremgå af den, at køber ikke har fradrag for momsen.
+
+112. [5 sider, fx /haandbogen/elvarebil-paa-hvide-plader/]
+   Skabelon: For en momsregistreret virksomhed er det den vigtigste forskel på to brugte varebiler til samme pris.
+   Eksempel: For en momsregistreret virksomhed er det den vigtigste forskel på to brugte varebiler til samme pris.
+
+113. [5 sider, fx /haandbogen/firmabil-til-skole-og-kursus/]
+   Skabelon: Må du køre i firmabilen til skole og kursus?
+   Eksempel: Må du køre i firmabilen til skole og kursus?
+
+114. [5 sider, fx /haandbogen/firmabil-til-skole-og-kursus/]
+   Skabelon: Ja, kørsel til kursus og undervisning er tilladt i en varebil på gule plader.
+   Eksempel: Ja, kørsel til kursus og undervisning er tilladt i en varebil på gule plader.
+
+115. [5 sider, fx /haandbogen/firmabil-til-skole-og-kursus/]
+   Skabelon: Fælden er ikke turen til skolen, men at bilen holder ved din bopæl om natten.
+   Eksempel: Fælden er ikke turen til skolen, men at bilen holder ved din bopæl om natten.
+
+116. [5 sider, fx /nyheder/ford-transit-city/]
+   Skabelon: ‹bil› City: ny elvarebil med # km og op til # kg nyttelast
+   Eksempel: Ford Transit City: ny elvarebil med 254 km og op til 1.275 kg nyttelast
+
+117. [5 sider, fx /nyheder/ford-transit-city/]
+   Skabelon: ‹bil› City er en ny elektrisk kassevogn, der kun findes som el.
+   Eksempel: Ford Transit City er en ny elektrisk kassevogn, der kun findes som el.
+
+118. [5 sider, fx /nyheder/ford-transit-city/]
+   Skabelon: ‹bil› oplyser et # kWh LFP-batteri, op til # km rækkevidde (WLTP) og #–# kg nyttelast.
+   Eksempel: Ford oplyser et 56 kWh LFP-batteri, op til 254 km rækkevidde (WLTP) og 1.085–1.275 kg nyttelast.
+
+119. [5 sider, fx /nyheder/ford-transit-city/]
+   Skabelon: Den blev vist i marts # og var på IAA Transportation i september.
+   Eksempel: Den blev vist i marts 2026 og var på IAA Transportation i september.
+
+120. [5 sider, fx /nyheder/ford-transit-city/]
+   Skabelon: ‹bil› Danmark har endnu ikke en dansk side eller pris.
+   Eksempel: Ford Danmark har endnu ikke en dansk side eller pris.
+
+121. [5 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Til varebilen · opdateret #. okt. #
+   Eksempel: Til varebilen · opdateret 3. okt. 2026
+
+122. [5 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Ingen af de # tilbud på siden inkluderer forsikring.
+   Eksempel: Ingen af de 122 tilbud på siden inkluderer forsikring.
+
+123. [5 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Ingen af de # tilbud inkluderer dæk.
+   Eksempel: Ingen af de 122 tilbud inkluderer dæk.
+
+124. [5 sider, fx /til-varebilen/el-abonnement/]
+   Skabelon: Lastrummets mål på de mest solgte varebiler og bilindretning efter fag.
+   Eksempel: Lastrummets mål på de mest solgte varebiler og bilindretning efter fag.
+
+125. [5 sider, fx /til-varebilen/forsikring/]
+   Skabelon: Gælder # af # modeller.
+   Eksempel: Gælder 25 af 62 modeller.

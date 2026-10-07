@@ -1,0 +1,70 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gulplade",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "http-server",
+        ".",
+        "-p",
+        "8788",
+        "-c-1",
+        "-s"
+      ],
+      "port": 8788
+    },
+    {
+      "name": "gulplade-2",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "http-server",
+        ".",
+        "-p",
+        "8789",
+        "-c-1",
+        "-s"
+      ],
+      "port": 8789
+    },
+    {
+      "name": "gulplade-3",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "http-server",
+        ".",
+        "-p",
+        "8790",
+        "-c-1",
+        "-s"
+      ],
+      "port": 8790
+    },
+    {
+      "name": "gulplade-4",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "http-server",
+        ".",
+        "-p",
+        "8791",
+        "-c-1",
+        "-s"
+      ],
+      "port": 8791
+    },
+    {
+      "name": "gulplade-5",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "http-server",
+        ".",
+        "-p",
+        "8792",
+        "-c-1",
+        "-s"
+      ],
+      "port": 8792
+    }
+  ]
+}

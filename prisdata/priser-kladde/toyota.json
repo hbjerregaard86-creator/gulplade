@@ -1,0 +1,4098 @@
+{
+ "priser": {
+  "toyota-proace-city": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace-city-van-prisliste/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace City",
+   "prisliste_dato": "2026-06-12",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-09-30",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 12. juni 2026. De er vejledende udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Farver og tilbehør står på side 6. Anhængertræk, vinterhjul og tagbøjler er Toyota-tilbehør. Listen skriver, at elbilernes priser gælder til og med den 30. september 2026. Toyotas konfigurator viser de samme priser den 5. oktober 2026, og der er ingen nyere liste på toyota.dk/priser-brochurer. Ekstra skydedør i venstre side koster 5.000 kr. på Medium Comfort Master og Nordic Edition. Comfort Master har V2L fra produktion oktober 2025, men adapteren skal købes særskilt, og listen har ingen pris på den.",
+   "udgaver": [
+    {
+     "navn": "Medium 50 kWh 136 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 166900
+    },
+    {
+     "navn": "Medium 50 kWh 136 hk Nordic Edition, automatgear",
+     "niveau": "Nordic Edition",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 181900
+    },
+    {
+     "navn": "Medium 50 kWh 136 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 201900
+    },
+    {
+     "navn": "Long 50 kWh 136 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 181900
+    },
+    {
+     "navn": "Long 50 kWh 136 hk Nordic Edition, automatgear",
+     "niveau": "Nordic Edition",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 196900
+    },
+    {
+     "navn": "Long 50 kWh 136 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 211900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Ekstra skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5000,
+     "gaelder": "Medium Comfort Master og Medium Nordic Edition. Standard på Comfort Master+ og på alle Long.",
+     "niveau_priser": {
+      "Comfort Master": 5000,
+      "Nordic Edition": 5000,
+      "Comfort Master+": "std"
+     },
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak: Absolute Black eller Grey Cloud",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "KTV, KCA",
+     "tilbehoer": false,
+     "note": "Ice White er med i prisen. Prislisten skriver kun farvenavn og pris, men konfiguratoren kalder begge farver metallak."
+    },
+    {
+     "navn": "Anhængertræk, flangetræk med fast krog",
+     "gruppe": "traek",
+     "pris_kr": 9765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter fra 13 til 7 poler. Bilen er forberedt til træk fra fabrikken."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", stålfælge, 205/60R16 med Bridgestone-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 8295,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Tagbøjlesæt, 2 stk.",
+     "gruppe": "ydre",
+     "pris_kr": 1473,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør til biler uden tagræling. Bøjlerne bærer højst 80 kg."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-proace-city-diesel": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace-city-van-prisliste/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace City",
+   "prisliste_dato": "2026-06-12",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-12-31",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 12. juni 2026. De er vejledende udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Farver og tilbehør står på side 6. Anhængertræk, vinterhjul og tagbøjler er Toyota-tilbehør. Modellen har både diesel- og benzinkassevognene. Priserne gælder ved indregistrering senest den 31. december 2026. Konfiguratoren viser de samme priser den 5. oktober 2026. Side 4 skriver 'fra 224.900 kr.' for Comfort Master 1.5 diesel 102 hk, men tabellen på side 2 har 219.900 kr. for Medium. Vi har brugt tabellen.",
+   "udgaver": [
+    {
+     "navn": "Medium 1.5 diesel 102 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 102,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 204900
+    },
+    {
+     "navn": "Medium 1.2 benzin 110 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "benzin",
+     "motor": "1.2 benzin",
+     "hk": 110,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 224900
+    },
+    {
+     "navn": "Medium 1.5 diesel 102 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 102,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 219900
+    },
+    {
+     "navn": "Medium 1.5 diesel 130 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 254900
+    },
+    {
+     "navn": "Long 1.5 diesel 102 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 102,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 219900
+    },
+    {
+     "navn": "Long 1.2 benzin 110 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "benzin",
+     "motor": "1.2 benzin",
+     "hk": 110,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 239900
+    },
+    {
+     "navn": "Long 1.5 diesel 102 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 102,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 239900
+    },
+    {
+     "navn": "Long 1.5 diesel 130 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 269900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Ekstra skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5000,
+     "gaelder": "Medium 1.5 diesel 102 hk Comfort Master. Standard på 1.2 benzin, 1.5 diesel 130 hk og alle Long Comfort Master. Kan ikke vælges til Comfort.",
+     "niveau_priser": {
+      "Comfort": "nej",
+      "Comfort Master": 5000
+     },
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak: Absolute Black eller Grey Cloud",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "KTV, KCA",
+     "tilbehoer": false,
+     "note": "Ice White er med i prisen. Prislisten skriver kun farvenavn og pris, men konfiguratoren kalder begge farver metallak."
+    },
+    {
+     "navn": "Anhængertræk, flangetræk med fast krog",
+     "gruppe": "traek",
+     "pris_kr": 9765,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter fra 13 til 7 poler. Bilen er forberedt til træk fra fabrikken."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", stålfælge, 205/60R16 med Bridgestone-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 8295,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Tagbøjlesæt, 2 stk.",
+     "gruppe": "ydre",
+     "pris_kr": 1473,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør til biler uden tagræling. Bøjlerne bærer højst 80 kg."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-proace": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace1/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace",
+   "prisliste_dato": "2026-09-17",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-09-30",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 17. september 2026. De er vejledende udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Platform Cab er udeladt. Farver og tilbehør står på side 6. Anhængertræk, vinterhjul, stylingpakke og tagbøjler er Toyota-tilbehør. Listen skriver, at elbilernes priser gælder til og med den 30. september 2026. Toyotas konfigurator viser de samme priser den 5. oktober 2026, og der er ingen nyere liste på toyota.dk/priser-brochurer. Den ekstra skydedør er standard på alle elbiler.",
+   "udgaver": [
+    {
+     "navn": "Medium 75 kWh 136 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 204900
+    },
+    {
+     "navn": "Medium 75 kWh 136 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 229900
+    },
+    {
+     "navn": "Long 75 kWh 136 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 209900
+    },
+    {
+     "navn": "Long 75 kWh 136 hk Tek, automatgear",
+     "niveau": "Tek",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 224900
+    },
+    {
+     "navn": "Long 75 kWh 136 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 234900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Bagklap i stedet for bagdøre",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "Long Comfort Master+ uden merpris. Standard på Tek. Kan ikke vælges til Comfort Master eller til Medium.",
+     "niveau_priser": {
+      "Comfort Master": "nej",
+      "Tek": "std",
+      "Comfort Master+": 0
+     },
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Prislisten skriver u/b (uden beregning). Den ekstra skydedør er standard på alle elbiler."
+    },
+    {
+     "navn": "Metallak: Absolute Black, Grey Cloud eller Titanium Grey",
+     "gruppe": "ydre",
+     "pris_kr": 7990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "KTV, KCA, KKJ",
+     "tilbehoer": false,
+     "note": "Ice White er med i prisen. Prislisten skriver kun farvenavn og pris, men konfiguratoren kalder farverne metallak."
+    },
+    {
+     "navn": "Anhængertræk med fast kugle",
+     "gruppe": "traek",
+     "pris_kr": 9965,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter fra 13 til 7 poler."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", stålfælge, 215/65R16C med Semperit-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 8995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Stylingpakke med stickers, sidebøjler og trinlister",
+     "gruppe": "ydre",
+     "pris_kr": 10095,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Tagbøjle",
+     "gruppe": "ydre",
+     "pris_kr": 1645,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er pr. stk."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-proace-diesel": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/proace1/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace",
+   "prisliste_dato": "2026-09-17",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-12-31",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 17. september 2026. De er vejledende udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Platform Cab er udeladt. Farver og tilbehør står på side 6. Anhængertræk, vinterhjul, stylingpakke og tagbøjler er Toyota-tilbehør. Priserne gælder ved indregistrering senest den 31. december 2026. Prislisten har Nordic Edition til 279.990 kr., men kolonnen med moms giver 338.125 kr. ligesom bilerne til 279.900 kr., og konfiguratoren har 279.900 kr. Vi har brugt prislistens tal. Tabellen er læst efter placering og kontrolleret mod konfiguratoren.",
+   "udgaver": [
+    {
+     "navn": "Medium 1.5 diesel 120 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 diesel",
+     "hk": 120,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 244900
+    },
+    {
+     "navn": "Medium 2.2 diesel 150 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 279900
+    },
+    {
+     "navn": "Medium 2.2 diesel 150 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 294900
+    },
+    {
+     "navn": "Medium 2.2 diesel 180 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Medium",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 180,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 334900
+    },
+    {
+     "navn": "Long 2.2 diesel 150 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 259900
+    },
+    {
+     "navn": "Long 2.2 diesel 150 hk Nordic Edition, automatgear",
+     "niveau": "Nordic Edition",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 279990
+    },
+    {
+     "navn": "Long 2.2 diesel 150 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 284900
+    },
+    {
+     "navn": "Long 2.2 diesel 150 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 150,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 299900
+    },
+    {
+     "navn": "Long 2.2 diesel 180 hk Comfort Master+, automatgear",
+     "niveau": "Comfort Master+",
+     "laengde": "Long",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 180,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 339900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Ekstra skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5000,
+     "gaelder": "Comfort Master, Medium og Long. Standard på Comfort Master+. Kan ikke vælges til Comfort og Nordic Edition.",
+     "niveau_priser": {
+      "Comfort": "nej",
+      "Nordic Edition": "nej",
+      "Comfort Master": 5000,
+      "Comfort Master+": "std"
+     },
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagklap i stedet for bagdøre",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "Comfort Master til 5.000 kr. og Comfort Master+ uden merpris. Kan ikke vælges til Comfort og Nordic Edition.",
+     "niveau_priser": {
+      "Comfort": "nej",
+      "Nordic Edition": "nej",
+      "Comfort Master": 5000,
+      "Comfort Master+": 0
+     },
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "På Comfort Master er den ekstra skydedør med i de 5.000 kr. (prislistens fodnote 2). Comfort Master+ står med u/b (uden beregning)."
+    },
+    {
+     "navn": "Metallak: Absolute Black, Grey Cloud eller Titanium Grey",
+     "gruppe": "ydre",
+     "pris_kr": 7990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "KTV, KCA, KKJ",
+     "tilbehoer": false,
+     "note": "Ice White er med i prisen. Prislisten skriver kun farvenavn og pris, men konfiguratoren kalder farverne metallak."
+    },
+    {
+     "navn": "Anhængertræk med fast kugle",
+     "gruppe": "traek",
+     "pris_kr": 9965,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter fra 13 til 7 poler."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", stålfælge, 215/65R16C med Semperit-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 8995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Stylingpakke med stickers, sidebøjler og trinlister",
+     "gruppe": "ydre",
+     "pris_kr": 10095,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Tagbøjle",
+     "gruppe": "ydre",
+     "pris_kr": 1645,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er pr. stk."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-proace-max": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Prislister/proace-max/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace Max",
+   "prisliste_dato": "2026-09-16",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-09-30",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 16. september 2026. De er udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Chassis og dobbeltkabine er udeladt. Farver og tilbehør står på side 5. Anhængertræk, tagbøjler og vinterhjul er Toyota-tilbehør. Listen skriver, at elbilernes priser gælder til og med den 30. september 2026. Toyotas konfigurator viser de samme priser den 5. oktober 2026, og der er ingen nyere liste på toyota.dk/priser-brochurer. Den ekstra skydedør er standard på alle elbiler. Listen oplyser ikke elbilens hestekræfter.",
+   "udgaver": [
+    {
+     "navn": "Long med højt tag 3,5 t 110 kWh Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": null,
+     "kw": null,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 299900
+    },
+    {
+     "navn": "Long med højt tag 4,25 t 110 kWh Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": null,
+     "kw": null,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 309900
+    },
+    {
+     "navn": "Ekstra Long med ekstra højt tag 4,25 t 110 kWh Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Ekstra Long",
+     "hoejde": "Ekstra højt tag",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": null,
+     "kw": null,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 324900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Metallak: Stormy Grey, Grey Cloud eller Black Opal",
+     "gruppe": "ydre",
+     "pris_kr": 7990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Anthracite, Misty Grey og Ice White er solidlak og med i prisen. Konfiguratoren kalder de tre farver til 7.990 kr. metallak."
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 8990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Prislisten nævner ikke, hvilke farver det gælder."
+    },
+    {
+     "navn": "Anhængertræk til kassevogn, 13-polet flangetræk med adapter",
+     "gruppe": "traek",
+     "pris_kr": 11995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Chassis-udgaverne har et andet træk til 12.195 kr."
+    },
+    {
+     "navn": "Tagbøjler, sæt med 3 stk.",
+     "gruppe": "ydre",
+     "pris_kr": 4195,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Vinterhjul 15\", stålfælge, 225/70R15C med Semperit-dæk (load index 112)",
+     "gruppe": "ydre",
+     "pris_kr": 10195,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "TMEWS00170NY",
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", sort slebne alufælge, 225/75R16C med Semperit-dæk (load index 120)",
+     "gruppe": "ydre",
+     "pris_kr": 14995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-proace-max-diesel": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Prislister/proace-max/",
+   "kilde_navn": "Toyotas varebilsprisliste for Proace Max",
+   "prisliste_dato": "2026-09-16",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": "2026-12-31",
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Priserne står på side 2 i Toyotas prisliste fra den 16. september 2026. De er udsalgspriser uden moms, med registreringsafgift og uden levering, og listen oplyser ikke leveringsbeløbet. Chassis og dobbeltkabine er udeladt. Farver og tilbehør står på side 5. Anhængertræk, tagbøjler og vinterhjul er Toyota-tilbehør. Priserne gælder ved indregistrering senest den 31. december 2026. Heavy er en del af navnet på de tunge udgaver; niveauet er Comfort eller Comfort Master. Tabellen er læst efter placering og kontrolleret mod konfiguratoren.",
+   "udgaver": [
+    {
+     "navn": "Medium 3,5 t 2.2 diesel 140 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": "Standardtag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 266900
+    },
+    {
+     "navn": "Medium 3,5 t 2.2 diesel 140 hk Comfort, automatgear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": "Standardtag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 284900
+    },
+    {
+     "navn": "Medium 3,5 t 2.2 diesel 140 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": "Standardtag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 291900
+    },
+    {
+     "navn": "Medium 3,5 t 2.2 diesel 140 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": "Standardtag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 309900
+    },
+    {
+     "navn": "Medium med højt tag 3,5 t 2.2 diesel 140 hk Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 274900
+    },
+    {
+     "navn": "Medium med højt tag 3,5 t 2.2 diesel 140 hk Comfort, automatgear",
+     "niveau": "Comfort",
+     "laengde": "Medium",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 297900
+    },
+    {
+     "navn": "Medium med højt tag 3,5 t 2.2 diesel 140 hk Comfort Master, manuelt gear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 299900
+    },
+    {
+     "navn": "Medium med højt tag 3,5 t 2.2 diesel 140 hk Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 317900
+    },
+    {
+     "navn": "Medium med højt tag 3,5 t 2.2 diesel 180 hk Heavy Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Medium",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 180,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 337900
+    },
+    {
+     "navn": "Long med højt tag 3,5 t 2.2 diesel 140 hk Heavy Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Long",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 295900
+    },
+    {
+     "navn": "Long med højt tag 3,5 t 2.2 diesel 140 hk Heavy Comfort, automatgear",
+     "niveau": "Comfort",
+     "laengde": "Long",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 313900
+    },
+    {
+     "navn": "Long med højt tag 3,5 t 2.2 diesel 180 hk Heavy Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Long",
+     "hoejde": "Højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 180,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 345900
+    },
+    {
+     "navn": "Ekstra Long med ekstra højt tag 3,5 t 2.2 diesel 140 hk Heavy Comfort, manuelt gear",
+     "niveau": "Comfort",
+     "laengde": "Ekstra Long",
+     "hoejde": "Ekstra højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 311900
+    },
+    {
+     "navn": "Ekstra Long med ekstra højt tag 3,5 t 2.2 diesel 180 hk Heavy Comfort Master, automatgear",
+     "niveau": "Comfort Master",
+     "laengde": "Ekstra Long",
+     "hoejde": "Ekstra højt tag",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 diesel",
+     "hk": 180,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 361900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Ekstra skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5000,
+     "gaelder": "Medium med højt tag 140 hk Comfort, manuelt gear. Kan ikke vælges til Medium med standardtag Comfort. Standard på alle andre kassevogne.",
+     "niveau_priser": {
+      "Comfort": 5000,
+      "Comfort Master": "std"
+     },
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak: Stormy Grey, Grey Cloud eller Black Opal",
+     "gruppe": "ydre",
+     "pris_kr": 7990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Anthracite, Misty Grey og Ice White er solidlak og med i prisen. Konfiguratoren kalder de tre farver til 7.990 kr. metallak."
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 8990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Prislisten nævner ikke, hvilke farver det gælder."
+    },
+    {
+     "navn": "Anhængertræk til kassevogn, 13-polet flangetræk med adapter",
+     "gruppe": "traek",
+     "pris_kr": 11995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Chassis-udgaverne har et andet træk til 12.195 kr."
+    },
+    {
+     "navn": "Tagbøjler, sæt med 3 stk.",
+     "gruppe": "ydre",
+     "pris_kr": 4195,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Vinterhjul 15\", stålfælge, 225/70R15C med Semperit-dæk (load index 112)",
+     "gruppe": "ydre",
+     "pris_kr": 10195,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "TMEWS00170NY",
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Vinterkomplethjul 16\", sort slebne alufælge, 225/75R16C med Semperit-dæk (load index 120)",
+     "gruppe": "ydre",
+     "pris_kr": 14995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-bz4x-van": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-van/",
+   "kilde_navn": "Toyotas varebilsprisliste for bZ4X Van",
+   "prisliste_dato": "2026-09-09",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": null,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspriser uden moms og med registreringsafgift fra side 2 i listen fra den 9. september 2026. Side 2 skriver, at priserne er uden levering, mens side 7 skriver, at de er med levering og nummerplader. Listen oplyser ikke beløbet, så levering_i_listen er sat til null. Farver og tilbehør står på side 6. Hjultrækket på 4x2 står ikke i listen.",
+   "udgaver": [
+    {
+     "navn": "Active 57,7 kWh 4x2 123 kW (167 hk), automatgear",
+     "niveau": "Active",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 167,
+     "kw": 123,
+     "batteri_kwh": 57.7,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 216900
+    },
+    {
+     "navn": "Active Tech 73,1 kWh 4x2 165 kW (224 hk), automatgear",
+     "niveau": "Active Tech",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 224,
+     "kw": 165,
+     "batteri_kwh": 73.1,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 236900
+    },
+    {
+     "navn": "Executive 73,1 kWh 4x2 165 kW (224 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 224,
+     "kw": 165,
+     "batteri_kwh": 73.1,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 252900
+    },
+    {
+     "navn": "Active Tech 73,1 kWh AWD 252 kW (343 hk), automatgear",
+     "niveau": "Active Tech",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 343,
+     "kw": 252,
+     "batteri_kwh": 73.1,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 252900
+    },
+    {
+     "navn": "Executive 73,1 kWh AWD 252 kW (343 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 343,
+     "kw": 252,
+     "batteri_kwh": 73.1,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 268900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Metallak: Attitude Black",
+     "gruppe": "ydre",
+     "pris_kr": 6792,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "218",
+     "tilbehoer": false,
+     "note": "Dark Blue (8X8) er metallak og med i prisen. Farvesiden skriver ikke, om priserne er med eller uden moms, men resten af listen er uden moms."
+    },
+    {
+     "navn": "Premiumlak: Platinum White Pearl, Precious Grey eller Emotional Red",
+     "gruppe": "ydre",
+     "pris_kr": 9192,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "089, 1L5, 3U5",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Transportpakke med tagbøjler, opbevaringstaske til tagbøjler og cykelholder",
+     "gruppe": "ydre",
+     "pris_kr": 4156,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Anhængertræk, aftageligt (vertikalt)",
+     "gruppe": "traek",
+     "pris_kr": 11996,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter til 7 poler."
+    },
+    {
+     "navn": "Vinterkomplethjul 18\", mat sorte alufælge, 235/60R18 med Goodyear-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 14396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Vinterkomplethjul 20\", sorte alufælge, 235/50R20 med Bridgestone-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 22396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Beskyttelsespakke med bagagerumsbakke, bagsæderygbeskyttelse, bagkofangerbeskyttelse, gummimåtter og stænklapper",
+     "gruppe": "andet",
+     "pris_kr": 5380,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-bz4x-touring-van": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-touring-van/",
+   "kilde_navn": "Toyotas varebilsprisliste for bZ4X Touring Van",
+   "prisliste_dato": "2026-09-09",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": true,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspriser uden moms og med registreringsafgift fra side 2 i listen fra den 9. september 2026. Toyota skriver bag i listen, at priserne er med levering og nummerplader, men oplyser ikke beløbet. Derfor er leveringen ikke trukket fra, og pris_kr indeholder den. Executive 20\" er Executive med 20\" alufælge til 8.000 kr. (side 4). Farver og tilbehør står på side 5. Hjultrækket på 4x2 står ikke i listen.",
+   "udgaver": [
+    {
+     "navn": "Active Tech 74,7 kWh 4x2 165 kW (224 hk), automatgear",
+     "niveau": "Active Tech",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 224,
+     "kw": 165,
+     "batteri_kwh": 74.7,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 256900
+    },
+    {
+     "navn": "Active Tech 74,7 kWh AWD 280 kW (380 hk), automatgear",
+     "niveau": "Active Tech",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 380,
+     "kw": 280,
+     "batteri_kwh": 74.7,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 272900
+    },
+    {
+     "navn": "Executive 74,7 kWh AWD 280 kW (380 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 380,
+     "kw": 280,
+     "batteri_kwh": 74.7,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 296900
+    },
+    {
+     "navn": "Executive 20\" 74,7 kWh AWD 280 kW (380 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 380,
+     "kw": 280,
+     "batteri_kwh": 74.7,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 304900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "20\" alufælge",
+     "gruppe": "ydre",
+     "pris_kr": 8000,
+     "gaelder": "Executive",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Merpris fra side 4. Modelprogrammet viser samme bil som Executive 20\" til 304.900 kr."
+    },
+    {
+     "navn": "Metallak: Brilliant Bronze, Magnetite Grey eller Ice Silver",
+     "gruppe": "ydre",
+     "pris_kr": 7592,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "D35, D31, D30",
+     "tilbehoer": false,
+     "note": "Crystal Black Silica (D32) er med i prisen. Listen siger ikke, om den er metallak."
+    },
+    {
+     "navn": "Premiumlak: Crystal White Pearl eller Sapphire Blue Pearl",
+     "gruppe": "ydre",
+     "pris_kr": 9992,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "D29, D33",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Transportpakke med tagbøjler, opbevaringstaske til tagbøjler og cykelholder",
+     "gruppe": "ydre",
+     "pris_kr": 4156,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Anhængertræk, aftageligt (vertikalt)",
+     "gruppe": "traek",
+     "pris_kr": 11996,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter til 7 poler."
+    },
+    {
+     "navn": "Stænklapper for og bag",
+     "gruppe": "ydre",
+     "pris_kr": 1436,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Beskyttelsespakke med bagagerumsbakke, bagsæderygbeskyttelse, bagkofangerbeskyttelse, gummimåtter og stænklapper",
+     "gruppe": "andet",
+     "pris_kr": 4796,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør."
+    },
+    {
+     "navn": "Vinterkomplethjul 18\", mat sorte alufælge, 235/60R18 med Goodyear-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 14396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Vinterkomplethjul 20\", sorte alufælge, 235/50R20 med Bridgestone-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 22396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    }
+   ],
+   "pakker": []
+  },
+  "toyota-c-hr-van": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/toyota-c-hr-van/",
+   "kilde_navn": "Toyotas varebilsprisliste for C-HR+ Van",
+   "prisliste_dato": "2026-09-09",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": true,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspriser uden moms og med registreringsafgift fra side 2 i listen fra den 9. september 2026. Toyota skriver bag i listen, at priserne er med levering og nummerplader, men oplyser ikke beløbet. Derfor er leveringen ikke trukket fra, og pris_kr indeholder den. Executive Panorama er Executive med Panorama-pakken til 8.000 kr. (side 4). Farver står på side 5 og tilbehør på side 6.",
+   "udgaver": [
+    {
+     "navn": "Active 77 kWh 4x2 165 kW (224 hk), automatgear",
+     "niveau": "Active",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 224,
+     "kw": 165,
+     "batteri_kwh": 77,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 225900
+    },
+    {
+     "navn": "Active 77 kWh AWD 252 kW (343 hk), automatgear",
+     "niveau": "Active",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 343,
+     "kw": 252,
+     "batteri_kwh": 77,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 241900
+    },
+    {
+     "navn": "Executive 77 kWh AWD 252 kW (343 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 343,
+     "kw": 252,
+     "batteri_kwh": 77,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 265900
+    },
+    {
+     "navn": "Executive Panorama 77 kWh AWD 252 kW (343 hk), automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 343,
+     "kw": 252,
+     "batteri_kwh": 77,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 273900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "20\" alufælge med aerodynamiske hjulkapsler",
+     "gruppe": "ydre",
+     "pris_kr": 8000,
+     "gaelder": "Active",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Merpris fra side 3. Standard på Executive."
+    },
+    {
+     "navn": "Metallak: Mineral eller Attitude Black",
+     "gruppe": "ydre",
+     "pris_kr": 6392,
+     "gaelder": "Active. Attitude Black kan også vælges til Executive.",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "6Y1, 218",
+     "tilbehoer": false,
+     "note": "Manhattan Grey (1H5) er metallak og med i prisen."
+    },
+    {
+     "navn": "Premiumlak: Platinum White Pearl eller Metal Oxide",
+     "gruppe": "ydre",
+     "pris_kr": 8792,
+     "gaelder": "Active",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "089, 4Z3",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bitone: Mineral med sort tag",
+     "gruppe": "ydre",
+     "pris_kr": 6392,
+     "gaelder": "Executive",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "M66",
+     "tilbehoer": false,
+     "note": "Executive har bitone med sort tag. Manhattan Grey med sort tag (2YY) er med i prisen."
+    },
+    {
+     "navn": "Bitone premiumlak: Metal Oxide eller Platinum White Pearl med sort tag",
+     "gruppe": "ydre",
+     "pris_kr": 8792,
+     "gaelder": "Executive",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "M67, 2PS",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, aftageligt (vertikalt)",
+     "gruppe": "traek",
+     "pris_kr": 11996,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "PW96042019",
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør med 13-polet stik og adapter til 7 poler. Prisen er uden montering."
+    },
+    {
+     "navn": "Vinterkomplethjul 18\" alufælge, 235/60R18 med Goodyear-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 14396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "TMEWA10315XY",
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    },
+    {
+     "navn": "Vinterkomplethjul 20\" alufælge, 235/50R20 med Bridgestone-dæk",
+     "gruppe": "ydre",
+     "pris_kr": 22396,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "TMEWA42283DY",
+     "tilbehoer": true,
+     "note": "Toyota-tilbehør. Prisen er uden montering."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Panorama",
+     "pris_kr": 8000,
+     "gaelder": "Executive",
+     "indhold": [
+      "Panoramaglastag",
+      "JBL-lydanlæg"
+     ],
+     "niveau_priser": null
+    }
+   ]
+  },
+  "toyota-urban-cruiser-van": {
+   "kilde_url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/urban-cruiser-van/",
+   "kilde_navn": "Toyotas varebilsprisliste for Urban Cruiser Van",
+   "prisliste_dato": "2026-07-07",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": true,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspriser uden moms og med registreringsafgift fra side 2 i listen fra den 7. juli 2026. Under tabellen står der, at alle priser er med moms, men kolonnen med moms er præcis 25 procent højere, så vi har brugt kolonnen uden moms. Toyota skriver bag i listen, at priserne er med levering og nummerplader, men oplyser ikke beløbet. Derfor er leveringen ikke trukket fra, og pris_kr indeholder den. Batteriet er angivet brutto (48,8 og 61,1 kWh). Listen har ingen tilbehørsside og intet anhængertræk med pris. Hjultrækket på 4x2 står ikke i listen.",
+   "udgaver": [
+    {
+     "navn": "Active 49 kWh 4x2 144 hk, automatgear",
+     "niveau": "Active 49 kWh",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 144,
+     "kw": null,
+     "batteri_kwh": 48.8,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 182900
+    },
+    {
+     "navn": "Active 61 kWh 4x2 174 hk, automatgear",
+     "niveau": "Active 61 kWh",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 174,
+     "kw": null,
+     "batteri_kwh": 61.1,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 194900
+    },
+    {
+     "navn": "Executive 61 kWh 4x2 174 hk, automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 174,
+     "kw": null,
+     "batteri_kwh": 61.1,
+     "gear": "automat",
+     "hjultraek": null,
+     "pris_kr": 210900
+    },
+    {
+     "navn": "Active 61 kWh AWD 184 hk, automatgear",
+     "niveau": "Active 61 kWh",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 61.1,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 202900
+    },
+    {
+     "navn": "Executive 61 kWh AWD 184 hk, automatgear",
+     "niveau": "Executive",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "el",
+     "motor": null,
+     "hk": 184,
+     "kw": null,
+     "batteri_kwh": 61.1,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 218900
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Metallak: Liquid Silver, Graphite Grey eller Pine Green",
+     "gruppe": "ydre",
+     "pris_kr": 5992,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "WBE, WBF, WA1",
+     "tilbehoer": false,
+     "note": "Nimbus Blue (WBH) er gratis. Farvesiden skriver ikke, om priserne er med eller uden moms. Resten af listen er uden moms, og med moms bliver beløbene runde (7.490, 10.490, 14.990 og 17.990 kr.)."
+    },
+    {
+     "navn": "Premiumlak: Lunar White eller Dusk Black",
+     "gruppe": "ydre",
+     "pris_kr": 8392,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHJ, WB3",
+     "tilbehoer": false,
+     "note": "Farvesiden skriver ikke, om priserne er med eller uden moms. Resten af listen er uden moms, og med moms bliver beløbene runde (7.490, 10.490, 14.990 og 17.990 kr.)."
+    },
+    {
+     "navn": "Bitone: Liquid Silver, Graphite Grey eller Pine Green med sort tag",
+     "gruppe": "ydre",
+     "pris_kr": 11992,
+     "gaelder": "Executive",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "E85, FFZ, FDC",
+     "tilbehoer": false,
+     "note": "Farvesiden skriver ikke, om priserne er med eller uden moms. Resten af listen er uden moms, og med moms bliver beløbene runde (7.490, 10.490, 14.990 og 17.990 kr.)."
+    },
+    {
+     "navn": "Bitone premiumlak: Spirit Red eller Lunar White med sort tag",
+     "gruppe": "ydre",
+     "pris_kr": 14392,
+     "gaelder": "Executive",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "E86, E5G",
+     "tilbehoer": false,
+     "note": "Farvesiden skriver ikke, om priserne er med eller uden moms. Resten af listen er uden moms, og med moms bliver beløbene runde (7.490, 10.490, 14.990 og 17.990 kr.)."
+    }
+   ],
+   "pakker": []
+  }
+ },
+ "udstyr_patch": {
+  "toyota-proace-city": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Absolute Black eller Grey Cloud. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Absolute Black eller Grey Cloud. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Absolute Black eller Grey Cloud. Ice White er med"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "nej",
+     "note": "Dækreparationssæt (konfiguratoren). Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Dækreparationssæt (konfiguratoren). Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Dækreparationssæt (konfiguratoren). Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 1473,
+     "note": "Toyota-tilbehør: tagbøjlesæt med 2 stk. til biler uden tagræling, højst 80 kg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1473,
+     "note": "Toyota-tilbehør: tagbøjlesæt med 2 stk. til biler uden tagræling, højst 80 kg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1473,
+     "note": "Toyota-tilbehør: tagbøjlesæt med 2 stk. til biler uden tagræling, højst 80 kg"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Yderste sæde har varme"
+    },
+    {
+     "s": "std",
+     "note": "Yderste sæde har varme"
+    },
+    {
+     "s": "std",
+     "note": "Yderste sæde har varme"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "nej",
+     "note": "230V-udtaget står i Nordic Edition og Comfort Master+. Comfort Master har V2L fra produktion oktober 2025, men adapteren skal købes særskilt"
+    },
+    {
+     "s": "std",
+     "note": "I kabinen i passagersiden"
+    },
+    {
+     "s": "std",
+     "note": "I kabinen i passagersiden"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "nej",
+     "note": "Varmepumpen står i Nordic Edition og Comfort Master+. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ]
+  },
+  "toyota-proace-city-diesel": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Absolute Black eller Grey Cloud. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Absolute Black eller Grey Cloud. Ice White er med"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "nej",
+     "note": "Dækreparationssæt (konfiguratoren). Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Dækreparationssæt (konfiguratoren). Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 1473,
+     "note": "Toyota-tilbehør: tagbøjlesæt med 2 stk. til biler uden tagræling, højst 80 kg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1473,
+     "note": "Toyota-tilbehør: tagbøjlesæt med 2 stk. til biler uden tagræling, højst 80 kg"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "nej",
+     "note": "Comfort har enkelt passagersæde. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std",
+     "note": "Yderste sæde har varme"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+, som kun fås som elbil. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+, som kun fås som elbil. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "nej",
+     "note": "230V-udtaget står kun i Nordic Edition og Comfort Master+, som kun fås som elbil. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "230V-udtaget står kun i Nordic Edition og Comfort Master+, som kun fås som elbil. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ]
+  },
+  "toyota-proace": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "11 kW lader. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ]
+  },
+  "toyota-proace-diesel": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Absolute Black, Grey Cloud eller Titanium Grey. Ice White er med"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul i fuld størrelse (konfiguratoren)"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1645,
+     "note": "Toyota-tilbehør: tagbøjler, pris pr. stk."
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "nej",
+     "note": "Navigation står kun i Comfort Master+-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std",
+     "note": "Navigation (konfiguratoren og prislisten)"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum følger med 150 hk og 180 hk, men ikke med 1.5 120 hk (prislisten: kassevogn 150 hk, 180 hk og EV). Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ]
+  },
+  "toyota-proace-max": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Stormy Grey, Grey Cloud eller Black Opal. Speciallak koster 8.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Komplet reservehjul med stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 4195,
+     "note": "Toyota-tilbehør: sæt med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "std",
+     "note": "Fra produktion oktober 2025"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt"
+    }
+   ]
+  },
+  "toyota-proace-max-diesel": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Stormy Grey, Grey Cloud eller Black Opal. Speciallak koster 8.990 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 7990,
+     "note": "Stormy Grey, Grey Cloud eller Black Opal. Speciallak koster 8.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Komplet reservehjul med stålfælg"
+    },
+    {
+     "s": "std",
+     "note": "Komplet reservehjul med stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 4195,
+     "note": "Toyota-tilbehør: sæt med 3 tagbøjler"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4195,
+     "note": "Toyota-tilbehør: sæt med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej",
+     "note": "Navigation står i Comfort Master-udstyret. Toyotas prisliste har ingen fabrikstilvalg ud over farve, ekstra skydedør og bagklap"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    },
+    {
+     "s": "std",
+     "note": "Bund og sider i varerum. Materialet er ikke oplyst"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt"
+    },
+    {
+     "s": "ukendt"
+    }
+   ]
+  }
+ },
+ "udstyr_nye_modeller": {
+  "toyota-bz4x-van": {
+   "kilde": {
+    "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-van/",
+    "dato": "2026-10-05",
+    "note": "Toyotas varebilsprisliste for bZ4X Van fra den 9. september 2026: side 2 (modelprogram og væsentlige forskelle), 3–5 (standardudstyr pr. niveau) og 6 (farver og tilbehørspakker). Toyotas konfigurator har kun personbilsudgaven, så den er kun nævnt i noterne."
+   },
+   "niveauer": [
+    {
+     "navn": "Active",
+     "fra_pris": 216900,
+     "note": "57,7 kWh, 4x2, 123 kW (167 hk)"
+    },
+    {
+     "navn": "Active Tech",
+     "fra_pris": 236900,
+     "note": "73,1 kWh, 4x2, 165 kW (224 hk). Med firehjulstræk og 252 kW (343 hk) koster den 252.900 kr."
+    },
+    {
+     "navn": "Executive",
+     "fra_pris": 252900,
+     "note": "73,1 kWh, 4x2, 165 kW (224 hk). Med firehjulstræk og 252 kW (343 hk) koster den 268.900 kr."
+    }
+   ],
+   "udstyr": {
+    "aircondition": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke aircondition"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke aircondition"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke aircondition"
+     }
+    ],
+    "fartpilot": [
+     {
+      "s": "std",
+      "note": "Adaptiv, fuld rækkevidde"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv, fuld rækkevidde"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv, fuld rækkevidde"
+     }
+    ],
+    "carplay": [
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 14\" skærm"
+     },
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 14\" skærm"
+     },
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 14\" skærm"
+     }
+    ],
+    "dab": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     }
+    ],
+    "noeglefri": [
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     }
+    ],
+    "saedevarme": [
+     {
+      "s": "std",
+      "note": "Forsæder"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     }
+    ],
+    "opvarmet_forrude": [
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     },
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     },
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     }
+    ],
+    "parkeringsvarmer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "psensor_bag": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "psensor_for": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "bakkamera": [
+     {
+      "s": "std",
+      "note": "Digitalt bakkamera"
+     },
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     },
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     }
+    ],
+    "led_forlygter": [
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     },
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     },
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     }
+    ],
+    "elspejle_klap": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     }
+    ],
+    "adaptiv_fartpilot": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "blindvinkel": [
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     }
+    ],
+    "skillevaeg": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     }
+    ],
+    "skydedoer_hoejre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "skydedoer_venstre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "bagdoere_rude": [
+     {
+      "s": "ukendt",
+      "note": "Bilen har el-betjent bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen har el-betjent bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen har el-betjent bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     }
+    ],
+    "gulv_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "varerumslys_led": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_12v_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "anhaengertraek": [
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet"
+     }
+    ],
+    "metallak": [
+     {
+      "s": "std",
+      "note": "Dark Blue er metallak og med i prisen. Attitude Black koster 6.792 kr."
+     },
+     {
+      "s": "std",
+      "note": "Dark Blue er metallak og med i prisen. Attitude Black koster 6.792 kr."
+     },
+     {
+      "s": "std",
+      "note": "Dark Blue er metallak og med i prisen. Attitude Black koster 6.792 kr."
+     }
+    ],
+    "reservehjul": [
+     {
+      "s": "nej",
+      "note": "Dækreparationskit. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "Dækreparationskit. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "Dækreparationskit. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     }
+    ],
+    "tagbaerer": [
+     {
+      "s": "std",
+      "note": "Tagræling"
+     },
+     {
+      "s": "std",
+      "note": "Tagræling"
+     },
+     {
+      "s": "std",
+      "note": "Tagræling"
+     }
+    ],
+    "alarm": [
+     {
+      "s": "nej",
+      "note": "Tabellen over forskelle viser, at Active ikke har tyverialarm. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "std",
+      "note": "Med bevægelses- og glasknusningssensor"
+     },
+     {
+      "s": "std",
+      "note": "Med bevægelses- og glasknusningssensor"
+     }
+    ],
+    "dobbelt_passagersaede": [
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     }
+    ],
+    "navigation": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke navigation. Personbilsudgaven har navigation ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke navigation. Personbilsudgaven har navigation ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke navigation. Personbilsudgaven har navigation ifølge Toyotas konfigurator"
+     }
+    ],
+    "beklaedning_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_230v": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "lader_22kw": [
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "varmepumpe": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ]
+   },
+   "_bemaerkninger": "Niveauerne er faste pakker. Prislisten sælger kun farver som fabrikstilvalg, og resten er Toyota-tilbehør. Udstyr, som prislisten ikke nævner, står som ukendt, også når personbilsudgaven har det. Bilen er en 5-dørs SUV, så den har hverken skydedøre eller bagdøre.",
+   "tilbud_niveau": {
+    "Toyota|bZ4X Van Active 57,7 kWh, 123 kW (167 hk), automatgear": "Active",
+    "Toyota|bZ4X Van Executive AWD 73,1 kWh, 252 kW (343 hk), automatgear": "Executive"
+   }
+  },
+  "toyota-bz4x-touring-van": {
+   "kilde": {
+    "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-touring-van/",
+    "dato": "2026-10-05",
+    "note": "Toyotas varebilsprisliste for bZ4X Touring Van fra den 9. september 2026: side 2 (modelprogram og væsentlige forskelle), 3–4 (standardudstyr pr. niveau) og 5 (farver og tilbehørspakker). Toyotas konfigurator har kun personbilsudgaven, så den er kun nævnt i noterne."
+   },
+   "niveauer": [
+    {
+     "navn": "Active Tech",
+     "fra_pris": 256900,
+     "note": "74,7 kWh, 4x2, 165 kW (224 hk). Med firehjulstræk og 280 kW (380 hk) koster den 272.900 kr."
+    },
+    {
+     "navn": "Executive",
+     "fra_pris": 296900,
+     "note": "74,7 kWh, firehjulstræk, 280 kW (380 hk). Fås kun med firehjulstræk. Med 20\" alufælge koster den 304.900 kr."
+    }
+   ],
+   "udstyr": {
+    "aircondition": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke aircondition"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke aircondition"
+     }
+    ],
+    "fartpilot": [
+     {
+      "s": "std",
+      "note": "Adaptiv, fuld rækkevidde"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv, fuld rækkevidde"
+     }
+    ],
+    "carplay": [
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 14\" skærm"
+     },
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 14\" skærm"
+     }
+    ],
+    "dab": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     }
+    ],
+    "noeglefri": [
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     }
+    ],
+    "saedevarme": [
+     {
+      "s": "std",
+      "note": "Forsæder"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     }
+    ],
+    "opvarmet_forrude": [
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     },
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     }
+    ],
+    "parkeringsvarmer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "psensor_bag": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "psensor_for": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "bakkamera": [
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     },
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     }
+    ],
+    "led_forlygter": [
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     },
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     }
+    ],
+    "elspejle_klap": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     }
+    ],
+    "adaptiv_fartpilot": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "blindvinkel": [
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     }
+    ],
+    "skillevaeg": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     }
+    ],
+    "skydedoer_hoejre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "skydedoer_venstre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "bagdoere_rude": [
+     {
+      "s": "ukendt",
+      "note": "Bilen har el-betjent bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen har el-betjent bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     }
+    ],
+    "gulv_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "varerumslys_led": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_12v_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "anhaengertraek": [
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet"
+     }
+    ],
+    "metallak": [
+     {
+      "s": "tilvalg",
+      "pris": 7592,
+      "note": "Brilliant Bronze, Magnetite Grey eller Ice Silver. Crystal Black Silica er med i prisen, men listen siger ikke, om den er metallak"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 7592,
+      "note": "Brilliant Bronze, Magnetite Grey eller Ice Silver. Crystal Black Silica er med i prisen, men listen siger ikke, om den er metallak"
+     }
+    ],
+    "reservehjul": [
+     {
+      "s": "nej",
+      "note": "Dækreparationskit. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "Dækreparationskit. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     }
+    ],
+    "tagbaerer": [
+     {
+      "s": "std",
+      "note": "Tagræling"
+     },
+     {
+      "s": "std",
+      "note": "Tagræling"
+     }
+    ],
+    "alarm": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke alarm. Personbilsudgaven har tyverialarm ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke alarm. Personbilsudgaven har tyverialarm ifølge Toyotas konfigurator"
+     }
+    ],
+    "dobbelt_passagersaede": [
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     }
+    ],
+    "navigation": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke navigation. Personbilsudgaven har navigation ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke navigation. Personbilsudgaven har navigation ifølge Toyotas konfigurator"
+     }
+    ],
+    "beklaedning_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_230v": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "lader_22kw": [
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "varmepumpe": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ]
+   },
+   "_bemaerkninger": "Niveauerne er faste pakker. Prislisten sælger kun farver og 20\" alufælge som fabrikstilvalg, og resten er Toyota-tilbehør. Udstyr, som prislisten ikke nævner, står som ukendt, også når personbilsudgaven har det. Bilen er en 5-dørs SUV, så den har hverken skydedøre eller bagdøre.",
+   "tilbud_niveau": {
+    "Toyota|bZ4X Touring Van Active Tech 74,7 kWh, 165 kW (224 hk), automatgear": "Active Tech",
+    "Toyota|bZ4X Touring Van Executive AWD 74,7 kWh, 280 kW (380 hk), automatgear": "Executive"
+   }
+  },
+  "toyota-c-hr-van": {
+   "kilde": {
+    "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/toyota-c-hr-van/",
+    "dato": "2026-10-05",
+    "note": "Toyotas varebilsprisliste for C-HR+ Van fra den 9. september 2026: side 2 (modelprogram og væsentlige forskelle), 3–4 (standardudstyr pr. niveau og tilkøb), 5 (farver) og 6 (tilbehør). Toyotas konfigurator har kun personbilsudgaven, så den er kun nævnt i noterne."
+   },
+   "niveauer": [
+    {
+     "navn": "Active",
+     "fra_pris": 225900,
+     "note": "77 kWh, forhjulstræk, 165 kW (224 hk). Med firehjulstræk og 252 kW (343 hk) koster den 241.900 kr."
+    },
+    {
+     "navn": "Executive",
+     "fra_pris": 265900,
+     "note": "77 kWh, firehjulstræk, 252 kW (343 hk). Fås kun med firehjulstræk. Med Panorama-pakken koster den 273.900 kr."
+    }
+   ],
+   "udstyr": {
+    "aircondition": [
+     {
+      "s": "std",
+      "note": "Klimaanlæg med 2 zoner"
+     },
+     {
+      "s": "std",
+      "note": "Klimaanlæg med 2 zoner"
+     }
+    ],
+    "fartpilot": [
+     {
+      "s": "std",
+      "note": "Adaptiv"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv"
+     }
+    ],
+    "carplay": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner kun Bluetooth og 14\" skærm. Personbilsudgaven har trådløs smartphone-integration ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner kun Bluetooth og 14\" skærm. Personbilsudgaven har trådløs smartphone-integration ifølge Toyotas konfigurator"
+     }
+    ],
+    "dab": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke DAB. Personbilsudgaven har DAB ifølge Toyotas konfigurator"
+     }
+    ],
+    "noeglefri": [
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     }
+    ],
+    "saedevarme": [
+     {
+      "s": "std",
+      "note": "Forsæder"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     }
+    ],
+    "opvarmet_forrude": [
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     },
+     {
+      "s": "std",
+      "note": "Med opvarmede sprinklerdyser"
+     }
+    ],
+    "parkeringsvarmer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "psensor_bag": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "psensor_for": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "bakkamera": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     }
+    ],
+    "led_forlygter": [
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     },
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter (AHS)"
+     }
+    ],
+    "elspejle_klap": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare, foldbare og opvarmelige, men ikke, om de klappes elektrisk"
+     }
+    ],
+    "adaptiv_fartpilot": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "blindvinkel": [
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     }
+    ],
+    "skillevaeg": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     }
+    ],
+    "skydedoer_hoejre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "skydedoer_venstre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "bagdoere_rude": [
+     {
+      "s": "ukendt",
+      "note": "Bilen har elektrisk bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen har elektrisk bagklap i stedet for bagdøre. Prislisten nævner ikke bagruden"
+     }
+    ],
+    "gulv_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "varerumslys_led": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_12v_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "anhaengertraek": [
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet. Prisen er uden montering"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 11996,
+      "note": "Toyota-tilbehør: aftageligt (vertikalt), 13-polet stik og adapter til 7-polet. Prisen er uden montering"
+     }
+    ],
+    "metallak": [
+     {
+      "s": "std",
+      "note": "Manhattan Grey er metallak og med i prisen. Andre metalfarver koster 6.392 kr."
+     },
+     {
+      "s": "std",
+      "note": "Bitone Manhattan Grey med sort tag er med i prisen. Mineral med sort tag koster 6.392 kr."
+     }
+    ],
+    "reservehjul": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "tagbaerer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "alarm": [
+     {
+      "s": "std",
+      "note": "Tyverialarm"
+     },
+     {
+      "s": "std",
+      "note": "Tyverialarm"
+     }
+    ],
+    "dobbelt_passagersaede": [
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     }
+    ],
+    "navigation": [
+     {
+      "s": "std",
+      "note": "Cloud navigation"
+     },
+     {
+      "s": "std",
+      "note": "Cloud navigation"
+     }
+    ],
+    "beklaedning_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_230v": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "lader_22kw": [
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "varmepumpe": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ]
+   },
+   "_bemaerkninger": "Niveauerne er faste pakker. Prislisten sælger kun farver, 20\" alufælge (Active) og Panorama-pakken (Executive) som fabrikstilvalg, og resten er Toyota-tilbehør. Udstyr, som prislisten ikke nævner, står som ukendt, også når personbilsudgaven har det. Bilen er en 5-dørs SUV, så den har hverken skydedøre eller bagdøre.",
+   "tilbud_niveau": {
+    "Toyota|C-HR+ Van Active 77 kWh, 165 kW (224 hk), automatgear": "Active",
+    "Toyota|C-HR+ Van Executive Panorama AWD 77 kWh, 252 kW (343 hk), automatgear": "Executive"
+   }
+  },
+  "toyota-urban-cruiser-van": {
+   "kilde": {
+    "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/urban-cruiser-van/",
+    "dato": "2026-10-05",
+    "note": "Toyotas varebilsprisliste for Urban Cruiser Van fra den 7. juli 2026: side 2 (modelprogram og væsentlige forskelle), 3–5 (standardudstyr pr. niveau), 7 (teknik) og 8 (farver). Listen har ingen tilbehørsside. Toyotas konfigurator har kun personbilsudgaven, så den er kun nævnt i noterne."
+   },
+   "niveauer": [
+    {
+     "navn": "Active 49 kWh",
+     "fra_pris": 182900,
+     "note": "49 kWh, 4x2, 144 hk"
+    },
+    {
+     "navn": "Active 61 kWh",
+     "fra_pris": 194900,
+     "note": "61 kWh, 4x2, 174 hk. Med firehjulstræk og 184 hk koster den 202.900 kr."
+    },
+    {
+     "navn": "Executive",
+     "fra_pris": 210900,
+     "note": "61 kWh, 4x2, 174 hk. Med firehjulstræk og 184 hk koster den 218.900 kr."
+    }
+   ],
+   "udstyr": {
+    "aircondition": [
+     {
+      "s": "std",
+      "note": "Klimaanlæg"
+     },
+     {
+      "s": "std",
+      "note": "Klimaanlæg"
+     },
+     {
+      "s": "std",
+      "note": "Klimaanlæg"
+     }
+    ],
+    "fartpilot": [
+     {
+      "s": "std",
+      "note": "Adaptiv, ned til 0 km/t"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv, ned til 0 km/t"
+     },
+     {
+      "s": "std",
+      "note": "Adaptiv, ned til 0 km/t"
+     }
+    ],
+    "carplay": [
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 10,1\" skærm"
+     },
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 10,1\" skærm"
+     },
+     {
+      "s": "std",
+      "note": "Trådløs Apple CarPlay og Android Auto, 10,1\" skærm"
+     }
+    ],
+    "dab": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "noeglefri": [
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     },
+     {
+      "s": "std",
+      "note": "Nøglefri adgang og start"
+     }
+    ],
+    "saedevarme": [
+     {
+      "s": "nej",
+      "note": "Tabellen over forskelle viser, at Active 49 kWh ikke har varme i forsæderne. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     },
+     {
+      "s": "std",
+      "note": "Forsæder"
+     }
+    ],
+    "opvarmet_forrude": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner kun varme ved viskerbladene"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner kun varme ved viskerbladene"
+     }
+    ],
+    "parkeringsvarmer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "psensor_bag": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "psensor_for": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "bakkamera": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std",
+      "note": "Med 360° panoramavisning"
+     }
+    ],
+    "led_forlygter": [
+     {
+      "s": "std",
+      "note": "LED for og bag"
+     },
+     {
+      "s": "std",
+      "note": "LED for og bag"
+     },
+     {
+      "s": "std",
+      "note": "Adaptive LED-forlygter"
+     }
+    ],
+    "elspejle_klap": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare og foldbare, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare og foldbare, men ikke, om de klappes elektrisk"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten skriver, at spejlene er el-justerbare og foldbare, men ikke, om de klappes elektrisk"
+     }
+    ],
+    "adaptiv_fartpilot": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "blindvinkel": [
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     },
+     {
+      "s": "std",
+      "note": "Blind Spot Monitor"
+     }
+    ],
+    "skillevaeg": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke skillevæg"
+     }
+    ],
+    "skydedoer_hoejre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "skydedoer_venstre": [
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     },
+     {
+      "s": "nej",
+      "note": "5-dørs SUV med almindelige døre"
+     }
+    ],
+    "bagdoere_rude": [
+     {
+      "s": "ukendt",
+      "note": "Bilen er en 5-dørs SUV uden bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen er en 5-dørs SUV uden bagdøre. Prislisten nævner ikke bagruden"
+     },
+     {
+      "s": "ukendt",
+      "note": "Bilen er en 5-dørs SUV uden bagdøre. Prislisten nævner ikke bagruden"
+     }
+    ],
+    "gulv_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "varerumslys_led": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_12v_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "anhaengertraek": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten oplyser 750 kg trækvægt, men har intet anhængertræk med pris"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten oplyser 750 kg trækvægt, men har intet anhængertræk med pris"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten oplyser 750 kg trækvægt, men har intet anhængertræk med pris"
+     }
+    ],
+    "metallak": [
+     {
+      "s": "std",
+      "note": "Nimbus Blue er metallak og gratis. Andre metalfarver koster 5.992 kr."
+     },
+     {
+      "s": "std",
+      "note": "Nimbus Blue er metallak og gratis. Andre metalfarver koster 5.992 kr."
+     },
+     {
+      "s": "std",
+      "note": "Nimbus Blue er metallak og gratis. Andre metalfarver koster 5.992 kr."
+     }
+    ],
+    "reservehjul": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "tagbaerer": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "alarm": [
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke alarm. Personbilsudgaven har tyverialarm ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke alarm. Personbilsudgaven har tyverialarm ifølge Toyotas konfigurator"
+     },
+     {
+      "s": "ukendt",
+      "note": "Prislisten nævner ikke alarm. Personbilsudgaven har tyverialarm ifølge Toyotas konfigurator"
+     }
+    ],
+    "dobbelt_passagersaede": [
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     },
+     {
+      "s": "nej",
+      "note": "Enkelt passagersæde"
+     }
+    ],
+    "navigation": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "beklaedning_varerum": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "stik_230v": [
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     },
+     {
+      "s": "ukendt"
+     }
+    ],
+    "lader_22kw": [
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     },
+     {
+      "s": "nej",
+      "note": "11 kW AC. Prislisten har ingen fabrikstilvalg ud over farve og fælge"
+     }
+    ],
+    "varmepumpe": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ]
+   },
+   "_bemaerkninger": "Active er delt i to niveauer, fordi prislistens tabel over forskelle giver Active 61 kWh mere udstyr end Active 49 kWh (varme i rat, forsæder, viskerblade og sidespejle). Prislisten sælger kun farver som fabrikstilvalg og har ingen tilbehørsside. Udstyr, som prislisten ikke nævner, står som ukendt. Bilen er en 5-dørs SUV, så den har hverken skydedøre eller bagdøre.",
+   "tilbud_niveau": {
+    "Toyota|Urban Cruiser Van Active 49 kWh, 144 hk, automatgear": "Active 49 kWh"
+   }
+  }
+ },
+ "afvigelser": [
+  "toyota-proace: nypris i varebiler.json er 217.890 kr. for Comfort Master Long med to skydedøre, 75 kWh (toyota.dk den 23. september). Prislisten fra den 17. september og konfiguratoren den 5. oktober siger 209.900 kr. Forskellen er 7.990 kr., som er prisen på metallak. Notens andre tal er også 7.990 kr. for høje: Medium koster 204.900 kr. (ikke 212.890), og diesel Comfort Master Long koster 284.900 kr. (ikke 292.890).",
+  "toyota-proace-city: nypris er 172.890 kr. for Comfort Master Medium med én skydedør, 50 kWh. Prislisten og konfiguratoren siger 166.900 kr., og toyota.dk viser i dag 'Fra kr. 166.900'. Forskellen er 5.990 kr., som er prisen på metallak. Long koster 181.900 kr. (noten siger 187.890).",
+  "De tre Proace-lister (City 12. juni, Proace 17. september og Max 16. september 2026) skriver, at elbilernes priser gælder til og med den 30. september 2026. Der er ingen nyere lister på toyota.dk/priser-brochurer den 5. oktober 2026, og konfiguratoren viser præcis de samme elbilpriser. gyldig_til er sat til 2026-09-30 for de tre elbiler.",
+  "toyota-proace-diesel: Nordic Edition står til 279.990 kr. uden moms, men kolonnen med moms siger 338.125 kr., ligesom Comfort Master til 279.900 kr. Konfiguratoren kalder bilen 'Comfort + Nordic Edition' og har 279.900 kr. udstyr.json har fra_pris 279.990. Vi har brugt prislistens tal; det er sandsynligvis en trykfejl.",
+  "toyota-proace-city-diesel: side 4 i listen skriver 'fra 224.900 kr.' for Comfort Master 1.5 diesel 102 hk, mens tabellen på side 2 har 219.900 kr. for Medium. 224.900 kr. er prisen med to skydedøre i konfiguratoren. Vi har brugt tabellen.",
+  "toyota-proace-city-diesel: prislisten skriver 102 hk for 1.5-dieselen, mens varebiler.json har motor_hk 100 (konfiguratoren skriver 100hp).",
+  "toyota-proace-diesel: Comfort Master-siden (side 4) skriver grøn ejerafgift 3.650 kr. pr. halvår for Medium 2.2 150 hk, mens tabellen på side 2 skriver 3.360 kr.",
+  "toyota-proace-diesel: 'Bund og sider i varerum' gælder kun kassevognene med 150 og 180 hk og elbilen, ikke 1.5 120 hk. Både det eksisterende felt gulv_varerum og den nye post beklaedning_varerum står som std på Comfort, men Comfort-tilbuddet (1.5 120 hk) har det ikke.",
+  "toyota-bz4x-van: side 2 skriver, at priserne er uden levering, mens side 7 skriver, at de er med levering og nummerplader. levering_i_listen er sat til null.",
+  "toyota-bz4x-touring-van, toyota-c-hr-van og toyota-urban-cruiser-van: listerne skriver, at priserne er med levering og nummerplader, men oplyser ikke beløbet. Leveringen er derfor ikke trukket fra pris_kr, og levering_i_listen er true.",
+  "toyota-bz4x-touring-van og toyota-c-hr-van: kolonnen med moms for firehjulstræk hedder 'Vejl. udsalgspris inkl. lev.omk.', men tallene er præcis 25 procent over prisen uden moms. Touring-listens forside nævner Executive med 20\" fælge til 409.990 kr., mens tabellen giver 381.125 kr. med moms.",
+  "toyota-urban-cruiser-van: under tabellen står der, at alle priser er med moms, selv om kolonnen siger uden moms. Farvepriserne (5.992, 8.392, 11.992 og 14.392 kr.) har ingen momsangivelse, men giver runde tal med moms, så de er uden moms. Det samme gælder farvepriserne i bZ4X Van-listen.",
+  "De fire SUV-varebiler findes kun som personbiler i Toyotas konfigurator (med personbilspriser). Konfiguratoren er derfor ikke brugt til status, kun nævnt i noter. Aircondition står som ukendt på bZ4X Van og bZ4X Touring Van, fordi listerne ikke nævner den.",
+  "toyota-c-hr-van: tabellen over forskelle skriver 'Tilvalg' ved firehjulstræk på Active. Det svarer til udgaven Active AWD til 241.900 kr. og er ikke lagt ind som et tilvalg.",
+  "Toyota-konfiguratoren (getOptionalEquipment og getPacks) har ingen fabrikstilvalg eller pakker på Proace, Proace City og Proace Max. Alle tilbehørspakker i listerne er lagt under tilvalg med tilbehoer: true."
+ ]
+}

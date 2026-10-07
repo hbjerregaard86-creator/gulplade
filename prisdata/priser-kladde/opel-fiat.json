@@ -1,0 +1,2143 @@
+{
+ "priser": {
+  "opel-combo": {
+   "kilde_url": "https://pdf.opel.dk/prislister/combo/",
+   "kilde_navn": "Opel Danmarks prisliste og specifikationer for Combo",
+   "prisliste_dato": "2026-03-17",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er vejledende udsalgspriser uden moms og levering. Listen har også en kolonne med moms, og forskellen mellem kolonnerne passer med, at registreringsafgiften er med i prisen uden moms. Listen er „Opdateret 17-03-2026“ og stadig den, opel.dk linker til den 5. oktober 2026. Hentet som PDF via GetPDF.ashx. Priser side 1, standardudstyr side 2, vægte side 3 og „Fremhævet udstyr & optioner“ (ekskl. moms, inkl. afgift) side 4 med en kolonne for Enjoy og en for Innovation; alle tilvalg koster det samme på begge niveauer. Listen skriver „Aut.“ ved automatgear; de andre udgaver har manuelt gear (antal trin står ikke). Totalvægt er fra vægttabellen side 3. Leveringsbeløbet står ikke i listen. Anhængertræk fra fabrikken findes ikke i listen, kun forberedelsen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Combo L1V1 Enjoy 1.5 HDi 100 hk manuel",
+     "niveau": "Enjoy",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2040,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 183990
+    },
+    {
+     "navn": "Combo L2V2 Enjoy 1.5 HDi 100 hk manuel",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 196990
+    },
+    {
+     "navn": "Combo L1V1 Enjoy 1.5 HDi 130 hk automatgear",
+     "niveau": "Enjoy",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2050,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 214990
+    },
+    {
+     "navn": "Combo L2V2 Enjoy 1.5 HDi 130 hk automatgear",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 224990
+    },
+    {
+     "navn": "Combo L1V1 Innovation 1.5 HDi 130 hk automatgear",
+     "niveau": "Innovation",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2050,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 230990
+    },
+    {
+     "navn": "Combo L2V2 Innovation 1.5 HDi 130 hk automatgear",
+     "niveau": "Innovation",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 244990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forberedelse til anhængertræk",
+     "gruppe": "traek",
+     "pris_kr": 2724,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Kun forberedelsen. Selve trækket står ikke i prislisten; Opel sælger det som forhandlermonteret tilbehør i en separat tilbehørsprisliste."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højre og venstre skydedør med rude",
+     "gruppe": "varerum",
+     "pris_kr": 6410,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1362,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Artense eller Sort Karbon. Hvid Icy er standardlak (0 kr.)."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Drive Assist Pack",
+     "pris_kr": null,
+     "gaelder": "Innovation (standard); kan ikke vælges til Enjoy",
+     "indhold": [
+      "Highway Integrated Assist (HIA)",
+      "Adaptiv fartpilot med stop & go",
+      "Vejbaneassistent",
+      "Udvidet skiltegenkendelse"
+     ],
+     "niveau_priser": {
+      "Enjoy": "nej",
+      "Innovation": "std"
+     }
+    }
+   ]
+  },
+  "opel-combo-electric": {
+   "kilde_url": "https://pdf.opel.dk/prislister/combo-e/",
+   "kilde_navn": "Opel Danmarks prisliste og specifikationer for Combo Electric",
+   "prisliste_dato": "2026-08-12",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er „Pris eksl. moms og leveringsomkostninger“. Prisen med moms er præcis 1,25 gange prisen uden moms, så der er ingen registreringsafgift at regne med; tilvalgssiden skriver „Ekskl. moms, inkl. afgift“. Listen er „Opdateret 12-08-2026“ og stadig den, opel.dk linker til den 5. oktober 2026. Hentet som PDF via GetPDF.ashx. Priser side 1, standardudstyr side 2, vægte side 3, tilvalg side 4 med en kolonne for Enjoy og en for Innovation; alle tilvalg koster det samme på begge niveauer. Listen oplyser 136 hk og 50 kWh, men ikke kW. Gearet er sat til automat, fordi elbilen ikke har gearkasse. Totalvægten er 2.450 kg for både L1 og L2 (vægttabellen side 3). Leveringsbeløbet står ikke i listen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Combo-e L1 Enjoy 50 kWh 136 hk",
+     "niveau": "Enjoy",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 176990
+    },
+    {
+     "navn": "Combo-e L2 Enjoy 50 kWh 136 hk",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 186990
+    },
+    {
+     "navn": "Combo-e L1 Innovation 50 kWh 136 hk",
+     "niveau": "Innovation",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 188990
+    },
+    {
+     "navn": "Combo-e L2 Innovation 50 kWh 136 hk",
+     "niveau": "Innovation",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 198990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forberedelse til anhængertræk",
+     "gruppe": "traek",
+     "pris_kr": 2724,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Kun forberedelsen. Selve trækket står ikke i prislisten; Opel sælger det som forhandlermonteret tilbehør i en separat tilbehørsprisliste."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højre og venstre skydedør med rude",
+     "gruppe": "varerum",
+     "pris_kr": 6410,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1362,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Artense eller Sort Karbon. Hvid Icy er standardlak (0 kr.)."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Drive Assist Pack",
+     "pris_kr": null,
+     "gaelder": "Innovation (standard); kan ikke vælges til Enjoy",
+     "indhold": [
+      "Highway Integrated Assist (HIA)",
+      "Adaptiv fartpilot med stop & go",
+      "Vejbaneassistent",
+      "Udvidet skiltegenkendelse"
+     ],
+     "niveau_priser": {
+      "Enjoy": "nej",
+      "Innovation": "std"
+     }
+    }
+   ]
+  },
+  "opel-vivaro": {
+   "kilde_url": "https://pdf.opel.dk/prislister/vivaro/",
+   "kilde_navn": "Opel Danmarks prisliste og specifikationer for Vivaro",
+   "prisliste_dato": "2026-03-16",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er „Vejledende udsalgspris ekskl. moms og levering“; listen har ingen kolonne med moms. Tilvalgene står „Ekskl. moms, inkl. afgift“, så afgiften er med. Listen er „Opdateret 16.03.2026“ og stadig den, opel.dk linker til den 5. oktober 2026. Hentet som PDF via GetPDF.ashx. Standardudstyr og priser side 1, motor og vægte side 2, tilvalg med optionskoder side 4 (én priskolonne, som gælder begge niveauer). Listen skriver 105 kW for 150 hk og 135 kW for 180 hk; tallene er skrevet som i listen (se afvigelser). Totalvægten er 3.100 kg for alle udgaver. Side 2 indeholder skjult tekst uden for siden fra en anden motortabel (2.0 BlueHDi 145/177 hk); den er ikke brugt. Opel har også en separat lagerbilsliste for Vivaro (pdf.opel.dk/prislister/vivaro-ice-lagerbiler/) med den gamle 2.0 BlueHDi 145/180; den er ikke med her. Leveringsbeløbet står ikke i listen. Anhængertræk står ikke i listen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Vivaro L2 Enjoy 2.2 HDi 150 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 231990
+    },
+    {
+     "navn": "Vivaro L2 Enjoy 2.2 HDi 150 hk 8-trins automatgear",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 238990
+    },
+    {
+     "navn": "Vivaro L3 Enjoy 2.2 HDi 150 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 237990
+    },
+    {
+     "navn": "Vivaro L3 Enjoy 2.2 HDi 150 hk 8-trins automatgear",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 245990
+    },
+    {
+     "navn": "Vivaro L2 Innovation 2.2 HDi 150 hk 8-trins automatgear",
+     "niveau": "Innovation",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 261990
+    },
+    {
+     "navn": "Vivaro L2 Innovation 2.2 HDi 180 hk 8-trins automatgear",
+     "niveau": "Innovation",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 269990
+    },
+    {
+     "navn": "Vivaro L3 Innovation 2.2 HDi 150 hk 8-trins automatgear",
+     "niveau": "Innovation",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 265990
+    },
+    {
+     "navn": "Vivaro L3 Innovation 2.2 HDi 180 hk 8-trins automatgear",
+     "niveau": "Innovation",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 HDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 273990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 3756,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZQ",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med alufælge fra fabrikken"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WAAS",
+     "tilbehoer": false,
+     "note": "I stedet for det dobbelte passagersæde, uden merpris"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "WZ07",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Isoleret komfort-varerumsadskillelse med rude",
+     "gruppe": "varerum",
+     "pris_kr": 2147,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "PX37",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængt bagklap med rude",
+     "gruppe": "varerum",
+     "pris_kr": 3220,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WO06",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med ruder",
+     "gruppe": "varerum",
+     "pris_kr": 2576,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "WO05",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Phoenix grå antracit alufælge med sommerdæk (215/60 R17)",
+     "gruppe": "ydre",
+     "pris_kr": 5259,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1610,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "RS03",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "MET",
+     "tilbehoer": false,
+     "note": "Sort Perla Nera, Sølvgrå Artense eller Grå Titane. Hvid Icy er standardlak."
+    },
+    {
+     "navn": "Speciallak (Blå Imperial eller Rød Ardent)",
+     "gruppe": "ydre",
+     "pris_kr": 8050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "SPEC",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med indfarvede kofangere"
+    }
+   ],
+   "pakker": []
+  },
+  "opel-movano": {
+   "kilde_url": "https://pdf.opel.dk/prislister/movano-van/",
+   "kilde_navn": "Opel Danmarks prisliste og specifikationer for Movano Van (diesel)",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er vejledende udsalgspriser uden moms og levering. Listen har også en kolonne med moms, og forskellen mellem kolonnerne passer med, at registreringsafgiften er med i prisen uden moms. Ny liste: „Opdateret 01-10-2026“ (vi havde 30-04-2026). Hentet som PDF via GetPDF.ashx. Standardudstyr og priser side 1, tilvalg side 2, lakpriser side 3, motor og vægte side 4. Movano Van diesel fås kun som Enjoy. kW er fra motortabellen side 4 (140 hk = 103 kW, 180 hk = 132 kW). 35H-udgaverne står under „3.500 kg totalvægt HEAVY“ og i vægttabellen som „nedvejet til 3.500 kg“. Vægttabellen nævner også 35H L2H2 og L3H2 180 hk med manuelt gear, men de har ingen pris i listen og er ikke med. Tilvalgssiden skriver ikke, om priserne er med eller uden moms. Fiats liste for Ducato fra samme importør har de samme tilvalg og priser og skriver „Ekskl. moms, inkl. afgift“, og priserne passer med dem, vi har i udstyr.json. Leveringsbeløbet står ikke i listen. Anhængertræk står ikke i listen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Movano 33 L2H1 Enjoy 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 261990
+    },
+    {
+     "navn": "Movano 33 L2H2 Enjoy 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 267990
+    },
+    {
+     "navn": "Movano 33 L3H2 Enjoy 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 274990
+    },
+    {
+     "navn": "Movano 35 L2H2 Enjoy 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 274990
+    },
+    {
+     "navn": "Movano 35 L2H2 Enjoy 2.2 BlueHDi 140 hk 8-trins automatgear (EAT8)",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 294990
+    },
+    {
+     "navn": "Movano 35 L3H2 Enjoy 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 281990
+    },
+    {
+     "navn": "Movano 35 L3H2 Enjoy 2.2 BlueHDi 140 hk 8-trins automatgear (EAT8)",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 301990
+    },
+    {
+     "navn": "Movano 35H L2H2 Enjoy 2.2 BlueHDi 180 hk 8-trins automatgear (EAT8), Heavy nedvejet til 3.500 kg",
+     "niveau": "Enjoy",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 308990
+    },
+    {
+     "navn": "Movano 35H L3H2 Enjoy 2.2 BlueHDi 180 hk 8-trins automatgear (EAT8), Heavy nedvejet til 3.500 kg",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 315990
+    },
+    {
+     "navn": "Movano 35H L4H2 Enjoy 2.2 BlueHDi 180 hk 8-trins automatgear (EAT8), Heavy nedvejet til 3.500 kg",
+     "niveau": "Enjoy",
+     "laengde": "L4",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 321990
+    },
+    {
+     "navn": "Movano 35H L4H3 Enjoy 2.2 BlueHDi 180 hk 8-trins automatgear (EAT8), Heavy nedvejet til 3.500 kg",
+     "niveau": "Enjoy",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 328990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forstærkede bagfjedre",
+     "gruppe": "andet",
+     "pris_kr": 1190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "220A-generator, forstærket 12V-batteri og opbyggerstik",
+     "gruppe": "andet",
+     "pris_kr": 2190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde samt bakspejl",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfort-førersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for det dobbelte passagersæde, som er standard"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med 270° åbning",
+     "gruppe": "varerum",
+     "pris_kr": 2328,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Uni-lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Expedition eller Grå Thunder. Hvid Icy er standardlak."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense"
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fx Yellow, Batic Orange, Tiziano Red, grønne og blå RAL-farver og Brown"
+    }
+   ],
+   "pakker": []
+  },
+  "opel-movano-electric": {
+   "kilde_url": "https://pdf.opel.dk/prislister/movano-electric/",
+   "kilde_navn": "Opel Danmarks prisliste og specifikationer for Movano Electric Van",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er „Vejledende udsalgspris ekskl. moms og levering“. Prisen med moms er præcis 1,25 gange prisen uden moms, så der er ingen registreringsafgift at regne med. Ny liste: „Opdateret 01-10-2026“ (vi havde 17-09-2026); priserne er uændrede. Hentet som PDF via GetPDF.ashx. Priser side 1, tilvalg side 2, lak side 3, motor og vægte side 4. Movano Electric fås kun som Enjoy. 270 hk og 200 kW er effekten i Power-tilstand (Eco 120 kW/160 hk, Normal 160 kW/215 hk). Lader: 11 kW 3-faset AC, 150 kW DC. 40H-udgaverne (4.250 kg) indregistreres som N2-lastbil med 90 km/t som topfart og betaler vægtafgift i stedet for grøn ejerafgift. Vægttabellen viser „-“ for anhængervægt med og uden bremser på alle tre udgaver. Tilvalgssiden skriver ikke, om priserne er med eller uden moms. Fiats liste for Ducato fra samme importør har de samme tilvalg og priser og skriver „Ekskl. moms, inkl. afgift“, og priserne passer med dem, vi har i udstyr.json. Leveringsbeløbet står ikke i listen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Movano-e 35H L3H2 Enjoy 110 kWh 270 hk (3.500 kg)",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 294990
+    },
+    {
+     "navn": "Movano-e 40H L3H2 Enjoy 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Enjoy",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 300990
+    },
+    {
+     "navn": "Movano-e 40H L4H3 Enjoy 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Enjoy",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 311990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "ePTO (kraftudtag fra højvoltsbatteriet)",
+     "gruppe": "andet",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Listen skriver kun „ePto“"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde samt bakspejl",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfort-førersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for det dobbelte passagersæde, som er standard"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med 270° åbning",
+     "gruppe": "varerum",
+     "pris_kr": 2328,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni-lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Expedition eller Grå Thunder. Hvid Icy er standardlak."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense"
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fx Yellow, Batic Orange, Tiziano Red, grønne og blå RAL-farver og Brown"
+    }
+   ],
+   "pakker": []
+  },
+  "fiat-ducato": {
+   "kilde_url": "https://ipaper.wismo.dk/fiat-pro/prislister/ducato/",
+   "kilde_navn": "Fiat Professional Danmarks prisliste og specifikationer for Ducato Van (diesel)",
+   "prisliste_dato": "2026-09-16",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er vejledende udsalgspriser uden moms og levering. Listen har også en kolonne med moms, og forskellen mellem kolonnerne passer med, at registreringsafgiften er med i prisen uden moms. Tilvalgssiden skriver „Ekskl. moms, inkl. afgift“. Listen er „Opdateret 16.09.2026“ og stadig den, fiat.dk linker til den 5. oktober 2026. Hentet som PDF via GetPDF.ashx. Standardudstyr og priser side 1, tilvalg side 2, lakpriser side 3, motor og vægte side 4. Ducato Van diesel fås kun som Comfort. Listen skriver 105 kW for 140 hk og 135 kW for 180 hk; tallene er skrevet som i listen (se afvigelser). Comfort 35M L3H2 140 hk koster 279.857 kr. i listen, et skævt beløb i forhold til de andre (alle ender på 990); det er kontrolleret mod PDF'en og skrevet som i listen. Leveringsbeløbet står ikke i listen. Anhængertræk står ikke i listen, selv om vægttabellen giver 2.500–3.000 kg anhængervægt. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "Ducato Comfort 33 L2H1 2.2 MultiJet 140 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 260990
+    },
+    {
+     "navn": "Ducato Comfort 33 L2H2 2.2 MultiJet 140 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 265990
+    },
+    {
+     "navn": "Ducato Comfort 35 L2H1 2.2 MultiJet 140 hk 8-trins automatgear (EAT8)",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 286990
+    },
+    {
+     "navn": "Ducato Comfort 35M L2H2 2.2 MultiJet 180 hk 8-trins automatgear (EAT8)",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 310990
+    },
+    {
+     "navn": "Ducato Comfort 35M L3H2 2.2 MultiJet 140 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 279857
+    },
+    {
+     "navn": "Ducato Comfort 35M L3H2 2.2 MultiJet 180 hk 8-trins automatgear (EAT8)",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 316990
+    },
+    {
+     "navn": "Ducato Comfort 35M L4H2 2.2 MultiJet 180 hk 8-trins automatgear (EAT8)",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 322990
+    },
+    {
+     "navn": "Ducato Comfort 35M L4H3 2.2 MultiJet 180 hk 8-trins automatgear (EAT8)",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 MultiJet",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 327990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med vægtfølsomt sæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde samt bakspejl",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for det dobbelte passagersæde, som er standard"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni-lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Expedition eller Grå Thunder. Hvid Icy er standardlak."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense"
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fx Yellow, Batic Orange, Tiziano Red, grønne og blå RAL-farver og Brown"
+    }
+   ],
+   "pakker": []
+  },
+  "fiat-e-ducato": {
+   "kilde_url": "https://ipaper.wismo.dk/fiat-pro/prislister/e-ducato/",
+   "kilde_navn": "Fiat Professional Danmarks prisliste og specifikationer for E-Ducato Van",
+   "prisliste_dato": "2026-09-17",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Udgavernes priser er „Vejledende udsalgspris ekskl. moms og levering“; tilvalgene står „Ekskl. moms, inkl. afgift“. Prisen med moms er præcis 1,25 gange prisen uden moms, så der er ingen registreringsafgift at regne med. Listen er „Opdateret 17.09.2026“ og stadig den, fiat.dk linker til den 5. oktober 2026. Hentet som PDF via GetPDF.ashx. Standardudstyr og priser side 1, tilvalg side 2, lakpriser side 3, motor og vægte side 4. E-Ducato fås kun som Comfort. 270 hk og 200 kW er effekten i Power-tilstand (Eco 120 kW/160 hk, Normal 160 kW/215 hk). Lader: 11 kW 3-faset AC, 150 kW DC. 42M-udgaverne (4.250 kg) indregistreres som N2-lastbil med 90 km/t som topfart og betaler vægtafgift i stedet for grøn ejerafgift. Helårsdæk og bagdøre med 270° åbning er standard på elbilen. Vægttabellen viser „-“ for anhængervægt med og uden bremser på alle fem udgaver. Leveringsbeløbet står ikke i listen. Hjultræk står ikke i listen; alle udgaver er forhjulstrukne.",
+   "udgaver": [
+    {
+     "navn": "E-Ducato Comfort 35M L3H2 110 kWh 270 hk (3.500 kg)",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 307990
+    },
+    {
+     "navn": "E-Ducato Comfort 42M L3H2 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 313490
+    },
+    {
+     "navn": "E-Ducato Comfort 42M L3H3 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 318990
+    },
+    {
+     "navn": "E-Ducato Comfort 42M L4H2 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 318990
+    },
+    {
+     "navn": "E-Ducato Comfort 42M L4H3 110 kWh 270 hk (4.250 kg, N2)",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 324990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "ePTO (kraftudtag fra højvoltsbatteriet)",
+     "gruppe": "andet",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Listen skriver kun „ePto“"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med vægtfølsomt sæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde samt bakspejl",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for det dobbelte passagersæde, som er standard"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni-lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Expedition eller Grå Thunder. Hvid Icy er standardlak."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense"
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fx Yellow, Batic Orange, Tiziano Red, grønne og blå RAL-farver og Brown"
+    }
+   ],
+   "pakker": []
+  }
+ },
+ "udstyr_patch": {
+  "opel-combo": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Grå Artense eller Sort Karbon"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Grå Artense eller Sort Karbon"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "På stålfælg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "På stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "ModuWork: dobbelt passagersæde med nedklappeligt skrivebord"
+    },
+    {
+     "s": "std",
+     "note": "ModuWork: dobbelt passagersæde med nedklappeligt skrivebord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation (IVI High) er standard på Enjoy og dermed også på Innovation"
+    },
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation (IVI High) er standard på Enjoy og dermed også på Innovation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "opel-combo-electric": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Grå Artense eller Sort Karbon"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Grå Artense eller Sort Karbon"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "På stålfælg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "På stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "ModuWork: dobbelt passagersæde med nedklappeligt skrivebord"
+    },
+    {
+     "s": "std",
+     "note": "ModuWork: dobbelt passagersæde med nedklappeligt skrivebord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation (IVI High) er standard på Enjoy og dermed også på Innovation"
+    },
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation (IVI High) er standard på Enjoy og dermed også på Innovation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner hverken ladereffekt eller 22 kW-lader"
+    },
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner hverken ladereffekt eller 22 kW-lader"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "std",
+     "note": "Står på Enjoys standardliste; Innovation har alt fra Enjoy"
+    },
+    {
+     "s": "std",
+     "note": "Står på Enjoys standardliste; Innovation har alt fra Enjoy"
+    }
+   ]
+  },
+  "opel-vivaro": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Kode MET"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Kode MET"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "På stålfælg, kode RS03"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "På stålfælg, kode RS03"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris (WAAS)."
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris (WAAS)."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" farveskærm, DAB+, Bluetooth og Apple CarPlay/Android Auto, men ikke navigation"
+    },
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" farveskærm, DAB+, Bluetooth og Apple CarPlay/Android Auto, men ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "opel-movano": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense. Uni-lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke et tilvalg i prislisten; vægttabellen oplyser kun maks. taglast ved 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med Eat & Work-bord. Enkelt passagersæde koster 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" touchskærm, DAB+ og Bluetooth, men ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Står på standardlisten"
+    }
+   ]
+  },
+  "opel-movano-electric": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense. Uni-lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke et tilvalg i prislisten; vægttabellen oplyser kun maks. taglast ved 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med Eat & Work-bord. Enkelt passagersæde koster 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" touchskærm, DAB+ og Bluetooth, men ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "På stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser 3-faset 11 kW som indbygget lader og har ikke 22 kW blandt de fremhævede tilvalg"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "anhaengertraek": [
+    {
+     "s": "nej",
+     "note": "Vægttabellen i prislisten fra 01-10-2026 viser „-“ for anhængervægt med og uden bremser på alle udgaver"
+    }
+   ]
+  },
+  "fiat-ducato": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense. Uni-lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "På stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke et tilvalg i prislisten; vægttabellen oplyser kun maks. taglast ved 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med Eat & Work-bord. Enkelt passagersæde koster 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" touchskærm, DAB+ og Bluetooth, men ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ]
+  },
+  "fiat-e-ducato": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Grå Iron, Sort Graphite eller Sølvgrå Artense. Uni-lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "På stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke et tilvalg i prislisten; vægttabellen oplyser kun maks. taglast ved 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med Eat & Work-bord. Enkelt passagersæde koster 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Listen nævner radio med 10\" touchskærm, DAB+ og Bluetooth, men ikke navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser 3-faset 11 kW som indbygget lader og har ikke 22 kW blandt de fremhævede tilvalg"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "anhaengertraek": [
+    {
+     "s": "nej",
+     "note": "Vægttabellen i prislisten (17.09.2026) viser „-“ for anhængervægt med og uden bremser på alle udgaver"
+    }
+   ]
+  }
+ },
+ "udstyr_nye_modeller": {},
+ "afvigelser": [
+  "Ingen prisændringer på de varianter, varebiler.json bruger som nypris: Combo Enjoy L1V1 1.5 HDi 100 183.990 kr., Combo-e L1 Innovation 188.990 kr., Vivaro L2 Enjoy 150 A8 238.990 kr., Movano 33 L2H2 140 hk 267.990 kr., Movano-e 35H L3H2 294.990 kr., Ducato Comfort 35M L3H2 180 hk EAT8 316.990 kr., E-Ducato Comfort 35M L3H2 307.990 kr.",
+  "Nyere lister: Opel har opdateret Movano Van (fra 30-04-2026 til 01-10-2026) og Movano Electric (fra 17-09-2026 til 01-10-2026) på de samme URL'er. Priserne på udgaverne er de samme som før. Combo (17-03-2026), Combo Electric (12-08-2026), Vivaro (16.03.2026), Ducato (16.09.2026) og E-Ducato (17.09.2026) er uændrede; opel.dk/tools/prislister.html og fiat.dk/tools/priser-specifikationer linker stadig til dem (tjekket i browser den 5. oktober 2026).",
+  "kW-tal: Vivaro-listen skriver 105 kW for 150 hk og 135 kW for 180 hk, og Ducato-listen skriver 105 kW for 140 hk og 135 kW for 180 hk. Tallene er skrevet som i listerne, men de passer ikke med hestekræfterne: 140 hk svarer til 103 kW, 150 hk til 110 kW og 180 hk til 132 kW. Movano-listen fra samme importør skriver netop 103 kW for 140 hk og 132 kW for 180 hk.",
+  "Anhængertræk: ingen af de syv prislister har et anhængertræk med pris. Combo og Combo Electric har kun „Forberedelse til anhængertræk“ til 2.724 kr. De eksisterende anhaengertraek-priser i udstyr.json (Combo 9.899, Combo-e 9.899, Vivaro 11.809, Movano 10.999 kr.) er forhandlermonteret tilbehør fra Opels separate tilbehørsprislister og er derfor ikke med under tilvalg her.",
+  "anhaengertraek på opel-movano-electric og fiat-e-ducato er sat fra ukendt til nej, fordi vægttabellerne viser „-“ for anhængervægt med og uden bremser. Samme tabeller oplyser en tilladt vogntogsvægt på 5.500 kg, så vurder selv, om „-“ er nok til at skrive nej.",
+  "Vivaro Electric har sin egen danske prisliste (https://pdf.opel.dk/prislister/vivaro-electric/, opdateret 06.08.2026), men ingen model-id i varebiler.json, så den er ikke med.",
+  "Opel har en separat lagerbilsliste for Vivaro (https://pdf.opel.dk/prislister/vivaro-ice-lagerbiler/, gældende fra 17-03-2026) med den ældre 2.0 BlueHDi 145/180 hk fra modelår 2024-2026 til 225.990–266.990 kr. uden moms. Den oplyser levering til 4.220 kr. uden moms og et aftageligt anhængertræk (AQ05) til 10.000 kr. uden moms. Den er ikke brugt, fordi den gælder lagerbiler med den gamle motor. Gemt som prislister/opel-vivaro-lagerbiler.pdf.",
+  "Ducato Comfort 35M L3H2 MultiJet 140 hk manuel koster 279.857 kr. uden moms (338.071 kr. med moms) i listen. Alle andre priser ender på 990, så det kan være en tastefejl hos Fiat, men det står sådan i PDF'en.",
+  "Movano Van: vægttabellen nævner 35H L2H2 og L3H2 med 180 hk og manuelt gear, men de har ingen pris i prislisten og er ikke med.",
+  "Movano Van har nu reservehjul som standard (står på standardlisten fra 01-10-2026), mens Movano Electric, Ducato og E-Ducato har det som tilvalg.",
+  "Movano og Movano Electric: tilvalgssiden skriver ikke, om priserne er med eller uden moms. Fiats Ducato-liste fra samme importør har samme tilvalg til samme priser med „Ekskl. moms, inkl. afgift“, så de er læst som priser uden moms.",
+  "Ingen af listerne oplyser leveringsomkostningernes beløb, så levering_kr er null overalt.",
+  "Opel- og Fiat-listerne er ikke forskudt i denne runde: extract_words() grupperet på top gav samme rækker som extract_text(), og alle priser er kontrolleret række for række."
+ ]
+}

@@ -1,0 +1,138 @@
+{
+  "Renault": {
+    "side": "https://erhverv.renault.dk/kob/prislister-og-brochurer",
+    "side_navn": "Renaults prislister og brochurer for erhvervsbiler",
+    "domaene": "erhverv.renault.dk",
+    "tilbehoer_side": "https://erhverv.renault.dk/kob/prislister-og-brochurer",
+    "afsender": "Renault Danmark, en filial af Renault Nordic AB",
+    "afsender_kilde": "Bunden af prislisterne for Master, Kangoo og Trafic (hentet live den 6. oktober 2026): \"Renault Danmark, en filial af Renault Nordic AB - Industriparken 21A - 2750 Ballerup\". Sidens bundlinje skriver \"Copyright © RN Nordic\".",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200 og linker (i browseren) til fire Master-prislister (diesel, el, chassis diesel, chassis el) og til tilbehørslister for Trafic, Master og Kangoo. Under Trafic og Kangoo står der kun tilbehør, dækmærkning og brochure, ingen prisliste. De PDF'er, priser.json bruger til Kangoo og Trafic (prisliste-kangoo.pdf, prisliste-trafic.pdf osv.), svarer stadig 200, men siden linker ikke til dem. PDF'erne ligger på edge.sitecorecloud.io (Hedins Sitecore), ikke på renault.dk.",
+    "ikke_paa_siden": [
+      "renault-kangoo",
+      "renault-kangoo-e-tech",
+      "renault-trafic",
+      "renault-trafic-e-tech"
+    ]
+  },
+  "Nissan": {
+    "side": "https://www.nissan.dk/biler/brochure.html",
+    "side_navn": "Nissans prislister og brochurer",
+    "domaene": "nissan.dk",
+    "tilbehoer_side": null,
+    "afsender": "Nissan Nordic, Dansk filial af Nissan Nordic Europe OY",
+    "afsender_kilde": "nissan.dk/jura/vilkar-betingelser.html, punkt 1.2 (linket fra sidens bundlinje), CVR 28896808. Selve prislisterne nævner kun \"Nissan\", og sidens bundlinje skriver \"© Nissan 2026\".",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200 og linker til PRIMASTAR_Kundeprisliste.pdf, Interstar_Diesel.pdf, Interstar_chassis_diesel.pdf og TOWNSTAR_Van.pdf. PDF'erne ligger på www-europe.nissan-cdn.net. Tilbehørssiden nissan.dk/ejerskab/tilbehor.html har kun personbiler. Primastar-prislisten har selv en side med tilbehør og priser."
+  },
+  "Opel": {
+    "side": "https://www.opel.dk/tools/prislister.html",
+    "side_navn": "Opels priser og specifikationer",
+    "domaene": "opel.dk",
+    "tilbehoer_side": "https://www.opel.dk/service-og-tilbehoer/prislister-tilbehoer.html",
+    "afsender": "Opel Danmark, Wismo Automotive A/S",
+    "afsender_kilde": "Sidefoden på prislisterne (Combo, Vivaro), set i projektets PDF'er fra de samme adresser. Sidens bundlinje: \"Copyright © Wismo Automotive A/S CVR-nr. 63557218 - Hovedvejen 1 - 2600 Glostrup\".",
+    "tjekket": "2026-10-06",
+    "note": "Svarer 200 med fuldt Chrome-headersæt. Siden linker til pdf.opel.dk/prislister/ for combo, combo-e, vivaro, vivaro-electric, vivaro-ice-lagerbiler, movano-van og movano-electric. Tilbehørssiden linker til pdf.opel.dk/tilbehoersprisliste/ for combo-varebil, combo-e-varebil, vivaro-varebil og movano-varebil."
+  },
+  "Peugeot": {
+    "side": "https://www.peugeot.dk/information/priser-specifikationer.html",
+    "side_navn": "Peugeots priser og specifikationer",
+    "domaene": "peugeot.dk",
+    "tilbehoer_side": "https://www.peugeot.dk/service-og-tilbehoer/reservedele-og-tilbehoer/tilbehoer.html",
+    "afsender": "Peugeot Danmark, Wismo Automotive A/S",
+    "afsender_kilde": "Sidefoden på prislisterne (Expert), set i projektets PDF'er fra de samme adresser. Sidens bundlinje: \"@Peugeot 2022 - Wismo Automotive A/ S - Hovedvejen 1 - 2600 Glostrup - CVR: 63557218\".",
+    "tjekket": "2026-10-06",
+    "note": "Svarer 200 med fuldt Chrome-headersæt. Siden linker til ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/ for Partner, E-Partner, Expert, E-Expert, Expert lagerbiler, Boxer, E-Boxer og begge chassis. Tilbehørssiden linker til tilbehørsprislister for Partner Van, Expert og Boxer. Listerne ligger på iPapers server, ikke på peugeot.dk."
+  },
+  "Citroën": {
+    "side": "https://www.citroen.dk/information/prislister.html",
+    "side_navn": "Citroëns prislister for person- og varebiler",
+    "domaene": "citroen.dk",
+    "tilbehoer_side": "https://www.citroen.dk/information/tilbehoer-prislister-og-brochurer.html",
+    "afsender": "Citroën Danmark, Wismo Automotive A/S",
+    "afsender_kilde": "Sidefoden på prislisterne (Jumpy), set i projektets PDF'er fra de samme adresser. Sidens bundlinje: \"Citroën - Wismo Automotive A/S - Hovedvejen 1 - 2600 Glostrup - CVR: 63557218\".",
+    "tjekket": "2026-10-06",
+    "note": "Svarer 200 med fuldt Chrome-headersæt. Siden linker til brochurer.citroen.dk/brochurer/varebiler/ for Berlingo, ë-Berlingo, Jumpy, ë-Jumpy, Jumpy lagerbiler, Jumper, ë-Jumper og begge chassis. Tilbehørssiden linker til tilbehørsprislister for Berlingo Van, Jumpy og Jumper."
+  },
+  "Fiat": {
+    "side": "https://www.fiat.dk/tools/priser-specifikationer",
+    "side_navn": "Fiats priser og specifikationer, også for Fiat Professional",
+    "domaene": "fiat.dk",
+    "tilbehoer_side": null,
+    "afsender": "Fiat Danmark, Wismo Automotive A/S",
+    "afsender_kilde": "Sidefoden på Ducato-prislisten, set i projektets PDF fra samme adresse. Sidens bundlinje: \"© Wismo Automotive A/S CVR-nr. 63557218 - Hovedvejen 1 - 2600 Glostrup\".",
+    "tjekket": "2026-10-06",
+    "note": "Svarer 200 med fuldt Chrome-headersæt. Siden linker til ipaper.wismo.dk/fiat-pro/prislister/ for Doblò, E-Doblò, Scudo, E-Scudo, Ducato, E-Ducato og begge chassis. Listerne ligger på importørens domæne wismo.dk. fiatprofessional.dk sender videre til fiat.dk. Siden har kun tilbehørsprislister for 500 og Grande Panda, ingen for varebilerne."
+  },
+  "Toyota": {
+    "side": "https://www.toyota.dk/priser-brochurer",
+    "side_navn": "Toyotas brochurer med priser, udstyr og specifikationer",
+    "domaene": "toyota.dk",
+    "tilbehoer_side": "https://www.toyota.dk/priser-brochurer",
+    "afsender": "Toyota Danmark A/S",
+    "afsender_kilde": "Sidens bundlinje: \"© Toyota Danmark A/S\". Tilbehørsprislisten for Proace (projektets PDF) skriver \"godkendelse af Toyota Danmark A/S\". Bilprislisterne nævner kun Toyota Financial Services Danmark A/S i leasingteksten.",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200 og linker både til prislisterne (modelinformation.toyota.dk/Toyota/specs/...: Proace City, Proace, Proace Max, C-HR+ Van, Urban Cruiser Van, bZ4X Van, bZ4X Touring Van, Hilux) og til tilbehørsprislisterne (modelinformation.toyota.dk/Toyota/Udstyrsprislister/...)."
+  },
+  "Volkswagen": {
+    "side": "https://www.volkswagen.dk/app/da/erhvervsbiler/priser/",
+    "side_navn": "Volkswagens priser på erhvervsbiler",
+    "domaene": "volkswagen.dk",
+    "tilbehoer_side": "https://www.volkswagen.dk/app/da/erhvervsbiler/tilbehoer/",
+    "afsender": "Skandinavisk Motor Co.",
+    "afsender_kilde": "Prislisterne (Crafter, Caddy, Amarok, ID. Buzz Cargo, Transporter i projektets PDF'er): \"Priser angivet som 'Vejledende priser' er Skandinavisk Motor Co. vejledende priser til forhandlerne.\" Sidens bundlinje: \"© Volkswagen Danmark 2026\".",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200. Caddy Cargo og Caddy Maxi Cargo linker direkte til prislister-erhverv.volkswagen.dk. Crafter, ID. Buzz Cargo og Amarok linker til PDF'er under volkswagen.dk/app/da/media/. Transporter og e-Transporter går via undersider (fx /app/da/erhvervsbiler/prisliste/transporter-kassevogn-kort/), som linker til prislister-erhverv.volkswagen.dk. Tilbehørssiden linker til en side pr. model under /tilbehoer/nuvaerende-modeller/. Ifølge priser.json vises prisen der først, når man har valgt forhandler."
+  },
+  "MAN": {
+    "side": "https://www.man.eu/dk/da/varebil/man-tge/modeloversigt/man-tge-modeloversigt.html",
+    "side_navn": "MAN's modeloversigt for TGE med prisliste",
+    "domaene": "man.eu",
+    "tilbehoer_side": null,
+    "afsender": "Semler Truck & Bus A/S",
+    "afsender_kilde": "Sidens \"Aftryk\" (man.eu/dk/da/general/imprint.html, linket i bundlinjen) under \"Udgiver\": Semler Truck & Bus A/S, Ventrupparken 6, 2670 Greve, CVR 11498639. Prislisten for modelår 2026 nævner ingen virksomhed. Den ældre MY25-liste, som samme side også linker til, skriver \"MAN Truck & Bus Danmark A/S, Ventrupparken 6, 2670 Greve\".",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200. Knappen \"MAN TGE PRISLISTE\" linker til man-prisliste.pdf (modelår 2026, gældende pr. 01.08.2026), som er den liste, priser.json bruger. Knappen indsættes af sidens script og står ikke i den rå HTML. Knappen \"TEKNISKE DATA\" linker til den ældre prisliste for modelår 2025, og det samme gør undersiderne for kassevogn, enkelt- og dobbeltkabine. Tilbehørssiden man.eu/dk/da/services-og-tilbehor/tilbehor.html har kun et engelsk tilbehørskatalog, ingen dansk tilbehørsprisliste."
+  },
+  "Ford": {
+    "side": "https://www.ford.dk/koeb/priser-og-brochurer#tab-id=1",
+    "side_navn": "Fords priser og brochurer, fanen Varebiler og busser",
+    "domaene": "ford.dk",
+    "tilbehoer_side": "https://www.ford.dk/min-bil/tilbehoer",
+    "afsender": "NCG Motor Company A/S",
+    "afsender_kilde": "Sidens cookiepolitik under \"Hjemmesidens ejer og kontaktoplysninger\": \"Denne hjemmeside er drevet og ejet af: NCG MOTOR COMPANY A/S, CVR-nummer: 62532319, Borupvang 1, 2750 Ballerup\". Samtykketeksten skriver \"Ford - Repræsenteret i Danmark af Nic. Christiansen Gruppen (NCG Motor Company A/S)\". Prislisterne nævner ingen virksomhed.",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200. Ford linker selv til fanen med #tab-id=1 fra ford.dk/erhverv. Fanen linker til katalog.ford.dk/prislister/varebiler/ for Transit City, Transit Courier, E-Transit Courier, Transit Connect diesel og PHEV, Transit Custom diesel, PHEV og MS-RT, E-Transit Custom, Transit, E-Transit, chassis, Ranger og Ranger Raptor. Mappen katalog.ford.dk/prislister/varebiler/ svarer selv 404. Tilbehørssiden har ingen lister, men linker til webshoppen ford-tilbehoer.dk."
+  },
+  "Mercedes-Benz": {
+    "side": "https://www.mercedes-benz.dk/vans/finance/pricelists.html",
+    "side_navn": "Mercedes-Benz' prislister for varebiler",
+    "domaene": "mercedes-benz.dk",
+    "tilbehoer_side": null,
+    "afsender": "Mercedes-Benz AG",
+    "afsender_kilde": "Sidens bundlinje (\"© 2026. Mercedes-Benz AG\") og kolofon under \"Operatør\" (Mercedes-Benz AG, Mercedesstraße 120, 70372 Stuttgart, Tyskland). Det er operatøren af hjemmesiden. Prislisterne nævner ingen virksomhed.",
+    "tjekket": "2026-10-06",
+    "note": "Siden svarer 200 og linker til PDF'er under mercedes-benz.dk/content/dam/denmark/vans/pricelists/ for Citan, eCitan, Vito, eVito, Sprinter (300 og 500 serie), eSprinter (PRO og SELECT), chassis og dobbeltkabine samt leasingark. Siden har ingen tilbehørslister."
+  },
+  "Kia": {
+    "side": "https://www.kia.com/dk/brochure/",
+    "side_navn": "Kias priser og brochurer",
+    "domaene": "kia.com",
+    "tilbehoer_side": "https://www.kia.com/dk/brochure/",
+    "afsender": "Kia Import Danmark A/S",
+    "afsender_kilde": "Bunden af prislisten for PV5 Cargo (projektets PDF'er): \"Kia Import Danmark A/S forbeholder sig ret til ændringer uden varsel, forbehold for trykfejl\".",
+    "tjekket": "2026-10-06",
+    "note": "kia.com/dk/priser-og-brochurer/ sender videre til denne side, som svarer 200. Siden linker ikke direkte til prislisterne. Knappen \"Se priser & specifikationer\" fører til en side pr. længde (pv5-cargo/specifikationer-l1h1/, specifikationer/ og specifikationer-l2h2), og hver af dem linker med \"Se komplet prisliste\" til api.kiaonline.dk/dokumenter/pv5-cargo-<længde>-priser.pdf. Siden linker direkte til tilbehørslisterne for L1H1 og L2H1, men ikke til den for L2H2. Indholdet ligger i en widget, så det står ikke i den rå HTML."
+  },
+  "Farizon": {
+    "side": "https://farizon.dk/",
+    "side_navn": "Menuen \"Pris og faktaark\" på farizon.dk",
+    "domaene": "farizon.dk",
+    "tilbehoer_side": "https://farizon.dk/",
+    "afsender": "Farizon Danmark, EV bilimport A/S",
+    "afsender_kilde": "Bunden af tilbehørslisten for SV (projektets PDF): \"Farizon Danmark l EV bilimport A/S l Unionsvej 16 l 4600 Køge\". Prislisten \"Priser og fakta\" nævner ingen virksomhed, og sidens bundlinje skriver \"Copyright © 2026 Farizon\".",
+    "tjekket": "2026-10-06",
+    "note": "Farizon har ingen særskilt side med prislister. Menuen \"Pris og faktaark\", som står på alle sider, linker til docs.farizon.dk/priser-og-specifikationer/ for SV og V7E. Menuen \"Brochure\" linker til tilbehørslisten for SV (docs.farizon.dk/brochure/sv/farizon-sv-tilbehoer/). Forsiden svarer 200."
+  }
+}

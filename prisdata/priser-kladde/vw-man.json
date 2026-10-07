@@ -1,0 +1,5736 @@
+{
+ "priser": {
+  "volkswagen-transporter": {
+   "kilde_url": "https://prislister-erhverv.volkswagen.dk/transporter%20kassevogn%20kort",
+   "kilde_url_ekstra": [
+    "https://prislister-erhverv.volkswagen.dk/transporter%20kassevogn%20lang",
+    "https://www.volkswagen.dk/app/da/erhvervsbiler/prisliste/transporter-kassevogn-kort/",
+    "https://www.volkswagen.dk/app/da/erhvervsbiler/prisliste/transporter-kassevogn-lang/"
+   ],
+   "kilde_navn": "Volkswagens vejledende prislister for Transporter Kassevogn kort og Kassevogn lang",
+   "prisliste_dato": "2026-10-05",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "To PDF-prislister fra prislister-erhverv.volkswagen.dk (kort og lang), \"Prisliste udskrevet pr. 05-10-2026\", \"gældende for nybestilling samt ved levering i 2026\". PDF'erne er udskrifter af de HTML-prislister, som Volkswagens prisoversigt linker til (/app/da/erhvervsbiler/prisliste/...); bilpriserne er ens. I PDF'erne står tilvalg både inkl. og ekskl. moms, så tilvalgspriserne her er listens egne ekskl.-moms-tal (HTML-siden viser kun inkl.-moms-tallet uden at sige det). Listen siger ikke direkte, at registreringsafgift er med, men inkl.-moms-prisen er under 1,25 gange ekskl.-prisen, så en momsfri afgiftsdel indgår. Levering 4.620 kr. ekskl. moms (listen skriver 5.480 kr. inkl. moms). Længde: VW kalder dem Kassevogn kort (her L1) og lang (her L2). kW og hjultræk står ikke i prislisten; de er fra importørens lagerliste (volkswagen.dk/app/da/erhvervsbiler/lagermodeller/, 05-10-2026): 110 hk = 81 kW, 150 hk = 110 kW, 170 hk = 125 kW, forhjulstræk uden 4MOTION. Tilvalg er ens for kort og lang, bortset fra \"Tilladt totalvægt 3.125-3.300 kg\". Tilvalgsprisen 0 kr. betyder valgfrit uden merpris.",
+   "udgaver": [
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 110 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 110,
+     "kw": 81,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 279477
+    },
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 150 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 287476
+    },
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 293467
+    },
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 301463
+    },
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 312464
+    },
+    {
+     "navn": "Kassevogn kort Comfort 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 320477
+    },
+    {
+     "navn": "Kassevogn kort PanAmericana 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 313367
+    },
+    {
+     "navn": "Kassevogn kort PanAmericana 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 321363
+    },
+    {
+     "navn": "Kassevogn kort PanAmericana 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 332364
+    },
+    {
+     "navn": "Kassevogn kort PanAmericana 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 340377
+    },
+    {
+     "navn": "Kassevogn kort Edition 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 333467
+    },
+    {
+     "navn": "Kassevogn kort Edition 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 341463
+    },
+    {
+     "navn": "Kassevogn kort Edition 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 352464
+    },
+    {
+     "navn": "Kassevogn kort Edition 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 360477
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 110 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 110,
+     "kw": 81,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 284471
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 150 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 292471
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 298463
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 306466
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 317459
+    },
+    {
+     "navn": "Kassevogn lang Comfort 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 325479
+    },
+    {
+     "navn": "Kassevogn lang PanAmericana 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 318363
+    },
+    {
+     "navn": "Kassevogn lang PanAmericana 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 326366
+    },
+    {
+     "navn": "Kassevogn lang PanAmericana 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 337359
+    },
+    {
+     "navn": "Kassevogn lang PanAmericana 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "PanAmericana",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 345379
+    },
+    {
+     "navn": "Kassevogn lang Edition 2.0 TDI 150 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 338463
+    },
+    {
+     "navn": "Kassevogn lang Edition 2.0 TDI 170 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 346466
+    },
+    {
+     "navn": "Kassevogn lang Edition 2.0 TDI 4MOTION 150 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 357459
+    },
+    {
+     "navn": "Kassevogn lang Edition 2.0 TDI 4MOTION 170 hk 8-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3025,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 170,
+     "kw": 125,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 365479
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "17\" Letmetalfælge Le Mans, i sort højglans",
+     "gruppe": "ydre",
+     "pris_kr": 7353,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 7353,
+      "PanAmericana": "nej",
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Letmetalfælge Le Mans, i sølv",
+     "gruppe": "ydre",
+     "pris_kr": 7353,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 7353,
+      "PanAmericana": "nej",
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Letmetalfælge Monte Carlo i sort, glanspoleret overflade",
+     "gruppe": "ydre",
+     "pris_kr": 8468,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 8468,
+      "PanAmericana": "std",
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "230-volts stik (400 W), ved førersædekonsol",
+     "gruppe": "komfort",
+     "pris_kr": 1386,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Adskillelse, øverste del med stofbeklædning på førerkabinesiden",
+     "gruppe": "varerum",
+     "pris_kr": 805,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 805,
+      "PanAmericana": 805,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Airconditionanlæg i førerkabinen (1 zone med automatisk regulering)",
+     "gruppe": "komfort",
+     "pris_kr": 3545,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 3545,
+      "PanAmericana": 3545,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Airconditionanlæg i førerkabinen (2 zoner med automatisk regulering)",
+     "gruppe": "komfort",
+     "pris_kr": 1463,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Comfort": 4550,
+      "PanAmericana": 4550,
+      "Edition": 1463
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Comfort og PanAmericana: opgradering fra manuelt anlæg. Edition: opgradering fra 1-zonet klimaautomatik."
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 2747,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fast krog."
+    },
+    {
+     "navn": "Bagklap uden rude",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Bagklap i stedet for fløjdøre uden merpris."
+    },
+    {
+     "navn": "Bagrude, elopvarmet",
+     "gruppe": "ydre",
+     "pris_kr": 2317,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakspejl med digitalt display",
+     "gruppe": "komfort",
+     "pris_kr": 8459,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Cyklistrude, placeret i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1086,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Dynamic Light Assist",
+     "gruppe": "parkering",
+     "pris_kr": 1600,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 1600,
+      "PanAmericana": 1600,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Dynamic Light Assist: IQ.LIGHT - LED-forlygter med matrixfunktion"
+    },
+    {
+     "navn": "Forrude, elopvarmet",
+     "gruppe": "komfort",
+     "pris_kr": 1531,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "opvarmet_forrude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Handskerum med dæmpet lukning, med lys",
+     "gruppe": "komfort",
+     "pris_kr": 185,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 185,
+      "PanAmericana": "std",
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Handskerum med dæmpet lukning: Multifunktionskunstlæderrat, Indstigningsliste foran i sort kunststof med lys samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 2240,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Indstigningsliste, foran i sort kunststof, med lys",
+     "gruppe": "komfort",
+     "pris_kr": 518,
+     "gaelder": "Comfort, Edition",
+     "niveau_priser": {
+      "Comfort": 518,
+      "PanAmericana": "nej",
+      "Edition": 518
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Indstigningsliste: Handskerum med dæmpet lukning, Multifunktionskunstlæderrat samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "IQ.LIGHT - LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+     "gruppe": "parkering",
+     "pris_kr": 7838,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 7838,
+      "PanAmericana": 7838,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med IQ.LIGHT: Dynamic Light Assist"
+    },
+    {
+     "navn": "Manuel DPF-regenerering",
+     "gruppe": "andet",
+     "pris_kr": 2475,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Mobiltelefoninterface med induktiv ladefunktion",
+     "gruppe": "komfort",
+     "pris_kr": 940,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 940,
+      "PanAmericana": 940,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Multifunktionsrat i kunstlæder",
+     "gruppe": "komfort",
+     "pris_kr": 912,
+     "gaelder": "Comfort, Edition",
+     "niveau_priser": {
+      "Comfort": 912,
+      "PanAmericana": "std",
+      "Edition": 912
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Multifunktionsrat i kunstlæder, opvarmeligt",
+     "gruppe": "komfort",
+     "pris_kr": 1815,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 1815,
+      "PanAmericana": 1815,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Navigationssystem med 13\" touchfarvedisplay og trådløs App-Connect",
+     "gruppe": "komfort",
+     "pris_kr": 4918,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "navigation",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul",
+     "gruppe": "ydre",
+     "pris_kr": 1202,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Side- og hovedairbags i førerkabine",
+     "gruppe": "andet",
+     "pris_kr": 4113,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 4113,
+      "PanAmericana": "std",
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Side- og hovedairbags i førerkabine: Førerkabinesædepakke 36, Handskerum med dæmpet lukning, Multifunktionskunstlæderrat, Indstigningsliste foran i sort kunststof, med lys, Selestrammer til førersædet samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "Sidebeklædning i fuld højde og beklædning af loft, i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 2260,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 2260,
+      "PanAmericana": 2260,
+      "Edition": "std"
+     },
+     "post": "beklaedning_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidespejle, el-klapbare",
+     "gruppe": "parkering",
+     "pris_kr": 872,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 872,
+      "PanAmericana": 872,
+      "Edition": "nej"
+     },
+     "post": "elspejle_klap",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidespejle, el-klapbare. Indklap.-funktion via nøgle",
+     "gruppe": "parkering",
+     "pris_kr": 1047,
+     "gaelder": "Comfort, PanAmericana",
+     "niveau_priser": {
+      "Comfort": 1047,
+      "PanAmericana": 1047,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden",
+     "gruppe": "varerum",
+     "pris_kr": 4375,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Skydedør i begge sider; skydedøren i passagersiden er standard."
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden med elektrisk lukkehjælp",
+     "gruppe": "varerum",
+     "pris_kr": 7285,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden, elektrisk",
+     "gruppe": "varerum",
+     "pris_kr": 13697,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tagbøjler, sammenklappelige (3 stk.)",
+     "gruppe": "ydre",
+     "pris_kr": 3551,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tilladt totalvægt 3.125-3.300 kg",
+     "gruppe": "andet",
+     "pris_kr": 5306,
+     "gaelder": "Kassevogn kort",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tilladt totalvægt 3.125-3.300 kg",
+     "gruppe": "andet",
+     "pris_kr": 5263,
+     "gaelder": "Kassevogn lang",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerummet",
+     "gruppe": "varerum",
+     "pris_kr": 4108,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning",
+     "gruppe": "ydre",
+     "pris_kr": 1986,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Udstyrsniveau Life",
+     "gruppe": "komfort",
+     "pris_kr": 1018,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1018,
+      "PanAmericana": "std",
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Indeholder Displayramme i sort højglans, dekorindlæg Life samt indvendige dørhåndtag i krom. Følgende udstyr er obligatorisk, og skal bestilles sammen med Udstyrsniveau Life: Handskerum med dæmpet lukning, Multifunktionskunstlæderrat samt Indstigningsliste, foran i sort kunststof, med lys."
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 6267,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Til alle niveauer: Graphite Dust Metallic, Light Grey Metallic, Mid Blue Metallic, Sort (sk-lak), Warm Green Metallic. Kun Comfort og PanAmericana: Midnight Black Metallic. Uden merpris: Clear White, Dark Indigo Blue, Intensive Red, Stone Grey (Dark Indigo Blue ikke på Edition)."
+    },
+    {
+     "navn": "Tornadorød lak",
+     "gruppe": "ydre",
+     "pris_kr": 6287,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Connect-pakke",
+     "pris_kr": 1163,
+     "gaelder": "Comfort, PanAmericana",
+     "indhold": [
+      "Mobiltelefoninterface med induktiv ladefunktion",
+      "12-volts stikdåse på D-stolpen i højre side",
+      "7 USB-stik i førerkabinen"
+     ],
+     "niveau_priser": {
+      "Comfort": 1163,
+      "PanAmericana": 1163,
+      "Edition": "std"
+     }
+    },
+    {
+     "navn": "Eksteriørpakke Premium",
+     "pris_kr": 4035,
+     "gaelder": "Comfort, Edition",
+     "indhold": [
+      "Sidespejle, dørgreb, kølergrille samt for- og bagkofanger lakeret i bilens farve"
+     ],
+     "niveau_priser": {
+      "Comfort": 4035,
+      "PanAmericana": "nej",
+      "Edition": 4035
+     }
+    },
+    {
+     "navn": "Førerassistentpakke Premium Plus",
+     "pris_kr": 10349,
+     "gaelder": "Comfort, PanAmericana",
+     "indhold": [
+      "Alt fra Førerassistentpakke Plus (bakkamera, fartpilot med intelligent hastighedsassistent, Lane Assist, nødbremseassistent, p-sensorer for og bag, skiltegenkendelse, træthedsregistrering)",
+      "Adaptiv fartpilot ACC",
+      "Multifunktionsrat i kunstlæder",
+      "El-klapbare sidespejle",
+      "Side Assist med manøvrebremse og udstigningsadvarsel",
+      "Vejkrydsassistent",
+      "Udvidet drejeassistent",
+      "360 graders kamera (Area View)"
+     ],
+     "niveau_priser": {
+      "Comfort": 10349,
+      "PanAmericana": 10349,
+      "Edition": "std"
+     }
+    },
+    {
+     "navn": "Førerkabinesædepakke 36",
+     "pris_kr": 3209,
+     "gaelder": "Comfort",
+     "indhold": [
+      "8-vejs indstilleligt førersæde med 4-vejs elektrisk lændestøtte, 4-vejs indstillelig hovedstøtte og armlæn",
+      "Dobbelt passagersæde med underlæssefunktion og klapbord",
+      "Sædeindtræk i stof, design Life"
+     ],
+     "niveau_priser": {
+      "Comfort": 3209,
+      "PanAmericana": "nej",
+      "Edition": "nej"
+     },
+     "note": "Skal bestilles sammen med handskerum med dæmpet lukning, multifunktionsrat i kunstlæder, indstigningsliste foran i sort kunststof med lys, selestrammer til førersædet, side- og hovedairbags i førerkabinen og Udstyrsniveau Life."
+    },
+    {
+     "navn": "Komfortpakke 2",
+     "pris_kr": 10243,
+     "gaelder": "alle",
+     "indhold": [
+      "Skydedør i passagersiden med elektrisk lukkehjælp",
+      "Bakspejl med digitalt display",
+      "Nøglefrit låse- og startsystem Keyless Access",
+      "Elopvarmet forrude i støjdæmpende glas"
+     ],
+     "niveau_priser": null
+    }
+   ]
+  },
+  "vw-e-transporter": {
+   "kilde_url": "https://prislister-erhverv.volkswagen.dk/e-transporter%20kassevogn%20kort",
+   "kilde_url_ekstra": [
+    "https://prislister-erhverv.volkswagen.dk/e-transporter%20kassevogn%20lang",
+    "https://www.volkswagen.dk/app/da/erhvervsbiler/prisliste/e-transporter-kassevogn-kort/",
+    "https://www.volkswagen.dk/app/da/erhvervsbiler/prisliste/e-transporter-kassevogn-lang/"
+   ],
+   "kilde_navn": "Volkswagens vejledende prislister for e-Transporter Kassevogn kort og Kassevogn lang",
+   "prisliste_dato": "2026-10-05",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": null,
+   "pris_note": "To PDF-prislister fra prislister-erhverv.volkswagen.dk (kort og lang), \"Prisliste udskrevet pr. 05-10-2026\", \"gældende for nybestilling samt ved levering i 2026\". Samme data som HTML-prislisterne, men med tilvalg både inkl. og ekskl. moms; tilvalgspriserne her er listens ekskl.-moms-tal. Registreringsafgift nævnes ikke, og inkl.-moms-prisen er præcis 1,25 gange ekskl.-prisen, så feltet står som ukendt. Batteri: listen skriver 70,9 kWh netto / 83 kWh brutto; batteri_kwh er bruttotallet som i varebiler.json. kW, gear (1-trins automat) og hjultræk (baghjulstræk uden 4MOTION) står ikke i prislisten, men i importørens lagerliste: 136 hk = 100 kW, 218 hk = 160 kW, 286 hk = 210 kW. Lang 136 og 218 hk har 3.350 kg totalvægt, lang 286 hk 3.225 kg. AC-ladeeffekt 11 kW og DC 125 kW i alle udgaver. Tilvalg er ens for kort og lang, bortset fra \"Sidespejle, el-klapbare\" (kun lang) og \"Tilladt totalvægt 3.125-3.300 kg\" (kun kort).",
+   "udgaver": [
+    {
+     "navn": "Kassevogn kort Comfort 136 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 309995
+    },
+    {
+     "navn": "Kassevogn kort Comfort 218 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 319995
+    },
+    {
+     "navn": "Kassevogn kort Comfort 286 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "Kassevogn kort Comfort 136 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "Kassevogn kort Comfort 218 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 339995
+    },
+    {
+     "navn": "Kassevogn kort Comfort 286 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 349995
+    },
+    {
+     "navn": "Kassevogn kort Edition 218 hk, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 357995
+    },
+    {
+     "navn": "Kassevogn kort Edition 286 hk, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 367995
+    },
+    {
+     "navn": "Kassevogn kort Edition 218 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 377995
+    },
+    {
+     "navn": "Kassevogn kort Edition 286 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 387995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 136 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 314995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 218 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 324995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 286 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 334995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 136 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 334995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 218 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 344995
+    },
+    {
+     "navn": "Kassevogn lang Comfort 286 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 354995
+    },
+    {
+     "navn": "Kassevogn lang Edition 218 hk, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 362995
+    },
+    {
+     "navn": "Kassevogn lang Edition 286 hk, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 372995
+    },
+    {
+     "navn": "Kassevogn lang Edition 218 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 218,
+     "kw": 160,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 382995
+    },
+    {
+     "navn": "Kassevogn lang Edition 286 hk 4MOTION, 1-trins automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3225,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 83,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 392995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "17\" Letmetalfælge Le Mans, i sort højglans",
+     "gruppe": "ydre",
+     "pris_kr": 7353,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 7353,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Letmetalfælge Le Mans, i sølv",
+     "gruppe": "ydre",
+     "pris_kr": 7353,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 7353,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Letmetalfælge Monte Carlo i sort, glanspoleret overflade",
+     "gruppe": "ydre",
+     "pris_kr": 8468,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 8468,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "230-volts converter med en stikdåse på førersædekonsol og to på D-stolpen, samlet effekt 2.300 W",
+     "gruppe": "varerum",
+     "pris_kr": 7820,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "230-volts stik (400 W), ved førersædekonsol",
+     "gruppe": "komfort",
+     "pris_kr": 1386,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Adskillelse, øverste del med stofbeklædning på førerkabinesiden",
+     "gruppe": "varerum",
+     "pris_kr": 805,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 805,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Airconditionanlæg i førerkabinen (2 zoner med automatisk regulering)",
+     "gruppe": "komfort",
+     "pris_kr": 1454,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1454,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Opgradering fra 1-zonet klimaautomatik. Kan ikke vælges på Edition."
+    },
+    {
+     "navn": "Anhængertræk, elektrisk foldbart",
+     "gruppe": "traek",
+     "pris_kr": 5383,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Elektrisk foldbart."
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 2747,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fast krog."
+    },
+    {
+     "navn": "Bagklap uden rude",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Bagklap i stedet for fløjdøre uden merpris."
+    },
+    {
+     "navn": "Bagrude, elopvarmet",
+     "gruppe": "ydre",
+     "pris_kr": 2317,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bakspejl med digitalt display",
+     "gruppe": "komfort",
+     "pris_kr": 8459,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Cyklistrude, placeret i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1086,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Dynamic Light Assist",
+     "gruppe": "parkering",
+     "pris_kr": 1600,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1600,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Dynamic Light Assist: IQ.LIGHT - LED-forlygter med matrixfunktion"
+    },
+    {
+     "navn": "Forrude, elopvarmet",
+     "gruppe": "komfort",
+     "pris_kr": 1531,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "opvarmet_forrude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Handskerum med dæmpet lukning, med lys",
+     "gruppe": "komfort",
+     "pris_kr": 185,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 185,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Handskerum med dæmpet lukning: Multifunktionskunstlæderrat, Indstigningsliste foran i sort kunststof med lys samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 2240,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Indstigningsliste, foran i sort kunststof, med lys",
+     "gruppe": "komfort",
+     "pris_kr": 518,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 518,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Indstigningsliste: Handskerum med dæmpet lukning, Multifunktionskunstlæderrat samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "IQ.LIGHT - LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+     "gruppe": "parkering",
+     "pris_kr": 7838,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 7838,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med IQ.LIGHT: Dynamic Light Assist"
+    },
+    {
+     "navn": "Mobiltelefoninterface med induktiv ladefunktion",
+     "gruppe": "komfort",
+     "pris_kr": 940,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 940,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Multifunktionsrat i kunstlæder",
+     "gruppe": "komfort",
+     "pris_kr": 912,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 912,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Multifunktionsrat i kunstlæder, opvarmeligt",
+     "gruppe": "komfort",
+     "pris_kr": 1815,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1815,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Navigationssystem med 13\" touchfarvedisplay og trådløs App-Connect",
+     "gruppe": "komfort",
+     "pris_kr": 4918,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "navigation",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Side- og hovedairbags i førerkabine",
+     "gruppe": "andet",
+     "pris_kr": 4113,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 4113,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Følgende udstyr er obligatorisk, og skal bestilles sammen med Side- og hovedairbags i førerkabine: Førerkabinesædepakke 36, Handskerum med dæmpet lukning, Multifunktionskunstlæderrat, Indstigningsliste foran i sort kunststof, med lys, Selestrammer til førersædet samt Udstyrsniveau Life."
+    },
+    {
+     "navn": "Sidebeklædning i fuld højde og beklædning af loft, i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 2260,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 2260,
+      "Edition": "std"
+     },
+     "post": "beklaedning_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidespejle, el-klapbare. Indklap.-funktion via nøgle",
+     "gruppe": "parkering",
+     "pris_kr": 1047,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1047,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden",
+     "gruppe": "varerum",
+     "pris_kr": 4375,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Skydedør i begge sider; skydedøren i passagersiden er standard."
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden med elektrisk lukkehjælp",
+     "gruppe": "varerum",
+     "pris_kr": 7285,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i fører- og passagersiden, elektrisk",
+     "gruppe": "varerum",
+     "pris_kr": 13697,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tagbøjler, sammenklappelige (3 stk.)",
+     "gruppe": "ydre",
+     "pris_kr": 3551,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tilladt totalvægt 3.125-3.300 kg",
+     "gruppe": "andet",
+     "pris_kr": 5306,
+     "gaelder": "Kassevogn kort",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerummet",
+     "gruppe": "varerum",
+     "pris_kr": 4108,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning",
+     "gruppe": "ydre",
+     "pris_kr": 1986,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Udstyrsniveau Life",
+     "gruppe": "komfort",
+     "pris_kr": 1018,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 1018,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Indeholder Displayramme i sort højglans, dekorindlæg Life samt indvendige dørhåndtag i krom. Følgende udstyr er obligatorisk, og skal bestilles sammen med Udstyrsniveau Life: Handskerum med dæmpet lukning, Multifunktionskunstlæderrat samt Indstigningsliste, foran i sort kunststof, med lys."
+    },
+    {
+     "navn": "Sidespejle, el-klapbare",
+     "gruppe": "parkering",
+     "pris_kr": 872,
+     "gaelder": "Kassevogn lang (Comfort)",
+     "niveau_priser": {
+      "Comfort": 872,
+      "Edition": "nej"
+     },
+     "post": "elspejle_klap",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 6267,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Til alle niveauer: Graphite Dust Metallic, Light Grey Metallic, Mid Blue Metallic, Warm Green Metallic. Kun Comfort: Midnight Black Metallic. Uden merpris: Clear White, Dark Indigo Blue, Intensive Red, Stone Grey (Dark Indigo Blue ikke på Edition)."
+    },
+    {
+     "navn": "Tornadorød lak",
+     "gruppe": "ydre",
+     "pris_kr": 6287,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Connect-pakke",
+     "pris_kr": 1163,
+     "gaelder": "Comfort",
+     "indhold": [
+      "Mobiltelefoninterface med induktiv ladefunktion",
+      "12-volts stikdåse på D-stolpen i højre side",
+      "7 USB-stik i førerkabinen"
+     ],
+     "niveau_priser": {
+      "Comfort": 1163,
+      "Edition": "std"
+     }
+    },
+    {
+     "navn": "Eksteriørpakke Premium",
+     "pris_kr": 4035,
+     "gaelder": "Comfort",
+     "indhold": [
+      "Sidespejle, dørgreb, kølergrille samt for- og bagkofanger lakeret i bilens farve"
+     ],
+     "niveau_priser": {
+      "Comfort": 4035,
+      "Edition": "nej"
+     }
+    },
+    {
+     "navn": "Førerassistentpakke Premium Plus",
+     "pris_kr": 10349,
+     "gaelder": "Comfort",
+     "indhold": [
+      "Alt fra Førerassistentpakke Plus (bakkamera, fartpilot med intelligent hastighedsassistent, Lane Assist, nødbremseassistent, p-sensorer for og bag, skiltegenkendelse, træthedsregistrering)",
+      "Adaptiv fartpilot ACC",
+      "Multifunktionsrat i kunstlæder",
+      "El-klapbare sidespejle",
+      "Side Assist med manøvrebremse og udstigningsadvarsel",
+      "Vejkrydsassistent",
+      "Udvidet drejeassistent",
+      "360 graders kamera (Area View)"
+     ],
+     "niveau_priser": {
+      "Comfort": 10349,
+      "Edition": "std"
+     }
+    },
+    {
+     "navn": "Førerkabinesædepakke 36",
+     "pris_kr": 3209,
+     "gaelder": "Comfort",
+     "indhold": [
+      "8-vejs indstilleligt førersæde med 4-vejs elektrisk lændestøtte, 4-vejs indstillelig hovedstøtte og armlæn",
+      "Dobbelt passagersæde med underlæssefunktion og klapbord",
+      "Sædeindtræk i stof, design Life"
+     ],
+     "niveau_priser": {
+      "Comfort": 3209,
+      "Edition": "nej"
+     },
+     "note": "Skal bestilles sammen med handskerum med dæmpet lukning, multifunktionsrat i kunstlæder, indstigningsliste foran i sort kunststof med lys, selestrammer til førersædet, side- og hovedairbags i førerkabinen og Udstyrsniveau Life."
+    },
+    {
+     "navn": "Komfortpakke 2",
+     "pris_kr": 10243,
+     "gaelder": "alle",
+     "indhold": [
+      "Skydedør i passagersiden med elektrisk lukkehjælp",
+      "Bakspejl med digitalt display",
+      "Nøglefrit låse- og startsystem Keyless Access",
+      "Elopvarmet forrude i støjdæmpende glas"
+     ],
+     "niveau_priser": null
+    }
+   ]
+  },
+  "vw-caddy": {
+   "kilde_url": "https://prislister-erhverv.volkswagen.dk/caddy%20cargo",
+   "kilde_url_ekstra": [
+    "https://prislister-erhverv.volkswagen.dk/caddy%20maxi%20cargo"
+   ],
+   "kilde_navn": "Volkswagens vejledende prislister for Caddy Cargo og Caddy Maxi Cargo",
+   "prisliste_dato": "2026-10-05",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "NY prisliste for den nye Caddy Cargo med udstyrsniveauerne Comfort og Edition, \"Prisliste udskrevet pr. 05-10-2026\", \"gældende for nybestilling samt ved levering i 2026\". Volkswagens prisoversigt (volkswagen.dk/app/da/erhvervsbiler/priser/) linker hertil med \"Pris fra 207.994 kr.\" Den gamle T01-liste (Caddy Cargo/Comfort/Pro, priser pr. 22-10-2025, ngw6 og volkswagen.dk/app/da/media/ur4mwf1f/...) er ikke brugt, selvom modelsiden stadig linker til den. Listen har tilvalg både inkl. og ekskl. moms; tallene her er listens ekskl.-moms-tal. Registreringsafgift nævnes ikke, men inkl.-moms-prisen er under 1,25 gange ekskl.-prisen, så en momsfri afgiftsdel indgår. Levering 4.620 kr. ekskl. moms. Caddy Cargo = L1 (kort), Caddy Maxi Cargo = L2 (lang). kW og hjultræk står ikke i listen; de er fra importørens lagerliste (MY2027 Caddy Cargo Comfort: 116 hk = 85 kW, 102 hk = 75 kW, 122 hk = 90 kW, forhjulstræk) og fra T01-listen (eHybrid 150 hk = 110 kW). Edition fås kun med DSG. Batteri på eHybrid oplyses ikke.",
+   "udgaver": [
+    {
+     "navn": "Caddy Cargo Comfort 1.5 TSI 116 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2150,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 207994
+    },
+    {
+     "navn": "Caddy Cargo Comfort 1.5 TSI 116 hk 7-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2150,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 223996
+    },
+    {
+     "navn": "Caddy Cargo Comfort 2.0 TDI 102 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2220,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 102,
+     "kw": 75,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 212994
+    },
+    {
+     "navn": "Caddy Cargo Comfort 2.0 TDI 122 hk 7-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 122,
+     "kw": 90,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 246995
+    },
+    {
+     "navn": "Caddy Cargo Comfort 1.5 TSI eHybrid 150 hk 6-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "plugin",
+     "motor": "1.5 TSI eHybrid",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 256995
+    },
+    {
+     "navn": "Caddy Cargo Edition 1.5 TSI 116 hk 7-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2150,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 257688
+    },
+    {
+     "navn": "Caddy Cargo Edition 2.0 TDI 122 hk 7-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 122,
+     "kw": 90,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 280367
+    },
+    {
+     "navn": "Caddy Cargo Edition 1.5 TSI eHybrid 150 hk 6-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "plugin",
+     "motor": "1.5 TSI eHybrid",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 281794
+    },
+    {
+     "navn": "Caddy Maxi Cargo Comfort 1.5 TSI 116 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 215786
+    },
+    {
+     "navn": "Caddy Maxi Cargo Comfort 1.5 TSI 116 hk 7-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 242889
+    },
+    {
+     "navn": "Caddy Maxi Cargo Comfort 2.0 TDI 102 hk 6-trins manuel",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2300,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 102,
+     "kw": 75,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 232505
+    },
+    {
+     "navn": "Caddy Maxi Cargo Comfort 2.0 TDI 122 hk 7-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2350,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 122,
+     "kw": 90,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 267616
+    },
+    {
+     "navn": "Caddy Maxi Cargo Comfort 1.5 TSI eHybrid 150 hk 6-trins DSG-automatgear",
+     "niveau": "Comfort",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2500,
+     "drivmiddel": "plugin",
+     "motor": "1.5 TSI eHybrid",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 269995
+    },
+    {
+     "navn": "Caddy Maxi Cargo Edition 1.5 TSI 116 hk 7-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2250,
+     "drivmiddel": "benzin",
+     "motor": "1.5 TSI",
+     "hk": 116,
+     "kw": 85,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 276260
+    },
+    {
+     "navn": "Caddy Maxi Cargo Edition 2.0 TDI 122 hk 7-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2350,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 122,
+     "kw": 90,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 301000
+    },
+    {
+     "navn": "Caddy Maxi Cargo Edition 1.5 TSI eHybrid 150 hk 6-trins DSG-automatgear",
+     "niveau": "Edition",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2500,
+     "drivmiddel": "plugin",
+     "motor": "1.5 TSI eHybrid",
+     "hk": 150,
+     "kw": 110,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 295204
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "16\" Alufælge Lisboa, brilliant sølv",
+     "gruppe": "ydre",
+     "pris_kr": 8278,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 8278,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Alufælge Amsterdam, brilliant sølv",
+     "gruppe": "ydre",
+     "pris_kr": 13829,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 13829,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Alufælge Colombo, brilliant sølv",
+     "gruppe": "ydre",
+     "pris_kr": 13829,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 13829,
+      "Edition": "nej"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "230-Volt-stik (Schuko-stik)",
+     "gruppe": "komfort",
+     "pris_kr": 2127,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "stik_230v",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Adskillelse med gitter",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Valgfrit uden merpris i stedet for standardadskillelsen uden rude."
+    },
+    {
+     "navn": "Adskillelse med rude og gitter",
+     "gruppe": "varerum",
+     "pris_kr": 1577,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "AGR ergoComfort sæder",
+     "gruppe": "komfort",
+     "pris_kr": 3249,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 3249,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, fast",
+     "gruppe": "traek",
+     "pris_kr": 7363,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Fast krog."
+    },
+    {
+     "navn": "Førstehjælpspakke, advarselstrekant og 1 sikkerhedsvest",
+     "gruppe": "andet",
+     "pris_kr": 473,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Listen staver \"Førestehjælpspakke\"."
+    },
+    {
+     "navn": "Indfarvede stødfangere",
+     "gruppe": "ydre",
+     "pris_kr": 2790,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 2790,
+      "Edition": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "ISOfix-beslag på passagersædet",
+     "gruppe": "komfort",
+     "pris_kr": 488,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Navigationssystem Discover Pro",
+     "gruppe": "komfort",
+     "pris_kr": 13429,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "navigation",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Parkeringsvarmer, varme i forsæder samt forrude",
+     "gruppe": "komfort",
+     "pris_kr": 17237,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "parkeringsvarmer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Listen staver \"vame\". Varme i forsæder og forrude er i forvejen standard."
+    },
+    {
+     "navn": "Reservehjul",
+     "gruppe": "ydre",
+     "pris_kr": 1291,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Robust sædeindtræk \"Robusta\"",
+     "gruppe": "komfort",
+     "pris_kr": 584,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rudepakke inkl. bagdøre med bagruder",
+     "gruppe": "ydre",
+     "pris_kr": 4573,
+     "gaelder": "Caddy Cargo",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rudepakke inkl. bagdøre med bagruder",
+     "gruppe": "ydre",
+     "pris_kr": 10389,
+     "gaelder": "Caddy Maxi Cargo",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rudepakke inkl. baklap med rude",
+     "gruppe": "ydre",
+     "pris_kr": 3089,
+     "gaelder": "Caddy Cargo",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rudepakke inkl. baklap med rude",
+     "gruppe": "ydre",
+     "pris_kr": 11101,
+     "gaelder": "Caddy Maxi Cargo",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skuffer under fører- og passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 1044,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 5488,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tagræling, sort",
+     "gruppe": "ydre",
+     "pris_kr": 2410,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Comfort": 2410,
+      "Edition": "std"
+     },
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tagræling, sølv",
+     "gruppe": "ydre",
+     "pris_kr": 3959,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "tagbaerer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 4352,
+     "gaelder": "Caddy Cargo",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Træbund i varerum",
+     "gruppe": "varerum",
+     "pris_kr": 5519,
+     "gaelder": "Caddy Maxi Cargo",
+     "niveau_priser": null,
+     "post": "gulv_varerum",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tågeforlygter inkl. kurvelys",
+     "gruppe": "parkering",
+     "pris_kr": 3673,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 7474,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Comfort: Costa Azul, Grenadilla Black, Grå Brun, Indium Grey, Oyster Silver, Reed Green (ikke Maxi), Starlight Blue og Sunset Red Metallic. Edition: metallak med tag i Grenadilla Black Metallic. Candy White og Pure Grey er uden merpris (på Edition med sort tag)."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Assistentpakke Advanced (kun til DSG)",
+     "pris_kr": 16384,
+     "gaelder": "alle med DSG-gear",
+     "indhold": [
+      "Adaptiv fartpilot",
+      "Travel Assist",
+      "Side Assist inkl. Blind Spot Detection",
+      "Emergency Assist",
+      "Park Assist"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Lys og syn pakke",
+     "pris_kr": 11825,
+     "gaelder": "Comfort",
+     "indhold": [
+      "LED-forlygter med LED-dagskørelys",
+      "LED-baglygter",
+      "Vejrafhængigt lys og drejelys (LED-teknik)"
+     ],
+     "niveau_priser": {
+      "Comfort": 11825,
+      "Edition": "std"
+     }
+    },
+    {
+     "navn": "Parkeringsassistent (til manuelt gear)",
+     "pris_kr": 13356,
+     "gaelder": "Caddy Cargo Comfort med manuelt gear (findes ikke i listen for Caddy Maxi Cargo)",
+     "indhold": [
+      "Adaptiv fartpilot",
+      "Side Assist inkl. Blind Spot Detection",
+      "Park Assist"
+     ],
+     "niveau_priser": {
+      "Comfort": 13356,
+      "Edition": "nej"
+     }
+    }
+   ]
+  },
+  "vw-crafter": {
+   "kilde_url": "https://www.volkswagen.dk/app/da/media/gnfpfuec/erhvervsbiler-prisliste-crafter-kassevogn.pdf",
+   "kilde_navn": "Volkswagens detailprisliste for Crafter Kassevogn, priskode V01, modelår 2027",
+   "prisliste_dato": "2026-07-23",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4560,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "\"Priser pr. 23-07-2026\", priskode V01, modelår 2027. Linket fra Volkswagens prisoversigt og Crafter-siden. Kun kassevogn 3.500 kg (L3H2, L3H3, L4H3, L5H3); chassis og mandskabsvogn er udeladt. Øverste tal i tilvalgstabellen er ekskl. moms; det er brugt. Listen siger ikke direkte, at registreringsafgift er med, men inkl.-moms-prisen er under 1,25 gange ekskl.-prisen. Levering 4.560 kr. ekskl. moms. kW fra listens tekniske side (140 hk = 103 kW, 163 hk = 120 kW, 177 hk = 130 kW). Tabellerne er læst med ordpositioner (kolonnerne Crafter og Comfort) og kontrolleret mod udskriften. Højt tag (3R2) er indregnet i L3H3-priserne.",
+   "udgaver": [
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 320995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 343995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 333995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 356995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 331995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 354995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 344995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 367995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 331995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 354995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 343995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 366995
+    },
+    {
+     "navn": "Crafter L3H2 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 367995
+    },
+    {
+     "navn": "Crafter Comfort L3H2 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 390995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 352995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 341995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 364995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 339995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 362995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 352995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 375995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 339995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 362995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 352995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 375995
+    },
+    {
+     "navn": "Crafter L3H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Crafter",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 375995
+    },
+    {
+     "navn": "Crafter Comfort L3H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Comfort",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 398995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 337995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 360995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 350995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 373995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 348995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 163 hk 6-trins manuel baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "baghjul",
+     "pris_kr": 371995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 362995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 163 hk 8-trins automatgear baghjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 163,
+     "kw": 120,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 385995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 348995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 371995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 361995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 384995
+    },
+    {
+     "navn": "Crafter L4H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Crafter",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 385995
+    },
+    {
+     "navn": "Crafter Comfort L4H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Comfort",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 408995
+    },
+    {
+     "navn": "Crafter L5H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 341995
+    },
+    {
+     "navn": "Crafter Comfort L5H3 3.500 kg 2.0 TDI 140 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 364995
+    },
+    {
+     "navn": "Crafter L5H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 354995
+    },
+    {
+     "navn": "Crafter Comfort L5H3 3.500 kg 2.0 TDI 140 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 377995
+    },
+    {
+     "navn": "Crafter L5H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 352995
+    },
+    {
+     "navn": "Crafter Comfort L5H3 3.500 kg 2.0 TDI 177 hk 6-trins manuel forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 375995
+    },
+    {
+     "navn": "Crafter L5H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Crafter",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 365995
+    },
+    {
+     "navn": "Crafter Comfort L5H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear forhjulstræk",
+     "niveau": "Comfort",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 388995
+    },
+    {
+     "navn": "Crafter L5H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Crafter",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 389995
+    },
+    {
+     "navn": "Crafter Comfort L5H3 3.500 kg 2.0 TDI 177 hk 8-trins automatgear 4MOTION",
+     "niveau": "Comfort",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.0 TDI",
+     "hk": 177,
+     "kw": 130,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 412995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Automatisk klimaanlæg Air Care Climatronic",
+     "gruppe": "komfort",
+     "pris_kr": 6995,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 6995
+     },
+     "post": null,
+     "kode": "9AK",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Multifunktionslæderrat med varme",
+     "gruppe": "komfort",
+     "pris_kr": 1775,
+     "gaelder": "Crafter",
+     "niveau_priser": {
+      "Crafter": 1775,
+      "Comfort": "std"
+     },
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Radio Discover Media med navigation, 10\" touchskærm og App Connect",
+     "gruppe": "komfort",
+     "pris_kr": 6095,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 6095
+     },
+     "post": "navigation",
+     "kode": "Z67",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "DAB+ modtager",
+     "gruppe": "komfort",
+     "pris_kr": 1375,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 1375
+     },
+     "post": "dab",
+     "kode": "QV3",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Hylde over førerkabinen og sænket loft (kun med højt tag, 3R2)",
+     "gruppe": "komfort",
+     "pris_kr": 1225,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "7N4",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra batteri med skillerelæ (AGM)",
+     "gruppe": "andet",
+     "pris_kr": 5375,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "8FE/IS5",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk med slingerkontrol",
+     "gruppe": "traek",
+     "pris_kr": 3595,
+     "gaelder": "Crafter",
+     "niveau_priser": {
+      "Crafter": 3595,
+      "Comfort": "std"
+     },
+     "post": "anhaengertraek",
+     "kode": "1D1",
+     "tilbehoer": false,
+     "note": "Listen oplyser ikke, om krogen er fast eller aftagelig."
+    },
+    {
+     "navn": "El-klapbare sidespejle",
+     "gruppe": "parkering",
+     "pris_kr": 1195,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 1195
+     },
+     "post": "elspejle_klap",
+     "kode": "6XP",
+     "tilbehoer": false,
+     "note": "På Crafter kun i Assistentpakke Extended."
+    },
+    {
+     "navn": "Bakkamera",
+     "gruppe": "parkering",
+     "pris_kr": 7695,
+     "gaelder": "Crafter",
+     "niveau_priser": {
+      "Crafter": 7695,
+      "Comfort": "std"
+     },
+     "post": "bakkamera",
+     "kode": "KA2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Light Assist (automatisk fjernlys)",
+     "gruppe": "parkering",
+     "pris_kr": 995,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "8G1",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "LED-forlygter og LED-kørelys",
+     "gruppe": "parkering",
+     "pris_kr": 1895,
+     "gaelder": "Crafter",
+     "niveau_priser": {
+      "Crafter": 1895,
+      "Comfort": "std"
+     },
+     "post": "led_forlygter",
+     "kode": "8IT",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tågeforlygter med drejelys",
+     "gruppe": "parkering",
+     "pris_kr": 1795,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 1795
+     },
+     "post": null,
+     "kode": "8WH",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidemarkeringslygter",
+     "gruppe": "parkering",
+     "pris_kr": 725,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "8F1",
+     "tilbehoer": false,
+     "note": "Standard på alle L4- og L5-udgaver."
+    },
+    {
+     "navn": "AGR-certificeret ergoComfort-førersæde, vægtafhængigt, med 4-vejs elektrisk lændestøtte og armlæn i begge sider",
+     "gruppe": "komfort",
+     "pris_kr": 3000,
+     "gaelder": "Crafter",
+     "niveau_priser": {
+      "Crafter": 3000,
+      "Comfort": "std"
+     },
+     "post": null,
+     "kode": "3TP",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "AGR-certificeret ergoComfort-førersæde, vægtafhængigt, med 4-vejs elektrisk lændestøtte, armlæn i begge sider og massage",
+     "gruppe": "komfort",
+     "pris_kr": 525,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Crafter": 3525,
+      "Comfort": 525
+     },
+     "post": null,
+     "kode": "3TK",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Komfort-enkeltpassagersæde i stedet for passagerbænk",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "3SE",
+     "tilbehoer": false,
+     "note": "Valgfrit uden merpris; passagerbænksædet bortfalder."
+    },
+    {
+     "navn": "AGR-certificeret ergoComfort-enkeltpassagersæde i stedet for passagerbænk",
+     "gruppe": "komfort",
+     "pris_kr": 1800,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "3SP",
+     "tilbehoer": false,
+     "note": "Passagerbænksædet bortfalder."
+    },
+    {
+     "navn": "Bagdøre med 270 graders åbning",
+     "gruppe": "varerum",
+     "pris_kr": 3450,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "5V4",
+     "tilbehoer": false,
+     "note": "Standard på L5."
+    },
+    {
+     "navn": "Ruder i bagdørene med varme",
+     "gruppe": "ydre",
+     "pris_kr": 2175,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "ZHF",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Visker og sprinkler på bagruderne (kun med ZHF)",
+     "gruppe": "ydre",
+     "pris_kr": 875,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "4HS",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4775,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "5Q2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1095,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "4EE",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med 5DU sidebeklædning af krydsfiner."
+    },
+    {
+     "navn": "Uden adskillelse mellem kabine og varerum",
+     "gruppe": "varerum",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZT0",
+     "tilbehoer": false,
+     "note": "Valgfrit uden merpris."
+    },
+    {
+     "navn": "Sidebeklædning af kunststof i varerummet, fuld højde (L3)",
+     "gruppe": "varerum",
+     "pris_kr": 4075,
+     "gaelder": "L3",
+     "niveau_priser": null,
+     "post": "beklaedning_varerum",
+     "kode": "5DN",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidebeklædning af kunststof i varerummet, fuld højde (L4)",
+     "gruppe": "varerum",
+     "pris_kr": 4575,
+     "gaelder": "L4",
+     "niveau_priser": null,
+     "post": "beklaedning_varerum",
+     "kode": "5DN",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Sidebeklædning af kunststof i varerummet, fuld højde (L5)",
+     "gruppe": "varerum",
+     "pris_kr": 5095,
+     "gaelder": "L5",
+     "niveau_priser": null,
+     "post": "beklaedning_varerum",
+     "kode": "5DN",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 1495,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "VG1",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Trinbræt bag i højre side (kun med sidemarkeringslygter 8F1)",
+     "gruppe": "ydre",
+     "pris_kr": 825,
+     "gaelder": "Comfort",
+     "niveau_priser": {
+      "Crafter": "nej",
+      "Comfort": 825
+     },
+     "post": null,
+     "kode": "QT9",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Forstærket foraksel 2.100 kg",
+     "gruppe": "andet",
+     "pris_kr": 2095,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "VV8",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Stænklapper for og bag",
+     "gruppe": "ydre",
+     "pris_kr": 725,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "6N2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak (Indium Grey eller Oyster Silver)",
+     "gruppe": "ydre",
+     "pris_kr": 9895,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "X3X3/F0F0",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Deep Black lak med perleeffekt",
+     "gruppe": "ydre",
+     "pris_kr": 10375,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "2T2T",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Deep Ocean Blue eller Cherry Red unilak",
+     "gruppe": "ydre",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "0P0P/4B4B",
+     "tilbehoer": false,
+     "note": "Valgfrit uden merpris."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Assistentpakke Advanced",
+     "pris_kr": 6995,
+     "gaelder": "Crafter",
+     "indhold": [
+      "Adaptiv fartpilot",
+      "Travel Assist",
+      "Emergency Assist"
+     ],
+     "niveau_priser": {
+      "Crafter": 6995,
+      "Comfort": "std"
+     },
+     "kode": "PVD"
+    },
+    {
+     "navn": "Assistentpakke Extended",
+     "pris_kr": 7995,
+     "gaelder": "alle",
+     "indhold": [
+      "Side Assist",
+      "Blind Spot BSIS",
+      "Moving off MOIS",
+      "El-klapbare sidespejle"
+     ],
+     "niveau_priser": null,
+     "kode": "PVE/6XP"
+    },
+    {
+     "navn": "Assistentpakke Professional",
+     "pris_kr": 3195,
+     "gaelder": "alle (gælder fra produktionsuge 36/2026)",
+     "indhold": [
+      "Park Assist",
+      "Aktiv sidebeskyttelse",
+      "Front Cross Traffic Assist"
+     ],
+     "niveau_priser": null,
+     "kode": "PVK"
+    }
+   ]
+  },
+  "vw-id-buzz-cargo": {
+   "kilde_url": "https://www.volkswagen.dk/app/da/media/lnkn5agv/erhvervsbiler-prisliste-id-buzz-cargo.pdf",
+   "kilde_navn": "Volkswagens detailprisliste for ID. Buzz Cargo, priskode V01, modelår 2027",
+   "prisliste_dato": "2026-05-18",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": null,
+   "pris_note": "\"Priser pr. 18-05-2026\", priskode V01, modelår 2027. Linket fra Volkswagens prisoversigt. Erstatter ngw6-filen (T02, MY2026), som varebiler.json henviser til. Registreringsafgift nævnes ikke, og inkl.-moms-prisen er præcis 1,25 gange ekskl.-prisen. Batteri: 190 hk 58/61 kWh, 286 og 340 hk 79/84 kWh (netto/brutto); batteri_kwh er bruttotallet. hk/kW, træktype og totalvægt fra listens side 3. Tilvalgstabellen har fire kolonner: Comfort, Pro, Comfort 4Motion og Pro 4Motion (læst med ordpositioner); niveau_priser bruger de fire kolonnenavne. Lak har kun kolonnerne Comfort og Pro. Øverste tal er ekskl. moms. AC-ladeeffekt 11 kW.",
+   "udgaver": [
+    {
+     "navn": "ID. Buzz Cargo Comfort 190 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3000,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 190,
+     "kw": 140,
+     "batteri_kwh": 61,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 299995
+    },
+    {
+     "navn": "ID. Buzz Cargo Comfort 286 hk, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3150,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 84,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 329995
+    },
+    {
+     "navn": "ID. Buzz Cargo Comfort 340 hk 4Motion, 1-trins automatgear",
+     "niveau": "Comfort",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3150,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 340,
+     "kw": 250,
+     "batteri_kwh": 84,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 349995
+    },
+    {
+     "navn": "ID. Buzz Cargo Pro 286 hk, 1-trins automatgear",
+     "niveau": "Pro",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3150,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 286,
+     "kw": 210,
+     "batteri_kwh": 84,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 359995
+    },
+    {
+     "navn": "ID. Buzz Cargo Pro 340 hk 4Motion, 1-trins automatgear",
+     "niveau": "Pro",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3150,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 340,
+     "kw": 250,
+     "batteri_kwh": 84,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 379995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Varmepumpe",
+     "gruppe": "el",
+     "pris_kr": 6597,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "varmepumpe",
+     "kode": "ZW1",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 3360,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "5Q2",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Elektrisk skydedør i højre side (kun med Keyless Advanced)",
+     "gruppe": "varerum",
+     "pris_kr": 3360,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZH4",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Elektriske skydedøre i højre og venstre side (kun med Keyless Advanced)",
+     "gruppe": "varerum",
+     "pris_kr": 9913,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZH4",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Elektrisk bagklap",
+     "gruppe": "varerum",
+     "pris_kr": 3282,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "4E7",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Keyless Advanced med tyverialarm",
+     "gruppe": "ydre",
+     "pris_kr": 5929,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": "ZG2",
+     "tilbehoer": false,
+     "note": "Står også i Pro-standardudstyret, men listen viser prisen i alle fire kolonner."
+    },
+    {
+     "navn": "Anhængertræk med svingbar krog og el-frigørelse",
+     "gruppe": "traek",
+     "pris_kr": 6100,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "1M6",
+     "tilbehoer": false,
+     "note": "Svingbart med elektrisk frigørelse."
+    },
+    {
+     "navn": "19\" letmetalfælge Tilburg",
+     "gruppe": "ydre",
+     "pris_kr": 16047,
+     "gaelder": "Comfort, Pro",
+     "niveau_priser": {
+      "Comfort": 16047,
+      "Pro": 16047,
+      "Comfort 4Motion": "std",
+      "Pro 4Motion": "std"
+     },
+     "post": null,
+     "kode": "ZR1",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "20\" letmetalfælge Solna",
+     "gruppe": "ydre",
+     "pris_kr": 3291,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Comfort": 19339,
+      "Pro": 19339,
+      "Comfort 4Motion": 3291,
+      "Pro 4Motion": 3291
+     },
+     "post": null,
+     "kode": "ZR5",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "20\" letmetalfælge Stockton",
+     "gruppe": "ydre",
+     "pris_kr": 3291,
+     "gaelder": "alle",
+     "niveau_priser": {
+      "Comfort": 19339,
+      "Pro": 19339,
+      "Comfort 4Motion": 3291,
+      "Pro 4Motion": 3291
+     },
+     "post": null,
+     "kode": "ZR3",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak (Bay Leaf Green, Lemon Yellow, Mono Silver eller Starlight Blue)",
+     "gruppe": "ydre",
+     "pris_kr": 6400,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "C4C4/C1C1/K9K9/3S3S",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Deep Black lak med perleeffekt",
+     "gruppe": "ydre",
+     "pris_kr": 6400,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "2T2T",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tofarvet lak: Candy White med Starlight Blue, Bay Leaf Green eller Lemon Yellow",
+     "gruppe": "ydre",
+     "pris_kr": 17600,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "9530/9675/9192",
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": []
+  },
+  "vw-amarok": {
+   "kilde_url": "https://www.volkswagen.dk/app/da/media/1zjlok5k/erhvervsbiler-prisliste-amarok.pdf",
+   "kilde_navn": "Volkswagens detailprisliste for Amarok Dobbeltkabine (varebil), modelår 2026",
+   "prisliste_dato": "2025-08-12",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 4560,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "\"Priser pr. 12.08.2025\", modelår 2026, \"gælder nybestilling\". Stadig den liste, Volkswagens prisoversigt linker til; filen er identisk med ngw6.volkswagen.dk/globalassets/PDF/Erhvervsbiler/Amarok.pdf. Prislisten har to rækker for 3.0 V6 TDI 240 hk (halvårlig ejerafgift 6.480 og 6.850 kr.); de er ens bortset fra Dark Label (441.995 og 421.995 kr.) og inkl.-moms-tallene. Begge rækker er taget med. Importørens lagerliste (05-10-2026) har Dark Label til 441.995 kr. med 6.480 kr. i ejerafgift. Rækken 2.0 TDI 205 hk har ingen priser og er udeladt. Totalvægt fra vægttabellen: 3.350 kg (Style, Dark Label, PanAmericana) og 3.300 kg (Aventura); den kan ikke knyttes sikkert til 6.850-rækken. Listen har ingen tilvalg ud over lak. Registreringsafgift: inkl.-moms-prisen er under 1,25 gange ekskl.-prisen. Levering 4.560 kr. ekskl. moms.",
+   "udgaver": [
+    {
+     "navn": "Amarok Dobbeltkabine Style 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION",
+     "niveau": "Style",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 421995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine Dark Label 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION",
+     "niveau": "Dark Label",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 441995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine PanAmericana 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION",
+     "niveau": "PanAmericana",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3350,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 471995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine Aventura 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION",
+     "niveau": "Aventura",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 481995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine Style 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION (prislistens række med halvårlig ejerafgift 6.850 kr.)",
+     "niveau": "Style",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 421995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine Dark Label 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION (prislistens række med halvårlig ejerafgift 6.850 kr.)",
+     "niveau": "Dark Label",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 421995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine PanAmericana 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION (prislistens række med halvårlig ejerafgift 6.850 kr.)",
+     "niveau": "PanAmericana",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 471995
+    },
+    {
+     "navn": "Amarok Dobbeltkabine Aventura 3.0 V6 TDI 240 hk 10-trins automatgear 4MOTION (prislistens række med halvårlig ejerafgift 6.850 kr.)",
+     "niveau": "Aventura",
+     "laengde": null,
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "3.0 V6 TDI",
+     "hk": 240,
+     "kw": 177,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 481995
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4424,
+     "gaelder": "Style, PanAmericana, Aventura",
+     "niveau_priser": {
+      "Style": 4424,
+      "Dark Label": "std",
+      "PanAmericana": 4424,
+      "Aventura": 4424
+     },
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Bright Beige, Bright Blue, Dark Grey, Deep Red, Medium Silver, Reed Green og Midnight Black Metallic. Dark Label: Midnight Black Metallic er standard, Bright Blue og Dark Grey Metallic er \"tilvalg uden merpris\", de øvrige metalfarver og Clear White kan ikke vælges."
+    }
+   ],
+   "pakker": []
+  },
+  "man-tge": {
+   "kilde_url": "https://www.man.eu/content/dam/man/countries/doc/denmark/van-4/man-prisliste.pdf/_jcr_content/renditions/original./man-prisliste.pdf",
+   "kilde_navn": "MAN Truck & Bus Danmarks prisliste for MAN TGE, modelår 2026",
+   "prisliste_dato": "2026-08-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": "2026-08-01",
+   "gyldig_til": null,
+   "levering_kr": 4620,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "\"Gældende pr. 01.08.2026\", modelår 2026 (PDF oprettet 18-08-2026). Kolonnen \"Pris inkl. afgift ex. moms\" er brugt. Kun kassevogne (3,5 t, 5,0 t og 5,5 t, højt tag samt Pure med lavt tag); chassis udeladt. MAN viser selv kun udvalgte modelvarianter, udvalgt standardudstyr og udvalgt ekstraudstyr. Pure-rækken har samme tal (326.328 kr.) i kolonnerne ekskl. og inkl. moms; tallet er ført som ekskl. moms. Levering \"fra 4.620 kr. eksl. moms for biler op til 3,5 tons\"; listen oplyser ikke beløbet for 5- og 5,5-tons. Manuelt gear: \"typisk ca. 16.000 kr.\" billigere end automat (ikke et præcist beløb, så ingen udgaver er beregnet). Lavt tag (H2) på L3: 7.395 kr. billigere end højt tag (listen skriver \"L2\", men mener H2). Nedvejning fra 5.000 til 3.500 kg koster 47.000 kr. i værdiafgift. Metalfarver er \"mod merpris\" uden beløb. kW og motorbetegnelse står ikke i listen. 5- og 5,5-tons-rækkerne har ingen forbrug, CO2 eller ejerafgift. Pure har ikke hjultræk i rækkens navn. Tilvalg og pakker er ført som gældende for begge niveauer, fordi listen ikke skelner; MAN skriver, at ikke alle pakker og tilvalg kan kombineres.",
+   "udgaver": [
+    {
+     "navn": "TGE 3.140 L3H2 3,5 t (Pure) 140 hk manuel",
+     "niveau": "Pure",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": null,
+     "pris_kr": 326328
+    },
+    {
+     "navn": "TGE 3.140 L3H3 3,5 t forhjulstræk 140 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 363929
+    },
+    {
+     "navn": "TGE 3.180 L3H3 3,5 t forhjulstræk 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 376958
+    },
+    {
+     "navn": "TGE 3.140 L4H3 3,5 t forhjulstræk 140 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 379204
+    },
+    {
+     "navn": "TGE 3.180 L4H3 3,5 t forhjulstræk 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 392234
+    },
+    {
+     "navn": "TGE 3.140 L5H3 3,5 t forhjulstræk 140 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 140,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 386301
+    },
+    {
+     "navn": "TGE 3.180 L5H3 3,5 t forhjulstræk 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 399330
+    },
+    {
+     "navn": "TGE 3.160 L3H3 3,5 t baghjulstræk 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 383044
+    },
+    {
+     "navn": "TGE 3.160 L4H3 3,5 t baghjulstræk 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 398440
+    },
+    {
+     "navn": "TGE 3.180 L3H3 3,5 t 4x4 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 406219
+    },
+    {
+     "navn": "TGE 3.180 L4H3 3,5 t 4x4 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 421496
+    },
+    {
+     "navn": "TGE 3.180 L5H3 3,5 t 4x4 177 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 177,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "firhjul",
+     "pris_kr": 428592
+    },
+    {
+     "navn": "TGE 5.160 L3H3 5,0 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5000,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 380382
+    },
+    {
+     "navn": "TGE 5.160 L4H3 5,0 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5000,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 395021
+    },
+    {
+     "navn": "TGE 5.160 L5H3 5,0 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5000,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 402167
+    },
+    {
+     "navn": "TGE 6.160 L3H3 5,5 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 393131
+    },
+    {
+     "navn": "TGE 6.160 L4H3 5,5 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 407770
+    },
+    {
+     "navn": "TGE 6.160 L5H3 5,5 t baghjulstræk tvillingehjul 163 hk automatgear",
+     "niveau": "TGE",
+     "laengde": "L5",
+     "hoejde": "H3",
+     "totalvaegt_kg": 5500,
+     "drivmiddel": "diesel",
+     "motor": null,
+     "hk": 163,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "baghjul",
+     "pris_kr": 414917
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Sædebetræk i robust stof (slidstærkt) \"Marathon\"",
+     "gruppe": "komfort",
+     "pris_kr": 1003,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Listen staver \"slidestærkt\"."
+    },
+    {
+     "navn": "Sædebetræk i kunstlæder \"Mesh\"",
+     "gruppe": "komfort",
+     "pris_kr": 401,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4540,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ekstra batteri (AGM) med skillerelæ og batteriovervågning",
+     "gruppe": "andet",
+     "pris_kr": 2809,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Motoruafhængigt varmesystem (vand) med fjernbetjening",
+     "gruppe": "komfort",
+     "pris_kr": 4008,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "parkeringsvarmer",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Elektrisk opbyggermodul og funktionsstyreenhed med ABH-programmering",
+     "gruppe": "andet",
+     "pris_kr": 2067,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Fjernlysassistent \"Light Assist\"",
+     "gruppe": "parkering",
+     "pris_kr": 1507,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Fuldautomatisk 2-zonet klimaanlæg \"Climatronic\"",
+     "gruppe": "komfort",
+     "pris_kr": 6566,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "\"ErgoActive\" AGR-førersæde, vægtaffjedret med massage, 2 justerbare armlæn, 4-punkts lændestøtte og sædedybdeindstilling",
+     "gruppe": "komfort",
+     "pris_kr": 2930,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "\"ErgoComfort\" AGR-førersæde, vægtaffjedret med 2 justerbare armlæn, 4-punkts lændestøtte og sædedybdeindstilling",
+     "gruppe": "komfort",
+     "pris_kr": 2381,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "16\" helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 1397,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Fjernbetjent centrallås med 4 nøgler",
+     "gruppe": "andet",
+     "pris_kr": 395,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Aflægningsrum over førerkabinen (adgang fra varerummet)",
+     "gruppe": "varerum",
+     "pris_kr": 1144,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke til enkelt- og dobbeltkabine."
+    },
+    {
+     "navn": "Bagdøre med 270 graders åbning",
+     "gruppe": "varerum",
+     "pris_kr": 3280,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke til enkelt- og dobbeltkabine."
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Sikkerhedspakke Aktiv",
+     "pris_kr": 14475,
+     "gaelder": "alle",
+     "indhold": [
+      "ACC Stop & Go",
+      "Blind Spot Sensor i begge sider og Driving-OFF warning",
+      "Lane Change Assist",
+      "Lane Keeping Assist med kø-assistent",
+      "Sidespejle, el-justerbare, opvarmede med klapfunktion",
+      "Tågelygter inkl. kurvelys"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Komfortpakke DK",
+     "pris_kr": 13584,
+     "gaelder": "alle",
+     "indhold": [
+      "\"ErgoComfort\" AGR-førersæde",
+      "Dæmpning mod kabinestøj, Premium",
+      "ACC Stop & Go",
+      "Intelligent Speed Assist",
+      "Lane Keeping Assist med kø-assistent",
+      "Kabinevarmer (vand) med fjernbetjening",
+      "Sædebetræk \"Marathon\""
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Komfortpakke Plus DK",
+     "pris_kr": 16700,
+     "gaelder": "alle",
+     "indhold": [
+      "\"ErgoActive\" AGR-førersæde med massage",
+      "Dæmpning mod kabinestøj, Premium",
+      "ACC Stop & Go",
+      "Intelligent Speed Assist",
+      "Lane Keeping Assist med kø-assistent og nødhjælpsassistent",
+      "Krompakke ved luftdyser",
+      "Kabinevarmer (vand) med fjernbetjening",
+      "Sædebetræk \"Marathon\"",
+      "Trinbelysning for"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Lys og udsynspakke",
+     "pris_kr": 3184,
+     "gaelder": "alle",
+     "indhold": [
+      "Fjernlysassistent \"Light Assist\"",
+      "Kørelys med kørelysassistent og automatisk \"Leaving home\"/\"Coming home\"",
+      "Tågelygter inkl. kurvelys"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "MAN Media Van Pakke Business Navigation 10,4\"",
+     "pris_kr": 4636,
+     "gaelder": "alle",
+     "indhold": [
+      "MAN Media Van Navigation 10,4\"",
+      "MAN Smartlink",
+      "Trådløs Apple CarPlay/Android Auto",
+      "Bluetooth",
+      "DAB+",
+      "Navigationssystem",
+      "eCall",
+      "Stemmestyring (kun engelsk)"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "MAN Media Van Pakke Business Navigation 12,9\"",
+     "pris_kr": 5848,
+     "gaelder": "alle",
+     "indhold": [
+      "MAN Media Van Navigation Business 12,9\"",
+      "MAN Smartlink",
+      "Trådløs Apple CarPlay/Android Auto",
+      "Bluetooth",
+      "DAB+",
+      "Navigationssystem",
+      "eCall",
+      "Stemmestyring (kun engelsk)"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Exclusive Pakke",
+     "pris_kr": 12693,
+     "gaelder": "alle",
+     "indhold": [
+      "Fuldautomatisk 2-zonet klimaanlæg \"Climatronic\"",
+      "Kørelys og automatisk \"Leaving home\"/\"Coming home\"",
+      "Fjernlysassistent \"Light Assist\"",
+      "MAN Media Van Navigation Business 12,9\" med Smartlink, trådløs CarPlay/Android Auto, DAB+ og navigation"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "Førerassistentpakke",
+     "pris_kr": 7773,
+     "gaelder": "alle",
+     "indhold": [
+      "Blind Spot Sensor i begge sider og Driving-OFF warning",
+      "Lane Change Assist",
+      "Lane Keeping Assist med kø-assistent",
+      "Sidespejle, el-justerbare, opvarmede med klapfunktion",
+      "Drejeassistent"
+     ],
+     "niveau_priser": null
+    },
+    {
+     "navn": "10 års jubilæumspakke",
+     "pris_kr": 16197,
+     "gaelder": "alle",
+     "indhold": [
+      "\"ErgoComfort\" AGR-førersæde",
+      "Motoruafhængigt varmesystem (vand) med fjernbetjening",
+      "Sædebetræk \"Marathon\"",
+      "Dæmpning mod kabinestøj, Premium",
+      "ACC Stop & Go",
+      "Fjernlysassistent \"Light Assist\"",
+      "Helårsdæk",
+      "MAN Traffic Jam Assist (inkl. aktiv Lane Keeping Assist)"
+     ],
+     "niveau_priser": null
+    }
+   ]
+  }
+ },
+ "udstyr_patch": {
+  "volkswagen-transporter": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 6267,
+     "note": "Tornadorød 6.287 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6267,
+     "note": "Tornadorød 6.287 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6267,
+     "note": "Tornadorød 6.287 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1202
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1202
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1202
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 3551,
+     "note": "Tagbøjler, sammenklappelige (3 stk.)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3551,
+     "note": "Tagbøjler, sammenklappelige (3 stk.)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3551,
+     "note": "Tagbøjler, sammenklappelige (3 stk.)"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1986,
+     "note": "Med kabineovervågning, backuphorn og bortslæbningsovervågning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1986,
+     "note": "Med kabineovervågning, backuphorn og bortslæbningsovervågning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1986,
+     "note": "Med kabineovervågning, backuphorn og bortslæbningsovervågning"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Førerkabinesædepakke: dobbelt passagersæde med underlæssefunktion og klapbord"
+    },
+    {
+     "s": "std",
+     "note": "Førerkabinesædepakke 37: dobbelt passagersæde med underlæssefunktion og klapbord"
+    },
+    {
+     "s": "std",
+     "note": "Førerkabinesædepakke: dobbelt passagersæde med underlæssefunktion og klapbord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "tilvalg",
+     "pris": 4918,
+     "note": "Navigationssystem med 13\" skærm og trådløs App-Connect"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4918,
+     "note": "Navigationssystem med 13\" skærm og trådløs App-Connect"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4918,
+     "note": "Navigationssystem med 13\" skærm og trådløs App-Connect"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Halv højde og loft. Fuld højde 2.260 kr."
+    },
+    {
+     "s": "std",
+     "note": "Halv højde og loft. Fuld højde 2.260 kr."
+    },
+    {
+     "s": "std",
+     "note": "Fuld højde og loft"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 1386,
+     "note": "400 W ved førersædekonsollen"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1386,
+     "note": "400 W ved førersædekonsollen"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1386,
+     "note": "400 W ved førersædekonsollen"
+    }
+   ]
+  },
+  "vw-e-transporter": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 6267,
+     "note": "Tornadorød 6.287 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6267,
+     "note": "Tornadorød 6.287 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i e-Transporter-prislisten (dieselens liste har reservehjul til 1.202 kr.)"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i e-Transporter-prislisten (dieselens liste har reservehjul til 1.202 kr.)"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "tilvalg",
+     "pris": 3551,
+     "note": "Tagbøjler, sammenklappelige (3 stk.)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 3551,
+     "note": "Tagbøjler, sammenklappelige (3 stk.)"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 1986,
+     "note": "Med kabineovervågning, backuphorn og bortslæbningsovervågning"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1986,
+     "note": "Med kabineovervågning, backuphorn og bortslæbningsovervågning"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Førerkabinesædepakke: dobbelt passagersæde med underlæssefunktion og klapbord"
+    },
+    {
+     "s": "std",
+     "note": "Førerkabinesædepakke: dobbelt passagersæde med underlæssefunktion og klapbord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "tilvalg",
+     "pris": 4918,
+     "note": "Navigationssystem med 13\" skærm og trådløs App-Connect"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4918,
+     "note": "Navigationssystem med 13\" skærm og trådløs App-Connect"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "std",
+     "note": "Halv højde og loft. Fuld højde 2.260 kr."
+    },
+    {
+     "s": "std",
+     "note": "Fuld højde og loft"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 1386,
+     "note": "400 W ved førersædekonsollen. Converter med tre stikdåser (2.300 W) 7.820 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1386,
+     "note": "400 W ved førersædekonsollen. Converter med tre stikdåser (2.300 W) 7.820 kr."
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "AC-ladeeffekt op til 11 kW i alle udgaver; listen har ingen 22 kW-lader"
+    },
+    {
+     "s": "nej",
+     "note": "AC-ladeeffekt op til 11 kW i alle udgaver; listen har ingen 22 kW-lader"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Nævnes ikke i prislisten"
+    }
+   ]
+  },
+  "vw-id-buzz-cargo": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 6400,
+     "note": "Deep Black perleeffekt samme pris. Tofarvet lak 17.600 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6400,
+     "note": "Deep Black perleeffekt samme pris. Tofarvet lak 17.600 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 5929,
+     "note": "Keyless Advanced med tyverialarm (ZG2)"
+    },
+    {
+     "s": "std",
+     "note": "Keyless Advanced med tyverialarm står i Pro-standardudstyret (listen viser dog også ZG2 til 5.929 kr. i Pro-kolonnerne)"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Førersæde og dobbelt passagersæde"
+    },
+    {
+     "s": "std",
+     "note": "Førersæde og dobbelt passagersæde"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Kun standard på Pro (\"Fabriksnavigation\"); hverken prislisten eller importørens lagerliste viser navigation som tilvalg til Comfort"
+    },
+    {
+     "s": "std",
+     "note": "Fabriksnavigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 509,
+     "note": "Importørens lagerliste (MY2027): 5DN \"Sidebeklædning i træfiberplade op til tagrammen i varerummet\" 509 kr. ekskl. moms. Står ikke i prislisten"
+    },
+    {
+     "s": "std",
+     "note": "Hel sidebeklædning af træfiber op til tagrammen"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "tilvalg",
+     "pris": 1145,
+     "note": "Importørens lagerliste (MY2027): FF1 PowerSocket, adapter til 230 V/10 A fra højvoltsbatteriet, 1.145 kr. ekskl. moms. Står ikke i prislisten"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1145,
+     "note": "Importørens lagerliste (MY2027): FF1 PowerSocket, adapter til 230 V/10 A fra højvoltsbatteriet, 1.145 kr. ekskl. moms. Står ikke i prislisten"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "nej",
+     "note": "AC-ladeeffekt op til 11 kW; listen har ingen 22 kW-lader"
+    },
+    {
+     "s": "nej",
+     "note": "AC-ladeeffekt op til 11 kW; listen har ingen 22 kW-lader"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "tilvalg",
+     "pris": 6597
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6597
+    }
+   ]
+  },
+  "vw-crafter": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 9895,
+     "note": "Indium Grey og Oyster Silver. Deep Black perleeffekt 10.375 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 9895,
+     "note": "Indium Grey og Oyster Silver. Deep Black perleeffekt 10.375 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std",
+     "note": "Reservehjul, værktøj og donkraft"
+    },
+    {
+     "s": "std",
+     "note": "Reservehjul, værktøj og donkraft"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i MY2027-prislisten. Importørens lagerliste har 7AQ tyverialarm til 4.024 kr. ekskl. moms på en MY2026-Crafter"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i MY2027-prislisten. Importørens lagerliste har 7AQ tyverialarm til 4.024 kr. ekskl. moms på en MY2026-Crafter"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagerbænksæde"
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagerbænksæde"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "nej"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 6095,
+     "note": "Radio Discover Media med navigation (Z67)"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "tilvalg",
+     "pris": 4075,
+     "note": "Kunststof, fuld højde, L3. L4 4.575 kr., L5 5.095 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4075,
+     "note": "Kunststof, fuld højde, L3. L4 4.575 kr., L5 5.095 kr."
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i MY2027-prislisten. Importørens lagerliste har 9Z3 230 V-stik (300 W) i førerkabinen til 1.397 kr. ekskl. moms på MY2026-biler"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i MY2027-prislisten. Importørens lagerliste har 9Z3 230 V-stik (300 W) i førerkabinen til 1.397 kr. ekskl. moms på MY2026-biler"
+    }
+   ]
+  },
+  "vw-amarok": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4424
+    },
+    {
+     "s": "std",
+     "note": "Midnight Black Metallic er standard; Bright Blue og Dark Grey Metallic uden merpris; de øvrige farver kan ikke vælges"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4424
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4424
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "std",
+     "note": "Tagræling, sølv"
+    },
+    {
+     "s": "std",
+     "note": "Tagræling, sort"
+    },
+    {
+     "s": "std",
+     "note": "Tagræling, sølv"
+    },
+    {
+     "s": "std",
+     "note": "Tagræling, sølv"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "std",
+     "note": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning (Thatcham)"
+    },
+    {
+     "s": "std",
+     "note": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning (Thatcham)"
+    },
+    {
+     "s": "std",
+     "note": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning (Thatcham)"
+    },
+    {
+     "s": "std",
+     "note": "Tyverialarm med kabineovervågning, backuphorn og bortslæbningsovervågning (Thatcham)"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "nej",
+     "note": "Dobbeltkabine med to enkeltsæder foran"
+    },
+    {
+     "s": "nej",
+     "note": "Dobbeltkabine med to enkeltsæder foran"
+    },
+    {
+     "s": "nej",
+     "note": "Dobbeltkabine med to enkeltsæder foran"
+    },
+    {
+     "s": "nej",
+     "note": "Dobbeltkabine med to enkeltsæder foran"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "12\" infotainment med navigation"
+    },
+    {
+     "s": "std",
+     "note": "12\" infotainment med navigation"
+    },
+    {
+     "s": "std",
+     "note": "12\" infotainment med navigation"
+    },
+    {
+     "s": "std",
+     "note": "12\" infotainment med navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ladbeklædning i måltabellen, men ikke som udstyr"
+    },
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ladbeklædning i måltabellen, men ikke som udstyr"
+    },
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ladbeklædning i måltabellen, men ikke som udstyr"
+    },
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ladbeklædning i måltabellen, men ikke som udstyr"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "120/230 V-stikdåse bagest i midterkonsollen"
+    },
+    {
+     "s": "std",
+     "note": "120/230 V-stikdåse bagest i midterkonsollen"
+    },
+    {
+     "s": "std",
+     "note": "120/230 V-stikdåse bagest i midterkonsollen"
+    },
+    {
+     "s": "std",
+     "note": "120/230 V-stikdåse bagest i midterkonsollen"
+    }
+   ]
+  },
+  "man-tge": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "note": "Indium Grey Metallic, Deep Black Pearl og Oyster Silver Metallic er \"mod merpris\"; prislisten oplyser ikke beløbet"
+    },
+    {
+     "s": "tilvalg",
+     "note": "Indium Grey Metallic, Deep Black Pearl og Oyster Silver Metallic er \"mod merpris\"; prislisten oplyser ikke beløbet"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med opbevaringsrum og klapbord. Pure-fodnoten nævner ikke sædet blandt forskellene"
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med opbevaringsrum og klapbord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "pakke",
+     "pris": 4636,
+     "pakke": "MAN Media Van Pakke Business Navigation 10,4\"",
+     "note": "12,9\" 5.848 kr. Også i Exclusive Pakke"
+    },
+    {
+     "s": "pakke",
+     "pris": 4636,
+     "pakke": "MAN Media Van Pakke Business Navigation 10,4\"",
+     "note": "12,9\" 5.848 kr. Også i Exclusive Pakke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Står ikke i prislisten"
+    }
+   ]
+  }
+ },
+ "udstyr_nye_modeller": {
+  "vw-caddy": {
+   "kilde": {
+    "url": "https://prislister-erhverv.volkswagen.dk/caddy%20cargo",
+    "dato": "2026-10-05",
+    "note": "Volkswagens nye prisliste for Caddy Cargo, \"Prisliste udskrevet pr. 05-10-2026\" (Caddy Maxi Cargo: https://prislister-erhverv.volkswagen.dk/caddy%20maxi%20cargo). ERSTATTER den nuværende vw-caddy-post, fordi niveauerne er ændret fra Caddy Cargo/Comfort/Pro (T01-listen, 22-10-2025) til Comfort/Edition. Den nye liste viser kun standardudstyr, der har en tilvalgsrelation, så flere poster er ukendte."
+   },
+   "niveauer": [
+    {
+     "navn": "Comfort",
+     "fra_pris": 207994,
+     "note": "1.5 TSI 116 hk 6-trins manuel, Caddy Cargo (kort)"
+    },
+    {
+     "navn": "Edition",
+     "fra_pris": 257688,
+     "note": "1.5 TSI 116 hk DSG, Caddy Cargo (kort). Edition fås kun med DSG"
+    }
+   ],
+   "udstyr": {
+    "aircondition": [
+     {
+      "s": "std",
+      "note": "Klimaanlæg Climatronic"
+     },
+     {
+      "s": "std",
+      "note": "Klimaanlæg Climatronic"
+     }
+    ],
+    "fartpilot": [
+     {
+      "s": "ukendt",
+      "note": "Almindelig fartpilot nævnes ikke i den nye prisliste. Adaptiv fartpilot fås i Assistentpakke Advanced (DSG)"
+     },
+     {
+      "s": "ukendt",
+      "note": "Almindelig fartpilot nævnes ikke i den nye prisliste. Adaptiv fartpilot fås i Assistentpakke Advanced (DSG)"
+     }
+    ],
+    "carplay": [
+     {
+      "s": "std",
+      "note": "Infotainment med 12,9\" skærm og trådløs App-Connect"
+     },
+     {
+      "s": "std",
+      "note": "Infotainment med 12,9\" skærm og trådløs App-Connect"
+     }
+    ],
+    "dab": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "noeglefri": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "saedevarme": [
+     {
+      "s": "std",
+      "note": "Varme i forsæder samt forrude"
+     },
+     {
+      "s": "std",
+      "note": "Varme i forsæder samt forrude"
+     }
+    ],
+    "opvarmet_forrude": [
+     {
+      "s": "std",
+      "note": "Varme i forsæder samt forrude"
+     },
+     {
+      "s": "std",
+      "note": "Varme i forsæder samt forrude"
+     }
+    ],
+    "parkeringsvarmer": [
+     {
+      "s": "tilvalg",
+      "pris": 17237,
+      "note": "\"Parkeringsvarmer, varme i forsæder samt forrude\""
+     },
+     {
+      "s": "tilvalg",
+      "pris": 17237,
+      "note": "\"Parkeringsvarmer, varme i forsæder samt forrude\""
+     }
+    ],
+    "psensor_bag": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "psensor_for": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "bakkamera": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "led_forlygter": [
+     {
+      "s": "pakke",
+      "pris": 11825,
+      "pakke": "Lys og syn pakke",
+      "note": "LED-forlygter, LED-baglygter, vejrafhængigt lys og drejelys"
+     },
+     {
+      "s": "std",
+      "note": "Lys og syn pakke"
+     }
+    ],
+    "elspejle_klap": [
+     {
+      "s": "std",
+      "note": "El-klapbare og el-opvarmelige"
+     },
+     {
+      "s": "std",
+      "note": "El-klapbare og el-opvarmelige"
+     }
+    ],
+    "adaptiv_fartpilot": [
+     {
+      "s": "pakke",
+      "pris": 16384,
+      "pakke": "Assistentpakke Advanced",
+      "note": "Kun med DSG. Med manuelt gear: Parkeringsassistent 13.356 kr. (kun Caddy Cargo)"
+     },
+     {
+      "s": "pakke",
+      "pris": 16384,
+      "pakke": "Assistentpakke Advanced"
+     }
+    ],
+    "blindvinkel": [
+     {
+      "s": "pakke",
+      "pris": 16384,
+      "pakke": "Assistentpakke Advanced",
+      "note": "Side Assist inkl. Blind Spot Detection. Kun med DSG. Med manuelt gear: Parkeringsassistent 13.356 kr. (kun Caddy Cargo)"
+     },
+     {
+      "s": "pakke",
+      "pris": 16384,
+      "pakke": "Assistentpakke Advanced",
+      "note": "Side Assist inkl. Blind Spot Detection"
+     }
+    ],
+    "skillevaeg": [
+     {
+      "s": "std",
+      "note": "Adskillelse uden rude. Med rude og gitter 1.577 kr.; med gitter uden merpris"
+     },
+     {
+      "s": "std",
+      "note": "Adskillelse uden rude. Med rude og gitter 1.577 kr.; med gitter uden merpris"
+     }
+    ],
+    "skydedoer_hoejre": [
+     {
+      "s": "std",
+      "note": "Udledt: listen sælger kun skydedør i venstre side som tilvalg"
+     },
+     {
+      "s": "std",
+      "note": "Udledt: listen sælger kun skydedør i venstre side som tilvalg"
+     }
+    ],
+    "skydedoer_venstre": [
+     {
+      "s": "tilvalg",
+      "pris": 5488
+     },
+     {
+      "s": "tilvalg",
+      "pris": 5488
+     }
+    ],
+    "bagdoere_rude": [
+     {
+      "s": "pakke",
+      "pris": 4573,
+      "pakke": "Rudepakke inkl. bagdøre med bagruder",
+      "note": "Caddy Maxi Cargo 10.389 kr."
+     },
+     {
+      "s": "pakke",
+      "pris": 4573,
+      "pakke": "Rudepakke inkl. bagdøre med bagruder",
+      "note": "Caddy Maxi Cargo 10.389 kr."
+     }
+    ],
+    "gulv_varerum": [
+     {
+      "s": "tilvalg",
+      "pris": 4352,
+      "note": "Træbund. Caddy Maxi Cargo 5.519 kr."
+     },
+     {
+      "s": "tilvalg",
+      "pris": 4352,
+      "note": "Træbund. Caddy Maxi Cargo 5.519 kr."
+     }
+    ],
+    "varerumslys_led": [
+     {
+      "s": "std"
+     },
+     {
+      "s": "std"
+     }
+    ],
+    "stik_12v_varerum": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "anhaengertraek": [
+     {
+      "s": "tilvalg",
+      "pris": 7363,
+      "note": "Fast"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 7363,
+      "note": "Fast"
+     }
+    ],
+    "metallak": [
+     {
+      "s": "tilvalg",
+      "pris": 7474
+     },
+     {
+      "s": "tilvalg",
+      "pris": 7474,
+      "note": "Metallak med tag i Grenadilla Black Metallic"
+     }
+    ],
+    "reservehjul": [
+     {
+      "s": "tilvalg",
+      "pris": 1291
+     },
+     {
+      "s": "tilvalg",
+      "pris": 1291
+     }
+    ],
+    "tagbaerer": [
+     {
+      "s": "tilvalg",
+      "pris": 2410,
+      "note": "Tagræling, sort. Sølv 3.959 kr."
+     },
+     {
+      "s": "std",
+      "note": "Tagræling, sort. Sølv 3.959 kr."
+     }
+    ],
+    "alarm": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "dobbelt_passagersaede": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "navigation": [
+     {
+      "s": "tilvalg",
+      "pris": 13429,
+      "note": "Navigationssystem Discover Pro"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 13429,
+      "note": "Navigationssystem Discover Pro"
+     }
+    ],
+    "beklaedning_varerum": [
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     },
+     {
+      "s": "ukendt",
+      "note": "Nævnes ikke i den nye prisliste"
+     }
+    ],
+    "stik_230v": [
+     {
+      "s": "tilvalg",
+      "pris": 2127,
+      "note": "230-Volt-stik (Schuko-stik)"
+     },
+     {
+      "s": "tilvalg",
+      "pris": 2127,
+      "note": "230-Volt-stik (Schuko-stik)"
+     }
+    ]
+   }
+  }
+ },
+ "afvigelser": [
+  "vw-caddy: Volkswagen har en NY prisliste for \"den nye Caddy Cargo\" (Comfort og Edition, \"Prisliste udskrevet pr. 05-10-2026\", https://prislister-erhverv.volkswagen.dk/caddy%20cargo og .../caddy%20maxi%20cargo), som Volkswagens prisoversigt linker til. varebiler.json og udstyr.json bygger på den gamle T01-liste (Caddy Cargo/Comfort/Pro, priser pr. 22-10-2025), som modelsiden volkswagen.dk/da/erhvervsbiler/caddy-cargo.html stadig linker til. Basisniveauet \"Caddy Cargo\" findes ikke længere.",
+  "vw-caddy: nypris.variant \"Caddy Cargo kort model, 2.0 TDI 102 hk, 6-trins manuel\" til 204.000 kr. findes ikke i den nye liste. Nærmeste er Caddy Cargo Comfort 2.0 TDI 102 hk 6-trins manuel til 212.994 kr. Billigste Caddy er nu Comfort 1.5 TSI 116 hk manuel til 207.994 kr. (før 1.5 TSI 114 hk til 201.433 kr.). Benzinmotoren er nu 116 hk i stedet for 114 hk.",
+  "vw-caddy: udstyr.json-niveauerne (Caddy Cargo, Comfort, Pro) passer ikke til den nye liste. Jeg har derfor IKKE lavet udstyr_patch for vw-caddy, men en hel ny post i udstyr_nye_modeller[\"vw-caddy\"] med niveauerne Comfort og Edition, som kan erstatte den gamle. Ændringer mod den gamle post: Climatronic, sædevarme, opvarmet forrude, bakkamera, p-sensorer for og el-klapbare spejle er nu standard på begge niveauer; DAB, nøglefri start og 12V-stik nævnes ikke længere; anhængertræk 7.363 kr. (før 7.361); skydedør venstre 5.488 (før 5.486); træbund 4.352 kr. (før gummibund 2.537 / træbund 5.515); levering 4.620 kr. (før 3.980).",
+  "volkswagen-transporter: nypris (Kassevogn lang Comfort 2.0 TDI 150 hk DSG) er uændret 298.463 kr. Alle tilvalgspriser i udstyr.json stemmer med PDF-udgavens ekskl.-moms-kolonne (fx træk 2.747, Premium Plus 10.349, Komfortpakke 2 10.243 kr.).",
+  "vw-e-transporter: nypris (Kassevogn lang Comfort 218 hk) er uændret 324.995 kr. Listen har nu også 136 hk 4MOTION (kort 329.995, lang 334.995 kr.).",
+  "vw-id-buzz-cargo: nypris.variant er \"Comfort 170 hk\" til 299.995 kr. Den aktuelle V01-liste (priser pr. 18-05-2026) har ikke 170 hk; Comfort 190 hk (58/61 kWh) koster 299.995 kr. varebiler.json henviser til ngw6-filen (T02, MY2026), som er forældet. batteri_kwh 63 og maal_kilde gælder 170 hk-udgaven.",
+  "vw-id-buzz-cargo: prislisten viser ZG2 \"Keyless Advanced med tyverialarm\" til 5.929 kr. i alle fire kolonner, også Pro, selvom Pro har den som standard ifølge samme liste.",
+  "vw-crafter: nypris (Comfort L3H3 177 hk aut. FWD) er uændret 375.995 kr. Bemærk: https://prislister-erhverv.volkswagen.dk/crafter giver en anden, dynamisk \"Prisliste udskrevet pr. 05-10-2026\" (L3/L4/L5 Kassevogn 35 uden udstyrsniveauer, fx 140 hk manuel 288.646 kr. og parkeringsvarmer som tilvalg). Den linkes ikke fra volkswagen.dk og ser forældet ud, så den er IKKE brugt (gemt som prislister/vw-crafter.ikke-brugt-prislister-erhverv.pdf).",
+  "vw-crafter: udstyr.json har stik_12v_varerum = tilvalg 430 kr. for Crafter fra en MY2026-lagerbil; det står ikke i MY2027-prislisten.",
+  "vw-amarok: nypris (Dark Label 441.995 kr.) passer med prislistens første 240 hk-række (ejerafgift 6.480 kr.). Listen har en anden 240 hk-række (ejerafgift 6.850 kr.), hvor Dark Label koster 421.995 kr. Prislisten er fra 12.08.2025 (MY2026) og er stadig den, VW linker til.",
+  "man-tge: nypris (3.140 L3H3 forhjulstræk 140 hk automat) er uændret 363.929 kr. Pure-rækken har samme tal i kolonnerne ekskl. og inkl. moms (326.328 kr.), sandsynligvis en fejl i listen. MAN-modelsidens link \"Tekniske data\" peger på en forældet MY25-prisliste (729959-99814-MAN-TGE-MY25-Pricelist-Update-DK...pdf); den er ikke brugt.",
+  "man-tge: listen oplyser ikke kW; udgavernes kw er null. MAN skriver selv, at kun udvalgte varianter og udvalgt ekstraudstyr er vist; konfiguratoren er ikke gennemgået.",
+  "Ingen af de eksisterende \"ukendt\"-felter i udstyr.json for disse modeller kunne afgøres af de nye lister."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "ford-e-transit": {
+  "bagdoere_rude": [
+   {
+    "s": "tilvalg",
+    "pris": 886,
+    "note": "Ruder bag. Visker og vasker bag koster 1.330 kr. ekstra"
+   },
+   {
+    "s": "tilvalg",
+    "pris": 886,
+    "note": "Ruder bag. Visker og vasker bag koster 1.330 kr. ekstra"
+   }
+  ],
+  "varerumslys_led": [
+   {
+    "s": "tilvalg",
+    "pris": 1330,
+    "note": "LED-lys i kabinen er en separat linje til 444 kr."
+   },
+   {
+    "s": "tilvalg",
+    "pris": 1330,
+    "note": "LED-lys i kabinen er en separat linje til 444 kr."
+   }
+  ]
+ },
+ "aendringer": [
+  "ford-e-transit bagdoere_rude, Trend 350 (3.500 kg): tilvalg 886 kr. uændret; note \"Inkl. varme i bagruder. Visker/vasker 2.216 kr.\" -> \"Ruder bag. Visker og vasker bag koster 1.330 kr. ekstra\". PDF side 4 (B3HAC Ruder, bag 886 kr., intet om varme) og side 5 (CFEAD Visk/Vask - bag 1.330 kr.).",
+  "ford-e-transit bagdoere_rude, Trend 425 (4.250 kg): samme ændring som Trend 350. PDF side 4 og 5.",
+  "ford-e-transit varerumslys_led, Trend 350 (3.500 kg): tilvalg 1.330 kr. uændret; note \"Inkl. LED-lys i kabine\" -> \"LED-lys i kabinen er en separat linje til 444 kr.\". PDF side 4 (JCMAD LED lys i varerum 1.330 kr., ingen \"Indeholder\"-linje) og side 5 (JCFAL LED lys i kabine 444 kr.).",
+  "ford-e-transit varerumslys_led, Trend 425 (4.250 kg): samme ændring som Trend 350. PDF side 4 og 5."
+ ]
+}

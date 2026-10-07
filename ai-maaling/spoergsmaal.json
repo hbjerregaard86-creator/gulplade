@@ -1,0 +1,30 @@
+{
+  "_om": "Fast sæt testspørgsmål til den månedlige måling af gulplade.dk i AI-svar (oprettet 04-10-2026). Stil dem ordret, uden login og i et nyt vindue, så historik ikke påvirker svaret. Ændr ikke formuleringerne — så kan månederne ikke sammenlignes. Nye spørgsmål tilføjes med nyt id.",
+  "point": {
+    "2": "gulplade.dk er kilde (link til en gulplade.dk-side)",
+    "1": "Gulplade.dk nævnes i svaret, men en anden side er kilden",
+    "0": "ikke med"
+  },
+  "spoergsmaal": [
+    { "id": "s01", "emne": "brand", "tekst": "Hvor kan jeg sammenligne leasingtilbud på varebiler i Danmark?", "maal": "/" },
+    { "id": "s02", "emne": "brand", "tekst": "Hvad er den bedste side til at finde billig varebil leasing til erhverv?", "maal": "/" },
+    { "id": "s03", "emne": "pris", "tekst": "Hvad koster det at lease en varebil til erhverv?", "maal": "/bedste-tilbud/hvad-koster-en-varebil/" },
+    { "id": "s04", "emne": "pris", "tekst": "Hvad er den billigste varebil at lease lige nu?", "maal": "/bedste-tilbud/billigste-varebil/" },
+    { "id": "s05", "emne": "pris", "tekst": "Hvad koster det at lease en Ford Transit Custom?", "maal": "/varebiler/ford/transit-custom/" },
+    { "id": "s06", "emne": "pris", "tekst": "Hvad koster det at lease en elvarebil?", "maal": "/bedste-tilbud/el-varebil/" },
+    { "id": "s07", "emne": "behov", "tekst": "Hvilken varebil er bedst til en håndværker?", "maal": "/bedste-tilbud/varebil-til-haandvaerker/" },
+    { "id": "s08", "emne": "behov", "tekst": "Hvilken varebil skal en elektriker vælge?", "maal": "/bedste-tilbud/varebil-til-elektriker/" },
+    { "id": "s09", "emne": "behov", "tekst": "Hvad er den største varebil man må køre på almindeligt kørekort?", "maal": "/bedste-tilbud/stoerste-varebil-paa-almindeligt-koerekort/" },
+    { "id": "s10", "emne": "behov", "tekst": "Hvilken elvarebil har længst rækkevidde?", "maal": "/bedste-tilbud/elvarebil-med-lang-raekkevidde/" },
+    { "id": "s11", "emne": "behov", "tekst": "Hvilke elvarebiler kan levere strøm til værktøj?", "maal": "/bedste-tilbud/elvarebil-med-v2l/" },
+    { "id": "s12", "emne": "behov", "tekst": "Hvilken varebil kan komme ind i en parkeringskælder?", "maal": "/bedste-tilbud/varebil-til-parkeringskaelder/" },
+    { "id": "s13", "emne": "regler", "tekst": "Hvad må man køre i en varebil på gule plader?", "maal": "/haandbogen/hvad-maa-du-koere-i-en-varebil-paa-gule-plader/" },
+    { "id": "s14", "emne": "regler", "tekst": "Må jeg tage firmabilen på gule plader med hjem?", "maal": "/haandbogen/tage-varebilen-med-hjem/" },
+    { "id": "s15", "emne": "regler", "tekst": "Hvad er forskellen på gule plader og papegøjeplader?", "maal": "/haandbogen/gule-hvide-eller-papegoejeplader/" },
+    { "id": "s16", "emne": "leasing", "tekst": "Skal jeg vælge finansiel eller operationel leasing af varebil?", "maal": "/haandbogen/finansiel-og-operationel-leasing/" },
+    { "id": "s17", "emne": "sammenligning", "tekst": "Ford Transit Custom eller VW Transporter, hvilken skal jeg vælge?", "maal": "/sammenlign/ford-transit-custom-vs-volkswagen-transporter/" },
+    { "id": "s18", "emne": "sammenligning", "tekst": "Kan det betale sig at vælge en elvarebil frem for diesel?", "maal": "/groen-omstilling/" },
+    { "id": "s19", "emne": "leasing", "tekst": "Hvad skal jeg tjekke i et leasingtilbud på en varebil?", "maal": "/haandbogen/det-staar-ikke-i-leasingtilbuddet/" },
+    { "id": "s20", "emne": "leasing", "tekst": "Kan man lease en varebil uden udbetaling?", "maal": "/bedste-tilbud/varebil-med-lav-udbetaling/" }
+  ]
+}

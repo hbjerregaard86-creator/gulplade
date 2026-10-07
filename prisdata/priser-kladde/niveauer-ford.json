@@ -1,0 +1,498 @@
+{
+  "niveauer": {
+    "ford-e-transit-courier": {
+      "kilde_fil": "prislister/ford-e-transit-courier.loesblad.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Pre-Collision Assist",
+            "Fartpilot",
+            "Lane Keeping System",
+            "P-sensorer bag",
+            "P-sensorer foran og bakkamera",
+            "12\" SYNC4 touchskærm",
+            "Apple CarPlay og Android Auto",
+            "Fuldautomatisk klimaanlæg",
+            "Opvarmet forrude",
+            "Rat i Sensico kunstlæder med varme",
+            "Skydedør i højre side",
+            "44 liter frunk"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "17\" alufælge med 215/55-17\" dæk",
+            "Indfarvede udvendige dørhåndtag",
+            "Sortlakerede sidespejle",
+            "Regnsensor",
+            "Sølvfarvede indvendige dørhåndtag",
+            "Trådløs opladning af mobiltelefon",
+            "LED kørelys",
+            "LED baglygter"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "ford-e-transit-custom": {
+      "kilde_fil": "prislister/ford-e-transit-custom.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "Varmepumpe",
+            "13\" SYNC4 touchscreen med DAB+ radiomodtagelse",
+            "Fartpilot og intelligent fartbegrænsning",
+            "P-sensorer for og bag",
+            "Bakkamera",
+            "Aircondition, 1 zone med automatisk regulering",
+            "Opvarmet forrude og regnsensor",
+            "Nøglefri start",
+            "Opvarmet, 4-vejs justerbart førersæde med armlæn og lændestøtte",
+            "Dobbelt passagersæde med varme på yderste siddeplads",
+            "Skydedør i højre side",
+            "Varerumsadskillelse med lastluge"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "16\" alufælge i farven Sparkle Silver med 215/65 R16 dæk",
+            "El-foldbare sidespejle",
+            "LED lys i varerum (5 spots)",
+            "Rat i Sensico kunstlæder",
+            "Nøglefri adgang"
+          ]
+        },
+        {
+          "navn": "Sport",
+          "bygger_paa": "Limited",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "17\" alufælge i farven Matte Black med 215/60 R17 dæk",
+            "Aircondition, 2 zoner med automatisk regulering",
+            "Opvarmet, el-justerbart førersæde med armlæn og el-justerbar lændestøtte",
+            "Side- og gardinairbags",
+            "Trim: Ripple Style 1, Digital Aqua Blue, vinyl/stof",
+            "Plastbund i varerum",
+            "Sidebeklædning i varerum",
+            "Skydedør i højre side med elektrisk lukkeassist",
+            "Sportsstriber, skørtekit & tagspoiler",
+            "Trådløs opladning af mobiltelefon"
+          ]
+        }
+      ],
+      "note": "Prislisten viser hele standardudstyret pr. niveau i udstyrslisten på side 2 til 5, og forskellene er fundet derfra. LED-forlygter og LED-baglygter er standard på alle tre niveauer."
+    },
+    "ford-ranger": {
+      "kilde_fil": "prislister/ford-ranger.pdf",
+      "niveauer": [
+        {
+          "navn": "Wildtrak",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Off-road pakke: differentialespærre bag, metalskjold under motor og brændstoftank",
+            "18\" alufælge med 255/65R18 dæk (ej vintergodkendt i DK)",
+            "SYNC4, navigation, 12\" touchskærm, DAB+",
+            "2-zone klimaanlæg",
+            "Intelligent adaptiv fartpilot",
+            "360 graders kamera",
+            "P-sensorer foran",
+            "Nøglefri adgang og start",
+            "El-førersæde",
+            "Opvarmet forrude",
+            "Ladrælinger",
+            "Thatcham alarm"
+          ]
+        },
+        {
+          "navn": "Platinum",
+          "bygger_paa": "Wildtrak",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Diesel: 20\" alufælge med 255/55-20 dæk (ej vintergodkendt i DK)",
+            "PHEV: 18\" alufælge med 255/65R18 dæk (ej vintergodkendt i DK)",
+            "LED Matrix forlygter",
+            "B&O højttalere",
+            "Perforerede premium lædersæder med ventilation",
+            "El-passagersæde",
+            "Førersæde med memory",
+            "PHEV: BlueCruise (90-dages gratis prøveperiode)"
+          ]
+        },
+        {
+          "navn": "Raptor",
+          "bygger_paa": "Platinum",
+          "beregnet": true,
+          "side": 1,
+          "kilde_fil": "prislister/ford-ranger.raptor.pdf",
+          "ekstra": [
+            "Live Valve Fox affjedring",
+            "17\" alufælge med 285/70-17\" A/T dæk",
+            "Differentialespærre for og bag",
+            "Metalskjold under motor og brændstoftank",
+            "Anhængertræk",
+            "Ladindsats",
+            "400W udtag",
+            "Pro Trailer Backup assist",
+            "Blind Spot (BLIS) med trailerovervågning",
+            "7 Drive modes",
+            "Trinbrædder",
+            "Udvidede hjulkasser",
+            "Stænklapper for og bag",
+            "LED C-profil kørelys",
+            "12\" digital instrumentering",
+            "Opvarmet læderrat",
+            "Trådløs oplader",
+            "Tilbehørskontakter",
+            "Aktiv udstødning (elektronisk styrede lydprofiler)"
+          ]
+        }
+      ],
+      "note": "Wildtrak og Platinum er fra prislistens lister over udvalgt standardudstyr på side 1. Platinum har ikke Wildtraks off-road pakke. Udstyrslisten på side 2 har BlueCruise-forberedelse som standard på Platinum uden at nævne PHEV. Raptor har sin egen prisliste, og den bygger ikke på et andet niveau. Raptors punkter er dem, der ikke står i listerne for Wildtrak og Platinum. Alle tre lister viser kun udvalgt udstyr, så nogle af Raptors punkter kan også findes på Platinum. Anhængertræk og ladindsats er ekstraudstyr på Wildtrak og Platinum."
+    },
+    "ford-transit": {
+      "kilde_fil": "prislister/ford-transit.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "SYNC4 med 12\" skærm",
+            "Fartpilot",
+            "Parkeringssensorer for og bag",
+            "Bakkamera",
+            "Elektronisk aircondition",
+            "Opvarmet forrude",
+            "Programmerbar motor-/kabinevarmer med fjernbetjening",
+            "Perimeter alarm",
+            "Højre skydedør",
+            "Opvarmet førersæde (4-vejs justerbart) med lændestøtte og armlæn",
+            "Dobbelt passagersæde (opvarmet på yderste siddeplads)",
+            "Varerumsadskillelse i plast med rude"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "Adaptiv fartpilot på manuelt gear",
+            "Adaptiv fartpilot med Stop & Go på automatgear",
+            "Lane Change Warning & Aid på manuelt gear",
+            "Lane Change Warning & Aid med Lane Centering på automatgear",
+            "BLIS w/Trailering & MOIS",
+            "Reverse Brake Assist",
+            "360° kamera",
+            "Parkeringssensorer for, bag og siden",
+            "Sidespejle, el-justerbare, opvarmede og el-foldbare",
+            "HID Xenon forlygter",
+            "Dreje forlygter",
+            "16\" alufælge",
+            "Nøglefri start",
+            "2. fjernbetjeningsnøgle"
+          ]
+        }
+      ],
+      "note": "Der er intet løsblad til Transit. Prislisten viser hele standardudstyret pr. niveau i udstyrslisten på side 2 til 6, og forskellen er fundet derfra. De fleste af Limiteds førerassistenter kommer fra Førerassistancepakke 6, som Trend kan få som ekstraudstyr."
+    },
+    "ford-transit-connect": {
+      "kilde_fil": "prislister/ford-transit-connect.loesblad.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Manuel aircondition",
+            "Parkeringssensorer for og bag",
+            "Fartpilot med intelligent fartbegrænser",
+            "Pre-Collision Assist med nødbremse",
+            "Lane Keeping Aid",
+            "Opvarmet forrude",
+            "Enkelt passagersæde med varme",
+            "El-justerbare og opvarmede sidespejle",
+            "2 stk. 12V udtag (placeret i kabine og varerum)",
+            "Elektronisk parkeringsbremse",
+            "Fjernbetjent centrallås",
+            "6 airbags"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "2-zoners elektronisk aircondition",
+            "Regnsensor",
+            "El-justerbare, foldbare og opvarmede sidespejle",
+            "LED lys i varerum",
+            "17\" sølvfarvede alufælge",
+            "Trådløs opladning af mobiltelefon",
+            "Bakkamera",
+            "Intelligent adaptiv fartpilot",
+            "Blind Spot Assist med Cross Traffic Alert og udkørselsadvarsel",
+            "Fords nøglefrisystem med nøglefri start",
+            "4-vejs manuelt justerbart passagersæde",
+            "Lændestøtte i førersædet",
+            "Nedfældeligt passagersæde med integreret arbejdsoverflade",
+            "Digitalt instrumentbord (udvidet) med Navigation Integration",
+            "Dæktryksovervågning med visning i digitalt instrumentpanel",
+            "Handskerum med låge & lys",
+            "Chrome grill",
+            "Bagkofanger lakeret",
+            "Dørhåndtag lakerede"
+          ]
+        }
+      ],
+      "note": "Punkterne for Limited er fra løsbladets liste over udstyr ud over Trend. De sidste ti punkter står ikke på løsbladet, men prislistens udstyrsliste (prislisten side 2 til 5) har dem som standard på Limited og ikke på Trend. Løsbladet skriver, at Limited har et opvarmet 4-vejs førersæde og Trend et 2-vejs. Ifølge prislisten har begge niveauer et 4-vejs førersæde, og kun passagersædet er forskelligt, så det punkt er udeladt."
+    },
+    "ford-transit-connect-phev": {
+      "kilde_fil": "prislister/ford-transit-connect-phev.loesblad.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "2-zoners elektronisk aircondition",
+            "Nøglefri start",
+            "Parkeringssensorer for og bag",
+            "Fartpilot med intelligent fartbegrænser",
+            "Pre-Collision Assist med nødbremse",
+            "Lane Keeping Aid",
+            "Opvarmet forrude",
+            "Opvarmet, 4-vejs justerbart førersæde",
+            "Enkelt passagersæde med varme",
+            "El-justerbare og opvarmede sidespejle",
+            "2 stk. 12V udtag (placeret i kabine og varerum)",
+            "Elektronisk parkeringsbremse"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Regnsensor",
+            "El-justerbare, foldbare og opvarmede sidespejle",
+            "LED lys i varerum",
+            "17\" sølvfarvede alufælge",
+            "Trådløs opladning af mobiltelefon",
+            "Bakkamera",
+            "Intelligent adaptiv fartpilot",
+            "Blind Spot Assist med Cross Traffic Alert og udkørselsadvarsel",
+            "Fords nøglefrisystem med nøglefri start",
+            "4-vejs manuelt justerbart passagersæde",
+            "Lændestøtte i førersædet",
+            "Nedfældeligt passagersæde med integreret arbejdsoverflade",
+            "Dæktryksovervågning med visning i digitalt instrumentpanel",
+            "Handskerum med låge & lys",
+            "Chrome grill",
+            "Bagkofanger lakeret",
+            "Dørhåndtag lakerede"
+          ]
+        }
+      ],
+      "note": "Punkterne for Limited er fra løsbladets liste over udstyr ud over Trend. De sidste ni punkter står ikke på løsbladet, men prislistens udstyrsliste (prislisten side 2 til 4) har dem som standard på Limited og ikke på Trend."
+    },
+    "ford-transit-courier": {
+      "kilde_fil": "prislister/ford-transit-courier.loesblad.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Pre-Collision Assist",
+            "Fartpilot",
+            "Lane Keeping System",
+            "P-sensorer bag",
+            "8\" SYNC4 touchskærm",
+            "Apple CarPlay og Android Auto",
+            "Aircondition",
+            "Opvarmet forrude",
+            "Rat i Sensico kunstlæder med varme",
+            "El-justerbare og opvarmede sidespejle",
+            "Skydedør i højre side",
+            "15\" stålfælge med 195/65-15\" dæk"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "16\" alufælge med 205/65-16\" dæk",
+            "Indfarvede udvendige dørhåndtag",
+            "Sortlakerede sidespejle",
+            "Regnsensor",
+            "Nøglefri start",
+            "Fuldautomatisk klimaanlæg",
+            "Trådløs opladning af mobiltelefon",
+            "P-sensorer foran og bakkamera",
+            "2 fjernbetjeningsnøgler"
+          ]
+        }
+      ],
+      "note": "Punkterne for Limited er fra løsbladets liste over udstyr ud over Trend. Det sidste punkt står kun i prislistens udstyrsliste (prislisten side 2), hvor Trend har 2 flipnøgler med fjernbetjening."
+    },
+    "ford-transit-custom": {
+      "kilde_fil": "prislister/ford-transit-custom.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "13\" SYNC4 touchscreen med DAB+ radiomodtagelse",
+            "Fartpilot og intelligent fartbegrænsning",
+            "P-sensorer for og bag",
+            "Bakkamera",
+            "Aircondition, 1 zone med automatisk regulering",
+            "Programmerbar motor-/kabinevarmer med fjernbetjening",
+            "Opvarmet forrude og regnsensor",
+            "Nøglefri start",
+            "Opvarmet, 4-vejs justerbart førersæde med armlæn og lændestøtte",
+            "Dobbelt passagersæde med varme på yderste siddeplads",
+            "Skydedør i højre side",
+            "Varerumsadskillelse med lastluge"
+          ]
+        },
+        {
+          "navn": "Trail",
+          "bygger_paa": "Trend",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "16\" twin-spoke alufælge i farven Matte Black med 215/65 R16 dæk",
+            "El-foldbare sidespejle",
+            "LED lys i varerum (5 spots)",
+            "Rat i Sensico kunstlæder",
+            "Side- og gardinairbags",
+            "Trim: Windsor Style 1, Black Onyx, Sensico kunstlæder"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "16\" alufælge i farven Sparkle Silver med 215/65 R16 dæk",
+            "El-foldbare sidespejle",
+            "LED lys i varerum (5 spots)",
+            "Rat i Sensico kunstlæder",
+            "Nøglefri adgang"
+          ]
+        },
+        {
+          "navn": "Sport",
+          "bygger_paa": "Limited",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "17\" alufælge i farven Matte Black med 215/60 R17 dæk",
+            "Aircondition, 2 zoner med automatisk regulering",
+            "LED baglygter",
+            "Opvarmet, el-justerbart førersæde med armlæn og el-justerbar lændestøtte",
+            "Side- og gardinairbags",
+            "Trim: Ripple Style 1, Digital Aqua Blue, vinyl/stof",
+            "Plastbund i varerum",
+            "Sidebeklædning i varerum",
+            "Skydedør i højre side med elektrisk lukkeassist",
+            "Sportsstriber, skørtekit & tagspoiler",
+            "Trådløs opladning af mobiltelefon"
+          ]
+        }
+      ],
+      "note": "Prislisten viser hele standardudstyret pr. niveau i udstyrslisten på side 2 til 5, og forskellene er fundet derfra. Trail fås kun med 136 hk og manuelt gear, og Limited kun med 170 hk og automatgear. Sammenlignet med Trend med samme motor og gear er både Trail og Limited det næste niveau, så begge er regnet ud fra Trend. Trend må trække 2.800 kg, mens Trail, Limited og Sport må trække 2.500 kg."
+    },
+    "ford-transit-custom-phev": {
+      "kilde_fil": "prislister/ford-transit-custom-phev.pdf",
+      "niveauer": [
+        {
+          "navn": "Trend",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 2,
+          "ekstra": [
+            "13\" SYNC4 touchscreen med DAB+ radiomodtagelse",
+            "Fartpilot og intelligent fartbegrænsning",
+            "P-sensorer for og bag",
+            "Bakkamera",
+            "Aircondition, 1 zone med automatisk regulering",
+            "Opvarmet forrude og regnsensor",
+            "Nøglefri start",
+            "Opvarmet, 4-vejs justerbart førersæde med armlæn og lændestøtte",
+            "Dobbelt passagersæde med varme på yderste siddeplads",
+            "Skydedør i højre side",
+            "Varerumsadskillelse med lastluge",
+            "Ladekabel 5 m"
+          ]
+        },
+        {
+          "navn": "Limited",
+          "bygger_paa": "Trend",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "16\" alufælge i farven Sparkle Silver med 215/65 R16 dæk",
+            "El-foldbare sidespejle",
+            "LED lys i varerum (5 spots)",
+            "Rat i Sensico kunstlæder",
+            "Nøglefri adgang"
+          ]
+        },
+        {
+          "navn": "Sport",
+          "bygger_paa": "Limited",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "17\" alufælge i farven Matte Black med 215/60 R17 dæk",
+            "Aircondition, 2 zoner med automatisk regulering",
+            "LED baglygter",
+            "Opvarmet, el-justerbart førersæde med armlæn og el-justerbar lændestøtte",
+            "Side- og gardinairbags",
+            "Trim: Ripple Style 1, Digital Aqua Blue, vinyl/stof",
+            "Plastbund i varerum",
+            "Sidebeklædning i varerum",
+            "Skydedør i højre side med elektrisk lukkeassist",
+            "Sportsstriber, skørtekit & tagspoiler",
+            "Trådløs opladning af mobiltelefon"
+          ]
+        }
+      ],
+      "note": "Prislisten viser hele standardudstyret pr. niveau i udstyrslisten på side 2 til 5, og forskellene er fundet derfra."
+    }
+  }
+}

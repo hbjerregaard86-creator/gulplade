@@ -1,0 +1,3495 @@
+{
+ "priser": {
+  "peugeot-partner": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/partner-priser-og-specifikationer/",
+   "kilde_navn": "Peugeot Danmarks prisliste for Partner Diesel Varebil (Q4 2025)",
+   "prisliste_dato": "2025-11-19",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": 3740,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Listen er mærket „Prisliste Q4 2025“ med „Priser pr. 19/11/2025“ og er stadig den, peugeot.dk linker til. Bilpriserne er ekskl. moms og levering og inkl. registreringsafgift (står i listen). Levering 3.740 kr. ekskl. moms. Tilvalgene (side 3–5) står midt mellem Plus- og Premium-kolonnen og gælder begge niveauer (kontrolleret med ordpositioner); den nederste pris under hvert tilvalg er med moms og er ikke brugt. hk og kW er fra den tekniske tabel (102 hk/75 kW og 131 hk/96 kW), mens navnene bruger 100 og 130. Vægttabellen har kun Plus-rækker, så totalvægt er null på Premium. Dokumentet indeholder også en ældre e-Partner-liste (side 2 og 8–11), som e-Partner-listen fra 12-08-2026 har afløst. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Partner Plus L1V1 1.5 BlueHDi 100 6-trins manuel",
+     "niveau": "Plus",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2005,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 102,
+     "kw": 75,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 192990
+    },
+    {
+     "navn": "Partner Plus L1V1 1.5 BlueHDi 130 8-trins automatgear",
+     "niveau": "Plus",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2040,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 131,
+     "kw": 96,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 223990
+    },
+    {
+     "navn": "Partner Plus L2V2 1.5 BlueHDi 100 6-trins manuel",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2375,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 102,
+     "kw": 75,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 216990
+    },
+    {
+     "navn": "Partner Plus L2V2 1.5 BlueHDi 130 8-trins automatgear",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 131,
+     "kw": 96,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 237990
+    },
+    {
+     "navn": "Partner Premium L1V1 1.5 BlueHDi 130 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 131,
+     "kw": 96,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 247990
+    },
+    {
+     "navn": "Partner Premium L2V2 1.5 BlueHDi 130 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": null,
+     "drivmiddel": "diesel",
+     "motor": "1.5 BlueHDi",
+     "hk": 131,
+     "kw": 96,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 259990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Venstre skydedør",
+     "gruppe": "varerum",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højre og venstre skydedør med rude",
+     "gruppe": "varerum",
+     "pris_kr": 6410,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "16\" alufælge med sommerdæk (205/60 R16)",
+     "gruppe": "ydre",
+     "pris_kr": 7211,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul i fuld størrelse",
+     "gruppe": "ydre",
+     "pris_kr": 1362,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "pakker": []
+  },
+  "peugeot-e-partner": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-partner-priser-og-specifikationer/",
+   "kilde_navn": "Peugeot Danmarks prisliste for Partner Electric",
+   "prisliste_dato": "2026-08-12",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Pris eksl. moms og leveringsomkostninger“; prisen med moms er præcis 1,25 gange. Tilvalgene (side 4) er „Ekskl. moms, inkl. afgift“ med samme pris i Plus- og Premium-kolonnen. Listen oplyser hverken leveringsomkostninger eller kW. Drive Assist Pack (adaptiv fartpilot med stop & go m.m.) er standard på Premium og kan ikke fås på Plus, så den står ikke som tilvalg. Totalvægten 2.450 kg står for L1V2 og L2V2 uden opdeling på niveau. Listen siger ikke direkte, at registreringsafgiften er med i bilprisen. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "e-Partner Plus L1 50 kWh 136 hk automatgear",
+     "niveau": "Plus",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 189990
+    },
+    {
+     "navn": "e-Partner Plus L2 50 kWh 136 hk automatgear",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 199990
+    },
+    {
+     "navn": "e-Partner Premium L1 50 kWh 136 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 199990
+    },
+    {
+     "navn": "e-Partner Premium L2 50 kWh 136 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2450,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": null,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 209990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forberedelse til anhængertræk",
+     "gruppe": "traek",
+     "pris_kr": 2724,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Kun forberedelsen; selve trækket er ikke prissat i listen. Maks. anhængervægt 750 kg."
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højre og venstre skydedør med rude",
+     "gruppe": "varerum",
+     "pris_kr": 6410,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1362,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "pakker": []
+  },
+  "peugeot-expert": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/expert-priser-specifikationerpdf/",
+   "kilde_navn": "Peugeot Danmarks prisliste for Expert",
+   "prisliste_dato": "2026-03-13",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspris ekskl. moms og levering. Listen er mærket „Opdateret 13.03.2026“, men PDF-filen er lavet 01-06-2026. Tilvalgene (side 4) er „Ekskl. moms, inkl. afgift“ med én pris uden niveauopdeling, så de er sat til at gælde begge niveauer. Listen opgiver 105 kW for 150 hk og 135 kW for 180 hk, som er skrevet af (se afvigelser). Side 2 har skjult tekst fra en ældre 2.0-tabel uden for siden; kun den synlige tabel er brugt. Ingen leveringsomkostninger i listen. Registreringsafgiften står ikke direkte ved bilprisen, men tilvalgene er „inkl. afgift“. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Expert L2 Plus 2.2 BlueHDi 150 6-trins manuel",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 243990
+    },
+    {
+     "navn": "Expert L2 Plus 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 251990
+    },
+    {
+     "navn": "Expert L3 Plus 2.2 BlueHDi 150 6-trins manuel",
+     "niveau": "Plus",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 247990
+    },
+    {
+     "navn": "Expert L3 Plus 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Plus",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 253990
+    },
+    {
+     "navn": "Expert L2 Premium 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 266990
+    },
+    {
+     "navn": "Expert L2 Premium 2.2 BlueHDi 180 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 276990
+    },
+    {
+     "navn": "Expert L3 Premium 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 271990
+    },
+    {
+     "navn": "Expert L3 Premium 2.2 BlueHDi 180 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 281990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 3756,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZQ",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med alufælge fra fabrik"
+    },
+    {
+     "navn": "Enkelt passagersæde med armlæn",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WAAS",
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde, uden merpris"
+    },
+    {
+     "navn": "To skydedøre (højre skydedør er standard)",
+     "gruppe": "varerum",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "WZ07",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Isoleret komfort-varerumsadskillelse med rude",
+     "gruppe": "varerum",
+     "pris_kr": 2147,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "PX37",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængt bagklap med rude",
+     "gruppe": "varerum",
+     "pris_kr": 3220,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WO06",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med ruder",
+     "gruppe": "ydre",
+     "pris_kr": 2576,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "WO05",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Phoenix grå antracit alufælge med sommerdæk (215/60 R17)",
+     "gruppe": "ydre",
+     "pris_kr": 5259,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1610,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "RS03",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Anhængertræk, aftageligt",
+     "gruppe": "traek",
+     "pris_kr": 5366,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": "AQ05",
+     "tilbehoer": false,
+     "note": "Aftageligt, fabriksmonteret"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "MET",
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Speciallak (Blå Imperial eller Rød Ardent)",
+     "gruppe": "ydre",
+     "pris_kr": 8050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "SPEC",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med indfarvede kofangere"
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Byggepladspakke",
+     "pris_kr": 7513,
+     "gaelder": "Kun udgaver med manuelt gear (Plus)",
+     "indhold": [
+      "Grip Control",
+      "Motorskjold i stål",
+      "Reservehjul på stålfælg (RS03)",
+      "Helårsdæk (ZHZQ)"
+     ],
+     "niveau_priser": null,
+     "kode": "GA04"
+    }
+   ]
+  },
+  "peugeot-e-expert": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-expert-priser-specifikationerpdf/",
+   "kilde_navn": "Peugeot Danmarks prisliste for E-Expert",
+   "prisliste_dato": "2026-08-03",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Vejledende udsalgspris ekskl. moms og levering“; prisen med moms er præcis 1,25 gange. Tilvalgene (side 3) er „Ekskl. moms, inkl. afgift“ med én pris uden niveauopdeling, så de er sat til at gælde begge niveauer. Listen har intet fabriksmonteret anhængertræk, selv om bilen må trække 1.000 kg. Ingen leveringsomkostninger i listen. Registreringsafgiften står ikke direkte ved bilprisen, men tilvalgene er „inkl. afgift“. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "e-Expert L2 Plus 75 kWh 136 hk automatgear",
+     "niveau": "Plus",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3021,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 244990
+    },
+    {
+     "navn": "e-Expert L3 Plus 75 kWh 136 hk automatgear",
+     "niveau": "Plus",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3053,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 249990
+    },
+    {
+     "navn": "e-Expert L2 Premium 75 kWh 136 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3021,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 269990
+    },
+    {
+     "navn": "e-Expert L3 Premium 75 kWh 136 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3053,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 274990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 3756,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZQ",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med alufælge fra fabrik"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WAAS",
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde, uden merpris"
+    },
+    {
+     "navn": "To skydedøre (højre skydedør er standard)",
+     "gruppe": "varerum",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "WZ07",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Isoleret komfort-varerumsadskillelse med rude",
+     "gruppe": "varerum",
+     "pris_kr": 2147,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "PX37",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængt bagklap med rude",
+     "gruppe": "varerum",
+     "pris_kr": 3220,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WO06",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med ruder",
+     "gruppe": "ydre",
+     "pris_kr": 2576,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "WO05",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Phoenix grå antracit alufælge med sommerdæk (215/60 R17)",
+     "gruppe": "ydre",
+     "pris_kr": 5259,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1610,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "RS03",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "MET",
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Speciallak (Blå Imperial eller Rød Ardent)",
+     "gruppe": "ydre",
+     "pris_kr": 8050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "SPEC",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med indfarvede kofangere"
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Byggepladspakke (E-Expert)",
+     "pris_kr": 7513,
+     "gaelder": "alle",
+     "indhold": [
+      "Grip Control",
+      "Motorskjold i stål",
+      "Reservehjul på stålfælg (RS03)",
+      "Helårsdæk (ZHZQ)"
+     ],
+     "niveau_priser": null,
+     "kode": "UF02"
+    }
+   ]
+  },
+  "peugeot-boxer": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/boxer-priser-og-specifikationer/",
+   "kilde_navn": "Peugeot Danmarks prisliste for Boxer Van Diesel",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspris ekskl. moms og levering; prisen med moms passer med, at registreringsafgiften er med. Tilvalgene (side 2) er „Ekskl. moms, inkl. afgift“. Farvesiden (side 3) har ingen momsangivelse og er sat som ekskl. moms ligesom tilvalgene. Kun niveauet Premium. EAT8 er 8-trins automatgear, de øvrige har 6-trins manuel. Listen opgiver 105 kW for 140 hk og 135 kW for 180 hk, som er skrevet af (se afvigelser). Ingen leveringsomkostninger og intet fabriksmonteret anhængertræk i listen. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Boxer Premium 333 L2H1 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 271990
+    },
+    {
+     "navn": "Boxer Premium 333 L2H2 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 277990
+    },
+    {
+     "navn": "Boxer Premium 333 L3H2 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 284990
+    },
+    {
+     "navn": "Boxer Premium 335 L2H1 2.2 BlueHDi 140 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 294990
+    },
+    {
+     "navn": "Boxer Premium 335 L2H2 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 284990
+    },
+    {
+     "navn": "Boxer Premium 335 L2H2 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 314990
+    },
+    {
+     "navn": "Boxer Premium 335 L3H2 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 291990
+    },
+    {
+     "navn": "Boxer Premium 335 L3H2 2.2 BlueHDi 140 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 311990
+    },
+    {
+     "navn": "Boxer Premium 335 L3H2 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 321990
+    },
+    {
+     "navn": "Boxer Premium 435 L2H2 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 320990
+    },
+    {
+     "navn": "Boxer Premium 435 L3H2 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 326990
+    },
+    {
+     "navn": "Boxer Premium 435 L3H3 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 332990
+    },
+    {
+     "navn": "Boxer Premium 435 L4H2 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L4",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 332990
+    },
+    {
+     "navn": "Boxer Premium 435 L4H3 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Premium",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 339990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forstærkede bagfjedre",
+     "gruppe": "andet",
+     "pris_kr": 1190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "220A generator, forstærket 12V-batteri og opbyggerstik",
+     "gruppe": "andet",
+     "pris_kr": 2190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde og bakspejl",
+     "gruppe": "ydre",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfortførersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": []
+  },
+  "peugeot-e-boxer": {
+   "kilde_url": "https://ipaper.ipapercms.dk/Peugeot/Brochurer/varebiler-prislister/e-boxer-priser-og-specifikationer/",
+   "kilde_navn": "Peugeot Danmarks prisliste for E-Boxer Van",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Vejledende udsalgspris ekskl. moms og levering“; prisen med moms er præcis 1,25 gange. Tilvalgene (side 2) er „Ekskl. moms, inkl. afgift“; farvesiden har ingen momsangivelse og er sat som ekskl. moms. Kun niveauet Premium. 435 registreres som varebil på 3.500 kg (130 km/t), 440 som lastbil på 4.250 kg (90 km/t). 270 hk/200 kW er effekten i Power-tilstand. Vægttabellen er foreløbige data og viser „-“ for anhængervægt, men 5.500 kg tilladt vogntogsvægt. Ingen leveringsomkostninger i listen. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "e-Boxer Premium 435 L3H2 110 kWh 270 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 309990
+    },
+    {
+     "navn": "e-Boxer Premium 440 L3H2 110 kWh 270 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 315490
+    },
+    {
+     "navn": "e-Boxer Premium 440 L4H3 110 kWh 270 hk automatgear",
+     "niveau": "Premium",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 326490
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Blind-Spot med Rear Traffic Alert",
+     "gruppe": "assistent",
+     "pris_kr": 4150,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "blindvinkel",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "ePTO",
+     "gruppe": "andet",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde og bakspejl",
+     "gruppe": "ydre",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfortførersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": []
+  },
+  "citroen-berlingo": {
+   "kilde_url": "https://brochurer.citroen.dk/brochurer/varebiler/berlingo-van-ice/",
+   "kilde_navn": "Citroën Danmarks prisliste for Berlingo",
+   "prisliste_dato": "2026-03-23",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Pris eksl. moms og leveringsomkostninger“; prisen med moms passer med, at registreringsafgiften er med. Tilvalgene (side 3) er „Ekskl. moms, inkl. afgift“. Kun niveauet Masterline. Gear står kun ved 130 hk („Aut.“), så 100 hk-udgaverne er sat til manuel. hk er fra kolonnen „Ydelse HK“; kW står ikke i listen. Vægttabellen er overskrevet „Enjoy“, men rækkerne svarer til udgaverne. Ingen leveringsomkostninger i listen. ë-Berlingo har sin egen liste og ingen model-id, så den er ikke med (se afvigelser). Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Berlingo Masterline L1V1 1.5 HDi 100 hk manuel",
+     "niveau": "Masterline",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2040,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 177990
+    },
+    {
+     "navn": "Berlingo Masterline L2V2 1.5 HDi 100 hk manuel",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 100,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 191990
+    },
+    {
+     "navn": "Berlingo Masterline L1V1 1.5 HDi 130 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L1",
+     "hoejde": null,
+     "totalvaegt_kg": 2050,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 207990
+    },
+    {
+     "navn": "Berlingo Masterline L2V2 1.5 HDi 130 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2400,
+     "drivmiddel": "diesel",
+     "motor": "1.5 HDi",
+     "hk": 130,
+     "kw": null,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 220990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forberedelse til anhængertræk",
+     "gruppe": "traek",
+     "pris_kr": 2724,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "anhaengertraek",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Kun forberedelsen; selve trækket er ikke prissat i listen"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Højre og venstre skydedør med rude",
+     "gruppe": "varerum",
+     "pris_kr": 6410,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1362,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "16\" alufælge",
+     "gruppe": "ydre",
+     "pris_kr": 7211,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4808,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "pakker": [
+    {
+     "navn": "Drive Assist Pack",
+     "pris_kr": 14423,
+     "gaelder": "alle",
+     "indhold": [
+      "Highway Integrated Assist (HIA)",
+      "Adaptiv fartpilot med stop & go",
+      "Vejbaneassistent",
+      "Udvidet skiltegenkendelse"
+     ],
+     "niveau_priser": null,
+     "kode": null
+    }
+   ]
+  },
+  "citroen-jumpy": {
+   "kilde_url": "https://brochurer.citroen.dk/brochurer/varebiler/jumpy/",
+   "kilde_navn": "Citroën Danmarks prisliste for Jumpy",
+   "prisliste_dato": "2026-09-30",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspris ekskl. moms og levering. Tilvalgene (side 4) er „Ekskl. moms, inkl. afgift“ med én pris uden niveauopdeling, så de er sat til at gælde begge niveauer. Listen opgiver 105 kW for 150 hk og 135 kW for 180 hk, som er skrevet af (se afvigelser). Listen har hverken anhængertræk eller byggepladspakke, som Peugeot Expert-listen har. Ingen leveringsomkostninger i listen. Registreringsafgiften står ikke direkte ved bilprisen, men tilvalgene er „inkl. afgift“. Lagerbilslisten (jumpy-lagerbiler, 2.0 BlueHDi 145/180) er ikke med. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Jumpy L2 Flexline 2.2 BlueHDi 150 6-trins manuel",
+     "niveau": "Flexline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 228990
+    },
+    {
+     "navn": "Jumpy L2 Flexline 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Flexline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 236990
+    },
+    {
+     "navn": "Jumpy L3 Flexline 2.2 BlueHDi 150 6-trins manuel",
+     "niveau": "Flexline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 233990
+    },
+    {
+     "navn": "Jumpy L3 Flexline 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Flexline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 240990
+    },
+    {
+     "navn": "Jumpy L2 Masterline 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 261990
+    },
+    {
+     "navn": "Jumpy L2 Masterline 2.2 BlueHDi 180 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 269990
+    },
+    {
+     "navn": "Jumpy L3 Masterline 2.2 BlueHDi 150 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 150,
+     "kw": 105,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 265990
+    },
+    {
+     "navn": "Jumpy L3 Masterline 2.2 BlueHDi 180 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3100,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 135,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 273990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 3756,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZQ",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med alufælge fra fabrik"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WAAS",
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde, uden merpris"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "WZ07",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Isoleret komfort-varerumsadskillelse med rude",
+     "gruppe": "varerum",
+     "pris_kr": 2147,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "PX37",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængt bagklap med rude",
+     "gruppe": "varerum",
+     "pris_kr": 3220,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WO06",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med ruder",
+     "gruppe": "ydre",
+     "pris_kr": 2576,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "WO05",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Phoenix grå antracit alufælge med sommerdæk (215/60 R17)",
+     "gruppe": "ydre",
+     "pris_kr": 5259,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1610,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "RS03",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "MET",
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Speciallak (Blå Imperial eller Rød Ardent)",
+     "gruppe": "ydre",
+     "pris_kr": 8050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "SPEC",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med indfarvede kofangere"
+    }
+   ],
+   "pakker": []
+  },
+  "citroen-e-jumpy": {
+   "kilde_url": "https://brochurer.citroen.dk/brochurer/varebiler/e-jumpy/",
+   "kilde_navn": "Citroën Danmarks prisliste for ë-Jumpy",
+   "prisliste_dato": "2026-08-03",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Vejledende udsalgspris ekskl. moms og levering“; prisen med moms er præcis 1,25 gange. Tilvalgene (side 3) er „Ekskl. moms, inkl. afgift“ med én pris uden niveauopdeling, så de er sat til at gælde begge niveauer. Listen har intet fabriksmonteret anhængertræk, selv om bilen må trække 1.000 kg. Ingen leveringsomkostninger i listen. Registreringsafgiften står ikke direkte ved bilprisen, men tilvalgene er „inkl. afgift“. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "ë-Jumpy L2 Flexline 50 kWh 136 hk automatgear",
+     "niveau": "Flexline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 2846,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 50,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 214990
+    },
+    {
+     "navn": "ë-Jumpy L2 Flexline 75 kWh 136 hk automatgear",
+     "niveau": "Flexline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3021,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 234990
+    },
+    {
+     "navn": "ë-Jumpy L3 Flexline 75 kWh 136 hk automatgear",
+     "niveau": "Flexline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3053,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 239990
+    },
+    {
+     "navn": "ë-Jumpy L2 Masterline 75 kWh 136 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": null,
+     "totalvaegt_kg": 3021,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 259990
+    },
+    {
+     "navn": "ë-Jumpy L3 Masterline 75 kWh 136 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": null,
+     "totalvaegt_kg": 3053,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 136,
+     "kw": 100,
+     "batteri_kwh": 75,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 264990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 3756,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZQ",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med alufælge fra fabrik"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 0,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WAAS",
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde, uden merpris"
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": "WZ07",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Isoleret komfort-varerumsadskillelse med rude",
+     "gruppe": "varerum",
+     "pris_kr": 2147,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "PX37",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Tophængt bagklap med rude",
+     "gruppe": "varerum",
+     "pris_kr": 3220,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "WO06",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med ruder",
+     "gruppe": "ydre",
+     "pris_kr": 2576,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": "WO05",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "17\" Phoenix grå antracit alufælge med sommerdæk (215/60 R17)",
+     "gruppe": "ydre",
+     "pris_kr": 5259,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "ZHZJ",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1610,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": "RS03",
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 4293,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": "MET",
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Speciallak (Blå Imperial eller Rød Ardent)",
+     "gruppe": "ydre",
+     "pris_kr": 8050,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": "SPEC",
+     "tilbehoer": false,
+     "note": "Kan ikke kombineres med indfarvede kofangere"
+    }
+   ],
+   "pakker": []
+  },
+  "citroen-jumper": {
+   "kilde_url": "https://brochurer.citroen.dk/brochurer/varebiler/jumper/",
+   "kilde_navn": "Citroën Danmarks prisliste for Jumper Van",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Vejledende udsalgspris ekskl. moms og levering; prisen med moms passer med, at registreringsafgiften er med. Kun niveauet Masterline. Tilvalgssiden (side 2) og farvesiden har ingen momsangivelse. De er sat som ekskl. moms, fordi Peugeot Boxer-listen fra samme dato har samme tilvalg og priser under „Ekskl. moms, inkl. afgift“, og ë-Jumper-listen mærker dem „Ekskl. moms“. 35H er den tunge udgave „nedvejet til 3.500 kg“. Ingen leveringsomkostninger og intet fabriksmonteret anhængertræk i listen. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "Jumper 33 L2H1 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H1",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 247990
+    },
+    {
+     "navn": "Jumper 33 L2H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 253990
+    },
+    {
+     "navn": "Jumper 33 L3H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3300,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 260990
+    },
+    {
+     "navn": "Jumper 35 L2H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 261990
+    },
+    {
+     "navn": "Jumper 35 L2H2 Masterline 2.2 BlueHDi 140 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 280990
+    },
+    {
+     "navn": "Jumper 35 L2H2 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 290990
+    },
+    {
+     "navn": "Jumper 35 L3H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 267990
+    },
+    {
+     "navn": "Jumper 35 L3H2 Masterline 2.2 BlueHDi 140 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 286990
+    },
+    {
+     "navn": "Jumper 35H L2H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 266990
+    },
+    {
+     "navn": "Jumper 35H L2H2 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L2",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 295990
+    },
+    {
+     "navn": "Jumper 35H L3H2 Masterline 2.2 BlueHDi 140 hk 6-trins manuel",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "manuel",
+     "hjultraek": "forhjul",
+     "pris_kr": 272990
+    },
+    {
+     "navn": "Jumper 35H L3H2 Masterline 2.2 BlueHDi 140 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 140,
+     "kw": 103,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 291990
+    },
+    {
+     "navn": "Jumper 35H L3H2 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 302990
+    },
+    {
+     "navn": "Jumper 35H L4H2 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L4",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 308990
+    },
+    {
+     "navn": "Jumper 35H L3H3 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 308990
+    },
+    {
+     "navn": "Jumper 35H L4H3 Masterline 2.2 BlueHDi 180 hk 8-trins automatgear",
+     "niveau": "Masterline",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "diesel",
+     "motor": "2.2 BlueHDi",
+     "hk": 180,
+     "kw": 132,
+     "batteri_kwh": null,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 315990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "Forstærkede bagfjedre",
+     "gruppe": "andet",
+     "pris_kr": 1190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "220A generator, forstærket 12V-batteri og opbyggerstik",
+     "gruppe": "andet",
+     "pris_kr": 2190,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde og bakspejl",
+     "gruppe": "ydre",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfortførersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med 270° åbning",
+     "gruppe": "varerum",
+     "pris_kr": 2328,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": []
+  },
+  "citroen-e-jumper": {
+   "kilde_url": "https://brochurer.citroen.dk/brochurer/varebiler/e-jumper/",
+   "kilde_navn": "Citroën Danmarks prisliste for ë-Jumper Van",
+   "prisliste_dato": "2026-10-01",
+   "hentet": "2026-10-05",
+   "gyldig_fra": null,
+   "gyldig_til": null,
+   "levering_kr": null,
+   "levering_i_listen": false,
+   "registreringsafgift_i_prisen": true,
+   "pris_note": "Kolonnen „Vejledende udsalgspris ekskl. moms og levering“; prisen med moms er præcis 1,25 gange. Tilvalgene (side 2) er „Ekskl. moms“; farvesiden har ingen momsangivelse og er sat som ekskl. moms. Kun niveauet Masterline. 435 registreres som varebil på 3.500 kg (130 km/t), 440 som lastbil på 4.250 kg (90 km/t). 270 hk/200 kW er effekten i Power-tilstand. Vægttabellen er foreløbige data og viser „-“ for anhængervægt, men 5.500 kg tilladt vogntogsvægt. Ingen leveringsomkostninger i listen. Hjultræk står ikke i listen; modellen fås kun med forhjulstræk. PDF hentet via GetPDF.ashx.",
+   "udgaver": [
+    {
+     "navn": "ë-Jumper Masterline 435 L3H2 110 kWh 270 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 3500,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 294990
+    },
+    {
+     "navn": "ë-Jumper Masterline 440 L3H2 110 kWh 270 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L3",
+     "hoejde": "H2",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 300990
+    },
+    {
+     "navn": "ë-Jumper Masterline 440 L4H3 110 kWh 270 hk automatgear",
+     "niveau": "Masterline",
+     "laengde": "L4",
+     "hoejde": "H3",
+     "totalvaegt_kg": 4250,
+     "drivmiddel": "el",
+     "motor": "Elmotor",
+     "hk": 270,
+     "kw": 200,
+     "batteri_kwh": 110,
+     "gear": "automat",
+     "hjultraek": "forhjul",
+     "pris_kr": 311990
+    }
+   ],
+   "tilvalg": [
+    {
+     "navn": "ePTO",
+     "gruppe": "andet",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Skydedør i venstre side",
+     "gruppe": "varerum",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "skydedoer_venstre",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Ikke sammen med luftaffjedret komfortsæde"
+    },
+    {
+     "navn": "Cyklistrude i højre skydedør",
+     "gruppe": "ydre",
+     "pris_kr": 1490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Ruder i bagdøre med varmetråde og bakspejl",
+     "gruppe": "ydre",
+     "pris_kr": 4490,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "bagdoere_rude",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Rude i varerumsadskillelsen",
+     "gruppe": "varerum",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Luftaffjedret komfortførersæde",
+     "gruppe": "komfort",
+     "pris_kr": 4990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Uden varme og ikke sammen med venstre skydedør"
+    },
+    {
+     "navn": "Enkelt passagersæde",
+     "gruppe": "komfort",
+     "pris_kr": 990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "I stedet for dobbelt passagersæde"
+    },
+    {
+     "navn": "Alarm med superlås",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "alarm",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Bagdøre med 270° åbning",
+     "gruppe": "varerum",
+     "pris_kr": 2328,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Helårsdæk",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Reservehjul på stålfælg",
+     "gruppe": "ydre",
+     "pris_kr": 1590,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "reservehjul",
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Dækreparationssæt er standard"
+    },
+    {
+     "navn": "Uni lak",
+     "gruppe": "ydre",
+     "pris_kr": 3990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "navn": "Metallak",
+     "gruppe": "ydre",
+     "pris_kr": 5990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": "metallak",
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    },
+    {
+     "navn": "Speciallak",
+     "gruppe": "ydre",
+     "pris_kr": 9990,
+     "gaelder": "alle",
+     "niveau_priser": null,
+     "post": null,
+     "kode": null,
+     "tilbehoer": false,
+     "note": null
+    }
+   ],
+   "pakker": []
+  }
+ },
+ "udstyr_patch": {
+  "peugeot-partner": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "Reservehjul i fuld størrelse"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "Reservehjul i fuld størrelse"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Passagerbænk (dobbelt) med skrivebord og multifunktionelt midtersæde"
+    },
+    {
+     "s": "std",
+     "note": "Passagerbænk (dobbelt) med skrivebord og multifunktionelt midtersæde"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "10\" radioskærm med Apple CarPlay/Android Auto; navigation nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "10\" IVI High-touchskærm med Apple CarPlay/Android Auto; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "peugeot-e-partner": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Standardlak er hvid Icy"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "Reservehjul på stålfælg"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "Reservehjul på stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord"
+    },
+    {
+     "s": "std",
+     "note": "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation"
+    },
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ikke ombordladeren"
+    },
+    {
+     "s": "ukendt",
+     "note": "Prislisten nævner ikke ombordladeren"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "std"
+    },
+    {
+     "s": "std"
+    }
+   ]
+  },
+  "peugeot-expert": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03). Indgår også i Byggepladspakken (7.513 kr., kun manuelt gear)."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03). Indgår også i Byggepladspakken (7.513 kr., kun manuelt gear)."
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "peugeot-e-expert": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03). Indgår også i Byggepladspakken (7.513 kr.)."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03). Indgår også i Byggepladspakken (7.513 kr.)."
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser ladetid med 11 kW AC; 22 kW nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser ladetid med 11 kW AC; 22 kW nævnes ikke"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "citroen-jumpy": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03)"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "citroen-e-jumpy": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    },
+    {
+     "s": "tilvalg",
+     "pris": 4293,
+     "note": "Standardlak er hvid Icy. Speciallak 8.050 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03)"
+    },
+    {
+     "s": "tilvalg",
+     "pris": 1610,
+     "note": "Reservehjul på stålfælg (RS03)"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    },
+    {
+     "s": "std",
+     "note": "Dobbelt passagersæde med ModuWork og bord. Enkelt passagersæde kan vælges uden merpris."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" farveskærm, DAB+ og Apple CarPlay/Android Auto; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser ladetid med 11 kW AC; 22 kW nævnes ikke"
+    },
+    {
+     "s": "ukendt",
+     "note": "Listen oplyser ladetid med 11 kW AC; 22 kW nævnes ikke"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    },
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "peugeot-boxer": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Uni lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "Reservehjul på stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Med „eat & work“-bord. Enkelt passagersæde kan vælges for 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" touchskærm og DAB+; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ]
+  },
+  "peugeot-e-boxer": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Uni lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "Reservehjul på stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Med Eat & Work-bord. Enkelt passagersæde kan vælges for 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" touchskærm og DAB+; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Ombordladeren er 3-faset 11 kW; 22 kW nævnes ikke"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "citroen-jumper": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Uni lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "Reservehjul på stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Enkelt passagersæde kan vælges for 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" touchskærm og DAB+; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ]
+  },
+  "citroen-e-jumper": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 5990,
+     "note": "Uni lak 3.990 kr., speciallak 9.990 kr."
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1590,
+     "note": "Reservehjul på stålfælg; dækreparationssæt er standard"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten; den oplyser kun taglast med 3 tagbøjler"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "tilvalg",
+     "pris": 3990,
+     "note": "Alarm med superlås"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "Enkelt passagersæde kan vælges for 990 kr."
+    }
+   ],
+   "navigation": [
+    {
+     "s": "ukendt",
+     "note": "Radio med 10\" touchskærm og DAB+; navigation nævnes ikke"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "std",
+     "note": "„230V udtag“; placeringen står ikke"
+    }
+   ],
+   "lader_22kw": [
+    {
+     "s": "ukendt",
+     "note": "Ombordladeren er 3-faset 11 kW; 22 kW nævnes ikke"
+    }
+   ],
+   "varmepumpe": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  },
+  "citroen-berlingo": {
+   "metallak": [
+    {
+     "s": "tilvalg",
+     "pris": 4808,
+     "note": "Standardlak er hvid Icy"
+    }
+   ],
+   "reservehjul": [
+    {
+     "s": "tilvalg",
+     "pris": 1362,
+     "note": "Reservehjul på stålfælg"
+    }
+   ],
+   "tagbaerer": [
+    {
+     "s": "ukendt",
+     "note": "Ikke i prislisten"
+    }
+   ],
+   "alarm": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "dobbelt_passagersaede": [
+    {
+     "s": "std",
+     "note": "ModuWork-dobbeltpassagersæde med nedklappeligt skrivebord"
+    }
+   ],
+   "navigation": [
+    {
+     "s": "std",
+     "note": "10\" HD-touchskærm med navigation (IVI High)"
+    }
+   ],
+   "beklaedning_varerum": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ],
+   "stik_230v": [
+    {
+     "s": "ukendt",
+     "note": "Ikke nævnt i prislisten"
+    }
+   ]
+  }
+ },
+ "udstyr_nye_modeller": {},
+ "afvigelser": [
+  "Peugeot Partner (diesel): Listen „Prisliste Q4 2025“ (priser pr. 19/11/2025) er stadig den nyeste. peugeot.dk (modelsiden og /information/priser-specifikationer.html) linker til samme katalog, og gættede nyere adresser på ipaper gav 404. Alle priser er uændrede.",
+  "Nyere lister end dem, vi har registreret: peugeot-boxer er opdateret 01.10.2026 (varebiler.json-noten siger 30.04.2026, udstyr.json 24.09.2026), peugeot-e-boxer 01.10.2026 (før 03.08.2026), citroen-jumpy 30.09.2026 (før 16.03.2026), citroen-jumper 01-10-2026 (før 30-04-2026) og citroen-e-jumper 01-10-2026 (før 17-09-2026). Priserne på bilerne er de samme.",
+  "nypris.variant er tjekket for alle 11 modeller, og ingen pris er ændret: Partner Plus L1V1 100 192.990, e-Partner Plus L1 189.990, Expert L2 Plus 150 manuel 243.990, e-Expert Plus L2 244.990, Boxer Premium 333 L2H1 140 271.990, e-Boxer 435 L3H2 309.990, Berlingo L1V1 100 177.990, Jumpy L2 Flexline 150 manuel 228.990, ë-Jumpy Flexline L2 75 kWh 234.990, Jumper 33 L2H1 140 247.990, ë-Jumper 435 L3H2 294.990 kr. ekskl. moms.",
+  "Forkerte kW i Stellantis-DK-listerne (skrevet af som listen siger): Peugeot Expert og Citroën Jumpy angiver 105 kW for 2.2 BlueHDi 150 hk (bør være ca. 110 kW, som varebiler.json allerede har) og 135 kW for 180 hk. Peugeot Boxer angiver 105 kW for 140 hk og 135 kW for 180 hk, mens Citroën Jumper-listen for samme motorer angiver 103 og 132 kW. varebiler.json har motor_kw 105 på peugeot-boxer; Jumper-listen tyder på 103.",
+  "Luftaffjedret komfortførersæde koster nu 4.990 kr. i Boxer-, e-Boxer-, Jumper- og ë-Jumper-listerne fra 01-10-2026. udstyr.json nævner 3.310 kr. i _bemaerkninger for peugeot-e-boxer og citroen-e-jumper og i kilder_ekstra-noten for citroen-jumper.",
+  "ePTO koster 4.490 kr. på Peugeot e-Boxer, men 4.990 kr. på Citroën ë-Jumper (samme bil, lister fra samme dato).",
+  "ë-Berlingo har sin egen prisliste (https://brochurer.citroen.dk/brochurer/varebiler/e-berlingo/, opdateret 12-08-2026): L1 Masterline 50 kWh 136 hk 179.990 kr. og L2 189.990 kr. ekskl. moms og levering. Der findes ingen model-id til den, så den er IKKE lagt under citroen-berlingo (diesel). Gemt som prislister/citroen-e-berlingo-ref.pdf.",
+  "Lagerbilslister er ikke medtaget: Peugeot Expert lagerbiler („Prisliste 2025-2026“, 2.0 BlueHDi 144/177, fra 232.990 kr.) og Citroën Jumpy lagerbiler (priser pr. 19.03.2026, 2.0 BlueHDi 145/180, fra 223.990 kr., levering 3.440 kr. ekskl. moms). De gælder den ældre motorgeneration.",
+  "Peugeot Expert-listen er mærket „Opdateret 13.03.2026“, men PDF-filen er lavet 01-06-2026. Priserne svarer til dem, vi har.",
+  "Peugeot Expert har fabriksmonteret aftageligt anhængertræk (AQ05, 5.366 kr.) og Byggepladspakke (7.513 kr.), men Citroën Jumpy-listen fra 30.09.2026 har ingen af dem. e-Expert og ë-Jumpy har intet anhængertræk i listen, selv om de må trække 1.000 kg.",
+  "e-Boxer og ë-Jumper: Vægttabellen (foreløbige data) viser „-“ for anhængervægt, men 5.500 kg tilladt vogntogsvægt. Derfor er anhaengertraek fortsat „ukendt“ og ikke sat til „nej“.",
+  "Citroën Jumper: Tilvalgssiden har ingen momsangivelse. Priserne er sat som ekskl. moms, fordi Peugeot Boxer-listen fra samme dato har samme tilvalg og priser under „Ekskl. moms, inkl. afgift“.",
+  "Citroën Jumper har „Bagdøre med 270° åbning“ som tilvalg (2.328 kr.), mens Peugeot Boxer har dem som standard.",
+  "Peugeot Boxer: Udgaven „335 L2H1 HDi 140hk EAT8“ (294.990 kr.) står i prislisten, men ikke i vægttabellen.",
+  "Peugeot Partner (diesel): Rækken „Varerumsadskillelse m. kroge“ viser stadig 227.990 i Premium-kolonnen (trykfejl). Dokumentet har også en ældre e-Partner-liste (Plus L1 207.990 kr.), som e-Partner-listen fra 12-08-2026 har afløst.",
+  "Ingen eksisterende „ukendt“-felter i udstyr.json kunne afgøres: listerne for Partner, e-Partner, Expert, e-Expert, Berlingo og ë-Jumpy er de samme som sidst, og de nyere lister (Boxer, e-Boxer, Jumpy, Jumper, ë-Jumper) nævner ikke de udstyrsdele, der står som ukendt."
+ ]
+}

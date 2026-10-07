@@ -1,0 +1,487 @@
+{
+  "niveauer": {
+    "toyota-proace": {
+      "kilde_fil": "prislister/toyota-proace.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort Master",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "10\" touchskærm",
+            "Bakkamera",
+            "Digital instrumentering",
+            "Heldækkende hjulkapsler",
+            "LED-forlygter (f.o.m. oktober 2025 produktion)",
+            "Komfortadskillelse",
+            "SmartCargo",
+            "Smartphone integration"
+          ]
+        },
+        {
+          "navn": "Tek",
+          "bygger_paa": "Comfort Master",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "17\" hjul",
+            "Automatisk aircondition",
+            "Blindvinkelalarm",
+            "El-foldbare sidespejle",
+            "Indfarvede kofangere",
+            "Nøglefri adgang og start",
+            "P-sensorer foran",
+            "Tågeforlygter"
+          ]
+        },
+        {
+          "navn": "Comfort Master+",
+          "bygger_paa": "Comfort Master",
+          "beregnet": false,
+          "side": 5,
+          "ekstra": [
+            "17\" aluminiumsfælge",
+            "Automatisk aircondition",
+            "Adaptiv fartpilot (f.o.m. februar 2026 produktion)",
+            "Blindvinkelalarm",
+            "El-foldbare sidespejle",
+            "Indfarvede kofangere",
+            "Navigation",
+            "Nøglefri adgang",
+            "P-sensorer foran",
+            "Trådløs mobiloplader (f.o.m. oktober 2025 produktion)",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Tek bygger ifølge prislisten på \"Masterudstyr\", som er Comfort Master."
+    },
+    "toyota-proace-city": {
+      "kilde_fil": "prislister/toyota-proace-city.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort Master",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "11 kW lader",
+            "10\" touchskærm",
+            "Bakkamera",
+            "Dobbelt passagersæde, yderste sæde el-opvarmeligt",
+            "El-foldbare sidespejle",
+            "Opgraderet lydsystem",
+            "Regnsensor",
+            "SmartCargo",
+            "Smartphone integration",
+            "Tågeforlygter",
+            "V2L (f.o.m. oktober 2025 produktion, adapter skal tilkøbes)"
+          ]
+        },
+        {
+          "navn": "Nordic Edition",
+          "bygger_paa": "Comfort Master",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "230V-udtag i passagersiden",
+            "Automatisk aircondition",
+            "Ekstra kraftigt lys i varerum",
+            "Ekstra surrekroge i varerum",
+            "El-opvarmelig forrude",
+            "El-opvarmeligt rat",
+            "Varmepumpe"
+          ]
+        },
+        {
+          "navn": "Comfort Master+",
+          "bygger_paa": "Comfort Master",
+          "beregnet": false,
+          "side": 5,
+          "ekstra": [
+            "230V-udtag i passagersiden",
+            "Automatisk aircondition",
+            "Adaptiv fartpilot",
+            "Aluminiumsfælge",
+            "Blindvinkelalarm",
+            "Digital instrumentering",
+            "Dynamic Surround Vision med cyklistkamera i højre side og digitalt bakspejl",
+            "Ekstra kraftigt lys i varerum",
+            "Ekstra surrekroge i varerum",
+            "El-opvarmelig forrude",
+            "El-opvarmeligt rat",
+            "Indfarvede kofangere",
+            "Navigation",
+            "Nøglefri adgang og start",
+            "P-sensorer foran",
+            "Trådløs smartphoneoplader",
+            "Varmepumpe"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "toyota-proace-city-diesel": {
+      "kilde_fil": "prislister/toyota-proace-city-diesel.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Manuel aircondition",
+            "Fartpilot",
+            "P-sensorer bag",
+            "LED-forlygter",
+            "El-opvarmelige forsæder",
+            "Enkelt passagersæde",
+            "Forberedelse for anhængertræk",
+            "Standardradio med 5\" touchskærm og Bluetooth",
+            "Sidespejle, el-betjente og el-opvarmelige",
+            "Sideruder, el-betjente",
+            "Automatisk nødbremse",
+            "Vognbaneassistent"
+          ]
+        },
+        {
+          "navn": "Comfort Master",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "10\" touchskærm",
+            "Bakkamera",
+            "Dobbelt passagersæde, yderste sæde el-opvarmeligt",
+            "El-foldbare sidespejle",
+            "Opgraderet lydsystem",
+            "Regnsensor",
+            "SmartCargo",
+            "Smartphone integration",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "11 kW lader og V2L på Comfort Master-listen gælder kun elbilen og er udeladt."
+    },
+    "toyota-proace-diesel": {
+      "kilde_fil": "prislister/toyota-proace-diesel.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Manuel aircondition",
+            "Dobbelt passagersæde",
+            "Bund og sider i varerum (kassevogn 150 hk og 180 hk)",
+            "Fartpilot",
+            "P-sensorer bag",
+            "El-opvarmelige forsæder",
+            "El-opvarmeligt multifunktionslæderrat",
+            "El-betjente og -opvarmelige sidespejle",
+            "El-betjente sideruder",
+            "Regnsensor",
+            "Standardradio med 5\" touchskærm",
+            "Automatisk nødbremse"
+          ]
+        },
+        {
+          "navn": "Comfort Master",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "10\" touchskærm",
+            "Bakkamera",
+            "Digital instrumentering",
+            "Heldækkende hjulkapsler",
+            "LED-forlygter (f.o.m. oktober 2025 produktion)",
+            "Komfortadskillelse",
+            "SmartCargo",
+            "Smartphone integration",
+            "Webasto med fjernbetjening"
+          ]
+        },
+        {
+          "navn": "Nordic Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Rude i adskillelse",
+            "Webasto med fjernbetjening"
+          ]
+        },
+        {
+          "navn": "Comfort Master+",
+          "bygger_paa": "Comfort Master",
+          "beregnet": false,
+          "side": 5,
+          "ekstra": [
+            "17\" aluminiumsfælge",
+            "Automatisk aircondition",
+            "Adaptiv fartpilot (f.o.m. februar 2026 produktion)",
+            "Blindvinkelalarm",
+            "El-foldbare sidespejle",
+            "Indfarvede kofangere",
+            "Navigation",
+            "Nøglefri adgang",
+            "P-sensorer foran",
+            "Trådløs mobiloplader (f.o.m. oktober 2025 produktion)",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Nordic Edition bygger på Comfort og ikke på Comfort Master. Siden med Comfort Master+ viser kun elbilens pris, men udstyrslisten er ikke markeret som kun EV, så vi har brugt den til dieselbilen."
+    },
+    "toyota-proace-max-diesel": {
+      "kilde_fil": "prislister/toyota-proace-max-diesel.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "270° bagdøre",
+            "Manuel aircondition",
+            "Bakkamera",
+            "P-sensorer bag",
+            "Bund og sider i varerum",
+            "LED-lys i varerum",
+            "Dobbelt passagersæde",
+            "Fartpilot",
+            "Nøglefri adgang og start",
+            "Webasto motorvarmer med timer",
+            "El-opvarmelig forrude",
+            "Standardradio med 5\" farveskærm"
+          ]
+        },
+        {
+          "navn": "Comfort Master",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "10\" touchskærm",
+            "7\" digital instrumentering",
+            "Automatisk aircondition",
+            "Adaptiv fartpilot",
+            "LED-forlygter",
+            "Navigation",
+            "Smartphone integration",
+            "Tågeforlygter"
+          ]
+        }
+      ],
+      "note": "Heavy Comfort og Heavy Comfort Master står som Comfort og Comfort Master i priser.json, og prislisten har ingen egen udstyrsliste for dem. Ifølge Comfort-listen har alle udgaver undtagen Medium forstærket affjedring bag. Punkter, der kun gælder elbilen på 4,25 t, er udeladt."
+    },
+    "toyota-bz4x-touring-van": {
+      "kilde_fil": "prislister/toyota-bz4x-touring-van.pdf",
+      "niveauer": [
+        {
+          "navn": "Active Tech",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "14\" multimedieskærm",
+            "150 kW DC-opladning",
+            "18\" alufælge med aerodynamiske hjulkapsler",
+            "Digitalt bakkamera med 360° panoramavisning (høj opløsning)",
+            "Parkeringssensor for og bag",
+            "Adaptiv fartpilot (fuld rækkevidde)",
+            "El-betjent bagklap",
+            "Varme i forsæder",
+            "Opvarmeligt rat",
+            "El-opvarmet forrude og sprinklerdyser",
+            "Trådløs Apple CarPlay og Android Auto",
+            "Batteriforvarmer"
+          ]
+        },
+        {
+          "navn": "Executive",
+          "bygger_paa": "Active Tech",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "22 kW AC-oplader (OBC)",
+            "Digitalt bakspejl",
+            "Elektrisk justerbart passagersæde",
+            "Førersæde med hukommelse",
+            "Infrarød strålevarmer ved ben i passagerside",
+            "Intelligent parkeringsassistent",
+            "JBL-anlæg med 9 højttalere",
+            "Kunstlæder sædebetræk",
+            "Panoramaglastag (fastmonteret med indvendig solskærm)",
+            "Sidespejle med hukommelse og vippefunktion",
+            "Ventilerede forsæder",
+            "Vognbaneassistent med aktiv styring (LCA)"
+          ]
+        }
+      ],
+      "note": "Executive 20\" er Executive med 20\" alufælge som tilkøb."
+    },
+    "toyota-bz4x-van": {
+      "kilde_fil": "prislister/toyota-bz4x-van.pdf",
+      "niveauer": [
+        {
+          "navn": "Active",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "14\" multimedieskærm",
+            "150 kW DC-opladning",
+            "18\" alufælge",
+            "Digitalt bakkamera",
+            "Parkeringssensor for og bag",
+            "Adaptiv fartpilot (fuld rækkevidde)",
+            "El-betjent bagklap",
+            "Varme i forsæder",
+            "Opvarmeligt rat",
+            "El-opvarmet forrude og sprinklerdyser",
+            "Trådløs Apple CarPlay og Android Auto",
+            "Batteriforvarmer"
+          ]
+        },
+        {
+          "navn": "Active Tech",
+          "bygger_paa": "Active",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "360° panoramavisning",
+            "Indstigningslys i sidespejle",
+            "Tyverialarm inkl. bevægelses- og glasknusningssensor"
+          ]
+        },
+        {
+          "navn": "Executive",
+          "bygger_paa": "Active Tech",
+          "beregnet": false,
+          "side": 5,
+          "ekstra": [
+            "22 kW AC-opladning",
+            "Bagspoiler, aero-design",
+            "Digitalt bakspejl",
+            "El-betjent passagersæde",
+            "Hukommelse i førersæde",
+            "Intelligent parkeringssensor",
+            "JBL premium lydsystem med 9 højttalere",
+            "Læderindtræk (syntetisk)",
+            "Sidespejle med hukommelse og vippefunktion",
+            "Strålevarmer foran",
+            "Varme i bagsæder",
+            "Ventilerede forsæder",
+            "Lane Change Assist (LCA)",
+            "Front Cross Traffic Alert (FCTA)"
+          ]
+        }
+      ],
+      "note": "Executive-listen skriver \"udover Active 73,1 kWh\". Oversigten på side 2 viser, at Executive har 360° panoramavisning og tyverialarm ligesom Active Tech, så vi har sat Active Tech som grundlag. Active Tech og Executive har det store batteri på 73,1 kWh, mens Active har 57,7 kWh."
+    },
+    "toyota-c-hr-van": {
+      "kilde_fil": "prislister/toyota-c-hr-van.pdf",
+      "niveauer": [
+        {
+          "navn": "Active",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "14\" multimedieskærm",
+            "11 kW AC-opladning",
+            "150 kW DC-opladning",
+            "18\" alufælge med aerodynamiske hjulkapsler",
+            "Bakkamera",
+            "Parkeringssensorer for og bag",
+            "Adaptiv fartpilot",
+            "Elektrisk bagklap",
+            "Klimaanlæg, 2 zoner",
+            "Varme i forsæder",
+            "Opvarmeligt rat i kunstlæder",
+            "El-opvarmet forrude og sprinklerdyser"
+          ]
+        },
+        {
+          "navn": "Executive",
+          "bygger_paa": "Active",
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "20\" alufælge",
+            "22 kW AC-opladning",
+            "360° panoramavisning",
+            "Bitone (sort tag)",
+            "Digital nøgle (1 år)",
+            "El-justerbart førersæde",
+            "Intelligent parkeringsassistent",
+            "Sæder i ruskindslook og kunstlæder",
+            "Lane Change Assist (LCA)",
+            "Front Cross Traffic Alert (FCTA)"
+          ]
+        }
+      ],
+      "note": "Executive Panorama er Executive med panoramaglastag og JBL-lydanlæg som tilkøb."
+    },
+    "toyota-urban-cruiser-van": {
+      "kilde_fil": "prislister/toyota-urban-cruiser-van.pdf",
+      "niveauer": [
+        {
+          "navn": "Active 49 kWh",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "10,1\" multimediaskærm",
+            "18\" alufælge med aerodynamiske hjulkapsler",
+            "Bakkamera",
+            "Parkeringssensor for og bag",
+            "Adaptiv fartpilot til 0 km/t",
+            "Klimaanlæg",
+            "Varmepumpe",
+            "Nøglefri adgang",
+            "Apple CarPlay trådløst",
+            "Android Auto trådløst",
+            "Blind spot monitor",
+            "LED-lys for og bag"
+          ]
+        },
+        {
+          "navn": "Active 61 kWh",
+          "bygger_paa": "Active 49 kWh",
+          "beregnet": true,
+          "side": 4,
+          "ekstra": [
+            "Varme i forsæder",
+            "Varme i rat",
+            "Varme ved vinduesviskere",
+            "Sidespejle med varme",
+            "Downhill-assistent DAC (kun med AWD)"
+          ]
+        },
+        {
+          "navn": "Executive",
+          "bygger_paa": "Active 61 kWh",
+          "beregnet": false,
+          "side": 5,
+          "ekstra": [
+            "19\" alufælge med aerodynamiske hjulkapsler",
+            "360° panoramavisning",
+            "Adaptive LED-lygter foran",
+            "El-justerbart førersæde med lændestøtte",
+            "Fast glastag foran",
+            "Indtræk i stof og kunstlæder",
+            "JBL lydanlæg med subwoofer",
+            "Trådløs smartphoneoplader"
+          ]
+        }
+      ],
+      "note": "Prislisten har en fuld udstyrsliste for hver Active-udgave, så forskellen mellem 49 og 61 kWh er beregnet. Sidespejle med varme står kun i oversigten på side 2. Executive-listen nævner også downhill-assistent (kun AWD), men den har Active 61 kWh AWD allerede, så den er udeladt."
+    }
+  }
+}

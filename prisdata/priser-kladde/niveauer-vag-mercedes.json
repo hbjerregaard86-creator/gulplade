@@ -1,0 +1,579 @@
+{
+  "niveauer": {
+    "volkswagen-transporter": {
+      "kilde_fil": "prislister/volkswagen-transporter.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "Airconditionanlæg i førerkabinen (manuel regulering)",
+            "Radio med 13\" touchfarvedisplay og trådløs App-Connect",
+            "Bakkamera",
+            "Parkeringssensorer for og bag",
+            "Fartpilot med intelligent hastighedsassistent",
+            "Parkeringsvarmer inkl. fjernbetjening",
+            "Sædevarme til sæder i førerkabinen, separat indstilling",
+            "LED-forlygter inklusive LED-dagskørelys",
+            "3 kraftfulde LED-lamper i varerum",
+            "Sidebeklædning i halv højde og beklædning af loft, i varerum",
+            "Dobbelt passagersæde med underlæssefunktion og klapbord",
+            "Ekstra batteri (80 Ah, AGM)"
+          ]
+        },
+        {
+          "navn": "PanAmericana",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": 5,
+          "ekstra": [
+            "17\" Letmetalfælge Monte Carlo i sort, glanspoleret overflade",
+            "Robust offroad-look og designdetaljer",
+            "LED-baglygter med eksklusiv lyssignatur",
+            "8-vejs indstilleligt førersæde med 4-vejs elektrisk lændestøtte, 4-vejs indstillelig hovedstøtte samt armlæn",
+            "Sædeindtræk i stof, design PanAmericana",
+            "Multifunktionsrat i kunstlæder",
+            "Side- og hovedairbags i førerkabine",
+            "Handskerum med dæmpet lukning, med lys",
+            "Indstigningsliste, foran i metal, med lys og skrift PanAmericana",
+            "Displayramme i sort højglans",
+            "Dekorindlæg samt dørbeklædning i design Life",
+            "Indvendige dørhåndtag i krom"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "PanAmericana",
+          "beregnet": true,
+          "side": 4,
+          "ekstra": [
+            "17\" Letmetalfælge Le Mans, i sort højglans",
+            "EDITION dekoration",
+            "Sidespejle samt tag lakeret i sort",
+            "Dørhåndtag, for- og bagkofanger lakeret i bilens farve",
+            "Indstigningsliste, foran i metal, med lys og skrift EDITION",
+            "IQ.LIGHT LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+            "Dynamic Light Assist",
+            "Adaptiv fartpilot ACC",
+            "Side Assist med manøvrebremsefunktion og udstigningsadvarsel",
+            "Vejkrydsassistent",
+            "Udvidet drejeassistent",
+            "360 graders kamera (Area View)",
+            "Sidespejle, el-klapbare, indklapfunktion via nøgle",
+            "Multifunktionsrat i kunstlæder, opvarmeligt",
+            "Airconditionanlæg i førerkabinen (1 zone med automatisk regulering)",
+            "Mobiltelefoninterface med induktiv ladefunktion",
+            "12-volts stikdåse på D-stolp i højre side",
+            "7x USB i førerkabinen",
+            "Adskillelse, øverste del med stofbeklædning på førerkabinesiden",
+            "Sidebeklædning i fuld højde og beklædning af loft, i varerum"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Vi har sammenlignet de punkter, der står som Standard i tabellen over ekstraudstyr (side 3-7), så udstyr uden for tabellen er ikke med. Tabellen er ens for kort og lang og er læst i HTML-udgaven, fordi PDF'ens kolonner er forskudt. Prislisten siger ikke, hvad niveauerne bygger på. Edition har ikke PanAmericanas 8-vejs førersæde, men det 6-vejs førersæde, som Comfort også har."
+    },
+    "vw-e-transporter": {
+      "kilde_fil": "prislister/vw-e-transporter.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Airconditionanlæg i førerkabinen (1 zone med automatisk regulering)",
+            "Radio med 13\" touchfarvedisplay og trådløs App-Connect",
+            "Bakkamera",
+            "Parkeringssensorer for og bag",
+            "Fartpilot med intelligent hastighedsassistent",
+            "Nødbremseassistent med fodgænger- og cyklistregistrering",
+            "Sædevarme til sæder i førerkabinen, separat indstilling",
+            "LED-forlygter inklusive LED-dagskørelys",
+            "3 kraftfulde LED-lamper i varerum",
+            "Sidebeklædning i halv højde og beklædning af loft, i varerum",
+            "Dobbelt passagersæde med underlæssefunktion og klapbord",
+            "Ladekabel mode 3, 3-faset 32 A, kabellængde 5 m"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "17\" Letmetalfælge Le Mans, i sort højglans",
+            "EDITION dekoration",
+            "LED-baglygter med eksklusiv lyssignatur",
+            "Sidespejle samt tag lakeret i sort",
+            "Dørhåndtag, for- og bagkofanger lakeret i bilens farve",
+            "Dekorindlæg samt dørbeklædning i design Life",
+            "Displayramme i sort højglans",
+            "Indvendige dørhåndtag i krom",
+            "Indstigningsliste, foran i metal, med lys og skrift EDITION",
+            "Handskerum med dæmpet lukning, med lys",
+            "IQ.LIGHT LED-forlygter med matrixfunktion samt coming home- og leaving home-funktion",
+            "Dynamic Light Assist",
+            "Adaptiv fartpilot ACC",
+            "Side Assist med manøvrebremsefunktion og udstigningsadvarsel",
+            "Vejkrydsassistent",
+            "Udvidet drejeassistent",
+            "360 graders kamera (Area View)",
+            "Sidespejle, el-klapbare, indklapfunktion via nøgle",
+            "Multifunktionsrat i kunstlæder, opvarmeligt",
+            "Side- og hovedairbags i førerkabine",
+            "Mobiltelefoninterface med induktiv ladefunktion",
+            "12-volts stikdåse på D-stolp i højre side",
+            "7x USB i førerkabinen",
+            "Adskillelse, øverste del med stofbeklædning på førerkabinesiden",
+            "Sidebeklædning i fuld højde og beklædning af loft, i varerum"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Vi har sammenlignet de punkter, der står som Standard i tabellen over ekstraudstyr (side 2-5), så udstyr uden for tabellen er ikke med. Tabellen er ens for kort og lang og er læst i HTML-udgaven, fordi PDF'ens kolonner er forskudt. Prislisten siger ikke, at Edition bygger på Comfort."
+    },
+    "vw-amarok": {
+      "kilde_fil": "prislister/vw-amarok.pdf",
+      "niveauer": [
+        {
+          "navn": "Style",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 4,
+          "ekstra": [
+            "Anhængertræk med 13-polet stik",
+            "Differentialespærre på bagaksel",
+            "Climatronic, 2-zoners aircondition",
+            "Infotainmentsystem 12\" med navigationssystem",
+            "Bakkamera inkl. omgivelsesvisningen \"Area View\"",
+            "Parkeringshjælp foran og bagpå inkl. udkørselsassistent",
+            "Fartpilot, intelligent hastighedsassistent med predictive ACC",
+            "IQ.Light-LED-Matrix-forlygter",
+            "Nøglefrit låsesystem (Keyless Access)",
+            "Fører- og passagersæde med elektrisk 10-vejs-indstilling",
+            "Parkeringsvarme med PTC-varme",
+            "120-/230-volts-stikdåse bagest i midterkonsol"
+          ]
+        },
+        {
+          "navn": "Dark Label",
+          "bygger_paa": "Style",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "Sædeindtræk i stof, design Dark Label, midterstykke i mikrofleece ArtVelours",
+            "Loftbeklædning i farve Ebony sort",
+            "Velourmåtter (Premium med modelbetegnelse)",
+            "Letmetalfælge \"Bendigo\" 8x20 (mat sort)",
+            "Bagklapgreb i sort",
+            "Sidespejlhuse og dørhåndtag i sort",
+            "Stylingbar, pulverlakeret (sort)",
+            "Stødfanger bagpå, sort",
+            "Stødfanger for, bilens farve, X-design",
+            "Tagræling, sort"
+          ]
+        },
+        {
+          "navn": "PanAmericana",
+          "bygger_paa": "Dark Label",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "Fører- og passagersæde med elektrisk 10-vejs-indstilling",
+            "Sædeindtræk i læder Cricket",
+            "Ambientebelysning, hvid",
+            "Premium instrumentpanel i læderlook (vinyl)",
+            "Soundsystem \"Harman Kardon\" med 10 højttalere",
+            "Letmetalfælge \"Amadora\" 7,5x18 (sort) med ATR-dæk",
+            "Elektrisk ladafdækning, Rollcover-system",
+            "Sidespejlhuse og dørhåndtag i Dark Matted Grey",
+            "Stødfanger bagpå, Dark Matted Grey",
+            "Tagræling, sølv",
+            "LED-baglygter"
+          ]
+        },
+        {
+          "navn": "Aventura",
+          "bygger_paa": "PanAmericana",
+          "beregnet": true,
+          "side": 3,
+          "ekstra": [
+            "Sædeindtræk i læder Savona",
+            "Velourmåtter (Premium med modelbetegnelse)",
+            "Letmetalfælge \"Bendigo\" 8x20",
+            "Bagklapgreb i bilens farve",
+            "Sidespejlhuse og dørhåndtag, forkromede",
+            "Sportsbar",
+            "Stødfanger bagpå, sort, med forkromede elementer",
+            "Trinbræt med kromindlæg"
+          ]
+        }
+      ],
+      "note": "Prislisten viser hele standardudstyret pr. niveau med flueben (side 2-4), men siger ikke, hvad niveauerne bygger på. Style og Dark Label har samme laveste pris, så rækkefølgen følger priser.json. Dark Label er en designudgave af Style med sorte detaljer. Den har passagersæde med 8-vejs-indstilling i stedet for 10-vejs og trinbræt uden kromindlæg. PanAmericana har almindelige velourmåtter i stedet for premium."
+    },
+    "vw-caddy": {
+      "kilde_fil": "prislister/vw-caddy.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 3,
+          "ekstra": [
+            "Klimaanlæg Climatronic i førerkabine",
+            "Infotainment med 12,9\" Touch-Farvedisplay og trådløs App-Connect",
+            "Digital Cockpit",
+            "Bakkamera",
+            "Parkeringssensorer, for og bag",
+            "Varme i forsæder samt forrude",
+            "Sidespejle el-klapbare og el-opvarmelige",
+            "Multifunktionsrat i læder",
+            "Forsæder, højdeindstilling samt lændestøtte",
+            "LED lys i varerum",
+            "Adskillelse, uden rude",
+            "Kunststofbund i førerkabine"
+          ]
+        },
+        {
+          "navn": "Edition",
+          "bygger_paa": "Comfort",
+          "beregnet": true,
+          "side": 2,
+          "ekstra": [
+            "17\" Alufælge Vulcano",
+            "AGR ergoComfort sæder",
+            "Tag i sort",
+            "Dekorindlæg Dark Silver brushed",
+            "Luftdyser foran med kromindlæg",
+            "Pedaler i aluminiumslook",
+            "Indfarvede stødfangere",
+            "LED-forlygter med LED-dagskørelys, LED-baglygter samt vejrafhængigt lys og drejelys",
+            "Tagræling, sort"
+          ]
+        }
+      ],
+      "note": "Prislisten har ingen udstyrsliste pr. niveau. Vi har sammenlignet de punkter, der står som Standard i tabellen over ekstraudstyr (side 2-4), så udstyr uden for tabellen er ikke med. Tabellen er ens for Caddy Cargo og Caddy Maxi Cargo. Prislisten siger ikke, at Edition bygger på Comfort. Armlæn til forsæder er standard på Comfort, men kan ikke vælges på Edition, som har AGR ergoComfort sæder. Edition fås kun med DSG."
+    },
+    "vw-crafter": {
+      "kilde_fil": "prislister/vw-crafter.pdf",
+      "niveauer": [
+        {
+          "navn": "Crafter",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Climatic Aircondition",
+            "Radio Composition med 10\" touch-skærm og App Connect",
+            "Digitalt cockpit og skiltegenkendelse",
+            "P-sensorer for og bag inkl. Lane Assist",
+            "Parkeringsvarmer med fjernbetjening",
+            "Sædevarme i fører- og passagersæde",
+            "Træbund i varerummet",
+            "Beklædt varerumsadskillelse",
+            "Fartpilot inkl. fartbegrænser",
+            "City Emergency Brake og Front Assist",
+            "Sidespejle med elektrisk indstilling og el opvarmelige",
+            "Reservehjul, værktøj og donkraft"
+          ]
+        },
+        {
+          "navn": "Comfort",
+          "bygger_paa": "Crafter",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot, Travel Assist og Emergency Assist",
+            "Bakkamera",
+            "Vægtafhængigt AGR-certificeret ergoComfort førersæde med 4-vejs elektrisk lændestøtte og armlæn i begge sider",
+            "Anhængertræk med slingerkontrol",
+            "Multifunktionslæderrat med varme",
+            "LED-forlygter og LED-kørelys"
+          ]
+        }
+      ],
+      "note": "Side 1 viser Crafter-udstyret og Comfort \"udover basis udstyr\". Tabellen på side 2-3 bekræfter forskellen. På Comfort afløser AGR-førersædet komfortførersædet, og den adaptive fartpilot afløser den almindelige."
+    },
+    "vw-id-buzz-cargo": {
+      "kilde_fil": "prislister/vw-id-buzz-cargo.pdf",
+      "niveauer": [
+        {
+          "navn": "Comfort",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "Adaptiv fartpilot ACC \"stop & go\" med hastighedsbegrænser",
+            "Radio \"Ready to Discover\" med 12,9\" touch-skærm i farver og trådløs App Connect",
+            "Automatisk klimaanlæg Air Care Climatronic",
+            "Bakkamera med parkeringssensorer for og bag",
+            "LED for- og baglygter",
+            "Nødbremseassistenten \"Front Assist\" med fodgænger- og cyklistregistrering",
+            "Centrallås med nøglefrit startsystem \"Keyless Start\"",
+            "Sædevarme til førersædet",
+            "Førersæde og dobbelt passagersæde",
+            "LED-varerumslys",
+            "Træbund",
+            "Dobbelte bagdøre"
+          ]
+        },
+        {
+          "navn": "Pro",
+          "bygger_paa": "Comfort",
+          "beregnet": false,
+          "side": 1,
+          "ekstra": [
+            "LED Matrix-forlygter med IQ.Light",
+            "Radio \"Ready to Discover\" med 12,9\" touch-skærm i farver, trådløs App Connect og fabriksnavigation",
+            "Førerassistentpakke Plus med Travel- og vognbaneskifteassistent",
+            "Keyless Advanced med tyverialarm",
+            "Undvigehjælp, drejeassistent og vejskiltegenkendelse",
+            "Induktiv opladning af kompatibel smartphone",
+            "Hel sidebeklædning i varerummet af træfiber til tagrammen",
+            "Multifunktionsrat i kunstlæder og ratvarme",
+            "Hjulkapsler i BiColor (sort/sølvfarve)",
+            "El-sammenklappelige sidespejle med varme",
+            "3 sort-hvide dekorlister på D-stolpen",
+            "19\" Letmetalfælge Tilburg (kun std. til Pro 4Motion)"
+          ]
+        }
+      ],
+      "note": null
+    },
+    "man-tge": {
+      "kilde_fil": "prislister/man-tge.pdf",
+      "niveauer": [
+        {
+          "navn": "Pure",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": 6,
+          "ekstra": [
+            "Digitalt kombiinstrument med 10,25\" skærm",
+            "MAN Media Van 10,4\", 4 højttalere, MAN Smartlink, Apple CarPlay, Android Auto, DAB+, Bluetooth, eCall",
+            "Keyless Go (nøglefri start/stop)",
+            "Aircondition \"Climatic\"",
+            "4 stk. LED-lamper i varerum",
+            "Skillevæg, beklædt",
+            "Bakkamera med dynamiske linjer",
+            "Parkeringssensor for og bag (Parking Assist)",
+            "Elektrisk håndbremse inkl. auto-hold",
+            "Sidevindsassistent",
+            "Dobbelt passagersæde med opbevaringsrum og klapbord inkl. kopholder",
+            "Aflægningsrum over forrude med to DIN-porte og LED-læselampe"
+          ]
+        },
+        {
+          "navn": "TGE",
+          "bygger_paa": "Pure",
+          "beregnet": true,
+          "side": 6,
+          "ekstra": [
+            "LED-forlygter og LED-kørelys",
+            "\"Comfort\" multijusterbart førersæde (justerbart armlæn, 2-punkt lændestøtte)",
+            "3-trins sædevarme, til fører og passager (yderst)",
+            "Anhængertræk, fast"
+          ]
+        }
+      ],
+      "note": "MAN viser kun udvalgt standardudstyr (side 6), og listen gælder TGE generelt. Pure beskrives kun i en fodnote på side 3: lavt tag (H2), halogenforlygter, førersædet \"Standard\", ingen sædevarme og ingen forberedelse til anhængertræk. Punkterne for Pure er derfor standardlisten uden de fire punkter, fodnoten nævner. Prislisten siger ikke, at TGE bygger på Pure."
+    },
+    "mercedes-esprinter": {
+      "kilde_fil": "prislister/mercedes-esprinter.konfigurator.json",
+      "niveauer": [
+        {
+          "navn": "PRO",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Klimaanlæg reguleret \"Tempmatik\"",
+            "Preklimatisering",
+            "Ekstra varme, elektrisk varmluft",
+            "MBUX Multimediesystem",
+            "Bakhjælp (kamera bag)",
+            "Blindvinkelassistent",
+            "Aktiv vejbaneassistent",
+            "Fartpilot",
+            "Sædevarme i førersæde",
+            "Dobbelt passagersæde",
+            "Hel adskillelse",
+            "AC-lader 11 kW"
+          ]
+        },
+        {
+          "navn": "SELECT",
+          "bygger_paa": "PRO",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "LED-forlygter",
+            "Langlysassistent",
+            "Komfort førersæde",
+            "Lændestøtte til førersæde",
+            "Armlæn til førersæde",
+            "Komfort nakkestøtte i førersiden",
+            "Armlæn, fører- og passagerdøre",
+            "Læderrat",
+            "Smartphone integrationspakke",
+            "Komfort loftkonsol",
+            "Krom interiørpakke",
+            "12V stikdåse, instrumentpanel",
+            "Kopholder foran",
+            "Låg til papirbakke",
+            "Stænklapper for",
+            "Stænklapper bag"
+          ]
+        }
+      ],
+      "note": "Prislisten har ikke udstyr pr. niveau. Punkterne er standardudstyr i Mercedes' danske konfigurator (hentet den 5. oktober 2026), sammenlignet på tværs af alle udgaver i hvert niveau. Konfiguratorfilen har ingen sider. Prislisterne for PRO og SELECT siger ikke, at SELECT bygger på PRO. På SELECT afløser komfortførersædet PRO's almindelige førersæde."
+    },
+    "mercedes-evito": {
+      "kilde_fil": "prislister/mercedes-evito.konfigurator.json",
+      "niveauer": [
+        {
+          "navn": "BASE Edition",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Klimaanlæg reguleret \"Tempmatik\"",
+            "Preklimatisering",
+            "MBUX Multimediesystem",
+            "Navigation",
+            "Bakhjælp (kamera bag)",
+            "Fartpilot",
+            "Blindvinkelassistent",
+            "Sædevarme i førersæde",
+            "Komfort førersæde",
+            "Træfiber sidebeklædning",
+            "AC-lader 11 kW",
+            "DC-lader 80 kW"
+          ]
+        },
+        {
+          "navn": "eVito",
+          "bygger_paa": "BASE Edition",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "Læderrat",
+            "Krom interiørpakke",
+            "Ladekabel Type 2 (3x20 A) 8 meter",
+            "Klemliste til el-tilslutning",
+            "Intelligent hastighedsassistent"
+          ]
+        }
+      ],
+      "note": "Prislisten har ikke udstyr pr. niveau. Punkterne er standardudstyr i Mercedes' danske konfigurator (hentet den 5. oktober 2026), sammenlignet på tværs af alle udgaver i hvert niveau. Konfiguratorfilen har ingen sider. Prislisten har kun niveauet eVito, og BASE Edition står kun i konfiguratoren. BASE Edition har udstyr, som eVito ikke har som standard: navigation, Live Traffic Information, trafikskilteassistent og lændestøtte til passagersædet. eVito har ladekabel på 8 meter, BASE Edition på 5 meter."
+    },
+    "mercedes-sprinter": {
+      "kilde_fil": "prislister/mercedes-sprinter.konfigurator.json",
+      "niveauer": [
+        {
+          "navn": "PRO",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Klimaanlæg reguleret \"Tempmatik\"",
+            "MBUX Multimediesystem",
+            "Bakhjælp (kamera bag)",
+            "Aktiv bremseassistent",
+            "Blindvinkelassistent",
+            "Aktiv vejbaneassistent",
+            "Fartpilot",
+            "Dobbelt passagersæde",
+            "Hel adskillelse",
+            "Supplerende loftsbelysning i varerum med dørkontakt",
+            "El-forberedt for montering af anhængertræk",
+            "Større tank, 93 liter"
+          ]
+        },
+        {
+          "navn": "SELECT",
+          "bygger_paa": "PRO",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "LED-forlygter",
+            "Langlysassistent",
+            "Komfort førersæde",
+            "Lændestøtte til førersæde",
+            "Armlæn til førersæde",
+            "Komfort nakkestøtte i førersiden",
+            "Armlæn, fører- og passagerdøre",
+            "Læderrat og gearvælger",
+            "Smartphone integrationspakke",
+            "Ekstra varme, elektrisk varmluft",
+            "Komfort loftkonsol",
+            "Krom interiørpakke",
+            "12V stikdåse, instrumentpanel",
+            "Kopholder foran",
+            "Låg til papirbakke",
+            "Kølergrill i vognfarve",
+            "Stænklapper for",
+            "Stænklapper bag"
+          ]
+        }
+      ],
+      "note": "Prislisten har ikke udstyr pr. niveau. Punkterne er standardudstyr i Mercedes' danske konfigurator (hentet den 5. oktober 2026), sammenlignet på tværs af alle udgaver i hvert niveau. Konfiguratorfilen har ingen sider. Prislisterne siger ikke, at SELECT bygger på PRO. På SELECT afløser komfortførersædet PRO's almindelige førersæde. Læderrat og gearvælger er standard på SELECT med manuelt gear."
+    },
+    "mercedes-vito": {
+      "kilde_fil": "prislister/mercedes-vito.konfigurator.json",
+      "niveauer": [
+        {
+          "navn": "PRO",
+          "bygger_paa": null,
+          "beregnet": false,
+          "side": null,
+          "ekstra": [
+            "Klimaanlæg reguleret \"Tempmatik\"",
+            "MBUX Multimediesystem",
+            "Bakhjælp (kamera bag)",
+            "Aktiv bremseassistent",
+            "Blindvinkelassistent",
+            "Aktiv vejbaneassistent",
+            "Fartpilot",
+            "Komfort førersæde",
+            "Hel adskillelse",
+            "Træfiber sidebeklædning",
+            "El-forberedt for montering af anhængertræk",
+            "Egnet til HVO-brændstof"
+          ]
+        },
+        {
+          "navn": "SELECT",
+          "bygger_paa": "PRO",
+          "beregnet": true,
+          "side": null,
+          "ekstra": [
+            "9G-Tronic automatgear",
+            "Parkeringsbremse, elektrisk",
+            "HOLD-funktion",
+            "MULTIBEAM LED med fjernlysassistent PLUS",
+            "Baglygter og bremselys i LED",
+            "Parkeringspakke med bakkamera",
+            "7.0Jx17\" aluminiumsfælge, aerodynamisk",
+            "Indfarvede kofangere",
+            "Kølergrill forkromet",
+            "Elektrisk sammenklappelige sidespejle",
+            "Læderrat",
+            "Smartphone integrationspakke",
+            "Krom interiørpakke",
+            "Komfort loftkonsol",
+            "LED-lys i varerum",
+            "Håndtag for indstigning for fører og passager",
+            "Solskærm med spejl og lys, fører- og passagerside",
+            "Belyst trin for fører og passager",
+            "Belyst fodrum foran",
+            "Belysning bagklap",
+            "Natbelysning, bag"
+          ]
+        }
+      ],
+      "note": "Prislisten har ikke udstyr pr. niveau. Punkterne er standardudstyr i Mercedes' danske konfigurator (hentet den 5. oktober 2026), sammenlignet på tværs af alle udgaver i hvert niveau. Konfiguratorfilen har ingen sider. Prislisten siger ikke, at SELECT bygger på PRO. Automatgear, elektrisk parkeringsbremse og HOLD-funktion er standard på alle SELECT, men på PRO kun med 119 CDI. Konfiguratorens linje PRO Plus AUT er PRO med Pluspakken og er ikke med."
+    }
+  }
+}

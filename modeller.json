@@ -1,0 +1,2078 @@
+{
+  "_om": "Modelfamilier til afsnittet 'Om modellen' på modelsiderne (05-10-2026). En familie samler diesel-, plugin- og eludgaven af samme bil. reg er nye registreringer som varebil i Danmark ifølge Mobility Denmark (2026 = 1. januar til 30. september). rang er pladsen blandt alle varebilmodeller. Fabrikken hentes fra maerker.json. Vises kun med GULPLADE_MODEL_NY=1, indtil brugeren har godkendt.",
+  "marked": {
+    "2024": 28041,
+    "2025": 25608,
+    "2026": 18911,
+    "2026_til": "30. september"
+  },
+  "reg_kilde": {
+    "navn": "Mobility Denmark, tal til 30. september 2026",
+    "url": "https://mobility.dk/nyregistreringer/"
+  },
+  "familier": [
+    {
+      "maerke": "Ford",
+      "navn": "Transit Custom",
+      "ids": [
+        "ford-transit-custom",
+        "ford-transit-custom-phev",
+        "ford-e-transit-custom"
+      ],
+      "reg": {
+        "2025": 3637,
+        "2026": 2378
+      },
+      "rang": {
+        "2025": 1,
+        "2026": 1
+      },
+      "generation": "2. generation, fra 2023",
+      "soester": "Volkswagen Transporter",
+      "udgaver": "Kassevogn, dobbeltkabine og Kombi i længderne L1 og L2 og højderne H1 og H2, med 5,8 til 9,0 m³ lastrum.",
+      "om": [
+        "Transit Custom er Danmarks mest solgte varebil. Den nuværende generation kom i 2023 og fås med diesel, som plug-in hybrid og som elbil. Volkswagen Transporter er bygget på samme platform.",
+        "E-Transit Custom kom i 2024 med et batteri på 64 kWh og 337 km rækkevidde efter WLTP. Fra 2026 giver Ford adgang til 70 kWh af det samme batteri, og så kører den op til 370 km. Plug-in hybriden kan køre op til 56 km på strøm."
+      ],
+      "historie": [
+        {
+          "aar": "2012",
+          "tekst": "Den første Transit Custom kommer."
+        },
+        {
+          "aar": "2013",
+          "tekst": "Transit Custom bliver International Van of the Year og Årets Varebil i Danmark."
+        },
+        {
+          "aar": "2020",
+          "tekst": "Plug-in hybriden bliver International Van of the Year og Årets Varebil i Danmark."
+        },
+        {
+          "aar": "2023",
+          "tekst": "Anden generation går i produktion. Transit Custom bliver International Van of the Year 2024, og E-Transit Custom bliver Årets Varevogn 2023 ved Danish Auto Awards."
+        },
+        {
+          "aar": "2024",
+          "tekst": "E-Transit Custom kommer til Danmark."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Ford, Transit 1965–2025",
+          "url": "https://www.fordpers.be/content/documents/news/2025/transit-history-backgrounder.pdf"
+        },
+        {
+          "navn": "Ecomento, oktober 2023",
+          "url": "https://ecomento.de/2023/10/10/neuer-ford-transit-custom-phev-bestellbar-elektro-version-ab-sommer-2024/"
+        },
+        {
+          "navn": "Electrive, december 2025",
+          "url": "https://www.electrive.net/2025/12/02/70-statt-64-kwh-ford-spendiert-e-transit-custom-mehr-batteriekapazitaet/"
+        },
+        {
+          "navn": "Van Reviewer",
+          "url": "https://vanreviewer.co.uk/?p=4031"
+        },
+        {
+          "navn": "International Van of the Year 2024",
+          "url": "https://van-of-the-year.com/2023/11/22/high-five-international-van-of-the-year-award-for-ford-transit-in-winning-2024-title/"
+        },
+        {
+          "navn": "FDM, 2013",
+          "url": "https://fdm.dk/arkiv/2013-04-aarets-varebil-er-en-fleksibel-ford"
+        },
+        {
+          "navn": "FDM, 2020",
+          "url": "https://fdm.dk/nyheder/nyt-om-biler/2020-09-halvelektrisk-sejr-aarets-varebil-har-ledning"
+        },
+        {
+          "navn": "Ford Danmark, november 2023",
+          "url": "https://www.mynewsdesk.com/dk/ford-motor-company/pressreleases/fords-nye-transit-custom-vinder-priser-baade-nationalt-og-internationalt-3288546"
+        }
+      ]
+    },
+    {
+      "maerke": "Ford",
+      "navn": "Transit",
+      "ids": [
+        "ford-transit",
+        "ford-e-transit"
+      ],
+      "reg": {
+        "2025": 893,
+        "2026": 449
+      },
+      "generation": "Nuværende model fra 2014, opdateret i 2016, 2019 og 2023",
+      "udgaver": "Kassevogn i længderne L2, L3 og L4 og højderne H2 og H3. Fås også som chassis, dobbeltkabine, Kombi og med firehjulstræk.",
+      "om": [
+        "Transit er Fords store varebil og har været på markedet siden 1965. Den nuværende model kom i 2014 og bliver bygget i Tyrkiet.",
+        "E-Transit kom til Europa i 2022. Den nyeste udgave har et batteri på 89 kWh og kører op til 402 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1965",
+          "tekst": "Den første Transit kører af samlebåndet i Langley i England den 9. august."
+        },
+        {
+          "aar": "2001",
+          "tekst": "Transit bliver International Van of the Year. Det sker igen i 2007."
+        },
+        {
+          "aar": "2014",
+          "tekst": "Den nuværende Transit kommer."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Den elektriske E-Transit går i produktion til Europa i april."
+        },
+        {
+          "aar": "2024",
+          "tekst": "E-Transit får et større batteri på 89 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Ford, Transit 1965–2025",
+          "url": "https://www.fordpers.be/content/documents/news/2025/transit-history-backgrounder.pdf"
+        },
+        {
+          "navn": "Electrive, april 2022",
+          "url": "https://www.electrive.net/2022/04/08/ford-baut-erste-e-transit-fuer-europa/"
+        },
+        {
+          "navn": "Carscoops, april 2024",
+          "url": "https://www.carscoops.com/2024/04/europeans-have-a-new-ford-e-transit-extended-range-with-a-89-kwh-pack/"
+        },
+        {
+          "navn": "Business Car",
+          "url": "https://www.businesscar.co.uk/test-drives/ford-transit-test-drive-review/"
+        }
+      ]
+    },
+    {
+      "maerke": "Ford",
+      "navn": "Transit Courier",
+      "ids": [
+        "ford-transit-courier",
+        "ford-e-transit-courier"
+      ],
+      "reg": {
+        "2025": 333,
+        "2026": 236
+      },
+      "generation": "2. generation, fra 2023",
+      "udgaver": "Kassevogn med benzin, diesel eller el.",
+      "om": [
+        "Transit Courier er Fords mindste varebil. Den nuværende generation er bygget på samme platform som Ford Puma og har 25 % mere lastrum end den forrige.",
+        "E-Transit Courier kom i 2025 med et batteri på 43 kWh og 300 km rækkevidde. Fra 2026 har den 46 kWh og kører 334 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2014",
+          "tekst": "Transit Courier kommer som Fords første lille varebil."
+        },
+        {
+          "aar": "2023",
+          "tekst": "Anden generation bliver præsenteret og får 93 % i Euro NCAP."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Den elektriske E-Transit Courier kommer på markedet."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Ford, Transit 1965–2025",
+          "url": "https://www.fordpers.be/content/documents/news/2025/transit-history-backgrounder.pdf"
+        },
+        {
+          "navn": "Van Reviewer",
+          "url": "https://vanreviewer.co.uk/ford/transit-courier/review/430/"
+        },
+        {
+          "navn": "EV Fleet World",
+          "url": "https://evfleetworld.co.uk/ford-confirms-specs-for-all-new-e-transit-courier-at-iaa-reveal/"
+        },
+        {
+          "navn": "Fleet World",
+          "url": "https://fleetworld.co.uk/?p=132299"
+        }
+      ]
+    },
+    {
+      "maerke": "Ford",
+      "navn": "Transit Connect",
+      "ids": [
+        "ford-transit-connect",
+        "ford-transit-connect-phev"
+      ],
+      "reg": {
+        "2025": 184,
+        "2026": 57
+      },
+      "generation": "3. generation, fra 2024",
+      "soester": "Volkswagen Caddy",
+      "udgaver": "Kassevogn i længderne L1 (3,1 m³) og L2 (3,7 m³). Fra 2025 også som Kombi og med firehjulstræk.",
+      "om": [
+        "Den nuværende Transit Connect er bygget af Volkswagen og er en søstermodel til VW Caddy.",
+        "Plug-in hybriden kan køre op til 110 km på strøm efter WLTP og lade med op til 50 kW."
+      ],
+      "historie": [
+        {
+          "aar": "2002",
+          "tekst": "Den første Transit Connect kommer og bliver International Van of the Year 2003."
+        },
+        {
+          "aar": "2013",
+          "tekst": "Anden generation kommer og bliver International Van of the Year 2014."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Tredje generation kommer, nu bygget på samme platform som VW Caddy og også som plug-in hybrid."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Ford, Transit 1965–2025",
+          "url": "https://www.fordpers.be/content/documents/news/2025/transit-history-backgrounder.pdf"
+        },
+        {
+          "navn": "New Mobility, februar 2024",
+          "url": "https://newmobility.news/2024/02/01/ford-unveils-plug-in-hybrid-transit-connect-van/"
+        },
+        {
+          "navn": "Automobile.at",
+          "url": "https://www.automobile.at/magazin/712975"
+        }
+      ]
+    },
+    {
+      "maerke": "Ford",
+      "navn": "Ranger",
+      "ids": [
+        "ford-ranger"
+      ],
+      "reg": {
+        "2025": 130,
+        "2026": 95
+      },
+      "generation": "Nuværende model fra 2022",
+      "soester": "Volkswagen Amarok",
+      "udgaver": "Dobbeltkabine og Super Cab. Fås også som plug-in hybrid.",
+      "om": [
+        "Ranger er udviklet sammen med VW Amarok og bliver bygget på samme samlebånd i Sydafrika.",
+        "Plug-in hybriden har en 2,3-liters benzinmotor og et batteri på 11,8 kWh. Den kører op til 43 km på strøm og kan trække 3.500 kg."
+      ],
+      "historie": [
+        {
+          "aar": "2013",
+          "tekst": "Ranger vinder International Pick-up Award. Det sker igen i 2020."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Den nuværende Ranger kan bestilles i Europa fra efteråret, og de første bliver leveret i starten af 2023."
+        },
+        {
+          "aar": "2023",
+          "tekst": "Ranger og Amarok deler International Pick-up Award 2024."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Van Reviewer",
+          "url": "https://vanreviewer.co.uk/news/ford-ranger-and-volkswagen-amarok-share-international-pick-up-award/"
+        },
+        {
+          "navn": "Autonotizen",
+          "url": "https://autonotizen.de/neuigkeiten/ford-ranger-pick-up-neu-nachfolger-motoren-v6-vw-amarok-fotos-2022"
+        },
+        {
+          "navn": "EV Fleet World",
+          "url": "https://evfleetworld.co.uk/first-drive-ford-ranger-phev/"
+        }
+      ]
+    },
+    {
+      "maerke": "Volkswagen",
+      "navn": "Transporter",
+      "ids": [
+        "volkswagen-transporter",
+        "vw-e-transporter"
+      ],
+      "reg": {
+        "2025": 1769,
+        "2026": 1570
+      },
+      "rang": {
+        "2025": 4,
+        "2026": 3
+      },
+      "generation": "7. generation, præsenteret i september 2024",
+      "soester": "Ford Transit Custom",
+      "udgaver": "Kassevogn, kassevogn med to sæderækker, Kombi og dobbeltkabine med lad. To akselafstande og to taghøjder.",
+      "om": [
+        "Den nye Transporter er bygget på samme platform som Ford Transit Custom og bliver lavet af Ford Otosan i Tyrkiet. Den fås med diesel, som plug-in hybrid og som elbil.",
+        "e-Transporter har et batteri på 64 kWh og kører 324 km efter WLTP. Den kan lade med op til 125 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1950",
+          "tekst": "Den første Transporter, T1, går i produktion den 8. marts."
+        },
+        {
+          "aar": "1990",
+          "tekst": "T4 kommer som den første Transporter med motoren foran og forhjulstræk."
+        },
+        {
+          "aar": "2015",
+          "tekst": "T6 kommer og bliver kåret til International Van of the Year 2016."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Den syvende generation bliver præsenteret på IAA-messen i Hannover. De første biler kommer på vejene i starten af 2025."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Volkswagen, IAA 2024",
+          "url": "https://www.vw.co.za/en/volkswagen-experience/newsroom/iaa-transportation-2024-world-premiere-of-new-transporter.html"
+        },
+        {
+          "navn": "Van Reviewer, e-Transporter",
+          "url": "https://vanreviewer.co.uk/battery-charging-range/what-is-the-volkswagen-e-transporter-battery-range/"
+        },
+        {
+          "navn": "Autobiz, 70 år med Transporter",
+          "url": "https://www.autobiz.ie/home/volkswagen-transports-celebrates-70-years"
+        },
+        {
+          "navn": "International Van of the Year",
+          "url": "https://van-of-the-year.com/2017/08/20/back-to-back-wins-for-volkswagen-in-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Volkswagen",
+      "navn": "ID. Buzz",
+      "ids": [
+        "vw-id-buzz-cargo"
+      ],
+      "reg": {
+        "2025": 2016,
+        "2026": 1282
+      },
+      "rang": {
+        "2025": 2,
+        "2026": 4
+      },
+      "reg_note": "Tallene gælder alle udgaver af ID. Buzz, der er indregistreret som varebil.",
+      "generation": "1. generation, præsenteret i marts 2022",
+      "udgaver": "Kassevogn med kort akselafstand (3,9 m³). En lang udgave med 4,4 m³ kommer i 2026.",
+      "om": [
+        "ID. Buzz Cargo er Volkswagens elektriske udgave af den klassiske Transporter-form. Den bliver bygget i Hannover og kom til de danske forhandlere i januar 2023.",
+        "Med batteriet på 79 kWh kører den omkring 460 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2022",
+          "tekst": "ID. Buzz bliver præsenteret den 9. marts og kommer på markedet i Europa i efteråret."
+        },
+        {
+          "aar": "2023",
+          "tekst": "ID. Buzz bliver International Van of the Year 2023 og Årets Varebil 2023 i Danmark. Det er første gang, en varebil, der kun fås som elbil, vinder den danske pris."
+        },
+        {
+          "aar": "2026",
+          "tekst": "Volkswagen meddeler, at Cargo også kommer med lang akselafstand og et batteri på 86 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Hannover.de, 2022",
+          "url": "https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2022/VW-baut-neuen-Bulli-ID.-Buzz-in-Hannover"
+        },
+        {
+          "navn": "Landbrugsavisen",
+          "url": "https://landbrugsavisen.dk/traktortech/elektrisk-vw-rugbroed-er-aarets-varebil-196514"
+        },
+        {
+          "navn": "FDM, april 2023",
+          "url": "https://fdm.dk/nyheder/nyt-om-biler/2023-04-aarets-varebil-2023-er-helt-elektrisk-se-den-som-vejhjaelpsbil"
+        },
+        {
+          "navn": "Electrive, december 2025",
+          "url": "https://www.electrive.com/2025/12/04/id-buzz-cargo-now-also-comes-with-long-wheelbase"
+        },
+        {
+          "navn": "New Mobility, september 2026",
+          "url": "https://newmobility.news/en/2026/09/09/vw-id-buzz-cargo-lwb-higher-load-volume-and-range/"
+        }
+      ]
+    },
+    {
+      "maerke": "Volkswagen",
+      "navn": "Crafter",
+      "ids": [
+        "vw-crafter"
+      ],
+      "reg": {
+        "2025": 945,
+        "2026": 611
+      },
+      "generation": "2. generation, fra 2016",
+      "soester": "MAN TGE",
+      "udgaver": "Tre længder og tre højder, op til 18,4 m³. Forhjulstræk, baghjulstræk eller firehjulstræk, og en totalvægt fra 3,5 til 5,3 tons.",
+      "om": [
+        "Crafter bliver bygget i Września i Polen på samme samlebånd som MAN TGE. Volkswagen stoppede salget af e-Crafter i 2022. En ny elektrisk Crafter er på vej fra samme fabrik."
+      ],
+      "historie": [
+        {
+          "aar": "2016",
+          "tekst": "Anden generation kommer og bliver kåret til International Van of the Year 2017."
+        },
+        {
+          "aar": "2018",
+          "tekst": "Den elektriske e-Crafter kommer med et batteri på 35,8 kWh."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Volkswagen stopper salget af e-Crafter."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Fabrikken i Września bygger 103.000 Crafter og TGE."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "International Van of the Year",
+          "url": "https://van-of-the-year.com/2017/08/20/back-to-back-wins-for-volkswagen-in-international-van-of-the-year-award/"
+        },
+        {
+          "navn": "Electrive, oktober 2025",
+          "url": "https://www.electrive.com/es/2025/10/20/vwn-expands-plant-in-poland-for-next-e-crafter/"
+        },
+        {
+          "navn": "Ecomento",
+          "url": "https://ecomento.de/?p=86955"
+        }
+      ]
+    },
+    {
+      "maerke": "Volkswagen",
+      "navn": "Caddy",
+      "ids": [
+        "vw-caddy"
+      ],
+      "reg": {
+        "2025": 344,
+        "2026": 174
+      },
+      "generation": "5. generation, præsenteret i februar 2020",
+      "soester": "Ford Transit Connect",
+      "udgaver": "Caddy Cargo og den lange Caddy Cargo Maxi, med 3,3 til 4,0 m³ lastrum. Fås også som plug-in hybrid.",
+      "om": [
+        "Den femte Caddy er bygget på samme platform som VW Golf. Ford Transit Connect er bygget på Caddy, og de to bliver lavet side om side i Poznań.",
+        "Caddy eHybrid kom i 2024 og kan køre op til 122 km på strøm."
+      ],
+      "historie": [
+        {
+          "aar": "1982",
+          "tekst": "Navnet Caddy kommer til Europa på en pickup bygget på Golf."
+        },
+        {
+          "aar": "2003",
+          "tekst": "Tredje generation kommer og bliver bygget i Poznań. Den lange Caddy Maxi følger i 2007."
+        },
+        {
+          "aar": "2020",
+          "tekst": "Femte generation kommer. På det tidspunkt er der bygget mere end 3 millioner Caddy."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Caddy eHybrid kommer som plug-in hybrid, også som varebil."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Swansway, fem generationer",
+          "url": "https://www.swanswaygarages.com/blog/five-generations-of-volkswagen-caddy"
+        },
+        {
+          "navn": "Inovev",
+          "url": "https://inovev.com/index.php/ja/market-analyses/category-blog/14178-2021-27-1"
+        },
+        {
+          "navn": "Electrive, august 2024",
+          "url": "https://www.electrive.net/2024/08/15/vw-caddy-als-plug-in-hybrid-bestellbar/"
+        }
+      ]
+    },
+    {
+      "maerke": "Volkswagen",
+      "navn": "Amarok",
+      "ids": [
+        "vw-amarok"
+      ],
+      "reg": {
+        "2025": 73,
+        "2026": 36
+      },
+      "generation": "2. generation, fra 2022",
+      "soester": "Ford Ranger",
+      "udgaver": "Dobbeltkabine og enkeltkabine, med diesel eller benzin.",
+      "om": [
+        "Den anden Amarok bliver bygget af Ford i Sydafrika og deler ramme, motorer og elektronik med Ford Ranger. Den findes ikke som elbil eller hybrid."
+      ],
+      "historie": [
+        {
+          "aar": "2010",
+          "tekst": "Den første Amarok kommer. Den sælger mere end 830.000 eksemplarer."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Anden generation går i produktion hos Ford i Silverton i september."
+        },
+        {
+          "aar": "2023",
+          "tekst": "Amarok kommer også med enkeltkabine."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "WardsAuto",
+          "url": "https://www.wardsauto.com/ford/volkswagen-pairs-2023-amarok-pickup-with-ford-ranger"
+        }
+      ]
+    },
+    {
+      "maerke": "MAN",
+      "navn": "TGE",
+      "ids": [
+        "man-tge"
+      ],
+      "reg": {
+        "2024": 524,
+        "2025": 702,
+        "2026": 513
+      },
+      "generation": "1. generation, fra 2017",
+      "soester": "Volkswagen Crafter",
+      "udgaver": "Kassevogn, Kombi og chassis med enkelt- eller dobbeltkabine. Tre længder og tre højder, op til 18,3 m³.",
+      "om": [
+        "TGE er MANs første varebil under 7,5 tons. Den bliver bygget af Volkswagen i Polen på samme samlebånd som Crafter.",
+        "Den elektriske eTGE er udgået. MAN forventer, at den kommer tilbage med næste generation."
+      ],
+      "historie": [
+        {
+          "aar": "2017",
+          "tekst": "TGE går i produktion i april."
+        },
+        {
+          "aar": "2018",
+          "tekst": "Den elektriske eTGE kommer med et batteri på 35,8 kWh."
+        },
+        {
+          "aar": "2023",
+          "tekst": "TGE nummer 100.000 bliver bygget."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Auto Motor und Sport",
+          "url": "https://www.auto-motor-und-sport.de/neuheiten/man-tge-transporter-der-bruder-des-vw-crafter/"
+        },
+        {
+          "navn": "Electrive, oktober 2025",
+          "url": "https://www.electrive.com/es/2025/10/20/vwn-expands-plant-in-poland-for-next-e-crafter/"
+        },
+        {
+          "navn": "Facts Magazine",
+          "url": "https://www.factsmagazine.co.uk/?p=25619"
+        }
+      ]
+    },
+    {
+      "maerke": "Mercedes-Benz",
+      "navn": "Sprinter",
+      "ids": [
+        "mercedes-sprinter",
+        "mercedes-esprinter"
+      ],
+      "reg": {
+        "2024": 2507,
+        "2025": 1721,
+        "2026": 1193
+      },
+      "rang": {
+        "2024": 2,
+        "2025": 6
+      },
+      "generation": "3. generation, fra 2018",
+      "udgaver": "Kassevogn, chassis, ladbil, tipvogn og mandskabsvogn.",
+      "om": [
+        "Sprinter er Mercedes' store varebil og har været på markedet siden 1995. Den nuværende generation kom i 2018 og fås med forhjulstræk, baghjulstræk og firehjulstræk.",
+        "Den nye eSprinter kom til Europa i slutningen af 2023 med batterier på 56, 81 eller 113 kWh. Med det største batteri kører den op til 478 km."
+      ],
+      "historie": [
+        {
+          "aar": "1995",
+          "tekst": "Den første Sprinter kommer og bliver International Van of the Year."
+        },
+        {
+          "aar": "2006",
+          "tekst": "Anden generation kommer med tre akselafstande, fire længder og tre taghøjder."
+        },
+        {
+          "aar": "2018",
+          "tekst": "Tredje generation kommer, nu også med forhjulstræk."
+        },
+        {
+          "aar": "2019",
+          "tekst": "Den første eSprinter kommer."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Mercedes har solgt omkring 5 millioner Sprinter."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Mercedes-Benz, Sprinter 30 år",
+          "url": "https://www.autointernational.com.my/Mercedes-Benz%20Sprinter%20celebrates%2030%20years%20of%20success%20%20-%2030%20Mar%20%2025.html"
+        },
+        {
+          "navn": "Drive Electric",
+          "url": "https://drive-electric.co.uk/news/new-mercedes-benz-esprinter-get-big-battery-and-more-range"
+        },
+        {
+          "navn": "Mercedes-Benz, april 2024",
+          "url": "https://www.germancarforum.com/threads/more-premium-for-business-the-new-mercedes-benz-midsize-and-large-vans.278083/"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Mercedes-Benz",
+      "navn": "Vito",
+      "ids": [
+        "mercedes-vito",
+        "mercedes-evito"
+      ],
+      "reg": {
+        "2024": 2040,
+        "2025": 1743,
+        "2026": 1257
+      },
+      "rang": {
+        "2024": 3,
+        "2025": 5
+      },
+      "generation": "3. generation, fra 2014, opdateret i 2024",
+      "udgaver": "Kassevogn i længderne lang (5,14 m) og ekstra lang (5,39 m), med op til 6,6 m³ lastrum.",
+      "om": [
+        "Vito er Mercedes' mellemstore varebil. Den nuværende generation kom i 2014 og fik ny skærm og LED-lygter i 2024.",
+        "Siden marts 2025 har eVito kunnet fås med et batteri på 60 eller 90 kWh. Med det store batteri kører den op til 480 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1995",
+          "tekst": "Den første Vito kommer og bliver International Van of the Year 1996."
+        },
+        {
+          "aar": "2003",
+          "tekst": "Anden generation kommer med baghjulstræk og bliver International Van of the Year 2005."
+        },
+        {
+          "aar": "2014",
+          "tekst": "Tredje generation kommer."
+        },
+        {
+          "aar": "2018",
+          "tekst": "eVito kommer som Mercedes' første serieproducerede mellemstore elvarebil."
+        },
+        {
+          "aar": "2026",
+          "tekst": "Mercedes viser VLE, den første bil på den nye elplatform VAN.EA. En afløser for Vito som varebil følger senere."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "International Fleet World, Vito 30 år",
+          "url": "https://internationalfleetworld.com/mercedes%e2%80%91benz-vans-celebrates-30-years-of-vito/"
+        },
+        {
+          "navn": "Automotive World, eVito 90 kWh",
+          "url": "https://www.automotiveworld.com/news/even-more-miles-mercedes-benz-evito-panel-van-now-available-with-90-kwh-battery-capacity/"
+        },
+        {
+          "navn": "Van Reviewer, VLE",
+          "url": "https://vanreviewer.co.uk/news/mercedes-reveals-new-vle-at-star-studded-launch/"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Mercedes-Benz",
+      "navn": "Citan",
+      "ids": [
+        "mercedes-citan",
+        "mercedes-ecitan"
+      ],
+      "reg": {
+        "2024": 818,
+        "2025": 834,
+        "2026": 749
+      },
+      "generation": "2. generation, fra 2021",
+      "soester": "Renault Kangoo og Nissan Townstar",
+      "udgaver": "Kassevogn i to længder. Fås også som Tourer og Mixto.",
+      "om": [
+        "Citan er bygget på samme platform som Renault Kangoo og bliver lavet af Renault i Maubeuge. Mercedes har meddelt, at Citan og eCitan udgår i 2026 uden en efterfølger.",
+        "eCitan har et batteri på 45 kWh og kører omkring 285 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2012",
+          "tekst": "Den første Citan kommer som en del af samarbejdet mellem Daimler, Renault og Nissan."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Anden generation bliver præsenteret og deler titlen International Van of the Year 2022 med Renault Kangoo."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Den elektriske eCitan kommer."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Electrive, august 2021",
+          "url": "https://electrive.com/2021/08/26/mercedes-ecitan-to-release-in-2022"
+        },
+        {
+          "navn": "Electrive, juni 2024",
+          "url": "https://www.electrive.com/2024/06/21/mercedes-launches-long-wheelbase-versions-of-ecitan-and-eqt"
+        },
+        {
+          "navn": "Electrive, april 2025",
+          "url": "https://www.electrive.com/es/2025/04/11/mercedes-benz-furgonetas-retira-el-ecitan-y-el-eqt-de-la-gama/"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Renault",
+      "navn": "Master",
+      "ids": [
+        "renault-master",
+        "renault-master-chassis",
+        "renault-master-e-tech",
+        "renault-master-e-tech-chassis"
+      ],
+      "reg": {
+        "2024": 776,
+        "2025": 1781,
+        "2026": 1729
+      },
+      "rang": {
+        "2025": 3,
+        "2026": 2
+      },
+      "generation": "4. generation, fra 2024",
+      "soester": "Nissan Interstar",
+      "udgaver": "20 udgaver med 11 til 22 m³ lastrum og op til 4 tons nyttelast. Kassevogn, mandskabsvogn, ladbil og tipvogn.",
+      "om": [
+        "Den nye Master kom i foråret 2024. Den er formet, så den tager mindre vind. Renault oplyser, at den bruger omkring 27 % mindre brændstof og strøm end den forrige generation.",
+        "Master E-Tech fås med et batteri på 40 eller 87 kWh. Med det lille kører den omkring 200 km, og med det store op til 460 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1980",
+          "tekst": "Den første Master kommer."
+        },
+        {
+          "aar": "1998",
+          "tekst": "Master bliver International Van of the Year."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Fjerde generation kommer og bliver International Van of the Year 2025."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Master og Nissan Interstar bliver sammen kåret til Årets Varebil 2025 i Danmark."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "International Fleet World",
+          "url": "https://internationalfleetworld.com/all-new-renault-master-van-line-up-uncovered-in-ice-ev-and-hydrogen-guise/"
+        },
+        {
+          "navn": "Renault, januar 2024",
+          "url": "https://media.renault.com/?p=483996"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        },
+        {
+          "navn": "Landbrugsavisen, Årets Varebil 2025",
+          "url": "https://landbrugsavisen.dk/tvillingebiler-kaaret-til-aarets-varebil-2025-230661"
+        }
+      ]
+    },
+    {
+      "maerke": "Renault",
+      "navn": "Trafic",
+      "ids": [
+        "renault-trafic",
+        "renault-trafic-e-tech"
+      ],
+      "reg": {
+        "2025": 1292,
+        "2026": 790
+      },
+      "generation": "3. generation, fra 2014",
+      "soester": "Nissan Primastar",
+      "udgaver": "To længder (5,08 og 5,48 m) og to højder, med 5,8 til 8,9 m³ lastrum. Kassevogn, dobbeltkabine og chassis.",
+      "om": [
+        "Trafic er Renaults mellemstore varebil. Den nuværende Trafic E-Tech har et batteri på 52 kWh og kører 297 km efter WLTP.",
+        "Den nye Trafic E-Tech kommer kun som elbil. Renault oplyser, at den kører op til 450 km og lader med 800 volt. Den kommer til Danmark i 2027."
+      ],
+      "historie": [
+        {
+          "aar": "1980",
+          "tekst": "Den første Trafic kommer."
+        },
+        {
+          "aar": "2002",
+          "tekst": "Trafic bliver International Van of the Year sammen med Opel Vivaro og Nissan Primastar."
+        },
+        {
+          "aar": "2015",
+          "tekst": "Trafic og Opel Vivaro bliver sammen kåret til Årets Varebil i Danmark."
+        },
+        {
+          "aar": "2023",
+          "tekst": "Den første Trafic E-Tech kommer."
+        },
+        {
+          "aar": "2026",
+          "tekst": "Den nye Trafic E-Tech bliver kåret til International Van of the Year."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Renault, Trafic E-Tech 2023",
+          "url": "https://media.renault.com/all-new-trafic-van-e-tech-electric-completes-renaults-all-electric-light-commercial-vehicle-line-up/?lang=eng"
+        },
+        {
+          "navn": "Van Reviewer, ny Trafic",
+          "url": "https://vanreviewer.co.uk/?p=9414"
+        },
+        {
+          "navn": "Renault Danmark, 2015",
+          "url": "https://www.mynewsdesk.com/dk/renault-danmark/pressreleases/renault-trafic-vinder-titlen-som-aarets-varebil-2015-1132656"
+        },
+        {
+          "navn": "Renault Group, september 2026",
+          "url": "https://www.renaultgroup.com/en/magazine/our-group-news/the-all-new-trafic-e-tech-electric-crowned-van-of-the-year-2026/"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Renault",
+      "navn": "Kangoo",
+      "ids": [
+        "renault-kangoo",
+        "renault-kangoo-e-tech"
+      ],
+      "reg": {
+        "2025": 446,
+        "2026": 302
+      },
+      "generation": "3. generation, fra 2021",
+      "soester": "Mercedes Citan og Nissan Townstar",
+      "udgaver": "Kassevogn i længderne L1 og L2 (Maxi).",
+      "om": [
+        "Kangoo har været Renaults lille varebil siden 1997, og Renault har solgt mere end 4 millioner. Den nuværende generation deler platform med Mercedes Citan og Nissan Townstar.",
+        "Kangoo E-Tech har et batteri på 45 kWh og kører op til 300 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1997",
+          "tekst": "Den første Kangoo kommer."
+        },
+        {
+          "aar": "2011",
+          "tekst": "Den elektriske Kangoo Z.E. kommer og bliver International Van of the Year 2012."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Tredje generation kommer og deler titlen International Van of the Year 2022 med Mercedes Citan."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Kangoo bliver Årets Varebil i Danmark."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Renault Group, Kangoo",
+          "url": "https://www.renaultgroup.com/en/news-on-air/news/saga-renault-kangoo-lcv-and-ludospace-the-best-of-both-worlds/"
+        },
+        {
+          "navn": "International Fleet World",
+          "url": "https://internationalfleetworld.com/renaults-electric-kangoo-van-e-tech-revealed-with-300km-range"
+        },
+        {
+          "navn": "Landbrugsavisen, 2022",
+          "url": "https://landbrugsavisen.dk/traktortech/renault-kangoo-blev-aarets-varebil-181992"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Nissan",
+      "navn": "Interstar",
+      "ids": [
+        "nissan-interstar"
+      ],
+      "reg": {
+        "2024": 139,
+        "2025": 222,
+        "2026": 252
+      },
+      "generation": "Ny generation, fra 2024",
+      "soester": "Renault Master",
+      "udgaver": "10,8 til 22 m³ lastrum og en totalvægt på 3,3, 3,5 eller 4 tons. Fås også som mandskabsvogn, ladbil og tipvogn.",
+      "om": [
+        "Den nye Interstar er bygget på samme platform som Renault Master og er tegnet hos Nissan Design Europe i London. Den har 20 % mindre luftmodstand end den model, den afløser.",
+        "Interstar-e er den første elektriske Interstar. Med batteriet på 87 kWh kører den op til 460 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2021",
+          "tekst": "Nissan går tilbage til navnet Interstar i stedet for NV400."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Den nye Interstar bliver præsenteret den 7. februar, og Interstar-e kommer til forhandlerne i november."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Interstar og Renault Master bliver sammen kåret til Årets Varebil 2025 i Danmark."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Van Reviewer, Interstar",
+          "url": "https://vanreviewer.co.uk/news/nissan-interstar-what-you-need-to-know/"
+        },
+        {
+          "navn": "Electrive, november 2024",
+          "url": "https://www.electrive.com/2024/11/07/nissans-interstar-e-rolls-to-dealerships-in-europe"
+        },
+        {
+          "navn": "New Mobility, februar 2024",
+          "url": "https://newmobility.news/en/2024/02/07/nissans-next-gen-interstar-city-van-goes-fully-electric/"
+        },
+        {
+          "navn": "Landbrugsavisen, Årets Varebil 2025",
+          "url": "https://landbrugsavisen.dk/tvillingebiler-kaaret-til-aarets-varebil-2025-230661"
+        }
+      ]
+    },
+    {
+      "maerke": "Nissan",
+      "navn": "Primastar",
+      "ids": [
+        "nissan-primastar"
+      ],
+      "reg": {
+        "2024": 244,
+        "2025": 207,
+        "2026": 113
+      },
+      "generation": "Samme generation som Renault Trafic, med navnet Primastar fra 2021",
+      "soester": "Renault Trafic",
+      "udgaver": "Kassevogn i længderne L1 (5,08 m) og L2 (5,48 m).",
+      "om": [
+        "Primastar er Nissans udgave af Renault Trafic og bliver bygget af Renault i Sandouville. Den findes ikke som elbil."
+      ],
+      "historie": [
+        {
+          "aar": "2002",
+          "tekst": "Den første Primastar kommer og bliver International Van of the Year sammen med Renault Trafic og Opel Vivaro."
+        },
+        {
+          "aar": "2016",
+          "tekst": "Primastar skifter navn til NV300."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Navnet Primastar vender tilbage."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Auto Motor und Sport",
+          "url": "https://www.auto-motor-und-sport.de/neuheiten/nissan-nv300-primastar-kombi-facelift-preise/"
+        },
+        {
+          "navn": "Van Reviewer, International Van of the Year",
+          "url": "https://vanreviewer.co.uk/advice/what-is-the-international-van-of-the-year-award/"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "Proace",
+      "ids": [
+        "toyota-proace-diesel",
+        "toyota-proace"
+      ],
+      "reg": {
+        "2025": 828,
+        "2026": 398
+      },
+      "generation": "2. generation, fra 2016, opdateret i 2024",
+      "soester": "Citroën Jumpy, Peugeot Expert, Opel Vivaro og Fiat Scudo",
+      "udgaver": "Kassevogn i tre længder: 4,61 m, 4,96 m og 5,31 m. Fås også som chassis og dobbeltkabine.",
+      "om": [
+        "Toyota Proace er bygget på samme platform som de mellemstore varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2016, og i 2024 fik den nyt udseende, en 10-tommers skærm og flere hjælpesystemer.",
+        "Proace Electric fås med batterier på 50 eller 75 kWh og kører op til 350 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2013",
+          "tekst": "Den første Proace kommer i juli som Toyotas udgave af Citroën Jumpy og Peugeot Expert."
+        },
+        {
+          "aar": "2016",
+          "tekst": "Den nuværende Proace kommer i marts."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Proace får nyt udseende, og eludgaven kører 20 km længere end før."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Wikipedia, Toyota Proace",
+          "url": "https://en.wikipedia.org/wiki/Toyota_ProAce"
+        },
+        {
+          "navn": "Toyota UK",
+          "url": "https://media.toyota.co.uk/vehicles/proace-2024-current/"
+        },
+        {
+          "navn": "Automotive World, september 2024",
+          "url": "https://www.automotiveworld.com/news/toyota-professional-forges-ahead-with-greater-product-power-and-dedicated-customer-service/"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "Proace City",
+      "ids": [
+        "toyota-proace-city-diesel",
+        "toyota-proace-city"
+      ],
+      "reg": {
+        "2025": 487,
+        "2026": 262
+      },
+      "generation": "1. generation, fra 2019, opdateret i 2024",
+      "soester": "Citroën Berlingo, Peugeot Partner, Opel Combo og Fiat Doblò",
+      "udgaver": "Kassevogn i to længder, 4,40 m og 4,75 m, med op til 4,4 m³ lastrum.",
+      "om": [
+        "Toyota Proace City er bygget på samme platform som de små varebiler fra Stellantis-mærkerne. Den kom i 2019 og fik nyt udseende, ny skærm og et nyt batteri i 2024.",
+        "Proace City Electric kører op til 330 km efter WLTP, 50 km længere end før opdateringen."
+      ],
+      "historie": [
+        {
+          "aar": "2019",
+          "tekst": "Proace City kommer som Toyotas udgave af Stellantis' lille varebil."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Proace City får nyt udseende og længere rækkevidde som elbil."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Citroën, december 2023",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/smarter-versatile-and-electric-new-citroen-e-berlingo-upgrades-your-active-life"
+        },
+        {
+          "navn": "Toyota UK",
+          "url": "https://media.toyota.co.uk/vehicles/proace-city-2024-current/"
+        },
+        {
+          "navn": "Automotive World, september 2024",
+          "url": "https://www.automotiveworld.com/news/toyota-professional-forges-ahead-with-greater-product-power-and-dedicated-customer-service/"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "Proace Max",
+      "ids": [
+        "toyota-proace-max-diesel",
+        "toyota-proace-max"
+      ],
+      "reg": {
+        "2025": 333,
+        "2026": 183
+      },
+      "generation": "1. generation, fra 2024",
+      "soester": "Citroën Jumper, Peugeot Boxer, Opel Movano og Fiat Ducato",
+      "udgaver": "Kassevogn i tre længder og tre højder med op til 17 m³ lastrum. Fås også som chassis, ladbil, tipvogn og dobbeltkabine.",
+      "om": [
+        "Toyota Proace Max er bygget på samme platform som Fiat Ducato. Fiat og PSA har bygget Ducato sammen siden 1981. Proace Max kom i 2024 som Toyotas første store varebil i Europa, med en dieselmotor med 8-trins automatgear eller som elbil.",
+        "Elbilen har et batteri på 110 kWh og kører op til 420 km efter WLTP. Den kan lade fra 0 til 80 % på under en time ved 150 kW."
+      ],
+      "historie": [
+        {
+          "aar": "2023",
+          "tekst": "Toyota præsenterer Proace Max som sin første store varebil i Europa."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Proace Max går i produktion i juli, og de første bliver leveret i september."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Electrive, december 2023",
+          "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato"
+        },
+        {
+          "navn": "Wikipedia, Fiat Ducato",
+          "url": "https://en.wikipedia.org/wiki/Fiat_Ducato"
+        },
+        {
+          "navn": "Toyota UK, december 2023",
+          "url": "https://media.toyota.co.uk/all-new-proace-max-delivers-strength-capacity-and-efficiency/"
+        },
+        {
+          "navn": "Automotive World, september 2024",
+          "url": "https://www.automotiveworld.com/news/toyota-professional-forges-ahead-with-greater-product-power-and-dedicated-customer-service/"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Peugeot",
+      "navn": "Expert",
+      "ids": [
+        "peugeot-expert",
+        "peugeot-e-expert"
+      ],
+      "reg": {
+        "2024": 657,
+        "2025": 281,
+        "2026": 198
+      },
+      "generation": "3. generation, fra 2016, opdateret i 2024",
+      "soester": "Citroën Jumpy, Opel Vivaro, Toyota Proace og Fiat Scudo",
+      "udgaver": "Kassevogn i tre længder: 4,61 m, 4,96 m og 5,31 m. Fås også som chassis og dobbeltkabine.",
+      "om": [
+        "Peugeot Expert er bygget på samme platform som de mellemstore varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2016, og i 2024 fik den nyt udseende, en 10-tommers skærm og flere hjælpesystemer.",
+        "Elbilen fås med et batteri på 50 eller 75 kWh. Med det store batteri kører den op til 350 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2008",
+          "tekst": "Expert bliver International Van of the Year sammen med Citroën Jumpy og Fiat Scudo."
+        },
+        {
+          "aar": "2016",
+          "tekst": "Tredje generation kommer."
+        },
+        {
+          "aar": "2020",
+          "tekst": "Den elektriske e-Expert kommer og bliver International Van of the Year 2021."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Expert får nyt udseende, ny skærm og flere hjælpesystemer."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Wikipedia, Citroën Jumpy",
+          "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Peugeot",
+      "navn": "Partner",
+      "ids": [
+        "peugeot-partner",
+        "peugeot-e-partner"
+      ],
+      "reg": {
+        "2024": 360,
+        "2025": 243,
+        "2026": 142
+      },
+      "generation": "3. generation, fra 2018, opdateret i 2024",
+      "soester": "Citroën Berlingo, Opel Combo, Toyota Proace City og Fiat Doblò",
+      "udgaver": "Kassevogn i to længder, 4,40 m og 4,75 m, med op til 4,4 m³ lastrum.",
+      "om": [
+        "Peugeot Partner er bygget på samme platform som de små varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2018 og fik nyt udseende, ny skærm og et nyt batteri i 2024.",
+        "Elbilen har et batteri på 50 kWh og kører op til 330 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1996",
+          "tekst": "Den første Partner kommer og bliver International Van of the Year 1997 sammen med Citroën Berlingo."
+        },
+        {
+          "aar": "2018",
+          "tekst": "Tredje generation kommer og bliver International Van of the Year 2019 sammen med Citroën Berlingo og Opel Combo."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Partner får nyt udseende, og e-Partner får et batteri på 50 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Citroën, december 2023",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/smarter-versatile-and-electric-new-citroen-e-berlingo-upgrades-your-active-life"
+        },
+        {
+          "navn": "Wikipedia, Peugeot Partner",
+          "url": "https://en.wikipedia.org/wiki/Peugeot_Partner"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Peugeot",
+      "navn": "Boxer",
+      "ids": [
+        "peugeot-boxer",
+        "peugeot-e-boxer"
+      ],
+      "reg": {
+        "2024": 224,
+        "2025": 219,
+        "2026": 68
+      },
+      "generation": "Nuværende model fra 2006, opdateret i 2014 og 2024",
+      "soester": "Citroën Jumper, Opel Movano, Fiat Ducato og Toyota Proace Max",
+      "udgaver": "Kassevogn i tre længder og tre højder med op til 17 m³ lastrum. Fås også som chassis, ladbil, tipvogn og dobbeltkabine.",
+      "om": [
+        "Peugeot Boxer er bygget på samme platform som Fiat Ducato. Fiat og PSA har bygget Ducato sammen siden 1981. Ved opdateringen i 2024 fik dieselbilen en ny motor med 8-trins automatgear, og elbilen fik et større batteri.",
+        "Elbilen har et batteri på 110 kWh og kører op til 420 km efter WLTP. Den kan lade fra 0 til 80 % på under en time ved 150 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1994",
+          "tekst": "Boxer afløser J5 og bliver International Van of the Year sammen med Citroën Jumper og Fiat Ducato."
+        },
+        {
+          "aar": "2006",
+          "tekst": "Den nuværende model kommer."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Boxer og e-Boxer får nyt udseende, ny dieselmotor og et batteri på 110 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Electrive, december 2023",
+          "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato"
+        },
+        {
+          "navn": "Wikipedia, Fiat Ducato",
+          "url": "https://en.wikipedia.org/wiki/Fiat_Ducato"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Opel",
+      "navn": "Vivaro",
+      "ids": [
+        "opel-vivaro"
+      ],
+      "reg": {
+        "2024": 577,
+        "2025": 212,
+        "2026": 236
+      },
+      "generation": "3. generation, fra 2019, opdateret i 2024",
+      "soester": "Citroën Jumpy, Peugeot Expert, Toyota Proace og Fiat Scudo",
+      "udgaver": "Kassevogn i tre længder: 4,61 m, 4,96 m og 5,31 m. Fås også som chassis og dobbeltkabine.",
+      "om": [
+        "Opel Vivaro er bygget på samme platform som de mellemstore varebiler fra de andre Stellantis-mærker. Den nuværende generation kom i 2019, og i 2024 fik den nyt udseende, en 10-tommers skærm og flere hjælpesystemer.",
+        "Diesel-Vivaroen bliver bygget i Hordain i Frankrig."
+      ],
+      "historie": [
+        {
+          "aar": "2001",
+          "tekst": "Den første Vivaro kommer, dengang bygget sammen med Renault."
+        },
+        {
+          "aar": "2019",
+          "tekst": "Tredje generation kommer, nu på samme platform som Citroën Jumpy og Peugeot Expert."
+        },
+        {
+          "aar": "2020",
+          "tekst": "Vivaro kommer som elbil og bliver International Van of the Year 2021 sammen med Citroën ë-Jumpy og Peugeot e-Expert."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Vivaro får nyt udseende, ny skærm og flere hjælpesystemer."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Stellantis, 25 år med Vivaro",
+          "url": "https://www.media.stellantis.com/em-en/opel/press/25-years-of-opel-vivaro-lcv-all-rounder-celebrates-its-anniversary"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Opel",
+      "navn": "Combo",
+      "ids": [
+        "opel-combo",
+        "opel-combo-electric"
+      ],
+      "reg": {
+        "2024": 174,
+        "2025": 119,
+        "2026": 64
+      },
+      "generation": "3. generation, fra 2018, opdateret i 2024",
+      "soester": "Citroën Berlingo, Peugeot Partner, Toyota Proace City og Fiat Doblò",
+      "udgaver": "Kassevogn i to længder, 4,40 m og 4,75 m, med op til 4,4 m³ lastrum.",
+      "om": [
+        "Opel Combo er bygget på samme platform som de små varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2018 og fik nyt udseende, ny skærm og et nyt batteri i 2024.",
+        "Elbilen har et batteri på 50 kWh og kører op til 330 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2018",
+          "tekst": "Den nuværende Combo kommer som den første Combo bygget på PSA's platform. Den bliver International Van of the Year 2019 sammen med Citroën Berlingo og Peugeot Partner."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Combo kommer også som elbil."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Combo får nyt udseende og et batteri på 50 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Citroën, december 2023",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/smarter-versatile-and-electric-new-citroen-e-berlingo-upgrades-your-active-life"
+        },
+        {
+          "navn": "Wikipedia, Opel Combo",
+          "url": "https://en.wikipedia.org/wiki/Opel_Combo"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Opel",
+      "navn": "Movano",
+      "ids": [
+        "opel-movano",
+        "opel-movano-electric"
+      ],
+      "reg": {
+        "2024": 74,
+        "2025": 99,
+        "2026": 7
+      },
+      "generation": "På samme platform som Fiat Ducato siden 2021, opdateret i 2024",
+      "soester": "Citroën Jumper, Peugeot Boxer, Fiat Ducato og Toyota Proace Max",
+      "udgaver": "Kassevogn i tre længder og tre højder med op til 17 m³ lastrum. Fås også som chassis, ladbil, tipvogn og dobbeltkabine.",
+      "om": [
+        "Opel Movano er bygget på samme platform som Fiat Ducato. Fiat og PSA har bygget Ducato sammen siden 1981. Ved opdateringen i 2024 fik dieselbilen en ny motor med 8-trins automatgear, og elbilen fik et større batteri.",
+        "Elbilen har et batteri på 110 kWh og kører op til 420 km efter WLTP. Den kan lade fra 0 til 80 % på under en time ved 150 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1999",
+          "tekst": "Den første Movano kommer, dengang bygget på Renault Master, og bliver International Van of the Year."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Movano skifter til samme platform som Fiat Ducato og kommer også som elbil."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Movano får nyt udseende, ny dieselmotor og et batteri på 110 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Electrive, december 2023",
+          "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato"
+        },
+        {
+          "navn": "Wikipedia, Fiat Ducato",
+          "url": "https://en.wikipedia.org/wiki/Fiat_Ducato"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Citroën",
+      "navn": "Jumpy",
+      "ids": [
+        "citroen-jumpy",
+        "citroen-e-jumpy"
+      ],
+      "reg": {
+        "2024": 291,
+        "2025": 199,
+        "2026": 147
+      },
+      "generation": "3. generation, fra 2016, opdateret i 2024",
+      "soester": "Peugeot Expert, Opel Vivaro, Toyota Proace og Fiat Scudo",
+      "udgaver": "Kassevogn i tre længder: 4,61 m, 4,96 m og 5,31 m. Fås også som chassis og dobbeltkabine.",
+      "om": [
+        "Citroën Jumpy er bygget på samme platform som de mellemstore varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2016, og i 2024 fik den nyt udseende, en 10-tommers skærm og flere hjælpesystemer.",
+        "Elbilen fås med et batteri på 50 eller 75 kWh. Med det store batteri kører den op til 350 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1994",
+          "tekst": "Den første Jumpy kommer."
+        },
+        {
+          "aar": "2008",
+          "tekst": "Jumpy bliver International Van of the Year sammen med Peugeot Expert og Fiat Scudo."
+        },
+        {
+          "aar": "2016",
+          "tekst": "Tredje generation kommer."
+        },
+        {
+          "aar": "2020",
+          "tekst": "Den elektriske ë-Jumpy kommer og bliver International Van of the Year 2021 sammen med Peugeot e-Expert og Opel Vivaro."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Jumpy får nyt udseende, ny skærm og flere hjælpesystemer."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Wikipedia, Citroën Jumpy",
+          "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Citroën",
+      "navn": "Berlingo",
+      "ids": [
+        "citroen-berlingo"
+      ],
+      "reg": {
+        "2024": 116,
+        "2025": 135,
+        "2026": 104
+      },
+      "generation": "3. generation, fra 2018, opdateret i 2024",
+      "soester": "Peugeot Partner, Opel Combo, Toyota Proace City og Fiat Doblò",
+      "udgaver": "Kassevogn i to længder, 4,40 m og 4,75 m, med op til 4,4 m³ lastrum.",
+      "om": [
+        "Citroën Berlingo er bygget på samme platform som de små varebiler fra Stellantis-mærkerne. Den nuværende generation kom i 2018 og fik nyt udseende, ny skærm og et nyt batteri i 2024.",
+        "Elbilen har et batteri på 50 kWh og kører op til 330 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "1996",
+          "tekst": "Den første Berlingo kommer i juli og bliver International Van of the Year 1997 sammen med Peugeot Partner."
+        },
+        {
+          "aar": "2018",
+          "tekst": "Tredje generation kommer og bliver International Van of the Year 2019 sammen med Peugeot Partner og Opel Combo."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Den elektriske ë-Berlingo Van kommer."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Berlingo får nyt udseende og et batteri på 50 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Citroën, december 2023",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/smarter-versatile-and-electric-new-citroen-e-berlingo-upgrades-your-active-life"
+        },
+        {
+          "navn": "Wikipedia, Citroën Berlingo",
+          "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Citroën",
+      "navn": "Jumper",
+      "ids": [
+        "citroen-jumper",
+        "citroen-e-jumper"
+      ],
+      "reg": {
+        "2024": 141,
+        "2025": 102,
+        "2026": 56
+      },
+      "generation": "Nuværende model fra 2006, opdateret i 2014 og 2024",
+      "soester": "Peugeot Boxer, Opel Movano, Fiat Ducato og Toyota Proace Max",
+      "udgaver": "Kassevogn i tre længder og tre højder med op til 17 m³ lastrum. Fås også som chassis, ladbil, tipvogn og dobbeltkabine.",
+      "om": [
+        "Citroën Jumper er bygget på samme platform som Fiat Ducato. Fiat og PSA har bygget Ducato sammen siden 1981. Ved opdateringen i 2024 fik dieselbilen en ny motor med 8-trins automatgear, og elbilen fik et større batteri.",
+        "Elbilen har et batteri på 110 kWh og kører op til 420 km efter WLTP. Den kan lade fra 0 til 80 % på under en time ved 150 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1994",
+          "tekst": "Den første Jumper kommer og bliver International Van of the Year sammen med Peugeot Boxer og Fiat Ducato."
+        },
+        {
+          "aar": "2006",
+          "tekst": "Den nuværende model kommer."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Jumper og ë-Jumper får nyt udseende, ny dieselmotor og et batteri på 110 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Electrive, december 2023",
+          "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato"
+        },
+        {
+          "navn": "Wikipedia, Fiat Ducato",
+          "url": "https://en.wikipedia.org/wiki/Fiat_Ducato"
+        },
+        {
+          "navn": "Stellantis, Jumper 30 år",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/citroen-jumper-30-years-of-evolution-serving-professionals"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Fiat",
+      "navn": "Ducato",
+      "ids": [
+        "fiat-ducato",
+        "fiat-e-ducato"
+      ],
+      "reg": {
+        "2024": 146,
+        "2025": 90,
+        "2026": 73
+      },
+      "generation": "Nuværende model fra 2006, opdateret i 2014 og 2024",
+      "soester": "Citroën Jumper, Peugeot Boxer, Opel Movano og Toyota Proace Max",
+      "udgaver": "Kassevogn i tre længder og tre højder med op til 17 m³ lastrum. Fås også som chassis, ladbil, tipvogn og dobbeltkabine.",
+      "om": [
+        "Fiat og PSA har bygget Ducato sammen siden 1981, og den samme bil sælges også som Citroën Jumper, Peugeot Boxer, Opel Movano og Toyota Proace Max. Ved opdateringen i 2024 fik dieselbilen en ny motor med 8-trins automatgear, og elbilen fik et større batteri.",
+        "Elbilen har et batteri på 110 kWh og kører op til 420 km efter WLTP. Den kan lade fra 0 til 80 % på under en time ved 150 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1981",
+          "tekst": "Den første Ducato kommer. Siden er der bygget mere end 3,5 millioner."
+        },
+        {
+          "aar": "1994",
+          "tekst": "Ducato bliver International Van of the Year sammen med Citroën Jumper og Peugeot Boxer."
+        },
+        {
+          "aar": "2006",
+          "tekst": "Den nuværende model kommer."
+        },
+        {
+          "aar": "2021",
+          "tekst": "Den elektriske E-Ducato kommer."
+        },
+        {
+          "aar": "2024",
+          "tekst": "Ducato får ny dieselmotor med automatgear, og E-Ducato får et batteri på 110 kWh."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Stellantis, oktober 2023",
+          "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-commercial-vehicles-reinforced-leadership-with-full-line-up-renewal-2nd-generation-electrification-and-100-connected-vans-for-compact-mid-size-large"
+        },
+        {
+          "navn": "Electrive, december 2023",
+          "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato"
+        },
+        {
+          "navn": "Wikipedia, Fiat Ducato",
+          "url": "https://en.wikipedia.org/wiki/Fiat_Ducato"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Iveco",
+      "navn": "Daily",
+      "ids": [
+        "iveco-daily",
+        "iveco-daily-ladbil",
+        "iveco-daily-boks"
+      ],
+      "reg": {
+        "2024": 671,
+        "2025": 441,
+        "2026": 310
+      },
+      "reg_note": "En Daily over 3,5 tons bliver registreret som lastbil og er ikke talt med.",
+      "generation": "3. generation, fra 2014, opdateret i 2024",
+      "udgaver": "Kassevogn, chassis med kabine og minibus, med en totalvægt fra 3,5 til 7,2 tons.",
+      "om": [
+        "Daily har været Ivecos varebil siden 1978 og bliver solgt i 110 lande. Den kan bygges med en totalvægt helt op til 7,2 tons.",
+        "eDaily fås med et til fire batterimoduler på 37 kWh og kører op til 240 km efter WLTP. Den kan lade med op til 115 kW."
+      ],
+      "historie": [
+        {
+          "aar": "1978",
+          "tekst": "Den første Daily kommer."
+        },
+        {
+          "aar": "2000",
+          "tekst": "Daily bliver International Van of the Year."
+        },
+        {
+          "aar": "2014",
+          "tekst": "Tredje generation kommer og bliver International Van of the Year 2015."
+        },
+        {
+          "aar": "2022",
+          "tekst": "Den nye eDaily bliver vist på IAA-messen og bliver Sustainable Truck of the Year 2024."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Wikipedia, Iveco Daily",
+          "url": "https://en.wikipedia.org/wiki/Iveco_Daily"
+        },
+        {
+          "navn": "International Fleet World, eDaily",
+          "url": "https://internationalfleetworld.com/iveco-supercharges-ev-offering-with-enhanced-edaily/"
+        },
+        {
+          "navn": "Iveco, februar 2024",
+          "url": "https://www.iveco.com/global/Press/PressReleases/2024/Iconic-IVECO-eDaily-wins-coveted-Sustainable-Truck-of-the-Year-2024-Award"
+        },
+        {
+          "navn": "Wikipedia, International Van of the Year",
+          "url": "https://en.wikipedia.org/wiki/International_Van_of_the_Year"
+        }
+      ]
+    },
+    {
+      "maerke": "Kia",
+      "navn": "PV5",
+      "ids": [
+        "kia-pv5-cargo"
+      ],
+      "reg": {
+        "2025": 13,
+        "2026": 568
+      },
+      "reg_note": "Tallene gælder alle udgaver af PV5, der er indregistreret som varebil.",
+      "generation": "1. generation, fra 2025",
+      "udgaver": "Cargo L2H1 med 4,4 m³. Den korte L1H1 med 4 m³ bliver leveret fra oktober 2026, og et chassis og en høj L2H2 er på vej.",
+      "om": [
+        "PV5 er Kias første varebil i Europa og er bygget som elbil fra starten. Med PV5 blev Kia det første koreanske mærke, der har vundet International Van of the Year.",
+        "Batteriet er på 43,3, 51,5 eller 71,2 kWh, og efter WLTP kører L2H1 henholdsvis 246, 297 og 416 km. Den lader fra 10 til 80 % på omkring 30 minutter."
+      ],
+      "historie": [
+        {
+          "aar": "2024",
+          "tekst": "Kia viser PV5 som koncept på CES-messen i januar."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Den færdige PV5 bliver præsenteret den 24. februar og bliver International Van of the Year 2026 i november."
+        },
+        {
+          "aar": "2026",
+          "tekst": "Den korte PV5 Cargo L1H1 går i produktion i juli."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Electrive, juni 2026",
+          "url": "https://www.electrive.net/2026/06/25/kia-bringt-kuerzeren-pv5-cargo-in-den-handel/"
+        },
+        {
+          "navn": "Kia, Van of the Year",
+          "url": "https://eu-www.kia.com/ie/about-kia/news-and-events/kia-pv5-wins-international-van-of-the-year"
+        },
+        {
+          "navn": "Wikipedia, Kia PV5",
+          "url": "https://en.wikipedia.org/wiki/Kia_PV5"
+        }
+      ]
+    },
+    {
+      "maerke": "Farizon",
+      "navn": "SV",
+      "ids": [
+        "farizon-sv"
+      ],
+      "reg": {
+        "2026": 55
+      },
+      "generation": "1. generation, fra 2024",
+      "om": [
+        "SV er en stor elektrisk kassevogn fra Farizon, som er det kinesiske bilfirma Geelys mærke til erhvervsbiler. Den kom til Europa i 2025 og fik fem stjerner hos Euro NCAP."
+      ],
+      "historie": [
+        {
+          "aar": "2024",
+          "tekst": "SV går i produktion i Kina."
+        },
+        {
+          "aar": "2025",
+          "tekst": "SV kommer til Europa og når finalen i International Van of the Year 2026."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Electrive, december 2024",
+          "url": "https://www.electrive.com/2024/12/20/geely-brand-farizon-launches-electric-van-in-europe"
+        },
+        {
+          "navn": "Farizon, oktober 2025",
+          "url": "https://tools.prnewswire.com/en-us/live/20813/release/20251008EN93154"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "bZ4X",
+      "ids": [
+        "toyota-bz4x-van"
+      ],
+      "reg": {
+        "2025": 8,
+        "2026": 72
+      },
+      "reg_note": "Tallene gælder bZ4X, der er indregistreret som varebil. Der kan også være bZ4X Touring med i tallene.",
+      "generation": "1. generation, fra 2022, opdateret i 2025",
+      "udgaver": "Varebil med forsæder. Active med 57,7 kWh og forhjulstræk eller Executive med 73,1 kWh og firehjulstræk.",
+      "om": [
+        "bZ4X Van er Toyotas elektriske SUV bygget om til varebil på gule plader. Den har kun forsæder.",
+        "Med det lille batteri kører den 444 km efter WLTP og med det store 506 km. Ved opdateringen i 2025 fik den en lader på 22 kW. Den kan nu trække 1.500 kg."
+      ],
+      "historie": [
+        {
+          "aar": "2021",
+          "tekst": "Toyota præsenterer bZ4X i Bruxelles den 29. oktober."
+        },
+        {
+          "aar": "2022",
+          "tekst": "bZ4X kommer på markedet."
+        },
+        {
+          "aar": "2025",
+          "tekst": "bZ4X er Danmarks mest registrerede bilmodel i januar med 689 biler. Den opdaterede bZ4X kommer til Danmark i august."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Toyota Europe, oktober 2021",
+          "url": "https://newsroom.toyota.eu/world-premiere-of-the-all-new-toyota-bz4x/"
+        },
+        {
+          "navn": "Toyota Danmark, marts 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/toyota-lofter-sloret-for-ny-bz4x-elbil"
+        },
+        {
+          "navn": "Toyota Danmark, 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/elbilen-toyota-bz4x-mest-populaere-bilmodel-januar"
+        },
+        {
+          "navn": "Toyota, prisliste for bZ4X Van",
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-van/"
+        },
+        {
+          "navn": "Toyota, gule plader",
+          "url": "https://www.toyota.dk/biltyper/varebil"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "bZ4X Touring",
+      "ids": [
+        "toyota-bz4x-touring-van"
+      ],
+      "generation": "1. generation, fra 2026",
+      "udgaver": "Varebil med forsæder. Active Tech med forhjulstræk eller Executive med firehjulstræk.",
+      "om": [
+        "bZ4X Touring Van er den længere udgave af bZ4X bygget om til varebil på gule plader. Den har 148 liter mere bagagerum end bZ4X.",
+        "Batteriet er på 74,7 kWh, og ifølge Toyotas prisliste kører den 591 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2025",
+          "tekst": "Toyota præsenterer bZ4X Touring den 15. maj."
+        },
+        {
+          "aar": "2026",
+          "tekst": "bZ4X Touring kommer på markedet."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Toyota Danmark, maj 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/verdenspremiere-pa-ny-elektrisk-familiebil-fra-toyota"
+        },
+        {
+          "navn": "Toyota, prisliste for bZ4X Touring Van",
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/bz4x-touring-van/"
+        },
+        {
+          "navn": "Toyota, gule plader",
+          "url": "https://www.toyota.dk/biltyper/varebil"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "C-HR+",
+      "ids": [
+        "toyota-c-hr-van"
+      ],
+      "reg": {
+        "2026": 2
+      },
+      "generation": "1. generation, fra 2026",
+      "udgaver": "Varebil med forsæder. Active med forhjulstræk eller Executive med firehjulstræk.",
+      "om": [
+        "C-HR+ Van er elbilen C-HR+ bygget om til varebil på gule plader. Toyota bygger den i Japan.",
+        "I Danmark fås den med et batteri på 77 kWh, og den kører 607 km efter WLTP."
+      ],
+      "historie": [
+        {
+          "aar": "2025",
+          "tekst": "Toyota præsenterer C-HR+ den 12. marts. Senere på året kommer den i finalen til Årets Bil i Danmark 2026."
+        },
+        {
+          "aar": "2026",
+          "tekst": "C-HR+ kommer til Danmark."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Toyota Danmark, marts 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/verdenspremiere-paa-fuldt-elektrisk-toyota-chr"
+        },
+        {
+          "navn": "Toyota Danmark, oktober 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/toyota-saetter-pris-pa-elbilen-c-hr-plus"
+        },
+        {
+          "navn": "Toyota Danmark, Årets Bil",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/toyota-c-hr-plus-nomineret-til-arets-bil-i-danmark"
+        },
+        {
+          "navn": "Toyota, prisliste for C-HR+ Van",
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/toyota-c-hr-van/"
+        },
+        {
+          "navn": "Toyota, fabrikker i Japan",
+          "url": "https://global.toyota/en/company/profile/facilities/manufacturing-worldwide/japan.html"
+        },
+        {
+          "navn": "Toyota, gule plader",
+          "url": "https://www.toyota.dk/biltyper/varebil"
+        }
+      ]
+    },
+    {
+      "maerke": "Toyota",
+      "navn": "Urban Cruiser",
+      "ids": [
+        "toyota-urban-cruiser-van"
+      ],
+      "reg": {
+        "2026": 31
+      },
+      "generation": "1. generation, fra 2025",
+      "udgaver": "Varebil med forsæder. Fås med batteri på 49 eller 61 kWh.",
+      "om": [
+        "Urban Cruiser Van er Toyotas mindste elbil bygget om til varebil på gule plader. Suzuki bygger den i Indien og leverer den til Toyota.",
+        "Med det lille batteri kører den 344 km efter WLTP og med det store op til 426 km."
+      ],
+      "historie": [
+        {
+          "aar": "2024",
+          "tekst": "Toyota præsenterer Urban Cruiser den 12. december."
+        },
+        {
+          "aar": "2025",
+          "tekst": "Suzuki begynder at bygge Urban Cruiser i Indien, og de første biler kommer til Danmark i efteråret. Den kommer også i finalen til Årets Bil i Norge 2026."
+        }
+      ],
+      "kilder": [
+        {
+          "navn": "Toyota Europe",
+          "url": "https://newsroom.toyota.eu/urban-cruiser-news/"
+        },
+        {
+          "navn": "Toyota, oktober 2024",
+          "url": "https://global.toyota/en/newsroom/corporate/41769232.html"
+        },
+        {
+          "navn": "Toyota Danmark, september 2025",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/toyota-starter-produktion-af-elbilen-urban-cruiser"
+        },
+        {
+          "navn": "Toyota Danmark, Årets Bil i Norge",
+          "url": "https://www.toyota.dk/om-toyota/toyota-opdateringer/elbilen-toyota-urban-cruiser-i-finalen-til-arets-bil-i-norge"
+        },
+        {
+          "navn": "Toyota, prisliste for Urban Cruiser Van",
+          "url": "https://modelinformation.toyota.dk/Toyota/specs/Varebiler/urban-cruiser-van/"
+        },
+        {
+          "navn": "Toyota, gule plader",
+          "url": "https://www.toyota.dk/biltyper/varebil"
+        }
+      ]
+    }
+  ]
+}

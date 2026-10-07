@@ -1,0 +1,41 @@
+- [Heredoc og backslash](heredoc-backslash.md) — escape-sekvenser overlever ikke bash-heredocs her; brug Write-værktøjet
+- [Datakilder til varebiler](gulplade-datakilder.md) — måltabellernes gemmesteder (AT/DE/UK-lister, Toyota-API); datarunde 3 den 05-10 udfyldte 75 felter; Stellantis-DK skriver 105 kW for 150 hk (rettet til 110)
+- [Brdr. Jensen og CarAds](brdr-jensen-carads.md) — salgsaftalen, lagerhentning; lav restværdi vises fra 01-10, totalpris stadig ikke; kortlægningsregler fra hentning 05-10
+- [Andre kilder til brugte varebiler](brugtvogn-kilder.md) — CarAds' fælles sitemap/feed for 117 forhandlere; Hessel, Semler, REA og Bilboels datasystemer (06-10-2026)
+- [Gulplade Håndbogen](gulplade-haandbogen.md) — guider i /haandbogen/, nyheder i /nyheder/; myndighedskilder, satser skrives aldrig ind; 5 nye guider 06-10 + autotabel; ingen flere papegøje-sider
+- [Cloudflare Web Analytics](cloudflare-web-analytics.md) — måler alle besøg fra 05-10-2026 (EU-undtagelsen var slået til før); privatlivspolitikken beskriver det
+- [Cloudflare Pages-fælder](cloudflare-pages-faelder.md) — bløde 404'er, Cache-Control, _redirects uden hostnavne, deploy kun dist/, purge efter sletning
+- [Leadservice og provision](leadservice-provision.md) — forhandlere og leasingselskaber betaler samme honorar pr. henvendelse; tjek 695 kr. (fra 02-10-2026, før 349), store aftaler pr. sag
+- [GSC-indekseringsanmodninger](gsc-indekseringsanmodninger.md) — anmodede sider og kø (06-10: lille/billig-guiderne uindekseret, 10 sider forrest i køen), knappen, Ahrefs er gratiskonto
+- [Tilbuddenes gyldighed](tilbud-gyldighed.md) — udløbne tilbud forsvinder kun ved bygning; alle 122 tjekket 05-10; næste byg 01-01-2027; Peugeot Partner/Expert vist med forbehold
+- [LinkedIn-siden](linkedin-side.md) — opslag kun fra sidens admin, ejeren må ikke kunne forbindes med siden
+- [Målskitsen afventer godkendelse](maalskitse-godkendelse.md) — nye visuelle elementer på preview først; skitsen er slået fra bag GULPLADE_SKITSE=1
+- [Målgruppen er professionelle](maalgruppe-professionelle.md) — ingen belærende forbrugerbokse eller advarsler; vis fakta neutralt
+- [Få tilbud og Tilbudstjek som faner](faa-tilbud-faner.md) — én menuknap, to faner; konkurrence-spørgsmålet er et frivilligt kryds i Tally kdqGd6
+- [Mørk tilstand og mobilmenu](moerk-tilstand-og-mobil.md) — aldrig faste lyse farver i CSS; mobilmenu = computermenu
+- [Grøn omstilling](groen-omstilling.md) — /groen-omstilling/ med elberegner; kilder til diesel/elpris, KBH-zonen uafklaret, i produktion 02-10
+- [Feedbackfilen samlet_haandbog.txt](samlet-haandbog-feedbackfil.md) — brugerens feedback på tekster; står på SPRING_OVER i byg-dist.js
+- [Gemini-input verificeres](gemini-input-verificeres.md) — tjek Geminis korrektur/fakta mod myndighedskilder; ofte delvist forkert
+- [Til varebilen-udvidelsen](til-varebilen-udvidelse.md) — 116 sider i produktion fra 04-10; "ny": true + GULPLADE_TILVALG_NY=1 til nye preview-sider; BEK 1655 gælder ikke varebiler
+- [Partnerprogrammet](partnerprogram.md) — salgssiden /annoncer-paa-gulplade/ på preview; partnere kun i Til varebilen, aldrig Håndbogen
+- [AI-synlighed](ai-synlighed.md) — AI-crawlere tilladt i Cloudflare 04-10; llms.txt bygges automatisk; aldrig Product/Car-schema på modelsider
+- [Hverdagsord og skrivestil](hverdagsord.md) — skrivestil i CLAUDE.md, redaktør-agent tekstredaktoer; "brændstof/el", aldrig "energi"
+- [Mail og DMARC](mail-dmarc.md) — kontakt@gulplade.dk og kontakt@leasio.dk sender via Brevo-SMTP med DKIM (løst 04-10-2026); stram DMARC til quarantine senere
+- [Bedste varebil-siden](bedste-varebil-side.md) — vindere ud fra samlet vurdering og anmeldelser i aarets-valg.json, i produktion fra 05-10-2026 (GULPLADE_AARETS_NY=0 slår fra)
+- [Mærkesider: Om mærket](maerkesider-om-maerket.md) — maerker.json, alle 14 mærker i produktion 05-10-2026; deploy løbende uden at spørge
+- [Gmail-udkast](gmail-udkast.md) — API-udkast får døde google.com/url-links i Gmail; brug en lokal kopiside i stedet; underskriv Henrik Bjerregaard
+- [Presseplan](presseplan.md) — el/diesel sendt 05-10 til 6 medier; ladetidshistorien sendes mandag 12-10-2026
+- [Grafik i Til varebilen](grafik-forsoeg-til-varebilen.md) — SVG-topbilleder, kort fortalt, tilbudsstribe og flere figurer på alle 74 undersider, i produktion 05-10; nye undersider skal have feltet visuel
+- [Ny sammenligning](sammenligning-ny.md) — foldbare grupper og "Vis kun forskelle" i produktion 05-10; mobil stabler rækkerne, test med 4 biler ved 375 px
+- [Ny forside](forside-ny-preview.md) — kort forside + /alle-tilbud/ + artikelmodul i hero, alt i produktion 05-10-2026; ingen "producenter" i teksten
+- [Modelnyheder](nyhedsartikler-modeller.md) — opskriften fra Trafic-artiklen; nyhedsbokse via nyhed i varebiler.json og nyheder i maerker.json; Ford, Master og Kia PV7 05-10-2026
+- [Modelsider: Om modellen](modelsider-om-modellen.md) — modeller.json, i produktion 05-10-2026 på alle 66 modelsider
+- [Køb ny varebil](koeb-ny-varebil.md) — /koeb-ny-varebil/ + 63 bilsider i produktion fra 06-10-2026 (GULPLADE_KOEB_NY=0 slår fra, preview med GULPLADE_PREVIEW=1); udstyrstabel, indretning, SEO med kontantpris
+- [Design: ingen tabeldump](design-ikke-tabeldump.md) — nye sider i forsidens sprog (bilkort med foto, chips); stor tabel med "Ikke oplyst" "ligner noget, der er løgn" (05-10-2026)
+- [Ny /bedste-tilbud/](hub-bedste-tilbud-ny.md) — grafik og forklaring, i produktion fra 06-10-2026; tabellen finansiel/operationel droppet; ikke genanmodet i GSC
+- [Skærmbilleder uden panel](skaermbilleder-headless.md) — headless Chrome til fuldsideskud, 375 px-iframe til mobil, transition:none før kontrastscript
+- [Grafik i stedet for tabeller](nye-sider-nat-0710.md) — sider-ny.js: /elvarebiler/, /garanti/, /varebiler/ i produktion 07-10; /udstyr/ og /udbydere/ kun preview (ingen SEO-værdi)
+- [CSS-hash: kør alle generatorer](css-hash-alle-generatorer.md) — ellers står Håndbogen m.fl. uden CSS; byg-dist.js stopper nu og lægger de seneste ti CSS-navne med; aldrig `| tail` i en &&-kæde
+- [Håndbogen: længere og med grafik](haandbog-laengere-grafik.md) — 42 artikler omskrives af agenter, viden-ny.json bag GULPLADE_VIDEN_NY=1, fem nye topbilleder (07-10-2026)
+- [LinkedIn-beskeder til kontakter](linkedin-beskeder-kontakter.md) — 164 godkendte modtagere, hobbyprojekt-vinkel, orientering til branchen, højst 25/dag (07-10-2026)
+- [Til varebilen: længere og med grafik](til-varebilen-laengere-grafik.md) — 85 sider omskrives af 17 agenter, tilvalg-ny.json bag GULPLADE_TILVALG_NY=1, preview bygges i en kopi (07-10-2026)
