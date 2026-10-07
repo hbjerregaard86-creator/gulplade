@@ -1,8 +1,9 @@
 # Bunker til skribenterne (07-10-2026)
 
-Cloud-sessionen delte de 80 manglende sider op i 19 bunker. Kreditten rakte kun til de første seks
-bunker (B01, B03, B05, B08, B13, B18). De 13 andre bunker blev stoppet, før de havde skrevet noget,
-og skal skrives på computeren. Se, hvilke filer der findes i mapperne her, før du starter en bunke.
+Cloud-sessionen delte de 80 manglende sider op i 19 bunker. Alle bunker undtagen B07 (indretning) er
+skrevet i skyen og består tjek.js. Indretning blev startet sidst og stoppes, når kreditten når grænsen.
+Se, hvilke filer der findes i indretning/, før du skriver resten. Næste trin er tekstredaktør, faktatjek
+(se TVIVL.md) og preview (preview.sh).
 
 Hver skribent fik sin liste over sider og blev bedt om at følge "Fælles instruks" nedenfor.
 
@@ -11,24 +12,24 @@ Hver skribent fik sin liste over sider og blev bedt om at følge "Fælles instru
 | Bunke | Emne | Sider (`_emne` er emnesiden) | Status |
 |---|---|---|---|
 | B01 | forsikring | ansvarsforsikring-varebil, vaerktoejsforsikring, flaadeforsikring, forsikring-af-elvarebil, selvrisiko | skrevet i skyen |
-| B02 | forsikring | skadeanmeldelse, foererulykke-og-foererplads, vejhjaelp-til-varebil, forsikring-af-indretning-og-udstyr, forsikring-i-udlandet, erhvervsbilforsikring-selskaber | mangler |
+| B02 | forsikring | skadeanmeldelse, foererulykke-og-foererplads, vejhjaelp-til-varebil, forsikring-af-indretning-og-udstyr, forsikring-i-udlandet, erhvervsbilforsikring-selskaber | skrevet i skyen |
 | B03 | vinterhjul | _emne, c-daek, helaarsdaek-til-varebil, daekhotel | skrevet i skyen |
-| B04 | vinterhjul | daek-til-elvarebil, daektryk-og-moensterdybde, vinterhjul-pris, vinterdaek-i-udlandet | mangler |
+| B04 | vinterhjul | daek-til-elvarebil, daektryk-og-moensterdybde, vinterhjul-pris, vinterdaek-i-udlandet | skrevet i skyen |
 | B05 | service | _emne, serviceaftale-ved-leasing, frit-vaerkstedsvalg, undervognsbehandling | skrevet i skyen |
-| B06 | service | erstatningsbil, service-paa-elvarebil, pris-paa-service | mangler |
-| B07 | indretning | _emne, gulv-og-vaegbeklaedning, lastsikring-i-varebil, indretning-af-elvarebil, skillevaeg, selvbygget-indretning | mangler |
+| B06 | service | erstatningsbil, service-paa-elvarebil, pris-paa-service | skrevet i skyen |
+| B07 | indretning | _emne, gulv-og-vaegbeklaedning, lastsikring-i-varebil, indretning-af-elvarebil, skillevaeg, selvbygget-indretning | i gang i skyen kl. 14.24; se, hvilke filer der findes |
 | B08 | varerumssikring | _emne, ekstra-laas-til-varebil, alarm-og-gps-tracker, maerkning-af-vaerktoej, sikker-opbevaring, tyveri-statistik-pr-region | skrevet i skyen |
-| B09 | ombygning | _emne, bagsmaeklift, lad-og-tipper, koelebil | mangler |
-| B10 | ombygning | mandskabsvogn-ombygning, godkendelse-af-ombygning, ladbil-med-kran | mangler |
-| B11 | folie | _emne, bilreklame-paa-varebil, helfoliering-af-varebil, folie-paa-leasingbil | mangler |
-| B12 | folie | solfilm-paa-ruder, refleks-og-konturmarkering, magnetskilte, bilreklame-design-og-filer | mangler |
+| B09 | ombygning | _emne, bagsmaeklift, lad-og-tipper, koelebil | skrevet i skyen |
+| B10 | ombygning | mandskabsvogn-ombygning, godkendelse-af-ombygning, ladbil-med-kran | skrevet i skyen |
+| B11 | folie | _emne, bilreklame-paa-varebil, helfoliering-af-varebil, folie-paa-leasingbil | skrevet i skyen |
+| B12 | folie | solfilm-paa-ruder, refleks-og-konturmarkering, magnetskilte, bilreklame-design-og-filer | skrevet i skyen |
 | B13 | traek-og-tagudstyr | _emne, anhaengertraek-til-varebil, tagboejler-og-tagreling, stigeholder, arbejdslys-og-advarselslys, trinbraet-og-bagtrin | skrevet i skyen |
-| B14 | el-abonnement | _emne, ladestander-paa-firmaadressen, ladestander-hjemme-hos-medarbejderen, refusion-af-elafgift | mangler |
-| B15 | el-abonnement | ladekort-og-offentlig-ladning, opladning-af-elvarebil-i-praksis, lastbalancering | mangler |
-| B16 | flaadestyring | _emne, elektronisk-koerebog, gps-sporing-af-medarbejdere, flaadestyringssystem | mangler |
-| B17 | flaadestyring | braendstofkort-og-ladekort, telematik-data-fra-producenten, koerselsregnskab-skabelon | mangler |
+| B14 | el-abonnement | _emne, ladestander-paa-firmaadressen, ladestander-hjemme-hos-medarbejderen, refusion-af-elafgift | skrevet i skyen |
+| B15 | el-abonnement | ladekort-og-offentlig-ladning, opladning-af-elvarebil-i-praksis, lastbalancering | skrevet i skyen |
+| B16 | flaadestyring | _emne, elektronisk-koerebog, gps-sporing-af-medarbejdere, flaadestyringssystem | skrevet i skyen |
+| B17 | flaadestyring | braendstofkort-og-ladekort, telematik-data-fra-producenten, koerselsregnskab-skabelon | skrevet i skyen |
 | B18 | salg-af-varebil | _emne, saelg-firmabil-moms, indfri-leasingaftale, aflevering-af-leasingbil | skrevet i skyen |
-| B19 | salg-af-varebil | afmelding-og-nummerplader, salg-af-varebil-paa-auktion, eksport-af-varebil | mangler |
+| B19 | salg-af-varebil | afmelding-og-nummerplader, salg-af-varebil-paa-auktion, eksport-af-varebil | skrevet i skyen |
 
 ## Fælles instruks
 
