@@ -259,7 +259,7 @@ module.exports = {
         overskrift: "Priser hos Thule",
         tekst: [
           "Thules danske webshop viser fra-priser på tagbøjlesystemer med bøjler, fødder og pasformsæt. Det afhænger af bilen, hvilket fodsæt der passer.",
-          `Thules priser er med moms, ifølge Thules salgsvilkår. Det billigste komplette system er SmartRack XT med firkantede bøjler fra 1.729 kr., og det dyreste af de viste er SlideBar Evo fra 3.498 kr. Thule oplyser ikke, om montering er med.`
+          `Thules priser er med moms, ifølge Thules salgsvilkår. Fra-priserne går fra 1.729 kr. for SmartRack XT med firkantede bøjler til 3.498 kr. for SlideBar Evo. Thule oplyser ikke, om montering er med.`
         ],
         figur: {
           type: "soejler",
