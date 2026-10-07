@@ -32,7 +32,7 @@ module.exports = {
         overskrift: "Ingen bestemt blanket",
         tekst: [
           "Der er ikke krav om en bestemt blanket, men Skattestyrelsen skriver, at det kan være en fordel at bruge samme systematik fra gang til gang. " + a(SKEMA, "Skattestyrelsen") + " har lagt skemaet til 2026 ud som pdf.",
-          "Skemaet er dokumentationen for, at kørselsgodtgørelsen er skattefri. Det bruges, når en medarbejder kører erhvervsmæssigt i sin egen bil, og firmaet betaler godtgørelse pr. km. Kører medarbejderen i firmaets varebil, er det en anden sag, og så gælder reglerne for kørebog længere nede på siden.",
+          "Skemaet er dokumentationen for, at kørselsgodtgørelsen er skattefri. Det bruges, når en medarbejder kører erhvervsmæssigt i sin egen bil, og firmaet betaler godtgørelse pr. km. Kører medarbejderen i firmaets bil, kan der ikke udbetales skattefri godtgørelse for kørslen, fordi den ikke sker i egen bil. Kørebogen til en firmabil har andre krav, som står længere nede på siden.",
           "Skemaet fylder én side. Øverst står firmaet og medarbejderen, i midten en linje for hver tur, og nederst beregningen og de tre underskrifter. Et regneark eller et lønsystem kan bruge de samme felter."
         ],
         figur: {
@@ -138,13 +138,13 @@ module.exports = {
         tekst: [
           "Formålet skal være arbejdsrelevant og angives mere præcist end blot \"arbejde\". Skattestyrelsens eksempel bruger fx \"Afhentning af trailer\" og \"Opmåling og tilbud på reparation\".",
           "Et godt formål siger, hvad medarbejderen lavede, og hvor opgaven hørte til. I eksemplet står der \"Pålægning af tegl på X-byggeri\" og \"Transport af tegl til X-byggeri og aflevering af trailer\". Ved en tur med flere delmål kan formålet nævne opgaverne i den rækkefølge, de blev lavet.",
-          "For en håndværker kan formålet tit hentes fra arbejdssedlen eller sagsnummeret. Sagsnummeret alene er dog en intern betegnelse, og Skattestyrelsen skriver, at interne betegnelser ikke er entydige som kørselsmål."
+          "Formålet og målet hænger sammen. Står der \"Byggevej 2\" som mål og \"Pålægning af tegl på X-byggeri\" som formål, kan arbejdsgiveren se både hvor og hvorfor."
         ]
       },
       {
         overskrift: "20.000 km-grænsen",
         tekst: [
-          "Kilometersatsen nedsættes for kørsel over 20.000 km i kalenderåret. Skemaet har derfor felter for årets kørsel hidtil og herefter, som overføres fra afregning til afregning. Satserne står på skat.dk/satser og reguleres årligt.",
+          "Kilometersatsen nedsættes for kørsel over 20.000 km i kalenderåret. Skemaet har derfor felter for årets kørsel hidtil og herefter, som overføres fra afregning til afregning. Satserne reguleres årligt og står på Skattestyrelsens side om satser.",
           "Skattestyrelsen skriver, at det ofte er nødvendigt at opgøre årets samlede kørsel løbende. Ellers kan firmaet komme til at udbetale for høje satser, og så mister godtgørelsen sin skattefrihed.",
           "Grænsen gælder for kørslen for den enkelte arbejdsgiver. Kører medarbejderen også for en anden arbejdsgiver, tæller den kørsel ikke med i opgørelsen."
         ],
@@ -176,7 +176,7 @@ module.exports = {
         overskrift: "Tre underskrifter",
         tekst: [
           "Oplysningerne skal fremgå af arbejdsgiverens bilag og være synligt kontrolleret, fx med underskrift, stempel eller fejlrettelse. Opfylder kørslen ikke betingelserne, er godtgørelsen A-indkomst.",
-          "Skemaet har plads til tre underskrifter, og hver har en dato. I Skattestyrelsens eksempel er afregningen udarbejdet den 30. september, godkendt den 1. oktober og efterregnet den 2. oktober. Kørselslederen og bogholderen kan være den samme person i et lille firma, fordi skemaet skriver \"arbejdsgiver\" ved begge."
+          "Skemaet har plads til tre underskrifter, og hver har en dato. I Skattestyrelsens eksempel er afregningen udarbejdet den 30. september, godkendt den 1. oktober og efterregnet den 2. oktober. Ved godkendelsen skriver skemaet \"kørselsleder eller arbejdsgiver\", og ved efterregningen skriver det \"bogholder eller arbejdsgiver\"."
         ],
         figur: {
           type: "trin",

@@ -121,7 +121,7 @@ module.exports = {
       {
         overskrift: "Vejhjælp gennem forsikringen",
         tekst: [
-          `Køber du vejhjælpen gennem bilforsikringen, betaler du for den sammen med forsikringen. Hos If kræver vejhjælpen, at bilen har Kasko eller Super, og hos Tryg er Tryg Vejhjælp et tilvalg til varebilforsikringen.`,
+          `Køber du vejhjælpen gennem bilforsikringen, betaler du for den sammen med forsikringen. Hos If kræver vejhjælpen, at bilen har Kasko eller Super, og hos Tryg følger Tryg Vejhjælp med fra pakken Udvidet.`,
           `Ifs vejhjælp dækker også bugsering til et valgfrit værksted eller hjem, når skaden ikke er dækket af kaskoen. Kan transporten ikke arrangeres, og kan bilen ikke repareres samme dag, tilbyder If føreren og passagererne en hotelovernatning med morgenmad.`
         ],
         tabel: {
@@ -167,7 +167,7 @@ module.exports = {
         overskrift: "Vægt og længde",
         tekst: [
           `Grænserne følger bilens vægt. SOS bugserer køretøjer op til 3.500 kg inklusive bagage. Falck har et eget produkt til køretøjer over 3,5 ton og et tilvalg til biler over 6 meter.`,
-          `En fuldt lastet varebil kan nå tæt på grænsen. SOS skriver, at bilen højst må veje 3.500 kg med bagage, når den skal bugseres, så det er den samlede vægt med last, der tæller. Tryg Vejhjælp gælder varebiler, der vejer under 3.500 kg.`,
+          `SOS skriver, at bilen højst må veje 3.500 kg med bagage, når den skal bugseres, så det er den samlede vægt med last, der tæller. Tryg Vejhjælp gælder varebiler, der vejer under 3.500 kg.`,
           `Falck Vejhjælp Pro Elbil dækker køretøjer op til 4.250 kg i Danmark. Falck skriver, at det dækker både almindelige personbiler, mindre varebiler og minibusser. Mere om vægtgrænser og kørekort står i <a href="/haandbogen/totalvaegt-nyttelast-og-koerekort/">totalvægt, nyttelast og kørekort</a>.`
         ],
         figur: {
@@ -182,7 +182,7 @@ module.exports = {
       {
         overskrift: "Gods og trailer",
         tekst: [
-          `For en håndværker er værktøjet og materialerne i bilen ofte lige så vigtige som bilen. Tryg Vejhjælp kører gods som varer, værktøj og byggematerialer videre til godsets bestemmelsessted i Danmark. Har godset flere bestemmelsessteder, dækker Tryg kun transport til ét af dem.`,
+          `Tryg Vejhjælp kører gods som varer, værktøj og byggematerialer videre til godsets bestemmelsessted i Danmark. Har godset flere bestemmelsessteder, dækker Tryg kun transport til ét af dem.`,
           `Af- og pålæsning skal du selv klare eller betale for. Kræver godset et særligt certifikat, eller er der tale om dyr, aftaler Tryg transporten med dig, og de udgifter, I aftaler, er dækket.`,
           `Tryg hjælper også én lovligt efterspændt enhed, fx en trailer, uanset om du ejer, lejer eller har lånt den. If dækker en efterspændt trailer ved nedbrud, uanset om den er din egen.`
         ],
@@ -229,7 +229,7 @@ module.exports = {
       {
         overskrift: "Det dækker Tryg Vejhjælp ikke",
         tekst: [
-          `Vejhjælpen er til uventede stop. Derfor er kørsel, man kan planlægge, ikke med, fx til syn eller mellem to værksteder. Undtagelserne står i Trygs betingelser og ligner dem, andre selskaber har.`,
+          `Kørsel, der kan planlægges, fx til syn eller mellem to værksteder, er ikke med i Tryg Vejhjælp. Tryg dækker heller ikke behov, der var kendt, da forsikringen blev købt.`,
           `Har Tryg lavet en nødreparation, fx tætnet et punkteret dæk, skal anvisningerne fra Tryg Vejhjælp følges bagefter. Kommer bilen til at stå igen inden for 72 timer, fordi anvisningen ikke er fulgt, dækker Tryg ikke den nye assistance.`
         ],
         punkter: [
@@ -250,11 +250,11 @@ module.exports = {
         tekst: [
           `Kaskoen betaler transport til værksted efter en dækket skade. GF betaler kun, når der ikke er et abonnement hos et redningskorps. Tryg betaler ikke transport, som er dækket af et abonnement eller en anden forsikring.`,
           `GF betaler den nødvendige transport til det nærmeste autoriserede værksted, når skaden er dækket og kræver transport. Er bilen stjålet og fundet igen, betaler GF transporten til et autoriseret værksted i nærheden af forsikringstagerens folkeregisteradresse.`,
-          `Kaskoen betaler kun, når der er en skade, den dækker. Et nedbrud, en tom tank eller et fladt batteri er ikke en kaskoskade, og her er det vejhjælpen, der betaler. Hos Tryg dækker kaskoens transport heller ikke aflæsning af gods og værktøj.`
+          `Kaskoen betaler kun transport, når der er en skade, den dækker. GF undtager skader, der alene sidder i mekaniske, elektriske og elektroniske dele, medmindre de fx skyldes brand eller tyveri. Ved et almindeligt nedbrud er det derfor vejhjælpen, der betaler bugseringen. Hos Tryg dækker kaskoens transport heller ikke aflæsning af gods og værktøj.`
         ],
         figur: {
           type: "svg",
-          svg: `<svg viewBox="0 0 400 236" role="img" aria-label="Beslutningstræ. Skyldes stoppet en skade, kaskoen dækker, betaler kaskoen transport til nærmeste værksted, men kun hvis intet abonnement dækker. Er det et nedbrud eller en tom tank, betaler kun vejhjælpen."><defs><marker id="pil-vejhjaelp-til-varebil-1" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,1 L7,4 L0,7" class="tg-pil"/></marker></defs><rect class="tg-kasse" x="40" y="6" width="320" height="46"/><text x="200" y="25" text-anchor="middle">Bilen kan ikke køre videre.</text><text class="tg-fremhaev" x="200" y="43" text-anchor="middle">Skyldes det en skade, kaskoen dækker?</text><line class="tg-pil" x1="140" y1="52" x2="100" y2="86" marker-end="url(#pil-vejhjaelp-til-varebil-1)"/><line class="tg-pil" x1="260" y1="52" x2="300" y2="86" marker-end="url(#pil-vejhjaelp-til-varebil-1)"/><text x="108" y="72" text-anchor="end">Ja</text><text x="292" y="72">Nej</text><rect class="tg-modul" x="5" y="90" width="180" height="62"/><text class="tg-modul__tekst" x="95" y="110" text-anchor="middle">KASKOEN BETALER</text><text class="tg-modul__tekst" x="95" y="126" text-anchor="middle">TRANSPORT TIL</text><text class="tg-modul__tekst" x="95" y="142" text-anchor="middle">NÆRMESTE VÆRKSTED</text><text x="95" y="174" text-anchor="middle">GF og Tryg: kun hvis</text><text x="95" y="190" text-anchor="middle">intet abonnement</text><text x="95" y="206" text-anchor="middle">dækker</text><rect class="tg-kasse" x="215" y="90" width="180" height="62"/><text x="305" y="110" text-anchor="middle">Fx nedbrud, tom</text><text x="305" y="126" text-anchor="middle">tank eller batteri</text><text class="tg-fremhaev" x="305" y="142" text-anchor="middle">Vejhjælpen betaler</text></svg>`,
+          svg: `<svg viewBox="0 0 400 236" role="img" aria-label="Beslutningstræ. Skyldes stoppet en skade, kaskoen dækker, betaler kaskoen transport til nærmeste værksted, men kun hvis intet abonnement dækker. Er det et nedbrud i motor eller elektronik, betaler vejhjælpen."><defs><marker id="pil-vejhjaelp-til-varebil-1" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,1 L7,4 L0,7" class="tg-pil"/></marker></defs><rect class="tg-kasse" x="40" y="6" width="320" height="46"/><text x="200" y="25" text-anchor="middle">Bilen kan ikke køre videre.</text><text class="tg-fremhaev" x="200" y="43" text-anchor="middle">Skyldes det en skade, kaskoen dækker?</text><line class="tg-pil" x1="140" y1="52" x2="100" y2="86" marker-end="url(#pil-vejhjaelp-til-varebil-1)"/><line class="tg-pil" x1="260" y1="52" x2="300" y2="86" marker-end="url(#pil-vejhjaelp-til-varebil-1)"/><text x="108" y="72" text-anchor="end">Ja</text><text x="292" y="72">Nej</text><rect class="tg-modul" x="5" y="90" width="180" height="62"/><text class="tg-modul__tekst" x="95" y="110" text-anchor="middle">KASKOEN BETALER</text><text class="tg-modul__tekst" x="95" y="126" text-anchor="middle">TRANSPORT TIL</text><text class="tg-modul__tekst" x="95" y="142" text-anchor="middle">NÆRMESTE VÆRKSTED</text><text x="95" y="174" text-anchor="middle">GF og Tryg: kun hvis</text><text x="95" y="190" text-anchor="middle">intet abonnement</text><text x="95" y="206" text-anchor="middle">dækker</text><rect class="tg-kasse" x="215" y="90" width="180" height="62"/><text x="305" y="110" text-anchor="middle">Fx nedbrud i</text><text x="305" y="126" text-anchor="middle">motor eller elektronik</text><text class="tg-fremhaev" x="305" y="142" text-anchor="middle">Vejhjælpen betaler</text></svg>`,
           tekst: `Skematisk. Kilder: <a href="${GF}" rel="noopener">GF, betingelser nr. 130-1, punkt 4.3.4</a> og <a href="${TRYG}" rel="noopener">Tryg, betingelser nr. 2303, afsnit 4.5 og 5.1</a>, set den 7. oktober 2026.`
         },
         efter: [
@@ -266,7 +266,7 @@ module.exports = {
         tekst: [
           `Hjælpen kommer hurtigere, når redningskorpset ved, hvor bilen står, og hvad der er galt. Falck beder dig have registreringsnummeret eller kundenummeret klar, finde vejnavn og placering, fx med en kortapp, og forklare, hvad problemet er.`,
           `Bilen skal så vidt muligt stå uden for kørebanen og være afmærket med havariblink og advarselstrekant, mens føreren venter. Det står i Trygs betingelser, og reglerne for uheld står i <a href="/til-varebilen/forsikring/skadeanmeldelse/">skadeanmeldelse</a>.`,
-          `Falcks vagtcentral har telefon 70 10 20 30, og Tryg Vejhjælp har 70 11 20 00. If og SOS Dansk Autohjælp har deres egne numre i abonnementet eller policen.`
+          `Falcks vagtcentral har telefon 70 10 20 30, og Tryg Vejhjælp har 70 11 20 00.`
         ],
         figur: {
           type: "trin",
@@ -284,7 +284,7 @@ module.exports = {
       {
         overskrift: "Sygdom, nøgler og elbiler",
         tekst: [
-          `Vejhjælpen hjælper også, når det er føreren og ikke bilen, der svigter. Bliver føreren akut syg, så han ikke kan køre forsvarligt, kører Viking Assistance for If bilen hjem og føreren og passagererne hjem eller på skadestuen. Hos Tryg kommer føreren og passagererne til den nærmeste læge, og bilen køres hjem eller til behandlingsstedet.`,
+          `Vejhjælpen hjælper også, når det er føreren og ikke bilen, der svigter. Bliver føreren akut syg, så føreren ikke kan køre forsvarligt, kører Viking Assistance for If bilen hjem og føreren og passagererne hjem eller på skadestuen. Hos Tryg kommer føreren og passagererne til den nærmeste læge, og bilen køres hjem eller til behandlingsstedet.`,
           `Er nøglen låst inde eller forsvundet, hjælper If og Tryg med at åbne bilen. Tryg betaler en låsesmed, hvis Tryg vurderer, at det er nødvendigt.`,
           `En elvarebil, der løber tør for strøm, får hjælp hos Tryg Vejhjælp, og Tryg kører den til en ladestander, hvis den skal transporteres. Falck har et særligt abonnement til elbiler med en garanti for at være fremme inden for 45 minutter. Mere om opladning står i <a href="/til-varebilen/el-abonnement/opladning-af-elvarebil-i-praksis/">opladning af elvarebil i praksis</a>.`
         ],
@@ -370,6 +370,7 @@ module.exports = {
     ["Tryg (afsnit 5.1): én transport pr. driftstop til et sted i Danmark efter eget valg, fx adresse, værksted eller ladestation; gods transporteres til ét bestemmelsessted i Danmark; af- og pålæsning betales selv; gods med certifikatkrav eller dyr aftales særskilt, og aftalte udgifter dækkes; bro og færge, fx Storebælt, betales til normalpris uden rabatter før transporten; er persontransport ikke mulig, tilbydes én overnatning på standardhotel med morgenmad; ved sygdom bringes fører og passagerer til nærmeste læge; én lovligt efterspændt enhed dækkes, uanset om den ejes, lejes eller er lånt.", TRYG],
     ["Tryg (afsnit 4.5): kaskoens transportdækning omfatter ikke aflæsning af gods, varer og værktøj; Tryg Vejhjælp Europa kræver delkasko eller kasko, gælder kun varebiler på højst 3.500 kg og ikke, når rejsens formål er godstransport.", TRYG],
     ["GF (punkt 4.3.4): GF betaler nødvendig transport til nærmeste autoriserede værksted ved erstatningsberettiget skade, når der ikke er abonnement hos redningskorps; efter tyveri eller røveri betales transport til autoriseret værksted nær forsikringstagers folkeregisteradresse.", GF],
+    ["GF (punkt 4.2): kaskoen dækker ikke skader alene i mekaniske, elektriske og elektroniske dele, medmindre de skyldes brand, lynnedslag, eksplosion, tyveri, røveri eller hærværk; transport betales kun ved erstatningsberettiget skade (punkt 4.3.4).", GF],
     ["GF (punkt 4.4): redningsforsikringen i udlandet omfatter fx vejhjælp på skadestedet, bugsering, hjemtransport af køretøj og udlejningsbil; de fulde vilkår står i Det Røde Kort fra SOS.", GF]
   ]
 };
