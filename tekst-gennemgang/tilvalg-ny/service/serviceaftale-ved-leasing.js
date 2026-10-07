@@ -222,7 +222,7 @@ module.exports = {
           note: `Tallene gælder Mercedes-Benz varebiler. Servicepakken er standard på de elektriske modeller. Kilder: ${a(MB_SC, "Mercedes-Benz ServiceCare")}, ${a(MB_VS, "Mercedes-Benz varebilsservice")} og ${a(MB_EL, "Mercedes-Benz service på elektriske varebiler")}, set den 4. oktober 2026.`
         },
         efter: [
-          `Kilde til CompleteCare: ${a(H_MB, "Hessel, Mercedes-Benz")}, set den 7. oktober 2026.`
+          `Kilde til Hessels aftaler: ${a(H_MB, "Hessel, Mercedes-Benz")}, set den 7. oktober 2026.`
         ]
       },
       {

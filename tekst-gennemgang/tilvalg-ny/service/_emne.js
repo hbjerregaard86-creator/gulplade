@@ -38,7 +38,7 @@ module.exports = {
     navn: "Service og værksted",
     titel: "Service og værksted til varebil",
     kort: `Serviceintervaller, garanti og frit værkstedsvalg, serviceaftaler i leasing, lånebil og rustbeskyttelse.`,
-    beskrivelse: `Service på varebil: intervaller, garantier på op til 12 år, frit værkstedsvalg, serviceaftaler ved leasing, lånebil og rustbeskyttelse.`,
+    beskrivelse: `Service på varebil: intervaller, garantier, frit værkstedsvalg, serviceaftaler ved leasing, godkendelse over 1.500 kr., lånebil og rustbeskyttelse.`,
     manchet: `Fabriksgarantien kræver, at bilen serviceres efter producentens forskrifter, men ikke nødvendigvis på et mærkeværksted. Ved leasing bestemmer aftalen, hvor bilen skal serviceres, og hvad der er med. Her er intervallerne, garantierne og ordningerne hos producenterne og leasingselskaberne.`,
     visuel: {
       hero: "service",
@@ -246,7 +246,7 @@ module.exports = {
         overskrift: "Rustbeskyttelse",
         tekst: [
           `Ford og Volkswagen giver 12 års garanti mod gennemtæring indefra. Fords garanti forudsætter karrosseriinspektioner, som udføres uden beregning.`,
-          `Undervognsbehandling er et tilvalg fra rustbeskyttelseskæderne. Hos Dinitrol koster en komplet behandling typisk 4.000–5.500 kr., og Tectyl giver højst 12 års garanti på varevogne og gulpladebiler. Priser og intervaller for undervognsbehandling står i <a href="/til-varebilen/service/undervognsbehandling/">undervognsbehandling</a>.`
+          `Undervognsbehandling er et tilvalg fra rustbeskyttelseskæderne. Hos Dinitrol koster en komplet behandling typisk 4.000–5.500 kr. (oktober 2026), og Tectyl giver højst 12 års garanti på varevogne og gulpladebiler. Priser og intervaller for undervognsbehandling står i <a href="/til-varebilen/service/undervognsbehandling/">undervognsbehandling</a>.`
         ],
         efter: [
           `Kilder: ${a(FORD_G, "Ford")}, ${a(VW_G, "Volkswagen")} og ${a(TEC_KOMPLET, "Tectyl")}, set den 7. oktober 2026, og ${a(DIN, "Dinitrol")}, set den 4. oktober 2026.`

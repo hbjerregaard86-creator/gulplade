@@ -21,3 +21,15 @@
 6. Gamle påstande uden genfundet kilde: "For- og bagaksel må være forskellige", "Vinterhjul og dækhotel kan ofte lægges ind i aftalen".
 7. EPREL brugt som ny kilde til dækmærkets tal for fire dæk i 215/65 R16C.
 - RETTET: Astina 7.640 kr. (før 7.639). vinterhjul-pris skal have samme tal (besked sendt til B04).
+
+## service (B05): _emne, serviceaftale-ved-leasing, frit-vaerkstedsvalg, undervognsbehandling
+- RETTET: Tectyls garanti op til 99 år gælder kun biler under 4 år ved første behandling; varevogne og gulpladebiler højst 12 år.
+- RETTET: Punkt 19 i EU's retningslinjer (originale reservedele) er omskrevet i 2023; "samme produktionslinje" fjernet.
+- Blokeret: arval.dk, mercedes-benz.dk, dinitrol.dk (bot-tjek), eur-lex. EU-forordningerne er læst som PDF fra op.europa.eu, men linket går til EUR-Lex.
+- Hessels Mercedes-side handler mest om personbiler (ServiceCare, CompleteCare, hjulskift 400 kr., opbevaring 495 kr.). Skrevet som "Mercedes-Benz", ikke varebiler.
+- "Lånebil mod betaling" hos VW er udlagt fra "det koster ikke alverden".
+- Toyotas vejhjælp står uden betingelser, fordi siden ikke nævner nogen.
+- KFST's indskærpelse om kontroleftersyn er fra 2013.
+- Dinitrols 30 års garanti: uklart om den gælder varebiler.
+- VW's tre abonnementer kunne ikke læses (JavaScript); dækningsfiguren erstattet af en tidslinje.
+- To konklusioner uden citat i serviceaftale: "Ellers står reparationen stille, indtil leasingselskabet har svaret." og "Serviceaftalen betaler eftersyn og slid, garantien betaler fabriksfejl, og forsikringen betaler skader."
