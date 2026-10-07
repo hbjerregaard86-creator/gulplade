@@ -66,3 +66,13 @@
 6. Webfleet: mærkerne (Ford, VW, Renault, Peugeot, Citroën, Opel, Fiat) bygger kun på logoer på Webfleets OEM.connect-side. Mercedes-data via IT Supply Chain (fagmedie).
 7. Kia: prislisten siger ikke, om flådesystemer kan hente data fra Kia Connect.
 8. Kørselsregnskab: 20.000 km gælder pr. arbejdsgiver (C.A.4.3.3.3.2, første sætning). "Kørsel i firmaets bil kan ikke godtgøres skattefrit" er udledt. Navne og adresser er Skattestyrelsens egne eksempler.
+
+## flaadestyring (B16): _emne, elektronisk-koerebog, gps-sporing-af-medarbejdere, flaadestyringssystem
+1. DA og LO's aftale om kontrolforanstaltninger er læst som PDF hos 3F (part i aftalen). Herfra: 6 ugers varsel, den enkelte kan ikke give samtykke.
+2. Moms: forhandlerne blander; nævnt én gang i teksten, ellers "+ moms" og "med moms" i tabeller og søjler (regel 9 bøjet).
+3. Fleet Complete: "—" oversat til "ikke med"; godkendelsesflow i Basic og Professional "ikke nævnt".
+4. ABAX Triplog står i kortet med kørebogstyper uden kilde.
+5. Producenttabel på emnesiden: kolonnen "Pris" fjernet; priser i teksten.
+6. Domme om kørebøger gengivet fra Den juridiske vejledning (SKM2005.138.HR, SKM2008.534.HR, SKM2021.411.BR). Én dom om ugesedler uden sagsnummer.
+7. Bogføringslovens krav om opbevaring (5 år) er ikke med (retsinformation blokeret for denne skribent).
+8. Uptimus: kun "tilmeldes med nummerplade eller stelnummer uden boks".

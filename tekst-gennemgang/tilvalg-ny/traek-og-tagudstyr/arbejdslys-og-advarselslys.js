@@ -14,7 +14,7 @@ module.exports = {
     slug: "arbejdslys-og-advarselslys",
     navn: "Arbejdslys og advarselslys",
     titel: "Gult blink og arbejdslys på varebil: regler",
-    kort: `Gult blink og rotorlys, hvornår det må bruges, hvilke godkendelser lygten skal have, og reglerne for arbejdslygter, LED-bar og søgelygter på varebilen. Med priser.`,
+    kort: `Hvornår gult blink og rotorlys må bruges, hvilke godkendelser lygten skal have, og hvad reglerne og priserne er for arbejdslygter, LED-bar og søgelygter.`,
     beskrivelse: `Hvornår en varebil må bruge gult blink, krav til afmærkningslygter efter FN-regulativ 65, regler for arbejdslys, LED-bar og søgelygter, og priser.`,
     manchet: `En varebil må have gule afmærkningslygter, men de må kun bruges i bestemte situationer, typisk når bilen holder stille under arbejde på vej. Arbejdslygter skal lyse nedad og må kun kunne tændes med bilens lygter. Her er reglerne fra bekendtgørelsen om afmærkningslygter og detailforskrifterne.`,
     visuel: {
