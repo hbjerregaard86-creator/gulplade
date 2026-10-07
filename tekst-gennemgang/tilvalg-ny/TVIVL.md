@@ -110,3 +110,14 @@
 6. Nyt: EPREL for Continental VanContact Ultra 225/55 R17 C; Hessels Sprinter-sæt 13.305 kr. med montering.
 7. Regneeksempel: Hessel dækhotel 995 kr. pr. sæson = 1.990 kr./år, 7.960 kr. over fire år.
 8. Ikke genkontrolleret: "Den 4. oktober 2026 fandt vi ingen komplette sæt til Renault Trafic og Opel Vivaro".
+
+## forsikring (B02): skadeanmeldelse, foererulykke-og-foererplads, vejhjaelp-til-varebil, forsikring-af-indretning-og-udstyr, forsikring-i-udlandet, erhvervsbilforsikring-selskaber
+1. Grønt kort til Storbritannien: DFIM siger nej, Tryg siger ja. Begge står neutralt.
+2. Falck "Bil over 6 meter": 115 kr. i betegnelsen, 123 kr. i prisfeltet; ingen pris skrevet. Minutgaranti, Europa og omlæsning 123 kr./år. Uklart om hovedpriserne er med moms.
+3. If førerplads: tabellen siger "Tilvalg", men "Inkluderet" under alle niveauer. Skrevet "tilvalg til Ansvar, Kasko og Super".
+4. Ankenævnet: erhvervssager uden for området (nævnet) mod "tager sagen, hvis den ligner en privat sag" (GF). Begge står.
+5. Tryg førerdækning "nej" for ikke-ansatte bygger på "alene dig og dine ansatte".
+6. Udledt: "ved et almindeligt nedbrud betaler vejhjælpen, ikke kaskoen" (GF 4.2 og 4.3.4).
+7. GF's betingelser fra januar 2023, basisår 2023.
+8. Codan og Alm. Brand kræver JavaScript; gamle fakta med 4. oktober.
+9. "EU/EØS" rettet til "EU og EØS" (regel 7); "Ikke oplyst" i vejhjælpstabellen erstattet af kolonnen "Til".
