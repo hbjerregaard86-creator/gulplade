@@ -163,7 +163,7 @@ module.exports = {
           `Fuld og delvis konturafmærkning sidder på siden og bagpå, så tæt på bilens yderste kanter som muligt. Linjeafmærkning sidder så tæt på den nederste kant som muligt og må også sidde foran, hvor den skal være hvid.`
         ],
         kort: [
-          ["Fuld", "En sammenhængende linje rundt om bilens omrids på siden og/eller bagpå."],
+          ["Fuld", "En sammenhængende linje rundt om bilens omrids på siden, bagpå eller begge steder."],
           ["Delvis", "Den nederste vandrette linje og vinkler på mindst 0,25 m i de øverste hjørner."],
           ["Linjeafmærkning", "Kun den nederste vandrette linje. Foran skal den være hvid."]
         ],
@@ -412,7 +412,7 @@ module.exports = {
     ["Detailforskrifterne pkt. 6.09.002: særlige afmærkningslygter på læssebagsmæk skal afgive gult lys, sidde højst 0,40 m fra mækkens yderste hjørner, være rettet bagud i arbejdsstilling, ikke kunne tændes, når mækken er klappet op, og afgive 100-240 blink pr. minut; pkt. 6.09.020 (5): læssebagsmæk kan have to sådanne lygter.", BEK],
     ["BEK nr. 393/2025 er udstedt af Vejdirektoratet og trådte i kraft den 1. juli 2025 (§ 98).", VEJ],
     ["BEK nr. 393/2025 § 84-86: afmærkningsfladen skal mindst være lige så bred som det bærende køretøj; den lavtsiddende vandrette O 45 spærrebom højst 1 m over terræn; Z 93 gult blinksignal i hver side i 1-1,5 m højde og et på hver af den højtsiddende boms yderste felter; de fire blinker samtidig.", VEJ],
-    ["BEK nr. 393/2025 § 7, stk. 4: ved arbejdskøretøj på 40 km/h eller lavere på kørebanen på motorvej forvarsles med A 39 Vejarbejde, der højst må stå 3 km før arbejdskøretøjet.", VEJ],
+    ["BEK nr. 393/2025 § 19, stk. 4: ved arbejdskøretøj på 40 km/h eller lavere på kørebanen på motorvej forvarsles med A 39 Vejarbejde, der højst må stå 3 km før arbejdskøretøjet.", VEJ],
     ["BEK nr. 393/2025 § 99: indtil 1. januar 2028 kan afmærkningsflade efter § 24 i BEK nr. 800/2012 fortsat bruges på en mobil afspærring (tavlevogn) erhvervet før 1. januar 2016.", VEJ],
     ["3M Diamond Grade 983: i 55 mm bredde har konturlinjen svejsede kanter (aktiv bredde 50 mm); farver hvid 983-10, gul 983-71 og rød 983-72, rød kun som 55 mm kontur; godkendt efter ECE 104 med nummeret trykt på tapen med ca. 50 cm mellemrum.", M3],
     ["3M Diamond Grade 983: må ikke sættes på nitter, samlinger, svejsninger eller overlappende karrosseriplader og skal holdes nogle millimeter fra dem; kun på plane flader eller enkle kurver med radius på mindst 100 mm, ikke på kugleformede eller komplekse flader; ingen overlap; hjørner afrundes.", M3],

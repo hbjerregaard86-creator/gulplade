@@ -285,6 +285,11 @@ module.exports = {
     ["Arbejdsgiverbetalt ladestander ved bopælen til fri elbil eller pluginhybridbil er skattefri fra 1. juli 2021; Skatterådet har godkendt skattefri refusion af strøm, når forbruget kunne individualiseres via måler (SKM2015.376.SR og SKM2021.283.SR).", JV9],
     ["Godtgørelsen efter elafgiftslovens § 11 g går til den virksomhed, der driver ladestanderen for egen regning og risiko, kræver måler i ladestanderen og gælder til og med 31. december 2030; det ejendomsretlige ejerforhold er ikke afgørende.", JV],
     ["Elafgiften er midlertidigt nedsat i 2026 og 2027, og godtgørelsesbeløbet bliver betydeligt lavere; beløbet indberettes i momsangivelsen.", NED],
+    ["Clever One Business Van koster 999 kr./md. (ekskl. moms, + evt. energitillæg) for firmabiler på gule plader og papegøjeplader og giver fri opladning på hele Clevers ladenetværk inkl. lynladere.", CV],
+    ["Clevers ladepunkter bruger mellem 8 og 32 ampere; 22 kW kræver 32 ampere pr. udtag.", CE],
+    ["Clevers tilbagebetaling indeholder elafgift, men ikke hvis husstanden har elvarme eller egenproduktion af strøm.", CT],
+    ["SKM2022.432.SR: godtgørelse efter særordningen for strøm til gratis opladning af medarbejdernes private elbiler på virksomhedens adresse.", JV],
+    ["Sikkerhedsstyrelsen: belastningsstyring kan være nødvendig, hvis forsyningsselskabet ikke kan levere tilstrækkelig effekt, eller af hensyn til økonomien i installationen.", SIK],
     ["EWII's ladeboks (Zaptec Pro) kan lastbalancere, så strømmen fordeles mellem flere ladebokse og overbelastning undgås; OK tilbyder lastbalancering.", EWII]
   ]
 };
