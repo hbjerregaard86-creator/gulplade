@@ -76,3 +76,13 @@
 6. Domme om kørebøger gengivet fra Den juridiske vejledning (SKM2005.138.HR, SKM2008.534.HR, SKM2021.411.BR). Én dom om ugesedler uden sagsnummer.
 7. Bogføringslovens krav om opbevaring (5 år) er ikke med (retsinformation blokeret for denne skribent).
 8. Uptimus: kun "tilmeldes med nummerplade eller stelnummer uden boks".
+
+## salg-af-varebil (B19): afmelding-og-nummerplader, salg-af-varebil-paa-auktion, eksport-af-varebil
+1. Klaravik, frist for momsrefusion: købsvilkår siger 10 dage efter udgangen af måneden for afhentning, FAQ siger 10 dage efter afhentning. Brugt købsvilkårene.
+2. Klaravik, ingen fortrydelsesret for reparationsobjekter står kun i vilkårene for erhvervskøbere.
+3. "Afmeldt bil skal have nye plader fra en operatør (1.180 kr. pr. sæt plus gebyr)" er udledt; Motorstyrelsen siger det ikke direkte.
+4. Afgiften reguleres efter "ejer" (omregistrering) eller "primær bruger" (periodiske afgifter). Brugt "ejer".
+5. Udvidet registreringssyn ved eksport følger af trin 1 på eksportsiden; formålsbeskrivelsen handler om import.
+6. Auktionshusenes egne markedsføringstal (Klaravik 140.000 budgivere, 63.000 auktioner; Retrade over 100.000 virksomheder siden 2007).
+7. Regneeksempel 100.000 → 120.000 → 150.000 kr. ud fra Auktionshusets 20 % salær og 25 % moms (huset viser 1.000 → 1.200 → 1.500).
+8. Fradraget i eksportgodtgørelsen er ikke skrevet ind (refusionssats).

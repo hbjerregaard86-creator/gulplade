@@ -40,7 +40,7 @@ module.exports = {
       {
         overskrift: "Udstyret i overblik",
         tekst: [
-          `Udstyret uden på varebilen handler om tre ting. Bilen skal kunne trække en anhænger, have plads til lange ting på taget og være synlig, når den holder i vejen. Hertil kommer trin, der gør det lettere at nå varerummet og taget.`,
+          `Udstyret uden på varebilen løser tre opgaver. Bilen skal kunne trække en anhænger, have plads til lange ting på taget og være synlig, når den holder i vejen. Hertil kommer trin, der gør det lettere at nå varerummet og taget.`,
           `Anhængertræk kan bestilles med bilen fra fabrikken eller monteres bagefter. Tagbøjler, stigeholdere, blink og trin sælges af forhandlere af udstyr som VanKompagniet og Rameder. Anhængertrækket skal registreres, og udstyret på taget og lygterne skal overholde detailforskrifterne for køretøjer. Hver type udstyr har sin egen side.`
         ],
         kort: [
@@ -130,7 +130,7 @@ module.exports = {
         overskrift: "Anhænger og kørekort",
         tekst: [
           `Registreringen siger, hvad bilen må trække, men kørekortet sætter sin egen grænse. Med kørekort til kategori B må føreren trække en anhænger med en tilladt totalvægt på højst 750 kg, eller en tungere, hvis bil og anhænger tilsammen højst har en tilladt totalvægt på 3.500 kg.`,
-          `Med kode 96 på kørekortet må bil og anhænger tilsammen veje op til 4.250 kg, og med kategori BE må anhængeren veje op til 3.500 kg. En bil på højst 3.500 kg må højst køre 80 km/t med anhænger, eller 100 km/t på motorvej, hvis vogntoget opfylder betingelserne for Tempo 100. Mere i <a href="/haandbogen/anhaenger-bag-varebilen/">anhænger bag varebilen</a>.`
+          `Med kode 96 på kørekortet må bil og anhænger tilsammen have en tilladt totalvægt på op til 4.250 kg, og med kategori BE må anhængeren have en tilladt totalvægt på op til 3.500 kg. En bil på højst 3.500 kg må højst køre 80 km/t med anhænger, eller 100 km/t på motorvej, hvis vogntoget opfylder betingelserne for Tempo 100. Mere i <a href="/haandbogen/anhaenger-bag-varebilen/">anhænger bag varebilen</a>.`
         ]
       },
       {
@@ -182,7 +182,7 @@ module.exports = {
         overskrift: "Det tæller med i længden",
         tekst: [
           `Længden måles over de dele, der rager længst frem og tilbage, men anhængertræk, trinbræt og lygter tæller ikke med. Et bagtrin i trækket gør altså ikke bilen længere i reglernes forstand.`,
-          `Det gør en stige, der rager ud over bagenden, fordi den er last. En motordrevet bil må højst være 12,00 m lang, og et vogntog med bil og anhænger højst 18,75 m. Lasten må heller ikke skjule lygter eller nummerplade.`
+          `Det gør en stige, der rager ud over bagenden, fordi den er last. En bil må højst være 12,00 m lang, og et vogntog med bil og anhænger højst 18,75 m. Lasten må heller ikke skjule lygter eller nummerplade.`
         ],
         efter: [
           `Kilder: <a href="${DETAIL}" rel="noopener">detailforskrifterne pkt. 3.02.001, stk. 7</a>, <a href="${DIM}" rel="noopener">BEK nr. 1447, §§ 8, 11 og 12</a> og <a href="${FL}" rel="noopener">færdselsloven, § 82</a>, set den 7. oktober 2026.`
@@ -209,7 +209,7 @@ module.exports = {
         overskrift: "Udstyret vejer",
         tekst: [
           "VanKompagniet angiver vægten til 10 kg for et sæt VK Basic-tagbøjler og 40 kg for Rhino SafeStow3. Vægten trækkes fra bilens nyttelast. Mere i <a href=\"/haandbogen/totalvaegt-nyttelast-og-koerekort/\">totalvægt, nyttelast og kørekort</a>.",
-          `Vægten af hvert stykke udstyr står på forhandlerens produktside. Den samlede vægt af udstyret går fra det, bilen må laste, og et monteret anhængertræk vejer alene 22,5–26 kg.`
+          `Vægten af hvert stykke udstyr står på forhandlerens produktside. Den samlede vægt går fra det, bilen må laste. Et monteret anhængertræk vejer alene 22,5–26 kg.`
         ],
         figur: [
           {
