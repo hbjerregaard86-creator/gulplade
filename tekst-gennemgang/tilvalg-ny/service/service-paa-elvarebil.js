@@ -161,7 +161,7 @@ module.exports = {
         overskrift: "Det kan udelukke batterigarantien",
         tekst: [
           `Volkswagens garantibestemmelser nævner fire forhold, der udelukker en garantisag på højvoltsbatteriet. De handler om, hvordan batteriet bliver behandlet, opladet og rengjort.`,
-          `Punktet om rengøring betyder noget for en varebil, der bliver vasket ofte. Vand og aggressive væsker må ikke komme direkte på batteriet, og det må ikke rengøres med højtryksspuler eller damprenser. Ford undtager på samme måde skader som følge af uheld, forkert brug eller mangelfuld vedligeholdelse fra sin garanti.`
+          `Punktet om rengøring betyder noget for en varebil, der bliver vasket ofte. Vand og aggressive væsker må ikke komme direkte på batteriet, og det må ikke rengøres med højtryksspuler eller damprenser. Ford undtager på samme måde skader som følge af uheld, forkert brug eller mangelfuld vedligeholdelse fra garantien Ford Protect New.`
         ],
         punkter: [
           "Batteriet er fjernet fra bilen eller åbnet ukorrekt.",
