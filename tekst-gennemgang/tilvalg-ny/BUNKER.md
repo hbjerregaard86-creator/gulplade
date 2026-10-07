@@ -1,9 +1,8 @@
 # Bunker til skribenterne (07-10-2026)
 
-Cloud-sessionen delte de 80 manglende sider op i 19 bunker. Alle bunker undtagen B07 (indretning) er
-skrevet i skyen og består tjek.js. Indretning blev startet sidst og stoppes, når kreditten når grænsen.
-Se, hvilke filer der findes i indretning/, før du skriver resten. Næste trin er tekstredaktør, faktatjek
-(se TVIVL.md) og preview (preview.sh).
+Cloud-sessionen delte de 80 manglende sider op i 19 bunker. Alle 19 bunker er skrevet i skyen, så alle
+85 sider ligger her og består tjek.js. Næste trin er tekstredaktør, faktatjek (se TVIVL.md) og preview
+(preview.sh).
 
 Hver skribent fik sin liste over sider og blev bedt om at følge "Fælles instruks" nedenfor.
 
@@ -17,7 +16,7 @@ Hver skribent fik sin liste over sider og blev bedt om at følge "Fælles instru
 | B04 | vinterhjul | daek-til-elvarebil, daektryk-og-moensterdybde, vinterhjul-pris, vinterdaek-i-udlandet | skrevet i skyen |
 | B05 | service | _emne, serviceaftale-ved-leasing, frit-vaerkstedsvalg, undervognsbehandling | skrevet i skyen |
 | B06 | service | erstatningsbil, service-paa-elvarebil, pris-paa-service | skrevet i skyen |
-| B07 | indretning | _emne, gulv-og-vaegbeklaedning, lastsikring-i-varebil, indretning-af-elvarebil, skillevaeg, selvbygget-indretning | i gang i skyen kl. 14.24; se, hvilke filer der findes |
+| B07 | indretning | _emne, gulv-og-vaegbeklaedning, lastsikring-i-varebil, indretning-af-elvarebil, skillevaeg, selvbygget-indretning | skrevet i skyen |
 | B08 | varerumssikring | _emne, ekstra-laas-til-varebil, alarm-og-gps-tracker, maerkning-af-vaerktoej, sikker-opbevaring, tyveri-statistik-pr-region | skrevet i skyen |
 | B09 | ombygning | _emne, bagsmaeklift, lad-og-tipper, koelebil | skrevet i skyen |
 | B10 | ombygning | mandskabsvogn-ombygning, godkendelse-af-ombygning, ladbil-med-kran | skrevet i skyen |

@@ -192,3 +192,13 @@
 6. Vistaprints syv standardstørrelser står med 4. oktober (indlæses dynamisk); 90 x 60 cm bekræftet i dag.
 7. Prisfiguren på design-siden: VanKompagniets pris for navn og CVR nævner ikke montering; de andre er med oplæg og montering (står i noten).
 8. § 85 beskrevet som "registreret til udelukkende erhvervsmæssig brug" med link til håndbogens side om gule plader.
+
+## indretning (B07): _emne og alle fem undersider
+1. FEJL UDEN FOR OPGAVEN: grafikken `vaegt` i indretning-grafik.js har billedteksten "syv færdige moduler" skrevet fast ind, men data har 11 moduler. Ikke brugt; erstattet af nøgletal med {{ind_kgm_*}} og {{ind_krm_*}}.
+2. Selvbygget: "Modul-Systems skuffer under dobbeltbunden har et panel, der holder lasten tilbage ved en ulykke" (gammel påstand). Modul-Systems side nævner i dag deformationszoner og en kollisionssikkerhedsvæg som tilvalg, men intet panel. Faktatjek.
+3. Elvarebil: "Reolpakken er ca. 4,6 % af nyttelasten" parrer SmartVans reolpakke (Vivaro og Proace) med nyttelasten på E-Transit Custom (gammel parring).
+4. Lastsikring: gummimåtte-regneeksempel (ca. 60 daN friktion, ca. 20 daN mangler) med friktion 0,6; hældningstesten (26,6° = 0,5 g, 38,7° = 0,8 g) fra afsnittet om emballage i EU's retningslinjer brugt generelt; "Låsens styrke" i dækningsfiguren er skribentens formulering.
+5. Skillevæg: "10 m/s² svarer omtrent til, at lasten skubber fremad med hele sin egen vægt" er skribentens forklaring.
+6. Gulv: "Varianten … drivlinje" omskrevet til "hvilke hjul der trækker bilen". Tjek betydningen. Prislisten med 15 rækker delt i små og store biler.
+7. Emnesiden: "Et skillerum alene er ikke nok" er gammel tekst uden støtte i SKM2021.202.SR.
+8. indretning-af-elvarebil (1.094 ord) og selvbygget-indretning (1.090 ord) ligger lige under målet på 1.100.

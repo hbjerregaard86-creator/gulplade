@@ -241,7 +241,7 @@ module.exports = {
       { navn: "VanKompagniet: Skillevæg til varevogn – komfortvægge", url: VK, dato: "2026-10-04" },
       { navn: "BEK nr. 1655 af 05/12/2025, bilag 3", url: BEK3, dato: "2026-10-04" },
       { navn: "Modul-System: Gulv og vægbeklædning (dobbeltbund og kollisionssikkerhedsvæg)", url: MS, dato: "2026-10-04" },
-      { navn: "Skattestyrelsen: Moms/registreringsafgift – tilladt kørsel i varevogne og mandskabsvogne (bindende svar)", url: SKM, dato: "2026-10-07" },
+      { navn: "Skatterådet: Bindende svar SKM2021.202.SR om tilladt kørsel i varevogne og mandskabsvogne", url: SKM, dato: "2026-10-07" },
       { navn: "Autorola: Skadeguide ved aflevering", url: AUT, dato: "2026-10-04" }
     ]
   },
