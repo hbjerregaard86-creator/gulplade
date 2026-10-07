@@ -33,3 +33,15 @@
 - Dinitrols 30 års garanti: uklart om den gælder varebiler.
 - VW's tre abonnementer kunne ikke læses (JavaScript); dækningsfiguren erstattet af en tidslinje.
 - To konklusioner uden citat i serviceaftale: "Ellers står reparationen stille, indtil leasingselskabet har svaret." og "Serviceaftalen betaler eftersyn og slid, garantien betaler fabriksfejl, og forsikringen betaler skader."
+
+## forsikring (B01): ansvarsforsikring-varebil, vaerktoejsforsikring, flaadeforsikring, forsikring-af-elvarebil, selvrisiko
+1. Alm. Brand og Codan vises kun med JavaScript; gamle fakta står med 4. oktober, ingen nye.
+2. GF's betingelser er fra januar 2023 (beløb med basisår reguleres). Samme PDF siger både 18.170 kr. (basisår 2021) og 18.948 kr. (basisår 2023) for ikke-fabriksmonteret udstyr. Står på KASKOSIDEN.
+3. GF, pris efter skade: dækningsoversigten siger ingen stigning; pkt. 13.5 siger et år ekstra på samme pristrin. Begge står på flådesiden.
+4. Tryg, frist for opsigelse ved skærpede vilkår: afsnit 12 og 13 er uenige. Skrevet "før de træder i kraft".
+5. KF's geografiske dækning: brugt de nye vilkår (Danmark og transporter i Europa på højst en uge).
+6. "4.540 anmeldelser om indbrud i varebiler i 2024" er Topdanmarks tal, ikke politiets.
+7. Fortolkninger i dækningsfigurer: If "Kun eget gods" (produktnavn); Ayvens glas og vejhjælp "Tilbydes"; GF ladestander på bygningen "ikke nævnt".
+8. Batteriskade alene: gengiver GF's og Trygs ordlyd uden at konkludere.
+9. DFIM "50.000 uforsikrede ved lovens vedtagelse i januar 2019" (loven er vedtaget 15. maj 2018). Skrevet "omkring 50.000 i januar 2019".
+10. Falcks "Omlæsning af gods": pris uklar (116 eller 123 kr.); gammel formulering uden pris.
