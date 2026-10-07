@@ -168,7 +168,7 @@ module.exports = {
       {
         overskrift: "Ladeboks hjemme hos medarbejderen",
         tekst: [
-          `Når varebilen må køre hjem, kan den lade i medarbejderens indkørsel. Ladeboksen sidder på medarbejderens eltavle, og en måler i boksen skiller bilens strøm fra husstandens. Hos Clever betaler ladeoperatøren strømmen tilbage hver måned efter de målte kWh.`,
+          `Når varebilen må køre hjem, kan den lade i medarbejderens indkørsel. Ladeboksen sidder på medarbejderens eltavle, og en måler i boksen skiller bilens strøm fra husstandens. Hos Clever betaler ladeoperatøren strømmen tilbage hver måned efter de målte kWh. Elafgiften er med i tilbagebetalingen, men ikke hvis husstanden har elvarme eller egen produktion af strøm.`,
           `Skattereglerne afhænger af, om bilen beskattes som fri bil. En ladestander til en fri elbil eller plug-in hybridbil har været skattefri siden den 1. juli 2021. Skatterådet har godkendt skattefri refusion af strømmen i sager, hvor strømmen til bilen blev målt for sig.`,
           `Hvornår varebilen må køre hjem, står i <a href="/haandbogen/tage-varebilen-med-hjem/">tage varebilen med hjem</a>. Afregning og skat står i <a href="/til-varebilen/el-abonnement/ladestander-hjemme-hos-medarbejderen/">ladestander hjemme hos medarbejderen</a>.`
         ]
@@ -177,7 +177,7 @@ module.exports = {
         overskrift: "Elafgift tilbage",
         tekst: [
           `Den virksomhed, der driver en ladestander for egen regning og risiko, kan få elafgiften på strømmen til registrerede elbiler tilbage. Ordningen står i elafgiftslovens § 11 g og gælder til og med den 31. december 2030.`,
-          `Pengene går til den, der driver ladestanderen, og ikke til den, der ejer bilen. Det kræver en måler i ladestanderen, og beløbet indberettes i momsangivelsen.`,
+          `Pengene går til den, der driver ladestanderen, og ikke til den, der ejer bilen. Det kræver en måler i ladestanderen, og beløbet indberettes i momsangivelsen. Ordningen dækker også strøm til gratis opladning af medarbejdernes private elbiler på virksomhedens adresse (SKM2022.432.SR).`,
           `Elafgiften er sat midlertidigt ned i 2026 og 2027, så der er mindre at få tilbage i de to år. Skatteministeriet har satserne på <a href="https://skm.dk/elafgiftsloven" rel="noopener">skm.dk</a>. Betingelserne står i <a href="/til-varebilen/el-abonnement/refusion-af-elafgift/">refusion af elafgift</a>.`
         ],
         figur: {
@@ -198,7 +198,8 @@ module.exports = {
         overskrift: "Flere biler på samme tavle",
         tekst: [
           `Uden belastningsstyring dimensioneres installationen efter standarden DS/HD 60364-7-722, som om alle ladestandere kører fuld effekt samtidig, skriver Sikkerhedsstyrelsen. Se <a href="/til-varebilen/el-abonnement/lastbalancering/">lastbalancering</a>.`,
-          `Med lastbalancering fordeler ladestanderne strømmen mellem sig, så installationen ikke bliver overbelastet. EWII's ladeboks kan lastbalancere, og OK tilbyder lastbalancering til erhverv.`
+          `Med lastbalancering fordeler ladestanderne strømmen mellem sig, så installationen ikke bliver overbelastet. EWII's ladeboks kan lastbalancere, og OK tilbyder lastbalancering til erhverv.`,
+          `Sikkerhedsstyrelsen skriver, at belastningsstyring kan være nødvendig, hvis forsyningsselskabet ikke kan levere effekten, eller af hensyn til økonomien i installationen. Antallet af biler, der skal lade samtidig, afgør derfor, hvordan installationen bliver dimensioneret.`
         ]
       },
       {
