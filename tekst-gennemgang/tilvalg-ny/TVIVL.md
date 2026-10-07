@@ -99,3 +99,14 @@
 7. Tagreklameskilte 0,40 m fra forkanten; uklart om varebiler er omfattet af undtagelsen (foranliggende styring og taghøjde mindst 1,80 m).
 8. VW's prislister: "øverste pris ekskl. moms" (fx 7.361 kr.); forholdet til inkl.-prisen (8.494 kr.) er ikke 1,25.
 9. Motorstyrelsen: blanket fra 2018 og hjemmesiden nævner forskellige virksomhedstyper, der må afgive erklæringen. Begge står.
+
+## vinterhjul (B04): daek-til-elvarebil, daektryk-og-moensterdybde, vinterhjul-pris, vinterdaek-i-udlandet
+- RETTET (vinterhjul-pris): Astina 7.640, 9.110, 10.287 og 11.757 kr. (set 7. oktober). Emnesiden har også 7.640 kr.
+1. Astina: stålsættet hedder "m. Fortuna Vinterdæk", men specifikationen siger Landsail; 16" alu siger Yokohama W.Drive WY01. Alufælge koster nu 1.177 kr. mere med samme dæk (10.287 − 9.110). 17"-sammenligningen (4.120 kr.) fjernet. Emnesidens kildenavn og nye_fakta nævner stadig "Fortuna vinterdæk" (produktnavnet).
+2. Blokeret: Thansen, michelin.ca, Dinitrol, EUR-Lex. Thansens priser og dækmærker ikke genkontrolleret.
+3. Ayvens: "indgår i den månedlige ydelse" står ikke på Ayvens' side og er fjernet.
+4. Tyrepress (fagavis) er kilde til tre detaljer om HL-dæk.
+5. Udenlandske kilder: Michelin UK (Berlingo og Kangoo uden C-dæk), Transportstyrelsen i Sverige (mest mønster bagpå), Fords europæiske datablad for E-Transit Custom.
+6. Nyt: EPREL for Continental VanContact Ultra 225/55 R17 C; Hessels Sprinter-sæt 13.305 kr. med montering.
+7. Regneeksempel: Hessel dækhotel 995 kr. pr. sæson = 1.990 kr./år, 7.960 kr. over fire år.
+8. Ikke genkontrolleret: "Den 4. oktober 2026 fandt vi ingen komplette sæt til Renault Trafic og Opel Vivaro".
