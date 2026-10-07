@@ -152,3 +152,12 @@
 5. Udledte sætninger: "Fjernes folien før afleveringen, falder afmonteringsgebyret bort"; "Får en hvid bil mørk folie, skal en mørk CVR-tekst skiftes ud"; "Gebyrlisterne beskriver ikke, hvor stort et lille, mellem eller stort logo er".
 6. Regneeksempler: CPH Wrap 24.495 og 25.495 kr.; helfoliering plus fjernelse 19.495 kr.; ti biler 18.000, 20.250 og 35.000 kr.; fem biler med stort logo 9.000 kr.
 7. Ingen kilde til, om helfoliering kræver leasingselskabets godkendelse (står som spørgsmål).
+
+## el-abonnement (B14): _emne, ladestander-paa-firmaadressen, ladestander-hjemme-hos-medarbejderen, refusion-af-elafgift
+1. SKM2021.474.SR udeladt (JV: "ikke relevant fra 1. januar 2026" for § 11 g, stk. 3 og 4).
+2. Elafgift 2026-27: citeret "betydeligt lavere end virksomhederne er vant til"; ingen slutdato eller sats skrevet.
+3. "aftagenummer" (SKM2026.174.SR) forklaret af skribenten, ikke defineret i kilden.
+4. Clever Power: "husstanden køber så strøm hos Clever" er udledt af "strømprodukt".
+5. Emnesidens tegning generaliserer offentlige ladere til "operatøren af laderen".
+6. Gammel tekst strammet uden at ændre fakta ("Ladeudbyderne" → "Ladeselskaberne"). spoergsmaal_titel "Det skal ladeudbyderen vide" er uændret (regel 2: "udbyder").
+7. Advarsel om skråstreg i standardnavnet "DS/HD 60364-7-722" er ladet stå.

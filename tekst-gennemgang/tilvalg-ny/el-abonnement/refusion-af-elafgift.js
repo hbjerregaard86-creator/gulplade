@@ -65,7 +65,7 @@ module.exports = {
       {
         overskrift: "Hvem kan få den",
         tekst: [
-          `Virksomheder, der driver ladestandere for egen regning og risiko og er involveret i driften. Det ejendomsretlige ejerforhold til ladestanderen er ikke afgørende (SKM2020.12.SR). Det afgørende er, hvem der driver standeren og bærer risikoen, og ikke hvem der ejer den.`,
+          `Godtgørelsen gives til virksomheder, der driver ladestandere for egen regning og risiko og er involveret i driften. Det ejendomsretlige ejerforhold til ladestanderen er ikke afgørende (SKM2020.12.SR). Det afgørende er, hvem der driver standeren og bærer risikoen, og ikke hvem der ejer den.`,
           `Ifølge lovforarbejderne kan godtgørelsen også gives for ladebokse, som virksomheden driver i kunders private hjem, hvor strømmen kommer fra husstandens almindelige elforsyning, og husstanden betaler elregningen.`,
           `Ordningen gælder erhvervsmæssig opladning. En kommune kunne ikke få godtgørelse for strøm til bilerne i den kommunale hjemmepleje, fordi Skatterådet så hjemmeplejen som en opgave, kommunen løser som offentlig myndighed (SKM2024.373.SR). Afgørelsen er påklaget til Landsskatteretten.`
         ]

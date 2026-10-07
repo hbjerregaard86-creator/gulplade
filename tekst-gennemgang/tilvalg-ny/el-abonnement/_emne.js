@@ -75,7 +75,7 @@ module.exports = {
       {
         overskrift: "Effekt og ladetid",
         tekst: [
-          `Effekt måles i kilowatt (kW) og siger, hvor hurtigt strømmen løber ind i batteriet. Batteriets størrelse måles i kilowatttimer (kWh). Ladetiden afhænger af begge dele og af, hvor meget strøm der er tilbage i batteriet.`,
+          `Effekt måles i kilowatt (kW) og siger, hvor hurtigt strømmen løber ind i batteriet. Batteriets størrelse måles i kilowatttimer (kWh). Ladetiden afhænger af begge dele og af, hvor meget strøm der er tilbage i batteriet. Den typiske elbil kan tage op til 11 kW på AC, også selv om ladestanderen kan levere 22 kW, skriver Clever.`,
           `Clever skriver, at DC-ladning med 100–150 kW giver cirka 10–15 gange større effekt end AC-ladning. DC-ladning er også dyrere, fordi ladestanderen er mere kompleks og skal have store mængder strøm.`,
           `Hvordan ladningen passer ind i arbejdsdagen, står i <a href="/til-varebilen/el-abonnement/opladning-af-elvarebil-i-praksis/">opladning af elvarebil i praksis</a>. På <a href="/groen-omstilling/ladetid/">ladetid med elvarebil</a> kan du regne på, hvor meget tid medarbejderen bruger på opladning.`
         ],
@@ -93,6 +93,7 @@ module.exports = {
         overskrift: "Pris pr. kWh på offentlige ladere",
         tekst: [
           `På offentlige ladere betaler virksomheden pr. kWh, og prisen stiger med effekten. OK's vejledende priser den 7. oktober 2026 er 3,49 kr. pr. kWh på en normallader, 3,69 kr. på en hurtiglader og 3,89 kr. på en lynlader.`,
+          `OK kalder en lader på 3,7–22 kW en normallader og en lader på 23–99 kW en hurtiglader. En lynlader leverer 100 kW eller mere.`,
           `OK's priser og beregningerne ud fra dem er med moms, mens Clevers og EWII's priser længere nede er uden moms.`,
           `Ved OK's ladestationer er der intet abonnement, og betalingen sker i OK Erhverv-appen eller med betalingskort. Priserne kan afvige på enkelte steder.`
         ],

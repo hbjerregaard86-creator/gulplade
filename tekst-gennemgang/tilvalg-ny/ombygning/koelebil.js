@@ -92,7 +92,7 @@ module.exports = {
         overskrift: "Aggregat drevet af motoren",
         tekst: [
           `Mange varebilsaggregater trækkes af bilens motor. Når bilens motor driver kompressoren, skal klassifikationsmærket have et X. Det samme gælder et aggregat, der kan tages af, så enheden ikke virker.`,
-          `Kulde- og varmeanlægget godkendes for sig ud fra oplysninger om konstruktion og ydelse og en praktisk afprøvning. Godkendelsen af anlægget gælder højst 6 år. Ændres anlæggets kapacitet, eller skiftes det til et nyt anlæg med et andet serienummer, bortfalder godkendelsen af bilen.`
+          `Kulde- og varmeanlægget skal også godkendes ud fra oplysninger om konstruktion og ydelse og en praktisk afprøvning. Godkendelsen af anlægget gælder højst 6 år. Ændres anlæggets kapacitet, eller skiftes det til et nyt anlæg med et andet serienummer, bortfalder godkendelsen af bilen.`
         ],
         figur: {
           type: "noegletal",
@@ -169,7 +169,7 @@ module.exports = {
         overskrift: "Hvem har ansvaret",
         tekst: [
           `Kører virksomheden selv varerne ud i egne biler med egne chauffører, har den selv ansvaret for transporten. Bruger den en ekstern transportør, ligger ansvaret hos transportøren, og det gælder, indtil varerne er afleveret til kunden.`,
-          `Hvilke temperaturkrav der gælder, afhænger af, hvem der sender og modtager varerne, og hvem der kører. Fødevarer må kun køre sammen med andre varer, hvis der ikke er risiko for, at de bliver forurenet. Uindpakkede fødevarer skal oftere holdes adskilt end indpakkede, og bilen skal som hovedregel gøres grundigt rent mellem to transporter.`
+          `Hvilke temperaturkrav der gælder, afhænger af, hvem der sender og modtager varerne, og hvem der kører. Fødevarer må kun køre sammen med andre varer, hvis der ikke er risiko for, at de bliver forurenet. Uindpakkede fødevarer skal ofte holdes adskilt, mens indpakkede sjældent skal, og bilen skal som hovedregel gøres grundigt rent mellem to transporter.`
         ],
         figur: {
           type: "daekning",
@@ -280,7 +280,7 @@ module.exports = {
         overskrift: "Bredde og vægtykkelse",
         tekst: [
           `Et køretøj må normalt højst være 2,55 m bredt. Detailforskrifterne giver en undtagelse for en temperaturkontrolleret opbygning, som må være op til 2,60 m bred, når sidevæggene inklusive isolering er mindst 45 mm tykke.`,
-          `En varebil er smallere end grænsen, så reglen har mest betydning for lastbiler. I ATP-reglerne gælder kravet om sidevægge på mindst 45 mm for kraftigt isoleret materiel kun materiel, der er bredere end 2,50 m.`
+          `I ATP-reglerne gælder kravet om sidevægge på mindst 45 mm for kraftigt isoleret materiel kun materiel, der er bredere end 2,50 m.`
         ],
         efter: [
           `Kilde: <a href="${DETAIL}" rel="noopener">Bekendtgørelse om detailforskrifter for køretøjer (BEK nr. 1484 af 03/12/2025), bilag 1, pkt. 3.02.001</a>, set den 7. oktober 2026.`
@@ -301,7 +301,7 @@ module.exports = {
       {
         overskrift: "Aggregatets kapacitet",
         tekst: [
-          `Aggregatet skal kunne mere end at holde temperaturen i en tom kasse, fordi døre åbnes, og varer lægges ind. Derfor regner ATP-reglerne med en sikkerhedsfaktor på 1,75.`
+          `Aggregatet skal kunne køle mere, end varmetabet gennem væggene kræver. ATP-reglerne regner med en faktor på 1,75.`
         ],
         punkter: [
           `<strong>Faktor 1,75.</strong> Er aggregatet testet for sig, kan bilen godkendes uden effektivitetsprøve, når aggregatets kuldeydelse er større end varmetabet gennem væggene gange 1,75.`,
@@ -318,7 +318,7 @@ module.exports = {
         overskrift: "Kontrol af kassen i brug",
         tekst: [
           `Når en godkendelse skal fornyes, ser ATP-materielkontrollens eksperter på kassen. Resultatet afgør, hvor længe den må bruges i sin klasse.`,
-          `Politiet kontrollerer på vejen, at en bil med ATP-varer mellem Danmark og et andet EU-land har gyldigt certifikat eller certifikatplade og de rigtige klassifikationsmærker. Mangler de, kan bilen nægtes passage. Fødevarestyrelsen tager også stikprøver på vejen sammen med politiet og Skattestyrelsen og kan forbyde transporten, hvis fx kølemaskinen er defekt.`
+          `Politiet kontrollerer på vejen, at en bil med ATP-varer mellem Danmark og et andet EU-land har gyldigt certifikat eller certifikatplade og de rigtige klassifikationsmærker. Mangler de, kan bilen nægtes passage. Fødevarestyrelsen tager også stikprøver på vejen sammen med politiet og SKAT og kan forbyde transporten, hvis fx kølemaskinen er defekt.`
         ],
         punkter: [
           `<strong>Gunstigt eftersyn.</strong> Er karrosseriets tilstand god, kan materiellet bruges i sin klasse i op til 3 år.`,
@@ -379,6 +379,7 @@ module.exports = {
     ["ATP-bekendtgørelsen §§ 3, 14-16: det er en forudsætning for godkendelse, at materiellet opfylder kravene til hygiejnisk konstruktion: korrosionsfaste, ikke-sugende materialer, glatte overflader uden porer, tæt konstruktion, der tåler trykvask, ingen svært rengørlige lommer, frit afløb inkl. fra dørkarme, beskyttelse mod insekter og støv, væskedræn sikret mod luftindtrængning, døre med tætsluttende dobbeltpakning, der kan plomberes, og korrosionsfaste kødophæng og hylder.", ATP],
     ["ATP-bekendtgørelsen § 3, stk. 3 og § 13: ansøgninger kan sendes elektronisk til ATP-materielkontrollen via virk.dk; materiel godkendt i et andet land, der har tiltrådt ATP, ligestilles med dansk godkendt materiel, når det har klassifikationsmærke.", ATP],
     ["Fødevarestyrelsen (afsnit 32): ATP-godkendelsen for nyt materiel gælder som udgangspunkt i seks år regnet fra udstedelsesmåneden, fornyede godkendelser i tre år ad gangen; materiellet kan indkaldes til syn før udløb, og perioden kan forkortes.", FV32],
+    ["ATP-mærkerne for maskinkølet materiel: F står for maskinkølet, N eller R for normal eller kraftig isolering og A-F for temperaturklassen (afledt af klasselisten i bilag 1 og 5).", ATP],
     ["ATP-bekendtgørelsen § 25: ATP-materielkontrollen opkræver betaling for godkendelse og syn på Fødevarestyrelsens vegne.", ATP],
     ["Detailforskrifterne, bilag 1, pkt. 3.02.001 (2) og (3): et køretøj må normalt højst være 2,55 m bredt; et køretøj med temperaturkontrolleret opbygning må være op til 2,60 m bredt, når sidevæggenes tykkelse inkl. isolering er mindst 45 mm.", DETAIL],
     ["ATP-bekendtgørelsen §§ 30 og 32: politiet kontrollerer, at materiel til landevejstransport mellem et EU-land og Danmark har gyldigt ATP-certifikat eller certifikatplade og klassifikationsmærker; mangler det, kan passage nægtes. Fødevarestyrelsen (afsnit 32) kan udføre stikprøvekontrol af landevejstransporter med politiet og SKAT og kan fx ved defekt kølemaskine forbyde transporten.", FV32]
