@@ -42,7 +42,8 @@ module.exports = {
         overskrift: "Tre steder at lade",
         tekst: [
           `En elvarebil kan lade tre steder i løbet af en arbejdsuge. Hvor bilen lader mest, afgør både prisen pr. kWh og hvor meget udstyr virksomheden skal købe.`,
-          `De timer, bilen holder stille om natten eller mellem opgaver, kan bruges til opladning på en almindelig AC-lader. Lynladere ude på ruten bruges, når dagens kørsel er længere, end batteriet rækker.`
+          `De timer, bilen holder stille om natten eller mellem opgaver, kan bruges til opladning på en almindelig AC-lader. Lynladere ude på ruten bruges, når dagens kørsel er længere, end batteriet rækker.`,
+          `Strømmen på firmaets adresse og hjemme hos medarbejderen følger virksomhedens eller husstandens elaftale. De offentlige ladere har deres egne priser pr. kWh, som står længere nede på siden.`
         ],
         punkter: [
           `<strong>På virksomhedens adresse.</strong> Egen lader på parkeringspladsen. Bilen lader om natten eller mellem opgaver. Se <a href="/til-varebilen/el-abonnement/ladestander-paa-firmaadressen/">ladestander på firmaadressen</a>.`,
@@ -59,7 +60,7 @@ module.exports = {
         overskrift: "Hvor strømmen omformes",
         tekst: [
           `Elnettet leverer vekselstrøm (AC), men batteriet lades med jævnstrøm (DC). Ved AC-ladning omformer bilen selv strømmen, og bilens omformer sætter grænsen, typisk 11 kW. Ved DC-ladning sker omformningen i standeren, og strømmen går direkte i batteriet.`,
-          `Forskellen betyder noget, når virksomheden vælger ladestander. En 22 kW-boks på væggen lader ikke hurtigere, end bilens egen omformer tillader.`
+          `Forskellen betyder noget, når virksomheden vælger ladestander. En 22 kW-boks på væggen lader ikke hurtigere, end bilens egen omformer tillader. AC-ladning sker med Type 2-stik og DC-ladning med CCS, skriver Ford i prislisten for E-Transit Custom.`
         ],
         punkter: [
           `<strong>Lynladere.</strong> Clevers lynladere leverer op til 300 kW. De fleste nyere elbiler kan tage omkring 100–150 kW, skriver Clever.`,
@@ -141,7 +142,8 @@ module.exports = {
         overskrift: "Abonnement eller betaling pr. opladning",
         tekst: [
           `Ladeselskaberne sælger typisk et fast månedligt abonnement med lavere kWh-pris eller betaling pr. opladning uden binding. Abonnementet betaler sig ved et stort forbrug, og det årlige kilometertal fra leasingaftalen viser, hvor grænsen går. Rabatten gælder som regel kun i selskabets eget netværk.`,
-          `Der findes også mellemformer. Clever Key er forbrugsafregnet, men giver en nedsat kWh-pris i Clevers netværk. Norlys lader virksomheden vælge mellem betaling efter forbrug og en fast månedspris med et antal kWh.`
+          `Der findes også mellemformer. Clever Key er forbrugsafregnet, men giver en nedsat kWh-pris i Clevers netværk. Norlys lader virksomheden vælge mellem betaling efter forbrug og en fast månedspris med et antal kWh.`,
+          `Clever One Business Van er et eksempel på et fast abonnement. Det koster 999 kr. om måneden for en firmabil på gule plader eller papegøjeplader og giver fri opladning i Clevers netværk, også på lynladere.`
         ],
         figur: {
           type: "daekning",
@@ -159,7 +161,7 @@ module.exports = {
         overskrift: "Ladestander på firmaets adresse",
         tekst: [
           `En egen ladestander på adressen giver bilerne et fast sted at lade om natten og mellem opgaver. Strømmen kommer over virksomhedens egen elaftale, eller den kan afregnes uden om bygningens eltavle med en særskilt måler.`,
-          `Clever sælger erhvervsladebokse fra 6.999 kr. og udlejer dem for 99 kr. om måneden, og installationen kommer oveni. Den tager typisk 4–7 uger fra accept og længere tid, hvis forsyningsselskabet skal sætte en måler op eller levere flere ampere.`,
+          `Clever sælger erhvervsladebokse fra 6.999 kr. og udlejer dem for 99 kr. om måneden, og installationen kommer oveni. Clevers ladepunkter bruger mellem 8 og 32 ampere, og 22 kW kræver 32 ampere pr. udtag. Installationen tager typisk 4–7 uger fra accept og længere tid, hvis forsyningsselskabet skal sætte en måler op eller levere flere ampere.`,
           `Valget mellem 11 og 22 kW, kravene til installationen og leveringstiderne står i <a href="/til-varebilen/el-abonnement/ladestander-paa-firmaadressen/">ladestander på firmaadressen</a>.`
         ]
       },
