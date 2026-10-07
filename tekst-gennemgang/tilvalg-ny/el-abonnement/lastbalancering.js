@@ -106,7 +106,7 @@ module.exports = {
         tekst: [
           `Et regneeksempel med OK's tal viser, hvad lastbalancering betyder for en flåde. Ti varebiler skal lade om natten ved firmaets adresse, og der er 64 ampere til ladestanderne. Det svarer til fire ladeudtag på 11 kW, altså 44 kW i alt.`,
           `Lader alle ti biler samtidig, og strømmen fordeles ligeligt, får hver bil cirka 4,4 kW. På 6–8 timer bliver det til 26–35 kWh pr. bil. Med WLTP-forbruget for Ford E-Transit Custom på 218 Wh pr. km svarer det til cirka 120–160 km. Eksemplet ser bort fra tab ved opladningen.`,
-          `Uden styring skulle ti udtag på 11 kW have 160 ampere. Kører bilerne kortere end det hver dag, kan de altså lade op om natten på en fjerdedel af den strøm, en installation uden styring skal have.`
+          `Uden styring skulle ti udtag på 11 kW have 160 ampere. Kører bilerne kortere end cirka 120 km om dagen, kan de altså lade op om natten med 64 ampere, som er 40 procent af det, en installation uden styring skal have.`
         ],
         efter: [
           `Kilder: ` + a(OKAMP, "OK: Alt om ampere") + `, ` + a(OKLAST, "OK: Smart lastbalancering") + ` og ` + a(FORD, "Ford: Prisliste E-Transit Custom") + `, set den 7. oktober 2026.`
@@ -254,7 +254,7 @@ module.exports = {
         overskrift: "Hjemme hos medarbejderen",
         tekst: [
           `Zaptec Sense tilpasser ladningen til husstandens øvrige forbrug, så sikringerne ikke udløses. Uden styring nedsætter elinstallatøren effekten, skriver Zaptec.`,
-          `Hjemme har huset typisk én hovedsikring til både husholdningen og ladeboksen, så bilen konkurrerer med komfur, vaskemaskine og varmepumpe om den samme strøm. Du kan læse om afregning af strømmen under <a href="/til-varebilen/el-abonnement/ladestander-hjemme-hos-medarbejderen/">ladestander hjemme hos medarbejderen</a>.`
+          `Sense lader bilen hurtigere, når husholdningen bruger lidt strøm, og langsommere, når forbruget er højt. Du kan læse om afregning af strømmen under <a href="/til-varebilen/el-abonnement/ladestander-hjemme-hos-medarbejderen/">ladestander hjemme hos medarbejderen</a>.`
         ]
       }
     ],
@@ -298,7 +298,7 @@ module.exports = {
     ["OK's erfaring: de fleste oplader hen over natten eller i arbejdstiden, hvor bilen typisk først flyttes efter 6-8 timer; i mange tilfælde er der ledige ladepunkter, så bilerne for det meste kan lade med fuld effekt, før lastbalanceringen træder til.", OKLAST],
     ["OK: typisk skal man have 16 ampere i overskud for at oplade en elbil, ellers kan sikringen springe, eller man må lade langsommere; fire ladeudtag på 11 kW kræver en forsyning på 64 ampere ved fuld effekt på én gang; én ekstra ampere koster ca. 1.400 kr. (cirkapris, præcis pris hos lokalt forsyningsselskab); i mange kommuner er der måneders ventetid; en elektriker kan gennem forsyningsnettet se, hvor mange ampere man har, og hvor mange man bruger, når man bruger flest.", OKAMP],
     ["Regneeksempel: 16 ampere med OK's cirkapris på 1.400 kr. pr. ampere er ca. 22.400 kr.", OKAMP],
-    ["Regneeksempel: 64 A svarer efter OK til fire 11 kW-udtag (44 kW); fordelt ligeligt på ti biler er det 4,4 kW pr. bil, på 6-8 timer 26,4-35,2 kWh; med Ford E-Transit Customs WLTP-forbrug på 218 Wh pr. km er det ca. 121-161 km; uden styring kræver ti 11 kW-udtag 10 x 16 = 160 A.", FORD],
+    ["Regneeksempel: 64 A svarer efter OK til fire 11 kW-udtag (44 kW); fordelt ligeligt på ti biler er det 4,4 kW pr. bil, på 6-8 timer 26,4-35,2 kWh; med Ford E-Transit Customs WLTP-forbrug på 218 Wh pr. km er det ca. 121-161 km; uden styring kræver ti 11 kW-udtag 10 x 16 = 160 A, og 64 A er 40 % af 160 A.", FORD],
     ["Sikkerhedsstyrelsen: belastningsstyring kan fx være nødvendig, hvis forsyningsselskabet ikke kan levere tilstrækkelig effekt, eller af hensyn til økonomien i installationen.", SIK],
     ["Clever: Clevers ladepunkter skal bruge mellem 8 og 32 ampere; mangler der ampere, skal de købes hos forsyningsselskabet, hvilket kan kræve udbygning af elinstallationen.", CLEVER],
     ["Clever: en installation tager typisk 4-7 uger fra accept til færdig installation; med en måler fra tredjepart (forsyningsselskabet) 8-12 uger; skal der tilføres ny strøm, har forsyningsselskaberne ofte 8-12 ugers leveringstid, samlet typisk 16-20 uger.", CLEVER],

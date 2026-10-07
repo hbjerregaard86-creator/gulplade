@@ -161,3 +161,14 @@
 5. Emnesidens tegning generaliserer offentlige ladere til "operatøren af laderen".
 6. Gammel tekst strammet uden at ændre fakta ("Ladeudbyderne" → "Ladeselskaberne"). spoergsmaal_titel "Det skal ladeudbyderen vide" er uændret (regel 2: "udbyder").
 7. Advarsel om skråstreg i standardnavnet "DS/HD 60364-7-722" er ladet stå.
+
+## el-abonnement (B15): ladekort-og-offentlig-ladning, opladning-af-elvarebil-i-praksis, lastbalancering
+- RETTET (opladning): Renaults prisliste knytter ikke længere 3,8 t ved 22 kW til 4,0 t-udgaven; 22 kW er standard på 3.5T og 4.0T. Tallet "4,0" fjernet.
+- RETTET (ladekort): Circle K skriver nu "inkl. moms" ved lynladerprisen 3,99 kr.
+1. IONITY: standardpriser brugt (Motion 45 kr. og 2,86 kr./kWh, Power 90 kr. og 2,29 kr./kWh, Direct 3,86 kr., app 3,67 kr.); kampagnepriser og årspriser udeladt.
+2. Regneeksempler med tal fra flere kilder: OK's ampere med Fords WLTP (10 biler på 64 A → ca. 120-160 km); OK lyn mod normal over 1.000 km med Kia og Renault WLTP; IONITY Motion billigst fra 45 kWh, Power fra ca. 79 kWh om måneden.
+3. OK "ca. 1.400 kr." for ekstra ampere uden momsoplysning (står i noten).
+4. Clevers ladepunkter: 60.000 (Van-siden) mod 66.697 (erhvervssiden). Brugt 66.697.
+5. "Lade frit hos alle ladepartnere" gælder Clever One Business; uklart om Van.
+6. AFIR (betalingskort på lynladere) ikke med (eur-lex blokeret, ingen dansk myndighedskilde fundet).
+7. Udledt: "en offentlig lynlader skal have det stik, elvarebilerne bruger" (Sikkerhedsstyrelsen om BEK 57); "Firmaet betaler strømmen" ved firmaets adresse i tegningen er generelt.
