@@ -1586,31 +1586,33 @@
    "slug": "elvarebil-paa-hvide-plader",
    "h1": "Elvarebil på hvide plader: hvad koster det, og er det lovligt?",
    "title": "Elvarebil på hvide plader: lovligt, og hvad koster det?",
-   "desc": "En elvarebil kan få hvide plader og køre privat som personbil. Se hvordan differenceafgiften regnes ud, og hvorfor den kan blive lav på en elbil.",
-   "kort": "Ja, en elvarebil kan få hvide plader. Så er den registreret som personbil og må køre privat uden grænser. Du betaler én gang forskellen mellem registreringsafgiften for en personbil og for en varebil. På en elbil kan forskellen blive lille, fordi elbiler kun betaler en del af afgiften og får et særligt bundfradrag.",
+   "desc": "En elvarebil kan få hvide plader, når den er bygget om og synet som personbil. Se hvordan differenceafgiften regnes ud, og hvad der gælder uden ombygning.",
+   "kort": "En elvarebil kan få hvide plader, når den er bygget om, så den ikke længere er indrettet som varebil til godstransport. Så regnes registreringsafgiften efter satserne for personbiler, og du betaler én gang forskellen mellem den og afgiften for en varebil. På en elbil kan forskellen blive lille. Skal en varebil køre privat uden at blive bygget om, henviser Motorstyrelsen til papegøjeplader.",
    "emne": "Moms og afgift",
    "laesetid": 6,
-   "opdateret": "2026-10-07",
+   "opdateret": "2026-10-10",
    "afsnit": [
     {
-     "h2": "Det korte svar: ja, og det er ikke et smuthul",
+     "h2": "Det korte svar: ja, når bilen er bygget om",
      "tekst": [
-      "En varebil på hvide plader er ifølge Motorstyrelsen registreret som **personbil** med anvendelsen privat personbefordring. Så må den bruges frit som en almindelig bil. Der er ingen grænse på 25 ture hjem om året, og bilen skal hverken have dagsbevis eller [papegøjeplader](/haandbogen/papegoejeplader/).",
-      "Til gengæld skal bilen betale registreringsafgift som en personbil. Motorstyrelsen regner afgiften ud både som personbil og som varebil, og du betaler forskellen. For en dieselvarebil kan forskellen være stor. For en elvarebil kan den være lille.",
+      "Motorstyrelsen beskriver hvide plader for en varebil, der ikke længere er indrettet til godstransport, fx fordi den er bygget om. Så bliver bilen synet som personbil, og den betaler registreringsafgift efter satserne for personbiler. Derefter må den bruges privat som en almindelig bil. Der er ingen grænse på 25 ture hjem om året, og bilen skal hverken have dagsbevis eller [papegøjeplader](/haandbogen/papegoejeplader/).",
+      "Skal en varebil køre privat uden at blive bygget om, henviser Motorstyrelsen til en anden vej. Bilen skal registreres til privat eller delvis privat brug, og så skal den have papegøjeplader og betale privatbenyttelsesafgift. Motorstyrelsens vejledning beskriver ikke, at en uændret varebil kan vælge hvide plader.",
+      "Når en varebil bliver omregistreret til hvide plader, regner Motorstyrelsen afgiften ud både som personbil og som varebil, og du betaler forskellen. For en dieselvarebil kan forskellen være stor. For en elvarebil kan den være lille.",
       "Vejen til hvide plader er den samme for alle varebiler, og [varevogn på hvide plader](/haandbogen/varevogn-paa-hvide-plader/) gennemgår den generelt. Her ser vi på det, der er særligt for elbiler."
      ],
      "figur": {
       "type": "svg",
       "svg": "<svg viewBox=\"0 0 400 170\" role=\"img\" aria-label=\"To bjælker. Den øverste er registreringsafgiften for bilen som personbil. Den nederste er afgiften som varebil, og stykket op til personbilens længde er differenceafgiften, som betales ved skiftet til hvide plader.\"><text class=\"tg-fremhaev\" x=\"0\" y=\"16\">Afgift som personbil</text><rect class=\"tg-profil\" x=\"0\" y=\"24\" width=\"380\" height=\"28\"/><text x=\"10\" y=\"42\">privat personbefordring</text><text class=\"tg-fremhaev\" x=\"0\" y=\"84\">Afgift som varebil</text><rect class=\"tg-kasse\" x=\"0\" y=\"92\" width=\"230\" height=\"28\"/><text x=\"10\" y=\"110\">gule plader</text><rect class=\"tg-modul\" x=\"230\" y=\"92\" width=\"150\" height=\"28\"/><text class=\"tg-modul__tekst\" x=\"240\" y=\"110\">DIFFERENCEAFGIFT</text><line class=\"tg-skinne-tynd\" x1=\"380\" y1=\"16\" x2=\"380\" y2=\"128\"/><text class=\"tg-lille\" x=\"0\" y=\"158\">FORSKELLEN BETALES ÉN GANG VED SKIFTET</text></svg>",
-      "tekst": "Skematisk. Kilde: <a href=\"https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader\" rel=\"noopener\">Motorstyrelsen: Omregistrering til hvide plader</a>, set den 7. oktober 2026."
+      "tekst": "Skematisk. Kilde: <a href=\"https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader\" rel=\"noopener\">Motorstyrelsen: Omregistrering til hvide plader</a>, set den 10. oktober 2026."
      }
     },
     {
      "h2": "Hvornår skal en varebil have hvide plader?",
      "tekst": [
       "Motorstyrelsen nævner to situationer, hvor en varebil skal omregistreres til hvide plader. Den ene er, når det ikke længere er uden tvivl, at bilen er bygget og indrettet til godstransport, fx fordi den er bygget om. Den anden er, når bilen er en varebil, men ikke opfylder betingelserne for at blive registreret til godstransport, fx en pickup med en sæderække bag forsæderne.",
-      "Du kan også vælge hvide plader, fordi bilen skal køre privat. Motorstyrelsen beskriver to veje for en varebil på gule plader, der skal bruges privat. Du kan omregistrere den til privat brug på hvide plader eller til delvis privat brug på papegøjeplader.",
-      "Valget afhænger af, hvor meget bilen skal køre privat, og hvad den skal bruges til i firmaet. [Gule, hvide eller papegøjeplader](/haandbogen/gule-hvide-eller-papegoejeplader/) sammenligner de tre."
+      "I den første situation bliver bilen synet som personbil. I den anden er bilen stadig en varebil, men den bliver registreret til privat personkørsel. I begge situationer betaler bilen registreringsafgift efter satserne for personbiler. Den juridiske vejledning beskriver det som en pligt: Bilen skal betale fuld afgift, når den ikke længere opfylder betingelserne for varebiler.",
+      "Skal en varebil, der stadig er indrettet til godstransport, køre privat, har du ifølge Motorstyrelsen to muligheder. Du kan købe dagsbeviser til enkelte dage, eller du kan omregistrere bilen til privat eller delvis privat brug. Efter omregistreringen skal bilen have papegøjeplader, og du betaler privatbenyttelsesafgift. [Gule, hvide eller papegøjeplader](/haandbogen/gule-hvide-eller-papegoejeplader/) sammenligner de tre slags plader.",
+      "Vil du vide, hvad der gælder for en bestemt bil, kan du søge om et bindende svar om registreringsafgiften hos Motorstyrelsen. Svaret gælder den bil, du har søgt om."
      ]
     },
     {
@@ -1713,7 +1715,7 @@
      "efter": [
       "Vælg **Andet** som anmeldelsesårsag, når du laver de vejledende beregninger. Motorstyrelsen skriver, at den beregnede afgift kan blive forkert, hvis du vælger omregistrering til personbil.",
       "Beregningen bygger på bilens handelspris og nypris, så to elvarebiler af samme model kan give forskellige beløb. Vil du kende beløbet med sikkerhed, før du bygger bilen om eller syner den, kan du søge om et bindende svar hos Motorstyrelsen.",
-      "Motorstyrelsens side handler om omregistrering af en bil, der allerede kører på gule plader. Tilbyder en forhandler dig en ny elvarebil, der bliver registreret på hvide plader fra start, kan du bede om afgiftsberegningen på skrift."
+      "Motorstyrelsens side handler om omregistrering af en bil, der allerede kører på gule plader eller papegøjeplader. Den beskriver ikke en ny varebil, der bliver registreret på hvide plader fra start. Tilbyder en forhandler dig det, kan du søge om et bindende svar om registreringsafgiften for den bil, tilbuddet gælder."
      ]
     },
     {
@@ -1743,7 +1745,7 @@
       ]
      },
      "efter": [
-      "Motorstyrelsen regner prisen for synet og de nye nummerplader med til det, du skal betale ved skiftet. Er bilen bygget om, kommer udgiften til ombygningen oveni."
+      "Motorstyrelsen regner udgiften til ombygningen, prisen for synet og de nye nummerplader med til det, du skal betale ved skiftet."
      ]
     },
     {
@@ -1751,7 +1753,7 @@
      "tekst": [
       "Efter omregistreringen gælder en ny sats for ejerafgift eller vægtafgift, skriver Motorstyrelsen.",
       "For biler, der er registreret første gang den 1. juli 2021 eller senere, betaler personbiler og varebiler CO₂-ejerafgift efter den samme tabel hos Skatteministeriet. Afgiften følger bilens udledning, og en elbil udleder 0 g CO₂ pr. km. Du kan se beløbet for netop din bil i Motorstyrelsens afgiftsberegner, og [grøn ejerafgift på varebil](/haandbogen/groen-ejerafgift-paa-varebil/) forklarer, hvordan afgiften er bygget op.",
-      "Privatbenyttelsesafgiften falder væk. Den hører til varebiler på papegøjeplader, og på hvide plader er bilen en personbil.",
+      "Privatbenyttelsesafgiften falder væk. Den hører til varebiler på papegøjeplader.",
       "Stiller virksomheden bilen til rådighed for en medarbejder, der må køre privat i den, er det fri bil, og medarbejderen skal betale skat af den, skriver Skattestyrelsen."
      ]
     },
@@ -1779,10 +1781,16 @@
       ],
       "raekker": [
        [
-        "Registreret som",
+        "Registreringsafgift som",
         "Varebil",
         "Varebil",
         "Personbil"
+       ],
+       [
+        "Indrettet som varebil til godstransport",
+        "ja",
+        "ja",
+        "nej"
        ],
        [
         "Privat kørsel",
@@ -1821,10 +1829,10 @@
         "Intet fradrag"
        ]
       ],
-      "note": "Gule plader forudsætter, at bilen kun bruges i en momsregistreret virksomhed. Kilder: <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-kun-i-en-momsregistreret-virksomhed-ikke-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges kun i en momsregistreret virksomhed</a>, <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-ogsaa-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges også privat</a>, <a href=\"https://info.skat.dk/data.aspx?oid=2085713\" rel=\"noopener\">Den juridiske vejledning: D.A.11.6.1</a> og <a href=\"https://info.skat.dk/data.aspx?oid=2085714\" rel=\"noopener\">D.A.11.6.2</a>, set den 7. oktober 2026."
+      "note": "Gule plader forudsætter, at bilen kun bruges i en momsregistreret virksomhed. Kilder: <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-kun-i-en-momsregistreret-virksomhed-ikke-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges kun i en momsregistreret virksomhed</a>, <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-ogsaa-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges også privat</a>, <a href=\"https://info.skat.dk/data.aspx?oid=2085713\" rel=\"noopener\">Den juridiske vejledning: D.A.11.6.1</a> og <a href=\"https://info.skat.dk/data.aspx?oid=2085714\" rel=\"noopener\">D.A.11.6.2</a>, set den 7. oktober 2026. De to øverste rækker: <a href=\"https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader\" rel=\"noopener\">Motorstyrelsen: Omregistrering til hvide plader</a>, set den 10. oktober 2026."
      },
      "efter": [
-      "Papegøjeplader koster privatbenyttelsesafgift ved hver opkrævning. Hvide plader koster en engangsafgift, og på en elvarebil kan den være lav."
+      "Papegøjeplader koster privatbenyttelsesafgift ved hver opkrævning. På hvide plader betaler du for ombygningen og en engangsafgift, og på en elvarebil kan afgiften være lav."
      ]
     },
     {
@@ -1839,7 +1847,11 @@
    "faq": [
     {
      "sp": "Kan man få en elvarebil på hvide plader?",
-     "sv": "Ja. Så er den registreret som personbil og må bruges privat. Du skal betale forskellen mellem registreringsafgiften for en personbil og for en varebil."
+     "sv": "Ja, når bilen er bygget om og synet som personbil. Ombygningen betyder, at den ikke længere er indrettet som varebil til godstransport. Så betaler du forskellen mellem registreringsafgiften for en personbil og for en varebil."
+    },
+    {
+     "sp": "Kan en elvarebil få hvide plader uden at blive bygget om?",
+     "sv": "Motorstyrelsens vejledning beskriver hvide plader for varebiler, der er bygget om, og for biler som en pickup med en sæderække bag forsæderne. Den beskriver ikke, at en uændret varebil kan vælge hvide plader. Skal en uændret varebil køre privat, skal den ifølge Motorstyrelsen registreres til privat eller delvis privat brug og have papegøjeplader."
     },
     {
      "sp": "Hvorfor kan det være billigt at få en elvarebil på hvide plader?",
@@ -1847,7 +1859,7 @@
     },
     {
      "sp": "Skal man betale privatbenyttelsesafgift på hvide plader?",
-     "sv": "Nej. Privatbenyttelsesafgift hører til papegøjeplader. På hvide plader er bilen registreret som personbil."
+     "sv": "Nej. Privatbenyttelsesafgift hører til varebiler på papegøjeplader."
     },
     {
      "sp": "Hvordan finder jeg ud af, hvad det koster for min bil?",
@@ -1870,7 +1882,7 @@
     {
      "navn": "Motorstyrelsen: Omregistrering til hvide plader",
      "url": "https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader",
-     "dato": "2026-10-07"
+     "dato": "2026-10-10"
     },
     {
      "navn": "Motorstyrelsen: Betaling af og satser for registreringsafgift",
@@ -1880,12 +1892,12 @@
     {
      "navn": "Motorstyrelsen: Regler for gule plader",
      "url": "https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader",
-     "dato": "2026-10-07"
+     "dato": "2026-10-10"
     },
     {
      "navn": "Motorstyrelsen: Skema, bilen bruges også privat",
      "url": "https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-ogsaa-privat",
-     "dato": "2026-10-07"
+     "dato": "2026-10-10"
     },
     {
      "navn": "Motorstyrelsen: Skema, bilen bruges kun i en momsregistreret virksomhed",
@@ -1900,7 +1912,17 @@
     {
      "navn": "Motorstyrelsen: Papegøjeplader og klistermærker",
      "url": "https://motorst.dk/borger/gule-plader-og-papegoejeplader/papegoejeplader-og-klistermaerker",
-     "dato": "2026-09-27"
+     "dato": "2026-10-10"
+    },
+    {
+     "navn": "Den juridiske vejledning: I.A.1.4.3 Last- og varebiler med en tilladt totalvægt på ikke over 4 tons",
+     "url": "https://info.skat.dk/data.aspx?oid=1947292",
+     "dato": "2026-10-10"
+    },
+    {
+     "navn": "Motorstyrelsen: Bindende svar om registreringsafgift",
+     "url": "https://motorst.dk/bindende-svar",
+     "dato": "2026-10-10"
     },
     {
      "navn": "Den juridiske vejledning: I.A.1.4.5 Nul-emissionskøretøjer og lav-emissionsbiler",
@@ -1939,8 +1961,13 @@
     "kort_fortalt": [
      [
       "Hvide plader",
-      "personbil",
-      "må køre privat uden grænser"
+      "efter ombygning",
+      "og syn som personbil"
+     ],
+     [
+      "Uden ombygning",
+      "papegøje­plader",
+      "når bilen skal køre privat"
      ],
      [
       "Engangsbeløb",
@@ -1951,11 +1978,6 @@
       "Elbiler",
       "en andel af afgiften",
       "fuld afgift fra 2036"
-     ],
-     [
-      "Sagsbehandling",
-      "op til 5 uger",
-      "hos Motorstyrelsen"
      ]
     ],
     "toc": true

@@ -1,5 +1,5 @@
 {
-  "sidst_opdateret": "2026-10-06",
+  "sidst_opdateret": "2026-10-10",
   "note": "Vidensartikler om varebiler paa gule plader. Samme regel som resten af siden: hvert faktuelt udsagn har en kilde med url og dato, og hvor en sats ikke kan verificeres, staar der ikke et tal.",
   "artikler": [
     {
@@ -1457,103 +1457,402 @@
       "slug": "elvarebil-paa-hvide-plader",
       "h1": "Elvarebil på hvide plader: hvad koster det, og er det lovligt?",
       "title": "Elvarebil på hvide plader: lovligt, og hvad koster det?",
-      "desc": "Kan en elvarebil køre på hvide plader? Ja, som personbil. Elbilers lave registreringsafgift kan gøre det billigt — sådan regner du det ud.",
-      "kort": "Ja, en elvarebil kan få hvide plader. Så er den registreret som personbil og må køre privat. Det kan lade sig gøre, fordi afgiften på elbiler er lav.",
+      "desc": "En elvarebil kan få hvide plader, når den er bygget om og synet som personbil. Se hvordan differenceafgiften regnes ud, og hvad der gælder uden ombygning.",
+      "kort": "En elvarebil kan få hvide plader, når den er bygget om, så den ikke længere er indrettet som varebil til godstransport. Så regnes registreringsafgiften efter satserne for personbiler, og du betaler én gang forskellen mellem den og afgiften for en varebil. På en elbil kan forskellen blive lille. Skal en varebil køre privat uden at blive bygget om, henviser Motorstyrelsen til papegøjeplader.",
       "emne": "Moms og afgift",
-      "laesetid": 5,
-      "opdateret": "2026-09-28",
+      "laesetid": 6,
+      "opdateret": "2026-10-10",
       "afsnit": [
         {
-          "h2": "Det korte svar: ja, og det er ikke et smuthul",
+          "h2": "Det korte svar: ja, når bilen er bygget om",
           "tekst": [
-            "En varebil på hvide plader er ifølge Motorstyrelsen registreret som **personbil** med anvendelsen privat personbefordring. Så må den bruges frit, præcis som en almindelig bil — ingen grænse på 25 ture hjem, intet dagsbevis og ingen [papegøjeplader](/haandbogen/gule-hvide-eller-papegoejeplader/).",
-            "Prisen for det er, at bilen skal betale registreringsafgift som en personbil. For en dieselvarebil er det en stor regning. For en elvarebil kan den være lille — og det er derfor, forhandlerne er begyndt at nævne det."
+            "Motorstyrelsen beskriver hvide plader for en varebil, der ikke længere er indrettet til godstransport, fx fordi den er bygget om. Så bliver bilen synet som personbil, og den betaler registreringsafgift efter satserne for personbiler. Derefter må den bruges privat som en almindelig bil. Der er ingen grænse på 25 ture hjem om året, og bilen skal hverken have dagsbevis eller [papegøjeplader](/haandbogen/papegoejeplader/).",
+            "Skal en varebil køre privat uden at blive bygget om, henviser Motorstyrelsen til en anden vej. Bilen skal registreres til privat eller delvis privat brug, og så skal den have papegøjeplader og betale privatbenyttelsesafgift. Motorstyrelsens vejledning beskriver ikke, at en uændret varebil kan vælge hvide plader.",
+            "Når en varebil bliver omregistreret til hvide plader, regner Motorstyrelsen afgiften ud både som personbil og som varebil, og du betaler forskellen. For en dieselvarebil kan forskellen være stor. For en elvarebil kan den være lille.",
+            "Vejen til hvide plader er den samme for alle varebiler, og [varevogn på hvide plader](/haandbogen/varevogn-paa-hvide-plader/) gennemgår den generelt. Her ser vi på det, der er særligt for elbiler."
+          ],
+          "figur": {
+            "type": "svg",
+            "svg": "<svg viewBox=\"0 0 400 170\" role=\"img\" aria-label=\"To bjælker. Den øverste er registreringsafgiften for bilen som personbil. Den nederste er afgiften som varebil, og stykket op til personbilens længde er differenceafgiften, som betales ved skiftet til hvide plader.\"><text class=\"tg-fremhaev\" x=\"0\" y=\"16\">Afgift som personbil</text><rect class=\"tg-profil\" x=\"0\" y=\"24\" width=\"380\" height=\"28\"/><text x=\"10\" y=\"42\">privat personbefordring</text><text class=\"tg-fremhaev\" x=\"0\" y=\"84\">Afgift som varebil</text><rect class=\"tg-kasse\" x=\"0\" y=\"92\" width=\"230\" height=\"28\"/><text x=\"10\" y=\"110\">gule plader</text><rect class=\"tg-modul\" x=\"230\" y=\"92\" width=\"150\" height=\"28\"/><text class=\"tg-modul__tekst\" x=\"240\" y=\"110\">DIFFERENCEAFGIFT</text><line class=\"tg-skinne-tynd\" x1=\"380\" y1=\"16\" x2=\"380\" y2=\"128\"/><text class=\"tg-lille\" x=\"0\" y=\"158\">FORSKELLEN BETALES ÉN GANG VED SKIFTET</text></svg>",
+            "tekst": "Skematisk. Kilde: <a href=\"https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader\" rel=\"noopener\">Motorstyrelsen: Omregistrering til hvide plader</a>, set den 10. oktober 2026."
+          }
+        },
+        {
+          "h2": "Hvornår skal en varebil have hvide plader?",
+          "tekst": [
+            "Motorstyrelsen nævner to situationer, hvor en varebil skal omregistreres til hvide plader. Den ene er, når det ikke længere er uden tvivl, at bilen er bygget og indrettet til godstransport, fx fordi den er bygget om. Den anden er, når bilen er en varebil, men ikke opfylder betingelserne for at blive registreret til godstransport, fx en pickup med en sæderække bag forsæderne.",
+            "I den første situation bliver bilen synet som personbil. I den anden er bilen stadig en varebil, men den bliver registreret til privat personkørsel. I begge situationer betaler bilen registreringsafgift efter satserne for personbiler. Den juridiske vejledning beskriver det som en pligt: Bilen skal betale fuld afgift, når den ikke længere opfylder betingelserne for varebiler.",
+            "Skal en varebil, der stadig er indrettet til godstransport, køre privat, har du ifølge Motorstyrelsen to muligheder. Du kan købe dagsbeviser til enkelte dage, eller du kan omregistrere bilen til privat eller delvis privat brug. Efter omregistreringen skal bilen have papegøjeplader, og du betaler privatbenyttelsesafgift. [Gule, hvide eller papegøjeplader](/haandbogen/gule-hvide-eller-papegoejeplader/) sammenligner de tre slags plader.",
+            "Vil du vide, hvad der gælder for en bestemt bil, kan du søge om et bindende svar om registreringsafgiften hos Motorstyrelsen. Svaret gælder den bil, du har søgt om."
           ]
+        },
+        {
+          "h2": "Sådan er registreringsafgiften bygget op",
+          "tekst": [
+            "Registreringsafgiften bliver regnet af bilens afgiftspligtige værdi. Det er værdien med moms, men uden registreringsafgift, skriver Motorstyrelsen. For en brugt bil tager Motorstyrelsen udgangspunkt i handelsprisen, altså den pris, en tilsvarende bil bliver solgt for i Danmark.",
+            "Personbiler og varebiler har hver sin skala. En personbil betaler en stigende procentdel af værdien i tre trin og et tillæg efter CO₂-udledningen. En varebil op til 4.000 kg betaler ingen afgift af den første del af værdien og en fast procentdel af resten. Begge får et bundfradrag.",
+            "Forskellen mellem de to beløb er det, du betaler for hvide plader."
+          ],
+          "figur": {
+            "type": "daekning",
+            "kolonner": [
+              "",
+              "Som personbil",
+              "Som varebil"
+            ],
+            "raekker": [
+              [
+                "Grundlag",
+                "Værdien med moms, uden registreringsafgift",
+                "Værdien med moms, uden registreringsafgift"
+              ],
+              [
+                "Skala",
+                "Tre trin med stigende procent",
+                "Første del fri, fast procent af resten"
+              ],
+              [
+                "CO₂-tillæg",
+                "Tre trin efter udledningen",
+                "Laveste sats uanset udledningen"
+              ],
+              [
+                "Bundfradrag",
+                "ja",
+                "ja"
+              ],
+              [
+                "Elbil",
+                "En andel af afgiften og et særligt bundfradrag",
+                "En andel af afgiften og et særligt bundfradrag"
+              ]
+            ],
+            "note": "Satserne står hos <a href=\"https://motorst.dk/borger/motorafgifter/registreringsafgift/betaling-af-og-satser-for-registreringsafgift\" rel=\"noopener\">Motorstyrelsen: Betaling af og satser for registreringsafgift</a>. Kilder: samme side og <a href=\"https://info.skat.dk/data.aspx?oid=2303781\" rel=\"noopener\">Den juridiske vejledning: I.A.1.4.5</a>, set den 7. oktober 2026."
+          }
         },
         {
           "h2": "Hvorfor elvarebilen er anderledes",
           "tekst": [
-            "Den juridiske vejledning beskriver, at elbiler kun betaler en del af den almindelige registreringsafgift. Andelen stiger år for år, indtil elbiler betaler fuld afgift fra 2036. Oven i det er der et særligt fradrag, som ifølge vejledningen kan betyde, at afgiften bliver **0 kr.** Reglerne gælder både for personbiler og varebiler.",
-            "Det er kombinationen, der gør forskellen. Hvide plader koster forskellen mellem afgiften for en personbil og afgiften for en varebil — og når begge afgifter regnes med elbilernes lave andel og fradrag, kan forskellen blive lille. Ender personbilafgiften på 0 kr., er der ingen forskel at betale.",
-            "Vi skriver ikke andele og fradrag som tal her. De ændres fra år til år, og et forældet tal kan koste dig rigtige penge. De gældende tal står i Den juridiske vejledning, som er linket nederst."
-          ]
+            "Den juridiske vejledning beskriver, at elbiler kun betaler en del af den almindelige registreringsafgift. Afgiften bliver først regnet efter de almindelige regler, og derefter betales kun en andel af beløbet. Andelen er den samme for biler, der anmeldes til registrering til og med 2026. Fra 2027 stiger den hvert år, indtil elbiler betaler fuld afgift fra 2036.",
+            "Oven i det får elbiler et særligt bundfradrag, som er forskelligt for personbiler og varebiler. Ifølge vejledningen kan fradraget betyde, at der **slet ikke skal betales afgift**, men afgiften kan ikke blive negativ. Reglerne gælder både personbiler og varebiler.",
+            "Både personbilafgiften og varebilafgiften bliver regnet med elbilernes lave andel og særlige bundfradrag. Derfor kan forskellen mellem dem blive lille.",
+            "Tidligere var der også et fradrag i værdien, som blev regnet ud fra bilens batteri. Det faldt bort fra og med 2025. Vi skriver ikke andele og fradrag som tal her, fordi de er fastsat år for år i loven. De gældende tal står i [Den juridiske vejledning](https://info.skat.dk/data.aspx?oid=2303781)."
+          ],
+          "figur": {
+            "type": "tidslinje",
+            "punkter": [
+              [
+                "Fra 18. december 2020",
+                "Elbiler betaler kun en andel af den almindelige registreringsafgift. Andelen er den samme til og med 2026."
+              ],
+              [
+                "2025",
+                "Fradraget i værdien for bilens batteri falder bort."
+              ],
+              [
+                "2027 til 2035",
+                "Andelen stiger hvert år."
+              ],
+              [
+                "2036",
+                "Elbiler betaler fuld registreringsafgift. Det særlige bundfradrag for elbiler fortsætter."
+              ]
+            ],
+            "note": "Kilde: <a href=\"https://info.skat.dk/data.aspx?oid=2303781\" rel=\"noopener\">Den juridiske vejledning: I.A.1.4.5 Nul-emissionskøretøjer og lav-emissionsbiler</a>, set den 7. oktober 2026."
+          }
         },
         {
           "h2": "Sådan regner du det ud",
           "tekst": [
-            "Motorstyrelsen beregner differenceafgiften i tre trin:"
+            "Motorstyrelsen beregner differenceafgiften i tre trin. Du kan selv lave en vejledende beregning i Motorregistret, før du beslutter dig."
           ],
-          "punkter": [
-            "**Afgiften som varebil** — det, bilen har betalt eller skal betale på gule plader.",
-            "**Afgiften som personbil** til privat anvendelse.",
-            "**Forskellen** mellem de to. Det er det, du betaler for de hvide plader."
-          ],
+          "figur": {
+            "type": "trin",
+            "trin": [
+              [
+                "Afgiften som varebil",
+                "Tast nyprisen og handelsprisen med registreringsafgift ind, og beregn afgiften som varebil."
+              ],
+              [
+                "Afgiften som personbil",
+                "Beregn afgiften for den samme bil som personbil med anvendelsen privat personbefordring."
+              ],
+              [
+                "Forskellen",
+                "Træk varebilafgiften fra personbilafgiften. Det er differenceafgiften."
+              ]
+            ]
+          },
           "efter": [
-            "Beregningen bygger på bilens handelspris og nypris, så to elvarebiler af samme model kan give forskellige beløb. Du kan lave en foreløbig beregning i Motorregistret, før du beslutter dig.",
-            "Motorstyrelsens side handler om omregistrering af en bil, der allerede kører på gule plader. Tilbyder en forhandler dig en ny elvarebil på hvide plader fra dag ét, så bed om afgiftsberegningen på skrift, før du skriver under."
+            "Vælg **Andet** som anmeldelsesårsag, når du laver de vejledende beregninger. Motorstyrelsen skriver, at den beregnede afgift kan blive forkert, hvis du vælger omregistrering til personbil.",
+            "Beregningen bygger på bilens handelspris og nypris, så to elvarebiler af samme model kan give forskellige beløb. Vil du kende beløbet med sikkerhed, før du bygger bilen om eller syner den, kan du søge om et bindende svar hos Motorstyrelsen.",
+            "Motorstyrelsens side handler om omregistrering af en bil, der allerede kører på gule plader eller papegøjeplader. Den beskriver ikke en ny varebil, der bliver registreret på hvide plader fra start. Tilbyder en forhandler dig det, kan du søge om et bindende svar om registreringsafgiften for den bil, tilbuddet gælder."
           ]
         },
         {
-          "h2": "Det, du skal tjekke, før du siger ja",
-          "punkter": [
-            "**Den årlige afgift ændres.** Efter omregistreringen gælder en ny sats for ejerafgift eller vægtafgift, skriver Motorstyrelsen. Spørg, hvad den bliver for netop den bil.",
-            "**Ingen privatbenyttelsesafgift.** Den hører til papegøjeplader. På hvide plader er bilen en personbil og betaler ikke privatbenyttelsesafgift.",
-            "**Synet.** En omregistrering kræver syn, og sagsbehandlingen hos Motorstyrelsen tager op til fem uger.",
-            "**Momsen.** Skal bilen bruges privat, er det ikke en virksomhedsbil med momsfradrag. Tal med din revisor, hvis bilen står i firmaet — se [Moms på varebil](/haandbogen/moms-paa-varebil/).",
-            "**Det bliver dyrere med tiden.** Elbilernes afgiftsandel stiger hvert år frem mod 2036, så regnestykket, der ser godt ud i dag, ser anderledes ud om nogle år."
+          "h2": "Sådan omregistrerer du",
+          "tekst": [
+            "Bilen skal synes, før den kan få hvide plader. Derefter går sagen gennem Motorregistret, og Motorstyrelsen oplyser en sagsbehandlingstid på op til fem uger."
+          ],
+          "figur": {
+            "type": "trin",
+            "trin": [
+              [
+                "Syn",
+                "Bilen skal synes, før den kan omregistreres."
+              ],
+              [
+                "Værdifastsættelse",
+                "Du beder om en værdifastsættelse i Motorregistret gennem TastSelv."
+              ],
+              [
+                "Betaling",
+                "Du betaler registreringsafgiften med betalingslinjen i afgørelsen."
+              ],
+              [
+                "Nye plader",
+                "Når betalingen er registreret, køber du hvide plader hos en nummerpladeoperatør."
+              ]
+            ]
+          },
+          "efter": [
+            "Motorstyrelsen regner udgiften til ombygningen, prisen for synet og de nye nummerplader med til det, du skal betale ved skiftet."
+          ]
+        },
+        {
+          "h2": "Ejerafgiften efter skiftet",
+          "tekst": [
+            "Efter omregistreringen gælder en ny sats for ejerafgift eller vægtafgift, skriver Motorstyrelsen.",
+            "For biler, der er registreret første gang den 1. juli 2021 eller senere, betaler personbiler og varebiler CO₂-ejerafgift efter den samme tabel hos Skatteministeriet. Afgiften følger bilens udledning, og en elbil udleder 0 g CO₂ pr. km. Du kan se beløbet for netop din bil i Motorstyrelsens afgiftsberegner, og [grøn ejerafgift på varebil](/haandbogen/groen-ejerafgift-paa-varebil/) forklarer, hvordan afgiften er bygget op.",
+            "Privatbenyttelsesafgiften falder væk. Den hører til varebiler på papegøjeplader.",
+            "Stiller virksomheden bilen til rådighed for en medarbejder, der må køre privat i den, er det fri bil, og medarbejderen skal betale skat af den, skriver Skattestyrelsen."
+          ]
+        },
+        {
+          "h2": "Moms på en bil med hvide plader",
+          "tekst": [
+            "På hvide plader er bilen også en personbil efter momsloven. Virksomheden kan ikke trække momsen af købet eller driften fra. Den juridiske vejledning regner strøm til opladning med til driften.",
+            "Lejer virksomheden bilen i mere end seks måneder i træk, kan den trække en del af momsen af leasingydelsen fra. Mindst 10 % af årets kørsel skal være erhvervsmæssig. Fradraget er højst 25 % af et særligt fradragsgrundlag, som bliver regnet ud fra den registreringsafgift, der er betalt for bilen. Fradragets størrelse står på fakturaen fra leasingselskabet, skriver Skattestyrelsen.",
+            "Til sammenligning kan en varebil på gule plader, der kun bruges i virksomheden, give fradrag for hele momsen af køb, leasing og drift. Se [moms på varebil](/haandbogen/moms-paa-varebil/).",
+            "Ifølge Skattestyrelsen skal der ikke lægges moms på, når virksomheden sælger en personbil igen."
           ]
         },
         {
           "h2": "Gule, papegøje eller hvide plader?",
-          "punkter": [
-            "**Gule plader:** Billigst, men bilen må kun bruges erhvervsmæssigt — med de undtagelser, der står i [Hvad må du køre i en varebil på gule plader?](/haandbogen/hvad-maa-du-koere-i-en-varebil-paa-gule-plader/)",
-            "**Papegøjeplader:** Privat kørsel mod privatbenyttelsesafgift hvert år.",
-            "**Hvide plader:** Fri privat kørsel mod en engangs differenceafgift — som på en elvarebil kan være lav."
+          "tekst": [
+            "De tre slags plader giver tre forskellige regnestykker. Gule plader er billigst, men bilen må som udgangspunkt kun bruges erhvervsmæssigt, med de undtagelser, der står i [hvad må du køre i en varebil på gule plader](/haandbogen/hvad-maa-du-koere-i-en-varebil-paa-gule-plader/)."
           ],
+          "figur": {
+            "type": "daekning",
+            "kolonner": [
+              "",
+              "Gule plader",
+              "Papegøjeplader",
+              "Hvide plader"
+            ],
+            "raekker": [
+              [
+                "Registreringsafgift som",
+                "Varebil",
+                "Varebil",
+                "Personbil"
+              ],
+              [
+                "Indrettet som varebil til godstransport",
+                "ja",
+                "ja",
+                "nej"
+              ],
+              [
+                "Privat kørsel",
+                "Som udgangspunkt kun med dagsbevis, højst 20 dage",
+                "ja",
+                "ja"
+              ],
+              [
+                "Privatbenyttelsesafgift",
+                "nej",
+                "Hel eller halv",
+                "nej"
+              ],
+              [
+                "Ekstra registreringsafgift",
+                "nej",
+                "nej",
+                "Differenceafgift"
+              ],
+              [
+                "Moms af købet, op til 3&nbsp;t",
+                "Hele momsen",
+                "Intet fradrag",
+                "Intet fradrag"
+              ],
+              [
+                "Moms af leasingydelsen, op til 3&nbsp;t",
+                "Hele momsen",
+                "En tredjedel",
+                "Begrænset fradrag"
+              ],
+              [
+                "Moms af strøm og anden drift, op til 3&nbsp;t",
+                "Hele momsen",
+                "Hele momsen",
+                "Intet fradrag"
+              ]
+            ],
+            "note": "Gule plader forudsætter, at bilen kun bruges i en momsregistreret virksomhed. Kilder: <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-kun-i-en-momsregistreret-virksomhed-ikke-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges kun i en momsregistreret virksomhed</a>, <a href=\"https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-ogsaa-privat\" rel=\"noopener\">Motorstyrelsen: Skema, bilen bruges også privat</a>, <a href=\"https://info.skat.dk/data.aspx?oid=2085713\" rel=\"noopener\">Den juridiske vejledning: D.A.11.6.1</a> og <a href=\"https://info.skat.dk/data.aspx?oid=2085714\" rel=\"noopener\">D.A.11.6.2</a>, set den 7. oktober 2026. De to øverste rækker: <a href=\"https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader\" rel=\"noopener\">Motorstyrelsen: Omregistrering til hvide plader</a>, set den 10. oktober 2026."
+          },
           "efter": [
-            "Skal elvarebilen mest bruges privat, er hvide plader værd at regne på. Skal den mest bruges i firmaet, er gule plader stadig det enkleste."
+            "Papegøjeplader koster privatbenyttelsesafgift ved hver opkrævning. På hvide plader betaler du for ombygningen og en engangsafgift, og på en elvarebil kan afgiften være lav."
           ]
+        },
+        {
+          "h2": "Bliver det dyrere med tiden?",
+          "tekst": [
+            "Ja. Elbilernes andel af registreringsafgiften afhænger af, hvornår bilen anmeldes til registrering. Andelen stiger hvert år fra 2027, indtil elbiler betaler fuld afgift fra 2036. Bundfradragene er også fastsat år for år i loven. Et regnestykke, der ender på nul i dag, kan derfor give et andet beløb om nogle år.",
+            "Differenceafgiften betales én gang ved omregistreringen. Bagefter betaler bilen den periodiske ejerafgift som andre personbiler.",
+            "Leder du efter en elvarebil, kan du se modellerne og tilbuddene under [elvarebiler](/elvarebiler/)."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "sp": "Kan man få en elvarebil på hvide plader?",
+          "sv": "Ja, når bilen er bygget om og synet som personbil. Ombygningen betyder, at den ikke længere er indrettet som varebil til godstransport. Så betaler du forskellen mellem registreringsafgiften for en personbil og for en varebil."
+        },
+        {
+          "sp": "Kan en elvarebil få hvide plader uden at blive bygget om?",
+          "sv": "Motorstyrelsens vejledning beskriver hvide plader for varebiler, der er bygget om, og for biler som en pickup med en sæderække bag forsæderne. Den beskriver ikke, at en uændret varebil kan vælge hvide plader. Skal en uændret varebil køre privat, skal den ifølge Motorstyrelsen registreres til privat eller delvis privat brug og have papegøjeplader."
+        },
+        {
+          "sp": "Hvorfor kan det være billigt at få en elvarebil på hvide plader?",
+          "sv": "Elbiler betaler kun en del af den almindelige registreringsafgift, og de får et særligt bundfradrag. Ifølge Den juridiske vejledning kan fradraget betyde, at der slet ikke skal betales afgift. Derfor kan forskellen mellem personbil- og varebilafgiften blive lille."
+        },
+        {
+          "sp": "Skal man betale privatbenyttelsesafgift på hvide plader?",
+          "sv": "Nej. Privatbenyttelsesafgift hører til varebiler på papegøjeplader."
+        },
+        {
+          "sp": "Hvordan finder jeg ud af, hvad det koster for min bil?",
+          "sv": "Lav en vejledende beregning af differenceafgiften i Motorregistret, og vælg Andet som anmeldelsesårsag. Beløbet afhænger af bilens handelspris og nypris. Du kan også søge om et bindende svar hos Motorstyrelsen."
+        },
+        {
+          "sp": "Kan virksomheden trække momsen fra på en elvarebil på hvide plader?",
+          "sv": "Nej, ikke af købet eller driften, fordi bilen er en personbil. Leaser virksomheden bilen i mere end seks måneder i træk, kan den dog trække en begrænset del af momsen af leasingydelsen fra. Det kræver, at mindst 10 % af årets kørsel er erhvervsmæssig."
+        },
+        {
+          "sp": "Hvor lang tid tager en omregistrering til hvide plader?",
+          "sv": "Motorstyrelsen oplyser en sagsbehandlingstid på op til fem uger. Bilen skal synes, før den kan omregistreres."
+        },
+        {
+          "sp": "Bliver det dyrere i fremtiden?",
+          "sv": "Ja. Elbilernes andel af registreringsafgiften stiger hvert år fra 2027, indtil de betaler fuld afgift fra 2036."
         }
       ],
       "kilder": [
         {
           "navn": "Motorstyrelsen: Omregistrering til hvide plader",
           "url": "https://motorst.dk/borger/gule-plader-og-papegoejeplader/omregistrering-til-hvide-plader",
-          "dato": "2026-09-28"
+          "dato": "2026-10-10"
         },
         {
-          "navn": "Den juridiske vejledning: I.A.1.4.5 Nul-emissionskøretøjer og lav-emissionsbiler (version 31.07.26)",
-          "url": "https://info.skat.dk/data.aspx?oid=2303781",
-          "dato": "2026-09-28"
+          "navn": "Motorstyrelsen: Betaling af og satser for registreringsafgift",
+          "url": "https://motorst.dk/borger/motorafgifter/registreringsafgift/betaling-af-og-satser-for-registreringsafgift",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Motorstyrelsen: Regler for gule plader",
+          "url": "https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader",
+          "dato": "2026-10-10"
+        },
+        {
+          "navn": "Motorstyrelsen: Skema, bilen bruges også privat",
+          "url": "https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-ogsaa-privat",
+          "dato": "2026-10-10"
+        },
+        {
+          "navn": "Motorstyrelsen: Skema, bilen bruges kun i en momsregistreret virksomhed",
+          "url": "https://motorst.dk/erhverv/gule-plader-og-papegoejeplader/regler-for-gule-plader/skema-bilen-bruges-kun-i-en-momsregistreret-virksomhed-ikke-privat",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Motorstyrelsen: Periodiske afgifter",
+          "url": "https://motorst.dk/erhverv/motorafgifter/periodiske-afgifter",
+          "dato": "2026-10-07"
         },
         {
           "navn": "Motorstyrelsen: Papegøjeplader og klistermærker",
           "url": "https://motorst.dk/borger/gule-plader-og-papegoejeplader/papegoejeplader-og-klistermaerker",
-          "dato": "2026-09-27"
+          "dato": "2026-10-10"
+        },
+        {
+          "navn": "Den juridiske vejledning: I.A.1.4.3 Last- og varebiler med en tilladt totalvægt på ikke over 4 tons",
+          "url": "https://info.skat.dk/data.aspx?oid=1947292",
+          "dato": "2026-10-10"
+        },
+        {
+          "navn": "Motorstyrelsen: Bindende svar om registreringsafgift",
+          "url": "https://motorst.dk/bindende-svar",
+          "dato": "2026-10-10"
+        },
+        {
+          "navn": "Den juridiske vejledning: I.A.1.4.5 Nul-emissionskøretøjer og lav-emissionsbiler",
+          "url": "https://info.skat.dk/data.aspx?oid=2303781",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Den juridiske vejledning: D.A.11.6.1 Kort om fradrag for køretøjer",
+          "url": "https://info.skat.dk/data.aspx?oid=2085713",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Den juridiske vejledning: D.A.11.6.2 Personbiler og motorcykler",
+          "url": "https://info.skat.dk/data.aspx?oid=2085714",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Skatteministeriet: Satser i brændstofforbrugsafgiftsloven",
+          "url": "https://skm.dk/tal-og-metode/satser/satser-og-beloebsgraenser-i-lovgivningen/braendstofforbrugsafgiftsloven",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Skattestyrelsen: Momsfradrag for køretøjer",
+          "url": "https://skat.dk/erhverv/moms/fradrag-for-moms/udgifter-du-kan-faa-momsfradrag-for/fradrag-for-moms-af-biludgifter",
+          "dato": "2026-10-07"
+        },
+        {
+          "navn": "Skattestyrelsen: Fri bil til dine medarbejdere",
+          "url": "https://skat.dk/erhverv/ansatte-og-loen/personalegoder-naar-du-er-arbejdsgiver/fri-bil-til-dine-medarbejdere-firmabil",
+          "dato": "2026-10-07"
         }
       ],
-      "faq": [
-        {
-          "sp": "Kan man få en elvarebil på hvide plader?",
-          "sv": "Ja. Så er den registreret som personbil og må bruges privat. Der skal betales forskellen mellem registreringsafgiften for en personbil og for en varebil."
-        },
-        {
-          "sp": "Hvorfor er det billigt at få en elvarebil på hvide plader?",
-          "sv": "Fordi elbiler kun betaler en del af den almindelige registreringsafgift og har et særligt fradrag, som ifølge Den juridiske vejledning kan bringe afgiften ned på 0 kr. Så kan forskellen mellem personbil- og varebilafgiften blive lille."
-        },
-        {
-          "sp": "Skal man betale privatbenyttelsesafgift på hvide plader?",
-          "sv": "Nej. Privatbenyttelsesafgift hører til papegøjeplader. På hvide plader er bilen registreret som personbil."
-        },
-        {
-          "sp": "Hvordan finder jeg ud af, hvad det koster for min bil?",
-          "sv": "Lav en foreløbig beregning af differenceafgiften i Motorregistret. Beløbet afhænger af bilens handelspris og nypris."
-        },
-        {
-          "sp": "Bliver det dyrere i fremtiden?",
-          "sv": "Ja. Elbilernes andel af registreringsafgiften stiger år for år, indtil de betaler fuld afgift fra 2036."
-        }
-      ]
+      "visuel": {
+        "hero": "haandbog-moms",
+        "hero_el": true,
+        "kort_fortalt": [
+          [
+            "Hvide plader",
+            "efter ombygning",
+            "og syn som personbil"
+          ],
+          [
+            "Uden ombygning",
+            "papegøje­plader",
+            "når bilen skal køre privat"
+          ],
+          [
+            "Engangsbeløb",
+            "difference­afgift",
+            "personbil minus varebil"
+          ],
+          [
+            "Elbiler",
+            "en andel af afgiften",
+            "fuld afgift fra 2036"
+          ]
+        ],
+        "toc": true
+      }
     },
     {
       "slug": "moms-paa-varebil",
